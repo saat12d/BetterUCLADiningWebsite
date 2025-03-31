@@ -61,7 +61,7 @@ body {
     When the screen is narrower than 600px, switch columns 
     from side-by-side to stacked vertically.
   */
-  @media (max-width: 768px) {
+  @media (max-width: 1100px) {
     #menu-container {
       flex-direction: column; /* stack them top-to-bottom */
       gap: 1rem;              /* reduce the space between columns */

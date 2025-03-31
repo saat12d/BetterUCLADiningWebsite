@@ -1,0 +1,7254 @@
+{
+  "2025-03-30": {
+    "Breakfast": {
+      "Freshly Bowled": [
+        {
+          "name": "Bruin Scramble (Ham & Cheddar)",
+          "calories": 878,
+          "tags": [
+            "Low-Carbon-Footprint",
+            "Dairy",
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Bruin Scramble (Vegetarian)",
+          "calories": 771,
+          "tags": [
+            "Vegetarian",
+            "Low-Carbon-Footprint",
+            "Dairy"
+          ]
+        }
+      ],
+      "Harvest": [
+        {
+          "name": "Tri-Color Quinoa & Spinach Breakfast Bake",
+          "calories": 375,
+          "tags": [
+            "Dairy",
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Scrambled Eggs",
+          "calories": 168,
+          "tags": [
+            "Vegetarian",
+            "Low-Carbon-Footprint",
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Scrambled Egg Whites",
+          "calories": 378,
+          "tags": [
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Vegan Scrambled Eggs",
+          "calories": 580,
+          "tags": [
+            "Soy"
+          ]
+        },
+        {
+          "name": "Roasted Red Breakfast Potato Wedges",
+          "calories": 83,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ],
+      "Stone Fired": [
+        {
+          "name": "Chickpea & Oat Waffle",
+          "calories": 178,
+          "tags": []
+        },
+        {
+          "name": "Apple, Pear & Cranberry Compote",
+          "calories": 114,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Waffle",
+          "calories": 197,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        }
+      ],
+      "Simply Grilled": [
+        {
+          "name": "Whole Wheat Pancake",
+          "calories": 196,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Vegan Pancake",
+          "calories": 118,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Alcohol"
+          ]
+        }
+      ],
+      "Fruit": [
+        {
+          "name": "Cantaloupe Melon",
+          "calories": 34,
+          "tags": []
+        },
+        {
+          "name": "Grapefruit",
+          "calories": 42,
+          "tags": []
+        },
+        {
+          "name": "Green Grapes",
+          "calories": 69,
+          "tags": []
+        },
+        {
+          "name": "Red Grapes",
+          "calories": 69,
+          "tags": []
+        },
+        {
+          "name": "Pineapple",
+          "calories": 50,
+          "tags": []
+        },
+        {
+          "name": "Watermelon",
+          "calories": 30,
+          "tags": []
+        }
+      ],
+      "Sweet Bites": [
+        {
+          "name": "Multi-Grain Bread",
+          "calories": 172,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Raisin Walnut Bread",
+          "calories": 173,
+          "tags": [
+            "Vegetarian",
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Whole Wheat Sourdough Bread",
+          "calories": 201,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Spiced Apple Bread",
+          "calories": 380,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Vegan Zucchini Quickbread",
+          "calories": 313,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Almond Cashew Butter",
+          "calories": 587,
+          "tags": [
+            "Soy",
+            "Peanut",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Black Pepper Strawberry Compote",
+          "calories": 126,
+          "tags": []
+        },
+        {
+          "name": "Peanut Butter",
+          "calories": 587,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Nopales & Vanilla Marmalade",
+          "calories": 106,
+          "tags": []
+        }
+      ],
+      "Yogurt Bar": [
+        {
+          "name": "Lowfat Cottage Cheese",
+          "calories": 393,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Low-fat Greek Yogurt",
+          "calories": 59,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Vegan Vanilla Coconut Yogurt",
+          "calories": 372,
+          "tags": [
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Lowfat Strawberry Yogurt",
+          "calories": 71,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Wild Blueberries",
+          "calories": 51,
+          "tags": []
+        },
+        {
+          "name": "Mango",
+          "calories": 60,
+          "tags": []
+        }
+      ],
+      "Beverage Special": [
+        {
+          "name": "Mango Water",
+          "calories": 4,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ],
+      "Greens 'N More": [
+        {
+          "name": "Assorted Bagels",
+          "calories": 257,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Baby Arugula",
+          "calories": 25,
+          "tags": []
+        },
+        {
+          "name": "Low Fat Cream Cheese",
+          "calories": 250,
+          "tags": [
+            "Vegetarian",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Vegan Non-Dairy Cream Cheese",
+          "calories": 233,
+          "tags": [
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Avocado Topping",
+          "calories": 156,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Onion & Chive Cream Cheese",
+          "calories": 193,
+          "tags": [
+            "Vegetarian",
+            "Dairy"
+          ]
+        }
+      ],
+      "Cereal / Oatmeal": [
+        {
+          "name": "Oatmeal",
+          "calories": 183,
+          "tags": [
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Savory Grits",
+          "calories": 109,
+          "tags": []
+        }
+      ]
+    },
+    "Lunch": {
+      "Soups": [
+        {
+          "name": "Chicken Tortilla Soup",
+          "calories": 106,
+          "tags": []
+        },
+        {
+          "name": "Tomato & Fresh Basil Soup",
+          "calories": 30,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ],
+      "Freshly Bowled": [
+        {
+          "name": "Bruin Scramble (Ham & Cheddar)",
+          "calories": 878,
+          "tags": [
+            "Low-Carbon-Footprint",
+            "Dairy",
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Bruin Scramble (Vegetarian)",
+          "calories": 771,
+          "tags": [
+            "Vegetarian",
+            "Low-Carbon-Footprint",
+            "Dairy"
+          ]
+        }
+      ],
+      "Harvest": [
+        {
+          "name": "Ground Beef, Farro, & Mushroom Wrap",
+          "calories": 457,
+          "tags": [
+            "High-Carbon-Footprint",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Kale & Squash Salad w/ Gorgonzola",
+          "calories": 147,
+          "tags": [
+            "Vegetarian",
+            "Dairy"
+          ]
+        }
+      ],
+      "Farmstand": [
+        {
+          "name": "Frijoles de la Olla",
+          "calories": 163,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Brown Calrose Rice",
+          "calories": 181,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Bulgur Wheat",
+          "calories": 140,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Pan Roasted Mushrooms w/ Onions",
+          "calories": 220,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Chinese Kale w/ Toasted Garlic",
+          "calories": 251,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ],
+      "Stone Fired": [
+        {
+          "name": "Canadian Ham & Swiss Cheese Flatbread",
+          "calories": 211,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Spinach & Artichoke Flatbread",
+          "calories": 186,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        }
+      ],
+      "Simply Grilled": [
+        {
+          "name": "Roasted Garlic Marinated Grilled Chicken Thigh",
+          "calories": 160,
+          "tags": []
+        },
+        {
+          "name": "Thai Tofu Stacker",
+          "calories": 129,
+          "tags": [
+            "Soy"
+          ]
+        },
+        {
+          "name": "Potato & Red Pepper Hash",
+          "calories": 880,
+          "tags": []
+        }
+      ],
+      "Fruit": [
+        {
+          "name": "Cantaloupe Melon",
+          "calories": 34,
+          "tags": []
+        },
+        {
+          "name": "Green Grapes",
+          "calories": 69,
+          "tags": []
+        },
+        {
+          "name": "Red Grapes",
+          "calories": 69,
+          "tags": []
+        },
+        {
+          "name": "Pineapple",
+          "calories": 50,
+          "tags": []
+        },
+        {
+          "name": "Watermelon",
+          "calories": 30,
+          "tags": []
+        },
+        {
+          "name": "Kiwi",
+          "calories": 61,
+          "tags": []
+        }
+      ],
+      "Sweet Bites": [
+        {
+          "name": "Multi-Grain Bread",
+          "calories": 172,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Raisin Walnut Bread",
+          "calories": 173,
+          "tags": [
+            "Vegetarian",
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Whole Wheat Sourdough Bread",
+          "calories": 201,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Date & Cranberry Bar",
+          "calories": 342,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Spiced Apple Bread",
+          "calories": 380,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Vegan Zucchini Quickbread",
+          "calories": 313,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Almond Butter",
+          "calories": 634,
+          "tags": []
+        },
+        {
+          "name": "Black Pepper Strawberry Compote",
+          "calories": 126,
+          "tags": []
+        },
+        {
+          "name": "Peanut Butter",
+          "calories": 587,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Smoky Hibiscus Compote",
+          "calories": 129,
+          "tags": [
+            "Soy"
+          ]
+        },
+        {
+          "name": "Nopales & Vanilla Marmalade",
+          "calories": 106,
+          "tags": []
+        }
+      ],
+      "Yogurt Bar": [
+        {
+          "name": "Low-fat Greek Yogurt",
+          "calories": 59,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Vegan Vanilla Coconut Yogurt",
+          "calories": 372,
+          "tags": [
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Wild Blueberries",
+          "calories": 51,
+          "tags": []
+        },
+        {
+          "name": "Mango",
+          "calories": 60,
+          "tags": []
+        }
+      ],
+      "Beverage Special": [
+        {
+          "name": "Mango Water",
+          "calories": 4,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ],
+      "Greens 'N More": [
+        {
+          "name": "Romaine Lettuce",
+          "calories": 17,
+          "tags": []
+        },
+        {
+          "name": "Power Greens Blend",
+          "calories": 37,
+          "tags": []
+        },
+        {
+          "name": "Mesclun Lettuce Mix",
+          "calories": 15,
+          "tags": []
+        },
+        {
+          "name": "Spinach",
+          "calories": 23,
+          "tags": []
+        },
+        {
+          "name": "Roasted Broccoli",
+          "calories": 863,
+          "tags": []
+        },
+        {
+          "name": "Roasted Brussels Sprouts",
+          "calories": 242,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Roasted Cauliflower",
+          "calories": 45,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Green Lentils",
+          "calories": 451,
+          "tags": []
+        },
+        {
+          "name": "Roasted Butternut Squash",
+          "calories": 45,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Oven Roasted Red Beets",
+          "calories": 216,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ]
+    },
+    "Dinner": {
+      "Soups": [
+        {
+          "name": "Chicken Noodle Soup",
+          "calories": 124,
+          "tags": [
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Potato Leek Soup",
+          "calories": 52,
+          "tags": [
+            "Vegetarian",
+            "Dairy"
+          ]
+        }
+      ],
+      "Freshly Bowled": [
+        {
+          "name": "Louisiana Shrimp Stew over Dirty Rice",
+          "calories": 204,
+          "tags": [
+            "Crustacean-Shellfish",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Cajun-Spiced Tofu w/ Country Grits",
+          "calories": 332,
+          "tags": [
+            "Soy",
+            "Dairy"
+          ]
+        }
+      ],
+      "Harvest": [
+        {
+          "name": "Aromatic Spiced Chicken",
+          "calories": 82,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Carrot Couscous",
+          "calories": 155,
+          "tags": [
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Flageolet Bean Ragout w/ Quinoa, Green Beans, & Mushroom",
+          "calories": 232,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        }
+      ],
+      "Farmstand": [
+        {
+          "name": "Black Beans",
+          "calories": 142,
+          "tags": [
+            "Vegan"
+          ]
+        },
+        {
+          "name": "Brown Calrose Rice",
+          "calories": 181,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Wheat Berry",
+          "calories": 0,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Edamame Beans",
+          "calories": 109,
+          "tags": []
+        },
+        {
+          "name": "Sauteed Spinach & Kale",
+          "calories": 264,
+          "tags": []
+        }
+      ],
+      "Simply Grilled": [
+        {
+          "name": "Grilled Eggplant",
+          "calories": 247,
+          "tags": []
+        },
+        {
+          "name": "Summer Squash & Potatoes w/ Chimichurri",
+          "calories": 1007,
+          "tags": []
+        },
+        {
+          "name": "Herb de Provence Marinated Grilled Chicken Thigh",
+          "calories": 124,
+          "tags": []
+        }
+      ],
+      "Fruit": [
+        {
+          "name": "Cantaloupe Melon",
+          "calories": 34,
+          "tags": []
+        },
+        {
+          "name": "Green Grapes",
+          "calories": 69,
+          "tags": []
+        },
+        {
+          "name": "Red Grapes",
+          "calories": 69,
+          "tags": []
+        },
+        {
+          "name": "Pineapple",
+          "calories": 50,
+          "tags": []
+        },
+        {
+          "name": "Watermelon",
+          "calories": 30,
+          "tags": []
+        },
+        {
+          "name": "Kiwi",
+          "calories": 61,
+          "tags": []
+        }
+      ],
+      "Sweet Bites": [
+        {
+          "name": "Multi-Grain Bread",
+          "calories": 172,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Raisin Walnut Bread",
+          "calories": 173,
+          "tags": [
+            "Vegetarian",
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Whole Wheat Sourdough Bread",
+          "calories": 201,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Date & Cranberry Bar",
+          "calories": 342,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Olive Oil Cake",
+          "calories": 307,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Spiced Apple Bread",
+          "calories": 380,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Vegan Zucchini Quickbread",
+          "calories": 313,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Almond Cashew Butter",
+          "calories": 587,
+          "tags": [
+            "Soy",
+            "Peanut",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Black Pepper Strawberry Compote",
+          "calories": 126,
+          "tags": []
+        },
+        {
+          "name": "Peanut Butter",
+          "calories": 587,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Smoky Hibiscus Compote",
+          "calories": 129,
+          "tags": [
+            "Soy"
+          ]
+        },
+        {
+          "name": "Nopales & Vanilla Marmalade",
+          "calories": 106,
+          "tags": []
+        }
+      ],
+      "Yogurt Bar": [
+        {
+          "name": "Low-fat Greek Yogurt",
+          "calories": 59,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Vegan Vanilla Coconut Yogurt",
+          "calories": 372,
+          "tags": [
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Wild Blueberries",
+          "calories": 51,
+          "tags": []
+        },
+        {
+          "name": "Mango",
+          "calories": 60,
+          "tags": []
+        }
+      ],
+      "Beverage Special": [
+        {
+          "name": "Cherry Lime Water",
+          "calories": 2,
+          "tags": []
+        },
+        {
+          "name": "Non-Fat Cookies & Cream Frozen Yogurt",
+          "calories": 133,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        }
+      ],
+      "Greens 'N More": [
+        {
+          "name": "Romaine Lettuce",
+          "calories": 17,
+          "tags": []
+        },
+        {
+          "name": "Power Greens Blend",
+          "calories": 37,
+          "tags": []
+        },
+        {
+          "name": "Mesclun Lettuce Mix",
+          "calories": 15,
+          "tags": []
+        },
+        {
+          "name": "Spinach",
+          "calories": 23,
+          "tags": []
+        },
+        {
+          "name": "Roasted Broccoli",
+          "calories": 863,
+          "tags": []
+        },
+        {
+          "name": "Roasted Brussels Sprouts",
+          "calories": 242,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Roasted Cauliflower",
+          "calories": 45,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Green Lentils",
+          "calories": 451,
+          "tags": []
+        },
+        {
+          "name": "Roasted Butternut Squash",
+          "calories": 45,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Oven Roasted Red Beets",
+          "calories": 216,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Asian Sesame Ginger Dressing",
+          "calories": 286,
+          "tags": [
+            "Soy",
+            "Wheat",
+            "Sesame"
+          ]
+        }
+      ]
+    }
+  },
+  "2025-03-31": {
+    "Breakfast": {
+      "Freshly Bowled": [
+        {
+          "name": "Barley, Seasoned Turkey, Kale, & Egg Bowl",
+          "calories": 575,
+          "tags": [
+            "Soy",
+            "Eggs"
+          ]
+        }
+      ],
+      "Harvest": [
+        {
+          "name": "Chicken & Egg Breakfast Pita",
+          "calories": 203,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Scrambled Eggs",
+          "calories": 168,
+          "tags": [
+            "Vegetarian",
+            "Low-Carbon-Footprint",
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Scrambled Egg Whites",
+          "calories": 378,
+          "tags": [
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Vegan Scrambled Eggs",
+          "calories": 580,
+          "tags": [
+            "Soy"
+          ]
+        },
+        {
+          "name": "Roasted Red Breakfast Potato Wedges",
+          "calories": 83,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ],
+      "Simply Grilled": [
+        {
+          "name": "Banana Pecan Buckwheat Pancake",
+          "calories": 171,
+          "tags": [
+            "Gluten",
+            "Tree-Nuts",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Vegan Pancake",
+          "calories": 118,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Alcohol"
+          ]
+        }
+      ],
+      "Fruit": [
+        {
+          "name": "Cantaloupe Melon",
+          "calories": 34,
+          "tags": []
+        },
+        {
+          "name": "Grapefruit",
+          "calories": 42,
+          "tags": []
+        },
+        {
+          "name": "Green Grapes",
+          "calories": 69,
+          "tags": []
+        },
+        {
+          "name": "Red Grapes",
+          "calories": 69,
+          "tags": []
+        },
+        {
+          "name": "Pineapple",
+          "calories": 50,
+          "tags": []
+        },
+        {
+          "name": "Watermelon",
+          "calories": 30,
+          "tags": []
+        }
+      ],
+      "Sweet Bites": [
+        {
+          "name": "Boston Brown Bread",
+          "calories": 243,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Vegan Cranberry Orange Quickbread",
+          "calories": 289,
+          "tags": [
+            "Vegan",
+            "Soy",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Almond Cashew Butter",
+          "calories": 587,
+          "tags": [
+            "Soy",
+            "Peanut",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Black Pepper Strawberry Compote",
+          "calories": 126,
+          "tags": []
+        },
+        {
+          "name": "Sliced Wheat Bread",
+          "calories": 233,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Raisin Bread (Pullman)",
+          "calories": 286,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Lemon Poppy Bread",
+          "calories": 375,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Vegan Cinnamon Quick Bread",
+          "calories": 398,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Vegan Chocolate Cake",
+          "calories": 306,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Alcohol"
+          ]
+        },
+        {
+          "name": "Orange-Papaya Marmalade",
+          "calories": 54,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ],
+      "Yogurt Bar": [
+        {
+          "name": "Lowfat Cottage Cheese",
+          "calories": 393,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Low-fat Greek Yogurt",
+          "calories": 59,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Vegan Vanilla Coconut Yogurt",
+          "calories": 372,
+          "tags": [
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Lowfat Strawberry Yogurt",
+          "calories": 71,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Wild Blueberries",
+          "calories": 51,
+          "tags": []
+        },
+        {
+          "name": "Mango",
+          "calories": 60,
+          "tags": []
+        }
+      ],
+      "Beverage Special": [
+        {
+          "name": "Pineapple Water",
+          "calories": 3,
+          "tags": []
+        }
+      ],
+      "Greens 'N More": [
+        {
+          "name": "Assorted Bagels",
+          "calories": 257,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Baby Arugula",
+          "calories": 25,
+          "tags": []
+        },
+        {
+          "name": "Low Fat Cream Cheese",
+          "calories": 250,
+          "tags": [
+            "Vegetarian",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Vegan Non-Dairy Cream Cheese",
+          "calories": 233,
+          "tags": [
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Avocado Topping",
+          "calories": 156,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Onion & Chive Cream Cheese",
+          "calories": 193,
+          "tags": [
+            "Vegetarian",
+            "Dairy"
+          ]
+        }
+      ],
+      "Cereal / Oatmeal": [
+        {
+          "name": "Oatmeal",
+          "calories": 183,
+          "tags": [
+            "Gluten"
+          ]
+        },
+        {
+          "name": "White Polenta",
+          "calories": 88,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ]
+    },
+    "Lunch": {
+      "Soups": [
+        {
+          "name": "Chicken Noodle Soup",
+          "calories": 124,
+          "tags": [
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Potato Leek Soup",
+          "calories": 52,
+          "tags": [
+            "Vegetarian",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Cream of Tomato Soup",
+          "calories": 70,
+          "tags": [
+            "Dairy"
+          ]
+        }
+      ],
+      "Freshly Bowled": [
+        {
+          "name": "Quinoa Vegetable Stir Fry w/ Egg",
+          "calories": 113,
+          "tags": [
+            "Vegetarian",
+            "Soy",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Cold Sesame Noodle Salad w/ Tofu, Roasted Corn, & Tomato",
+          "calories": 244,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint",
+            "Soy"
+          ]
+        }
+      ],
+      "Harvest": [
+        {
+          "name": "Chicken Taco w/ Freekeh",
+          "calories": 163,
+          "tags": [
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Roasted Tomato Salsa",
+          "calories": 24,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Warm Lentil & Arugula Salad",
+          "calories": 309,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ],
+      "Farmstand": [
+        {
+          "name": "Frijoles de la Olla",
+          "calories": 163,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Brown Basmati Rice",
+          "calories": 183,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint",
+            "Halal"
+          ]
+        },
+        {
+          "name": "Oven Roasted Red Beets",
+          "calories": 216,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Saut\u00e9ed Spinach",
+          "calories": 178,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Quinoa Pilaf",
+          "calories": 238,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ],
+      "Simply Grilled": [
+        {
+          "name": "Mushroom Walnut Stacker",
+          "calories": 395,
+          "tags": [
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Herb de Provence Marinated Grilled Chicken Thigh",
+          "calories": 124,
+          "tags": []
+        },
+        {
+          "name": "Yukon Gold Potato Wedges",
+          "calories": 92,
+          "tags": []
+        }
+      ],
+      "Fruit": [
+        {
+          "name": "Cantaloupe Melon",
+          "calories": 34,
+          "tags": []
+        },
+        {
+          "name": "Green Grapes",
+          "calories": 69,
+          "tags": []
+        },
+        {
+          "name": "Red Grapes",
+          "calories": 69,
+          "tags": []
+        },
+        {
+          "name": "Pineapple",
+          "calories": 50,
+          "tags": []
+        },
+        {
+          "name": "Watermelon",
+          "calories": 30,
+          "tags": []
+        },
+        {
+          "name": "Strawberries",
+          "calories": 33,
+          "tags": []
+        }
+      ],
+      "Sweet Bites": [
+        {
+          "name": "Boston Brown Bread",
+          "calories": 243,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Vegan Cranberry Orange Quickbread",
+          "calories": 289,
+          "tags": [
+            "Vegan",
+            "Soy",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Vegan Brownie",
+          "calories": 503,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint",
+            "Soy"
+          ]
+        },
+        {
+          "name": "Almond Butter",
+          "calories": 634,
+          "tags": []
+        },
+        {
+          "name": "Black Pepper Strawberry Compote",
+          "calories": 126,
+          "tags": []
+        },
+        {
+          "name": "Chocolate Peanut Butter",
+          "calories": 571,
+          "tags": [
+            "Vegetarian",
+            "Soy",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Vegan Cinnamon Quick Bread",
+          "calories": 398,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Orange-Papaya Marmalade",
+          "calories": 54,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Brownie",
+          "calories": 296,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        }
+      ],
+      "Yogurt Bar": [
+        {
+          "name": "Low-fat Greek Yogurt",
+          "calories": 59,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Vegan Vanilla Coconut Yogurt",
+          "calories": 372,
+          "tags": [
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Wild Blueberries",
+          "calories": 51,
+          "tags": []
+        },
+        {
+          "name": "Mango",
+          "calories": 60,
+          "tags": []
+        }
+      ],
+      "Beverage Special": [
+        {
+          "name": "Pineapple Water",
+          "calories": 3,
+          "tags": []
+        }
+      ],
+      "Greens 'N More": [
+        {
+          "name": "Romaine Lettuce",
+          "calories": 17,
+          "tags": []
+        },
+        {
+          "name": "Power Greens Blend",
+          "calories": 37,
+          "tags": []
+        },
+        {
+          "name": "Mesclun Lettuce Mix",
+          "calories": 15,
+          "tags": []
+        },
+        {
+          "name": "Spinach",
+          "calories": 23,
+          "tags": []
+        },
+        {
+          "name": "Roasted Broccoli",
+          "calories": 863,
+          "tags": []
+        },
+        {
+          "name": "Roasted Brussels Sprouts",
+          "calories": 242,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Roasted Cauliflower",
+          "calories": 45,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Green Lentils",
+          "calories": 451,
+          "tags": []
+        },
+        {
+          "name": "Roasted Butternut Squash",
+          "calories": 45,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Oven Roasted Red Beets",
+          "calories": 216,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ]
+    },
+    "Dinner": {
+      "Soups": [
+        {
+          "name": "Chicken Noodle Soup",
+          "calories": 124,
+          "tags": [
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Tomato & Fresh Basil Soup",
+          "calories": 30,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ],
+      "Freshly Bowled": [
+        {
+          "name": "Chickpea Panisse, Mixed Grains, & Rapini Bowl",
+          "calories": 153,
+          "tags": [
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Golden Chickpeas w/ Rice, Beans & Kale Bowl",
+          "calories": 125,
+          "tags": [
+            "Tree-Nuts"
+          ]
+        }
+      ],
+      "Harvest": [
+        {
+          "name": "Steamed Salmon w/ Matcha",
+          "calories": 197,
+          "tags": [
+            "Fish"
+          ]
+        },
+        {
+          "name": "Spicy Cucumber Salad",
+          "calories": 37,
+          "tags": []
+        },
+        {
+          "name": "Seasonal Tempeh, Potato, & Mushroom Burrito",
+          "calories": 374,
+          "tags": [
+            "Soy"
+          ]
+        }
+      ],
+      "Farmstand": [
+        {
+          "name": "Frijoles de la Olla",
+          "calories": 163,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Brown Calrose Rice",
+          "calories": 181,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Carrot Couscous",
+          "calories": 155,
+          "tags": [
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Roasted Summer Squash w/ Caramelized Onions",
+          "calories": 337,
+          "tags": []
+        },
+        {
+          "name": "Sauteed Bok Choy",
+          "calories": 70,
+          "tags": []
+        }
+      ],
+      "Simply Grilled": [
+        {
+          "name": "Classic Steakhouse Tri-Tip",
+          "calories": 156,
+          "tags": [
+            "Fish",
+            "Soy",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Housemade Steak Sauce",
+          "calories": 387,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Grilled African Spiced Tofu",
+          "calories": 120,
+          "tags": [
+            "Soy"
+          ]
+        },
+        {
+          "name": "Blistered Shishito Peppers w/ Togarashi",
+          "calories": 23,
+          "tags": [
+            "Sesame"
+          ]
+        }
+      ],
+      "Fruit": [
+        {
+          "name": "Cantaloupe Melon",
+          "calories": 34,
+          "tags": []
+        },
+        {
+          "name": "Green Grapes",
+          "calories": 69,
+          "tags": []
+        },
+        {
+          "name": "Red Grapes",
+          "calories": 69,
+          "tags": []
+        },
+        {
+          "name": "Pineapple",
+          "calories": 50,
+          "tags": []
+        },
+        {
+          "name": "Watermelon",
+          "calories": 30,
+          "tags": []
+        },
+        {
+          "name": "Strawberries",
+          "calories": 33,
+          "tags": []
+        }
+      ],
+      "Sweet Bites": [
+        {
+          "name": "Multi-Grain Bread",
+          "calories": 172,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Raisin Walnut Bread",
+          "calories": 173,
+          "tags": [
+            "Vegetarian",
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Whole Wheat Sourdough Bread",
+          "calories": 201,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Boston Brown Bread",
+          "calories": 243,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Vegan Cranberry Orange Quickbread",
+          "calories": 289,
+          "tags": [
+            "Vegan",
+            "Soy",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Vegan Brownie",
+          "calories": 503,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint",
+            "Soy"
+          ]
+        },
+        {
+          "name": "Chocolate Budino w/ Basil Seed Caviar",
+          "calories": 138,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Almond Cashew Butter",
+          "calories": 587,
+          "tags": [
+            "Soy",
+            "Peanut",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Black Pepper Strawberry Compote",
+          "calories": 126,
+          "tags": []
+        },
+        {
+          "name": "Chocolate Peanut Butter",
+          "calories": 571,
+          "tags": [
+            "Vegetarian",
+            "Soy",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Blueberry Compote",
+          "calories": 63,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Peach Vanilla Compote",
+          "calories": 89,
+          "tags": []
+        }
+      ],
+      "Yogurt Bar": [
+        {
+          "name": "Low-fat Greek Yogurt",
+          "calories": 59,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Vegan Vanilla Coconut Yogurt",
+          "calories": 372,
+          "tags": [
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Wild Blueberries",
+          "calories": 51,
+          "tags": []
+        },
+        {
+          "name": "Mango",
+          "calories": 60,
+          "tags": []
+        }
+      ],
+      "Beverage Special": [
+        {
+          "name": "Strawberry Basil Water",
+          "calories": 3,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ],
+      "Greens 'N More": [
+        {
+          "name": "Romaine Lettuce",
+          "calories": 17,
+          "tags": []
+        },
+        {
+          "name": "Power Greens Blend",
+          "calories": 37,
+          "tags": []
+        },
+        {
+          "name": "Mesclun Lettuce Mix",
+          "calories": 15,
+          "tags": []
+        },
+        {
+          "name": "Spinach",
+          "calories": 23,
+          "tags": []
+        },
+        {
+          "name": "Roasted Broccoli",
+          "calories": 863,
+          "tags": []
+        },
+        {
+          "name": "Roasted Brussels Sprouts",
+          "calories": 242,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Roasted Cauliflower",
+          "calories": 45,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Green Lentils",
+          "calories": 451,
+          "tags": []
+        },
+        {
+          "name": "Roasted Butternut Squash",
+          "calories": 45,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Oven Roasted Red Beets",
+          "calories": 216,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ]
+    }
+  },
+  "2025-04-01": {
+    "Breakfast": {
+      "Freshly Bowled": [
+        {
+          "name": "Jalapeno Egg, Plantain & Black Bean Bowl",
+          "calories": 371,
+          "tags": [
+            "Eggs"
+          ]
+        }
+      ],
+      "Harvest": [
+        {
+          "name": "Green Chile Rice w/ Black Beans & Egg",
+          "calories": 336,
+          "tags": [
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Roasted Tomato Salsa",
+          "calories": 24,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Scrambled Eggs",
+          "calories": 168,
+          "tags": [
+            "Vegetarian",
+            "Low-Carbon-Footprint",
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Scrambled Egg Whites",
+          "calories": 378,
+          "tags": [
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Vegan Scrambled Eggs",
+          "calories": 580,
+          "tags": [
+            "Soy"
+          ]
+        },
+        {
+          "name": "Roasted Red Breakfast Potato Wedges",
+          "calories": 83,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ],
+      "Stone Fired": [
+        {
+          "name": "Red Lentil Waffle",
+          "calories": 234,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Black Pepper Strawberry Compote",
+          "calories": 126,
+          "tags": []
+        },
+        {
+          "name": "Waffle",
+          "calories": 197,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        }
+      ],
+      "Simply Grilled": [
+        {
+          "name": "French Toast Waffle w/ Cashew Cream & Raspberries",
+          "calories": 162,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Peanut"
+          ]
+        },
+        {
+          "name": "Vegan Pancake",
+          "calories": 118,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Alcohol"
+          ]
+        }
+      ],
+      "Fruit": [
+        {
+          "name": "Cantaloupe Melon",
+          "calories": 34,
+          "tags": []
+        },
+        {
+          "name": "Grapefruit",
+          "calories": 42,
+          "tags": []
+        },
+        {
+          "name": "Green Grapes",
+          "calories": 69,
+          "tags": []
+        },
+        {
+          "name": "Red Grapes",
+          "calories": 69,
+          "tags": []
+        },
+        {
+          "name": "Pineapple",
+          "calories": 50,
+          "tags": []
+        },
+        {
+          "name": "Watermelon",
+          "calories": 30,
+          "tags": []
+        }
+      ],
+      "Sweet Bites": [
+        {
+          "name": "Multi-Grain Bread",
+          "calories": 172,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Raisin Walnut Bread",
+          "calories": 173,
+          "tags": [
+            "Vegetarian",
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Whole Wheat Sourdough Bread",
+          "calories": 201,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Lemon Blueberry Bread",
+          "calories": 378,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Pistachio Bread",
+          "calories": 402,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Almond Cashew Butter",
+          "calories": 587,
+          "tags": [
+            "Soy",
+            "Peanut",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Black Pepper Strawberry Compote",
+          "calories": 126,
+          "tags": []
+        },
+        {
+          "name": "Peanut Butter",
+          "calories": 587,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Cherry Compote",
+          "calories": 125,
+          "tags": []
+        }
+      ],
+      "Yogurt Bar": [
+        {
+          "name": "Lowfat Cottage Cheese",
+          "calories": 393,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Low-fat Greek Yogurt",
+          "calories": 59,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Vegan Vanilla Coconut Yogurt",
+          "calories": 372,
+          "tags": [
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Lowfat Strawberry Yogurt",
+          "calories": 71,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Wild Blueberries",
+          "calories": 51,
+          "tags": []
+        },
+        {
+          "name": "Mango",
+          "calories": 60,
+          "tags": []
+        }
+      ],
+      "Beverage Special": [
+        {
+          "name": "Strawberry Lemon Water",
+          "calories": 3,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ],
+      "Greens 'N More": [
+        {
+          "name": "Assorted Bagels",
+          "calories": 257,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Baby Arugula",
+          "calories": 25,
+          "tags": []
+        },
+        {
+          "name": "Low Fat Cream Cheese",
+          "calories": 250,
+          "tags": [
+            "Vegetarian",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Vegan Non-Dairy Cream Cheese",
+          "calories": 233,
+          "tags": [
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Avocado Topping",
+          "calories": 156,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Strawberry Cream Cheese",
+          "calories": 207,
+          "tags": [
+            "Vegetarian",
+            "Dairy"
+          ]
+        }
+      ],
+      "Cereal / Oatmeal": [
+        {
+          "name": "Oatmeal",
+          "calories": 183,
+          "tags": [
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Savory Grits",
+          "calories": 109,
+          "tags": []
+        }
+      ]
+    },
+    "Lunch": {
+      "Soups": [
+        {
+          "name": "Chicken Tortilla Soup",
+          "calories": 106,
+          "tags": []
+        },
+        {
+          "name": "Tomato & Fresh Basil Soup",
+          "calories": 30,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ],
+      "Freshly Bowled": [
+        {
+          "name": "Black Bean & Buckwheat Noodle w/ Chicken & Bok Choy",
+          "calories": 544,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Roasted Mushroom & Broccolini w/ Black Bean Noodle",
+          "calories": 307,
+          "tags": [
+            "Vegetarian",
+            "Soy",
+            "Gluten"
+          ]
+        }
+      ],
+      "Harvest": [
+        {
+          "name": "Steak, Horseradish Goat Cheese, & Beet Stacker",
+          "calories": 141,
+          "tags": [
+            "High-Carbon-Footprint",
+            "Soy",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Avocado Caprese Salad",
+          "calories": 634,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Wheat"
+          ]
+        }
+      ],
+      "Farmstand": [
+        {
+          "name": "Frijoles de la Olla",
+          "calories": 163,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Brown Calrose Rice",
+          "calories": 181,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Tri-Color Quinoa",
+          "calories": 147,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Edamame Beans",
+          "calories": 109,
+          "tags": []
+        },
+        {
+          "name": "Sauteed Spinach & Kale",
+          "calories": 264,
+          "tags": []
+        }
+      ],
+      "Stone Fired": [
+        {
+          "name": "Green Goddess Flatbread",
+          "calories": 178,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Pineapple & Goat Cheese Tortilla Pizza",
+          "calories": 169,
+          "tags": [
+            "Soy",
+            "Dairy"
+          ]
+        }
+      ],
+      "Simply Grilled": [
+        {
+          "name": "Fennel Coriander Marinated Grilled Chicken Thigh",
+          "calories": 239,
+          "tags": []
+        },
+        {
+          "name": "Chickpea Stacker w/ Yogurt-Tahini Sauce",
+          "calories": 166,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Baked Red Rose Potato",
+          "calories": 470,
+          "tags": []
+        }
+      ],
+      "Fruit": [
+        {
+          "name": "Cantaloupe Melon",
+          "calories": 34,
+          "tags": []
+        },
+        {
+          "name": "Green Grapes",
+          "calories": 69,
+          "tags": []
+        },
+        {
+          "name": "Red Grapes",
+          "calories": 69,
+          "tags": []
+        },
+        {
+          "name": "Pineapple",
+          "calories": 50,
+          "tags": []
+        },
+        {
+          "name": "Watermelon",
+          "calories": 30,
+          "tags": []
+        },
+        {
+          "name": "Kiwi",
+          "calories": 61,
+          "tags": []
+        }
+      ],
+      "Sweet Bites": [
+        {
+          "name": "Multi-Grain Bread",
+          "calories": 172,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Raisin Walnut Bread",
+          "calories": 173,
+          "tags": [
+            "Vegetarian",
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Whole Wheat Sourdough Bread",
+          "calories": 201,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Almond Butter",
+          "calories": 634,
+          "tags": []
+        },
+        {
+          "name": "Black Pepper Strawberry Compote",
+          "calories": 126,
+          "tags": []
+        },
+        {
+          "name": "Peanut Butter",
+          "calories": 587,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Raspberry Ginger Oat Bar",
+          "calories": 328,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Lemon Blueberry Bread",
+          "calories": 378,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Pistachio Bread",
+          "calories": 402,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Cherry Compote",
+          "calories": 125,
+          "tags": []
+        },
+        {
+          "name": "Pineapple Compote",
+          "calories": 120,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ],
+      "Yogurt Bar": [
+        {
+          "name": "Low-fat Greek Yogurt",
+          "calories": 59,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Vegan Vanilla Coconut Yogurt",
+          "calories": 372,
+          "tags": [
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Wild Blueberries",
+          "calories": 51,
+          "tags": []
+        },
+        {
+          "name": "Mango",
+          "calories": 60,
+          "tags": []
+        }
+      ],
+      "Beverage Special": [
+        {
+          "name": "Strawberry Lemon Water",
+          "calories": 3,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ],
+      "Greens 'N More": [
+        {
+          "name": "Romaine Lettuce",
+          "calories": 17,
+          "tags": []
+        },
+        {
+          "name": "Power Greens Blend",
+          "calories": 37,
+          "tags": []
+        },
+        {
+          "name": "Mesclun Lettuce Mix",
+          "calories": 15,
+          "tags": []
+        },
+        {
+          "name": "Spinach",
+          "calories": 23,
+          "tags": []
+        },
+        {
+          "name": "Roasted Broccoli",
+          "calories": 863,
+          "tags": []
+        },
+        {
+          "name": "Roasted Brussels Sprouts",
+          "calories": 242,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Roasted Cauliflower",
+          "calories": 45,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Green Lentils",
+          "calories": 451,
+          "tags": []
+        },
+        {
+          "name": "Roasted Butternut Squash",
+          "calories": 45,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Oven Roasted Red Beets",
+          "calories": 216,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ]
+    },
+    "Dinner": {
+      "Soups": [
+        {
+          "name": "Chicken Tortilla Soup",
+          "calories": 106,
+          "tags": []
+        },
+        {
+          "name": "Tomato & Fresh Basil Soup",
+          "calories": 30,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ],
+      "Freshly Bowled": [
+        {
+          "name": "Greek Style Whole Wheat Penne w/ Chicken",
+          "calories": 424,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Whole Wheat Penne in Avocado Sauce w/ Toasted Almonds",
+          "calories": 247,
+          "tags": [
+            "Tree-Nuts"
+          ]
+        }
+      ],
+      "Harvest": [
+        {
+          "name": "Achiote Brisket, Apple & Jicama Tacos w/ Red Beans & Rice",
+          "calories": 179,
+          "tags": [
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Roasted Tomato Salsa",
+          "calories": 24,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Fregola Sarda w/ Asparagus & Mushroom",
+          "calories": 316,
+          "tags": [
+            "Gluten",
+            "Wheat"
+          ]
+        }
+      ],
+      "Farmstand": [
+        {
+          "name": "Frijoles de la Olla",
+          "calories": 163,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Brown Basmati Rice",
+          "calories": 183,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint",
+            "Halal"
+          ]
+        },
+        {
+          "name": "Roasted Broccoli",
+          "calories": 863,
+          "tags": []
+        },
+        {
+          "name": "Braised Red Cabbage",
+          "calories": 208,
+          "tags": []
+        }
+      ],
+      "Simply Grilled": [
+        {
+          "name": "Ancho Mango Marinated Pork Tenderloin",
+          "calories": 101,
+          "tags": []
+        },
+        {
+          "name": "Pineapple-Mango Salsa",
+          "calories": 52,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Santa Maria Rubbed Grilled Tofu",
+          "calories": 118,
+          "tags": [
+            "Soy"
+          ]
+        },
+        {
+          "name": "Roasted Parsnips & Carrots",
+          "calories": 336,
+          "tags": []
+        }
+      ],
+      "Fruit": [
+        {
+          "name": "Cantaloupe Melon",
+          "calories": 34,
+          "tags": []
+        },
+        {
+          "name": "Green Grapes",
+          "calories": 69,
+          "tags": []
+        },
+        {
+          "name": "Red Grapes",
+          "calories": 69,
+          "tags": []
+        },
+        {
+          "name": "Pineapple",
+          "calories": 50,
+          "tags": []
+        },
+        {
+          "name": "Watermelon",
+          "calories": 30,
+          "tags": []
+        },
+        {
+          "name": "Kiwi",
+          "calories": 61,
+          "tags": []
+        }
+      ],
+      "Sweet Bites": [
+        {
+          "name": "Multi-Grain Bread",
+          "calories": 172,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Raisin Walnut Bread",
+          "calories": 173,
+          "tags": [
+            "Vegetarian",
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Whole Wheat Sourdough Bread",
+          "calories": 201,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Raspberry Ginger Oat Bar",
+          "calories": 328,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Lemon Blueberry Bread",
+          "calories": 378,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Pistachio Bread",
+          "calories": 402,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Olive Oil Cake",
+          "calories": 307,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Almond Cashew Butter",
+          "calories": 587,
+          "tags": [
+            "Soy",
+            "Peanut",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Black Pepper Strawberry Compote",
+          "calories": 126,
+          "tags": []
+        },
+        {
+          "name": "Peanut Butter",
+          "calories": 587,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Pineapple Compote",
+          "calories": 120,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Cherry Compote",
+          "calories": 125,
+          "tags": []
+        }
+      ],
+      "Yogurt Bar": [
+        {
+          "name": "Low-fat Greek Yogurt",
+          "calories": 59,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Vegan Vanilla Coconut Yogurt",
+          "calories": 372,
+          "tags": [
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Wild Blueberries",
+          "calories": 51,
+          "tags": []
+        },
+        {
+          "name": "Mango",
+          "calories": 60,
+          "tags": []
+        }
+      ],
+      "Beverage Special": [
+        {
+          "name": "Cucumber Mint Water",
+          "calories": 0,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ],
+      "Greens 'N More": [
+        {
+          "name": "Romaine Lettuce",
+          "calories": 17,
+          "tags": []
+        },
+        {
+          "name": "Power Greens Blend",
+          "calories": 37,
+          "tags": []
+        },
+        {
+          "name": "Mesclun Lettuce Mix",
+          "calories": 15,
+          "tags": []
+        },
+        {
+          "name": "Spinach",
+          "calories": 23,
+          "tags": []
+        },
+        {
+          "name": "Roasted Broccoli",
+          "calories": 863,
+          "tags": []
+        },
+        {
+          "name": "Roasted Brussels Sprouts",
+          "calories": 242,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Roasted Cauliflower",
+          "calories": 45,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Green Lentils",
+          "calories": 451,
+          "tags": []
+        },
+        {
+          "name": "Roasted Butternut Squash",
+          "calories": 45,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Oven Roasted Red Beets",
+          "calories": 216,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ]
+    }
+  },
+  "2025-04-02": {
+    "Breakfast": {
+      "Freshly Bowled": [
+        {
+          "name": "Savory Oatmeal w/Porcini & Egg",
+          "calories": 377,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Eggs"
+          ]
+        }
+      ],
+      "Harvest": [
+        {
+          "name": "Seasoned Pork, Egg, & Kale Lavash Wrap",
+          "calories": 251,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Scrambled Eggs",
+          "calories": 168,
+          "tags": [
+            "Vegetarian",
+            "Low-Carbon-Footprint",
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Scrambled Egg Whites",
+          "calories": 378,
+          "tags": [
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Vegan Scrambled Eggs",
+          "calories": 580,
+          "tags": [
+            "Soy"
+          ]
+        },
+        {
+          "name": "Roasted Red Breakfast Potato Wedges",
+          "calories": 83,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ],
+      "Stone Fired": [
+        {
+          "name": "Cacao Butter",
+          "calories": 116,
+          "tags": []
+        },
+        {
+          "name": "Waffle",
+          "calories": 197,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Four Grain Waffles",
+          "calories": 169,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Eggs"
+          ]
+        }
+      ],
+      "Simply Grilled": [
+        {
+          "name": "Lemon Cream Cheese Pancake",
+          "calories": 169,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Blueberry Lemon Marmalade",
+          "calories": 71,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Vegan Pancake",
+          "calories": 118,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Alcohol"
+          ]
+        }
+      ],
+      "Fruit": [
+        {
+          "name": "Cantaloupe Melon",
+          "calories": 34,
+          "tags": []
+        },
+        {
+          "name": "Grapefruit",
+          "calories": 42,
+          "tags": []
+        },
+        {
+          "name": "Green Grapes",
+          "calories": 69,
+          "tags": []
+        },
+        {
+          "name": "Red Grapes",
+          "calories": 69,
+          "tags": []
+        },
+        {
+          "name": "Pineapple",
+          "calories": 50,
+          "tags": []
+        },
+        {
+          "name": "Watermelon",
+          "calories": 30,
+          "tags": []
+        }
+      ],
+      "Sweet Bites": [
+        {
+          "name": "Multi-Grain Bread",
+          "calories": 172,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Raisin Walnut Bread",
+          "calories": 173,
+          "tags": [
+            "Vegetarian",
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Whole Wheat Sourdough Bread",
+          "calories": 201,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Olive Oil Mocha Bread",
+          "calories": 2188,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Vegan Banana Walnut Bread",
+          "calories": 370,
+          "tags": [
+            "Vegan",
+            "Soy",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Almond Cashew Butter",
+          "calories": 587,
+          "tags": [
+            "Soy",
+            "Peanut",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Black Pepper Strawberry Compote",
+          "calories": 126,
+          "tags": []
+        },
+        {
+          "name": "Chocolate Peanut Butter",
+          "calories": 571,
+          "tags": [
+            "Vegetarian",
+            "Soy",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Tangerine Marmalade",
+          "calories": 69,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ],
+      "Yogurt Bar": [
+        {
+          "name": "Lowfat Cottage Cheese",
+          "calories": 393,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Low-fat Greek Yogurt",
+          "calories": 59,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Vegan Vanilla Coconut Yogurt",
+          "calories": 372,
+          "tags": [
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Lowfat Strawberry Yogurt",
+          "calories": 71,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Wild Blueberries",
+          "calories": 51,
+          "tags": []
+        },
+        {
+          "name": "Mango",
+          "calories": 60,
+          "tags": []
+        }
+      ],
+      "Beverage Special": [
+        {
+          "name": "Watermelon  Water",
+          "calories": 1,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ],
+      "Greens 'N More": [
+        {
+          "name": "Assorted Bagels",
+          "calories": 257,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Baby Arugula",
+          "calories": 25,
+          "tags": []
+        },
+        {
+          "name": "Low Fat Cream Cheese",
+          "calories": 250,
+          "tags": [
+            "Vegetarian",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Vegan Non-Dairy Cream Cheese",
+          "calories": 233,
+          "tags": [
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Avocado Topping",
+          "calories": 156,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Strawberry Cream Cheese",
+          "calories": 207,
+          "tags": [
+            "Vegetarian",
+            "Dairy"
+          ]
+        }
+      ],
+      "Cereal / Oatmeal": [
+        {
+          "name": "Oatmeal",
+          "calories": 183,
+          "tags": [
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Cream of Wheat",
+          "calories": 52,
+          "tags": [
+            "Gluten",
+            "Wheat"
+          ]
+        }
+      ]
+    },
+    "Lunch": {
+      "Soups": [
+        {
+          "name": "Chicken Noodle Soup",
+          "calories": 124,
+          "tags": [
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Potato Leek Soup",
+          "calories": 52,
+          "tags": [
+            "Vegetarian",
+            "Dairy"
+          ]
+        }
+      ],
+      "Freshly Bowled": [
+        {
+          "name": "Lamb Meatball w/ Spaghetti Squash & Zaatar Pesto",
+          "calories": 133,
+          "tags": [
+            "High-Carbon-Footprint",
+            "Fish",
+            "Soy"
+          ]
+        },
+        {
+          "name": "Sesame Tofu, Volcano Rice & Mixed Cabbage Bowl",
+          "calories": 254,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint",
+            "Soy"
+          ]
+        }
+      ],
+      "Harvest": [
+        {
+          "name": "Shrimp, Wheat Berry, & Arugula Salad w/ Pesto",
+          "calories": 60,
+          "tags": [
+            "Crustacean-Shellfish",
+            "Alcohol"
+          ]
+        },
+        {
+          "name": "Kale, Chicken, Currants & Pistachio Salad",
+          "calories": 260,
+          "tags": [
+            "Tree-Nuts",
+            "Alcohol"
+          ]
+        },
+        {
+          "name": "Coconut, Corn, & Almond Salad",
+          "calories": 33,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Fregola w/Pesto & Zucchini Salad",
+          "calories": 203,
+          "tags": [
+            "Vegetarian",
+            "Tree-Nuts",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Golden Beet Poke Salad",
+          "calories": 367,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint",
+            "Soy"
+          ]
+        },
+        {
+          "name": "Marinated Kale Salad",
+          "calories": 86,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint",
+            "Sesame"
+          ]
+        },
+        {
+          "name": "Flatbread Sticks",
+          "calories": 340,
+          "tags": [
+            "Vegetarian",
+            "Soy",
+            "Gluten"
+          ]
+        }
+      ],
+      "Farmstand": [
+        {
+          "name": "Frijoles de la Olla",
+          "calories": 163,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Brown Calrose Rice",
+          "calories": 181,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Farro",
+          "calories": 146,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Roasted Broccoli",
+          "calories": 863,
+          "tags": []
+        },
+        {
+          "name": "Sauteed Kale",
+          "calories": 361,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ],
+      "Stone Fired": [
+        {
+          "name": "Poached Shrimp Flatbread w/ Avocado Spread",
+          "calories": 102,
+          "tags": [
+            "Crustacean-Shellfish",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Apple & Feta Cheese Flatbread",
+          "calories": 160,
+          "tags": [
+            "Gluten",
+            "Tree-Nuts",
+            "Wheat"
+          ]
+        }
+      ],
+      "Simply Grilled": [
+        {
+          "name": "Chipotle BBQ Grilled Chicken Thigh",
+          "calories": 128,
+          "tags": [
+            "Soy"
+          ]
+        },
+        {
+          "name": "Breaded Tofu Slider",
+          "calories": 159,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Spicy Fingerling Potatoes",
+          "calories": 192,
+          "tags": []
+        }
+      ],
+      "Fruit": [
+        {
+          "name": "Cantaloupe Melon",
+          "calories": 34,
+          "tags": []
+        },
+        {
+          "name": "Green Grapes",
+          "calories": 69,
+          "tags": []
+        },
+        {
+          "name": "Red Grapes",
+          "calories": 69,
+          "tags": []
+        },
+        {
+          "name": "Pineapple",
+          "calories": 50,
+          "tags": []
+        },
+        {
+          "name": "Watermelon",
+          "calories": 30,
+          "tags": []
+        },
+        {
+          "name": "Strawberries",
+          "calories": 33,
+          "tags": []
+        }
+      ],
+      "Sweet Bites": [
+        {
+          "name": "Multi-Grain Bread",
+          "calories": 172,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Raisin Walnut Bread",
+          "calories": 173,
+          "tags": [
+            "Vegetarian",
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Whole Wheat Sourdough Bread",
+          "calories": 201,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Olive Oil Mocha Bread",
+          "calories": 2188,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Vegan Banana Walnut Bread",
+          "calories": 370,
+          "tags": [
+            "Vegan",
+            "Soy",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Zucchini Chocolate Bar",
+          "calories": 264,
+          "tags": [
+            "Vegetarian",
+            "Soy",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Almond Butter",
+          "calories": 634,
+          "tags": []
+        },
+        {
+          "name": "Black Pepper Strawberry Compote",
+          "calories": 126,
+          "tags": []
+        },
+        {
+          "name": "Chocolate Peanut Butter",
+          "calories": 571,
+          "tags": [
+            "Vegetarian",
+            "Soy",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Cacao Butter",
+          "calories": 116,
+          "tags": []
+        },
+        {
+          "name": "Tangerine Marmalade",
+          "calories": 69,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ],
+      "Yogurt Bar": [
+        {
+          "name": "Low-fat Greek Yogurt",
+          "calories": 59,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Vegan Vanilla Coconut Yogurt",
+          "calories": 372,
+          "tags": [
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Wild Blueberries",
+          "calories": 51,
+          "tags": []
+        },
+        {
+          "name": "Mango",
+          "calories": 60,
+          "tags": []
+        }
+      ],
+      "Beverage Special": [
+        {
+          "name": "Watermelon  Water",
+          "calories": 1,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ],
+      "Greens 'N More": [
+        {
+          "name": "Romaine Lettuce",
+          "calories": 17,
+          "tags": []
+        },
+        {
+          "name": "Power Greens Blend",
+          "calories": 37,
+          "tags": []
+        },
+        {
+          "name": "Mesclun Lettuce Mix",
+          "calories": 15,
+          "tags": []
+        },
+        {
+          "name": "Spinach",
+          "calories": 23,
+          "tags": []
+        },
+        {
+          "name": "Roasted Broccoli",
+          "calories": 863,
+          "tags": []
+        },
+        {
+          "name": "Roasted Brussels Sprouts",
+          "calories": 242,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Roasted Cauliflower",
+          "calories": 45,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Green Lentils",
+          "calories": 451,
+          "tags": []
+        },
+        {
+          "name": "Roasted Butternut Squash",
+          "calories": 45,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Oven Roasted Red Beets",
+          "calories": 216,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ]
+    },
+    "Dinner": {
+      "Soups": [
+        {
+          "name": "Chicken Noodle Soup",
+          "calories": 124,
+          "tags": [
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Potato Leek Soup",
+          "calories": 52,
+          "tags": [
+            "Vegetarian",
+            "Dairy"
+          ]
+        }
+      ],
+      "Freshly Bowled": [
+        {
+          "name": "Pebre-Marinated Flank Steak & Guacamole Bowl",
+          "calories": 165,
+          "tags": [
+            "Dairy",
+            "Alcohol"
+          ]
+        },
+        {
+          "name": "Hickory Smoked Tofu w/ BBQ Baked Beans & Cornbread",
+          "calories": 443,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        }
+      ],
+      "Harvest": [
+        {
+          "name": "Roasted Herbed Chicken",
+          "calories": 420,
+          "tags": []
+        },
+        {
+          "name": "Saut\u00e9ed Asparagus & Mushrooms",
+          "calories": 436,
+          "tags": []
+        },
+        {
+          "name": "Stuffed Portobello w/ Red Bell Pepper Coulis",
+          "calories": 201,
+          "tags": [
+            "Fish",
+            "Soy",
+            "Crustacean-Shellfish"
+          ]
+        }
+      ],
+      "Farmstand": [
+        {
+          "name": "Frijoles de la Olla",
+          "calories": 163,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Brown Calrose Rice",
+          "calories": 181,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Wild Rice Blend",
+          "calories": 5,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Roasted Cauliflower",
+          "calories": 45,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Sauteed Kale",
+          "calories": 361,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ],
+      "Simply Grilled": [
+        {
+          "name": "Blackened Salmon",
+          "calories": 444,
+          "tags": [
+            "Fish"
+          ]
+        },
+        {
+          "name": "Grilled Yellow Squash",
+          "calories": 31,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Potato & Red Pepper Hash",
+          "calories": 880,
+          "tags": []
+        }
+      ],
+      "Fruit": [
+        {
+          "name": "Cantaloupe Melon",
+          "calories": 34,
+          "tags": []
+        },
+        {
+          "name": "Green Grapes",
+          "calories": 69,
+          "tags": []
+        },
+        {
+          "name": "Red Grapes",
+          "calories": 69,
+          "tags": []
+        },
+        {
+          "name": "Pineapple",
+          "calories": 50,
+          "tags": []
+        },
+        {
+          "name": "Watermelon",
+          "calories": 30,
+          "tags": []
+        },
+        {
+          "name": "Strawberries",
+          "calories": 33,
+          "tags": []
+        }
+      ],
+      "Sweet Bites": [
+        {
+          "name": "Multi-Grain Bread",
+          "calories": 172,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Raisin Walnut Bread",
+          "calories": 173,
+          "tags": [
+            "Vegetarian",
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Whole Wheat Sourdough Bread",
+          "calories": 201,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Olive Oil Mocha Bread",
+          "calories": 2188,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Vegan Banana Walnut Bread",
+          "calories": 370,
+          "tags": [
+            "Vegan",
+            "Soy",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Zucchini Chocolate Bar",
+          "calories": 264,
+          "tags": [
+            "Vegetarian",
+            "Soy",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Ganache Tart",
+          "calories": 273,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Almond Cashew Butter",
+          "calories": 587,
+          "tags": [
+            "Soy",
+            "Peanut",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Black Pepper Strawberry Compote",
+          "calories": 126,
+          "tags": []
+        },
+        {
+          "name": "Chocolate Peanut Butter",
+          "calories": 571,
+          "tags": [
+            "Vegetarian",
+            "Soy",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Cacao Butter",
+          "calories": 116,
+          "tags": []
+        },
+        {
+          "name": "Tangerine Marmalade",
+          "calories": 69,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ],
+      "Yogurt Bar": [
+        {
+          "name": "Low-fat Greek Yogurt",
+          "calories": 59,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Vegan Vanilla Coconut Yogurt",
+          "calories": 372,
+          "tags": [
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Wild Blueberries",
+          "calories": 51,
+          "tags": []
+        },
+        {
+          "name": "Mango",
+          "calories": 60,
+          "tags": []
+        }
+      ],
+      "Beverage Special": [
+        {
+          "name": "Passion Fruit & Orange Water",
+          "calories": 2,
+          "tags": []
+        }
+      ],
+      "Greens 'N More": [
+        {
+          "name": "Romaine Lettuce",
+          "calories": 17,
+          "tags": []
+        },
+        {
+          "name": "Power Greens Blend",
+          "calories": 37,
+          "tags": []
+        },
+        {
+          "name": "Mesclun Lettuce Mix",
+          "calories": 15,
+          "tags": []
+        },
+        {
+          "name": "Spinach",
+          "calories": 23,
+          "tags": []
+        },
+        {
+          "name": "Roasted Broccoli",
+          "calories": 863,
+          "tags": []
+        },
+        {
+          "name": "Roasted Brussels Sprouts",
+          "calories": 242,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Roasted Cauliflower",
+          "calories": 45,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Green Lentils",
+          "calories": 451,
+          "tags": []
+        },
+        {
+          "name": "Roasted Butternut Squash",
+          "calories": 45,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Oven Roasted Red Beets",
+          "calories": 216,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ]
+    }
+  },
+  "2025-04-03": {
+    "Breakfast": {
+      "Freshly Bowled": [
+        {
+          "name": "Tri-Tip, Red Potato, Egg, & Arugula Bowl",
+          "calories": 163,
+          "tags": [
+            "Eggs"
+          ]
+        }
+      ],
+      "Harvest": [
+        {
+          "name": "Mushroom Beef Ragout Bowl w/ Poached Egg",
+          "calories": 874,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Scrambled Eggs",
+          "calories": 168,
+          "tags": [
+            "Vegetarian",
+            "Low-Carbon-Footprint",
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Scrambled Egg Whites",
+          "calories": 378,
+          "tags": [
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Vegan Scrambled Eggs",
+          "calories": 580,
+          "tags": [
+            "Soy"
+          ]
+        },
+        {
+          "name": "Roasted Red Breakfast Potato Wedges",
+          "calories": 83,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ],
+      "Stone Fired": [
+        {
+          "name": "Oat & Whole Wheat Waffle",
+          "calories": 200,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Cherry Compote",
+          "calories": 125,
+          "tags": []
+        },
+        {
+          "name": "Waffle",
+          "calories": 197,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        }
+      ],
+      "Simply Grilled": [
+        {
+          "name": "Vegetable Stuffed Whole Wheat Crepe",
+          "calories": 129,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Arugula Pesto",
+          "calories": 230,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Vegan Pancake",
+          "calories": 118,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Alcohol"
+          ]
+        }
+      ],
+      "Fruit": [
+        {
+          "name": "Cantaloupe Melon",
+          "calories": 34,
+          "tags": []
+        },
+        {
+          "name": "Grapefruit",
+          "calories": 42,
+          "tags": []
+        },
+        {
+          "name": "Green Grapes",
+          "calories": 69,
+          "tags": []
+        },
+        {
+          "name": "Red Grapes",
+          "calories": 69,
+          "tags": []
+        },
+        {
+          "name": "Pineapple",
+          "calories": 50,
+          "tags": []
+        },
+        {
+          "name": "Watermelon",
+          "calories": 30,
+          "tags": []
+        }
+      ],
+      "Sweet Bites": [
+        {
+          "name": "Multi-Grain Bread",
+          "calories": 172,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Raisin Walnut Bread",
+          "calories": 173,
+          "tags": [
+            "Vegetarian",
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Whole Wheat Sourdough Bread",
+          "calories": 201,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Coconut Pineapple Bread",
+          "calories": 300,
+          "tags": [
+            "Gluten",
+            "Tree-Nuts",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Vegan Cinnamon Quick Bread",
+          "calories": 398,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Almond Cashew Butter",
+          "calories": 587,
+          "tags": [
+            "Soy",
+            "Peanut",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Black Pepper Strawberry Compote",
+          "calories": 126,
+          "tags": []
+        },
+        {
+          "name": "Peanut Butter",
+          "calories": 587,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Plantain Butter",
+          "calories": 179,
+          "tags": []
+        }
+      ],
+      "Yogurt Bar": [
+        {
+          "name": "Lowfat Cottage Cheese",
+          "calories": 393,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Low-fat Greek Yogurt",
+          "calories": 59,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Vegan Vanilla Coconut Yogurt",
+          "calories": 372,
+          "tags": [
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Lowfat Strawberry Yogurt",
+          "calories": 71,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Wild Blueberries",
+          "calories": 51,
+          "tags": []
+        },
+        {
+          "name": "Mango",
+          "calories": 60,
+          "tags": []
+        }
+      ],
+      "Beverage Special": [
+        {
+          "name": "Orange Strawberry Water",
+          "calories": 5,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ],
+      "Greens 'N More": [
+        {
+          "name": "Assorted Bagels",
+          "calories": 257,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Baby Arugula",
+          "calories": 25,
+          "tags": []
+        },
+        {
+          "name": "Low Fat Cream Cheese",
+          "calories": 250,
+          "tags": [
+            "Vegetarian",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Vegan Non-Dairy Cream Cheese",
+          "calories": 233,
+          "tags": [
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Avocado Topping",
+          "calories": 156,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Pesto Cream Cheese",
+          "calories": 277,
+          "tags": [
+            "Dairy"
+          ]
+        }
+      ],
+      "Cereal / Oatmeal": [
+        {
+          "name": "Oatmeal",
+          "calories": 183,
+          "tags": [
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Quinoa Flakes & Brown Rice Cereal",
+          "calories": 96,
+          "tags": []
+        }
+      ]
+    },
+    "Lunch": {
+      "Soups": [
+        {
+          "name": "Chicken Tortilla Soup",
+          "calories": 106,
+          "tags": []
+        },
+        {
+          "name": "Tomato & Fresh Basil Soup",
+          "calories": 30,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ],
+      "Freshly Bowled": [
+        {
+          "name": "Chicken, Toasted Quinoa, & Garlic Vegetable Bowl",
+          "calories": 232,
+          "tags": []
+        },
+        {
+          "name": "Black Quinoa, BBQ Tofu & Red Bean Bowl",
+          "calories": 282,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint",
+            "Soy"
+          ]
+        }
+      ],
+      "Harvest": [
+        {
+          "name": "Orange, Tuna, & Watercress Salad",
+          "calories": 285,
+          "tags": [
+            "Fish",
+            "Sesame"
+          ]
+        },
+        {
+          "name": "White Bean & Tri-Color Quinoa Taco",
+          "calories": 253,
+          "tags": [
+            "Vegetarian",
+            "Fish",
+            "Soy"
+          ]
+        },
+        {
+          "name": "Tomatillo Salsa",
+          "calories": 42,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ],
+      "Farmstand": [
+        {
+          "name": "Frijoles de la Olla",
+          "calories": 163,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Brown Calrose Rice",
+          "calories": 181,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Black Quinoa",
+          "calories": 146,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Moroccan Roasted Carrots",
+          "calories": 53,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint",
+            "Halal"
+          ]
+        },
+        {
+          "name": "Black Eyed Peas & Collard Greens",
+          "calories": 97,
+          "tags": []
+        }
+      ],
+      "Stone Fired": [
+        {
+          "name": "Spicy Anaheim & Jalape\u00f1o Chicken Tortilla Pizza",
+          "calories": 345,
+          "tags": [
+            "Soy",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Hawaiian Macadamia Pesto, Goat Cheese, & Peppadew Flatbread",
+          "calories": 533,
+          "tags": [
+            "Gluten",
+            "Tree-Nuts",
+            "Wheat"
+          ]
+        }
+      ],
+      "Simply Grilled": [
+        {
+          "name": "Italian Marinated Grilled Chicken Thigh",
+          "calories": 179,
+          "tags": []
+        },
+        {
+          "name": "Farro-Mushroom Stacker",
+          "calories": 278,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Alcohol"
+          ]
+        },
+        {
+          "name": "Red Potato Hash",
+          "calories": 199,
+          "tags": []
+        }
+      ],
+      "Fruit": [
+        {
+          "name": "Cantaloupe Melon",
+          "calories": 34,
+          "tags": []
+        },
+        {
+          "name": "Green Grapes",
+          "calories": 69,
+          "tags": []
+        },
+        {
+          "name": "Red Grapes",
+          "calories": 69,
+          "tags": []
+        },
+        {
+          "name": "Pineapple",
+          "calories": 50,
+          "tags": []
+        },
+        {
+          "name": "Watermelon",
+          "calories": 30,
+          "tags": []
+        },
+        {
+          "name": "Kiwi",
+          "calories": 61,
+          "tags": []
+        }
+      ],
+      "Sweet Bites": [
+        {
+          "name": "Multi-Grain Bread",
+          "calories": 172,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Raisin Walnut Bread",
+          "calories": 173,
+          "tags": [
+            "Vegetarian",
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Whole Wheat Sourdough Bread",
+          "calories": 201,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Vegan Cinnamon Quick Bread",
+          "calories": 398,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Coconut Pineapple Bread",
+          "calories": 300,
+          "tags": [
+            "Gluten",
+            "Tree-Nuts",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Brownie",
+          "calories": 296,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Almond Butter",
+          "calories": 634,
+          "tags": []
+        },
+        {
+          "name": "Black Pepper Strawberry Compote",
+          "calories": 126,
+          "tags": []
+        },
+        {
+          "name": "Peanut Butter",
+          "calories": 587,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Plantain Butter",
+          "calories": 179,
+          "tags": []
+        },
+        {
+          "name": "Cherry Compote",
+          "calories": 125,
+          "tags": []
+        }
+      ],
+      "Yogurt Bar": [
+        {
+          "name": "Low-fat Greek Yogurt",
+          "calories": 59,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Vegan Vanilla Coconut Yogurt",
+          "calories": 372,
+          "tags": [
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Wild Blueberries",
+          "calories": 51,
+          "tags": []
+        },
+        {
+          "name": "Mango",
+          "calories": 60,
+          "tags": []
+        }
+      ],
+      "Beverage Special": [
+        {
+          "name": "Orange Strawberry Water",
+          "calories": 5,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ],
+      "Greens 'N More": [
+        {
+          "name": "Romaine Lettuce",
+          "calories": 17,
+          "tags": []
+        },
+        {
+          "name": "Power Greens Blend",
+          "calories": 37,
+          "tags": []
+        },
+        {
+          "name": "Mesclun Lettuce Mix",
+          "calories": 15,
+          "tags": []
+        },
+        {
+          "name": "Spinach",
+          "calories": 23,
+          "tags": []
+        },
+        {
+          "name": "Roasted Broccoli",
+          "calories": 863,
+          "tags": []
+        },
+        {
+          "name": "Roasted Brussels Sprouts",
+          "calories": 242,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Roasted Cauliflower",
+          "calories": 45,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Green Lentils",
+          "calories": 451,
+          "tags": []
+        },
+        {
+          "name": "Roasted Butternut Squash",
+          "calories": 45,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Oven Roasted Red Beets",
+          "calories": 216,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ]
+    },
+    "Dinner": {
+      "Soups": [
+        {
+          "name": "Chicken Tortilla Soup",
+          "calories": 106,
+          "tags": []
+        },
+        {
+          "name": "Tomato & Fresh Basil Soup",
+          "calories": 30,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ],
+      "Freshly Bowled": [
+        {
+          "name": "Crispy Lamb Leg w/ Guacamole & Couscous",
+          "calories": 176,
+          "tags": [
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Rotini, Pesto, & Kale Bowl",
+          "calories": 404,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        }
+      ],
+      "Harvest": [
+        {
+          "name": "Toasted Rice Trout w/ Coconut Curried Lentils",
+          "calories": 142,
+          "tags": [
+            "Fish",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Spinach & Bulgur Wheat Taco",
+          "calories": 165,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        }
+      ],
+      "Farmstand": [
+        {
+          "name": "Frijoles de la Olla",
+          "calories": 163,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Brown Calrose Rice",
+          "calories": 181,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Farro, Wheatberry, & Brown Rice",
+          "calories": 109,
+          "tags": [
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Roasted Corn & Peppers",
+          "calories": 395,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Saut\u00e9ed Spinach",
+          "calories": 178,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ],
+      "Simply Grilled": [
+        {
+          "name": "Grilled Santa Maria Boneless Pork Chop",
+          "calories": 354,
+          "tags": []
+        },
+        {
+          "name": "Grilled Mole Tofu",
+          "calories": 101,
+          "tags": [
+            "Soy"
+          ]
+        },
+        {
+          "name": "Roasted Plantains",
+          "calories": 172,
+          "tags": []
+        }
+      ],
+      "Fruit": [
+        {
+          "name": "Cantaloupe Melon",
+          "calories": 34,
+          "tags": []
+        },
+        {
+          "name": "Green Grapes",
+          "calories": 69,
+          "tags": []
+        },
+        {
+          "name": "Red Grapes",
+          "calories": 69,
+          "tags": []
+        },
+        {
+          "name": "Pineapple",
+          "calories": 50,
+          "tags": []
+        },
+        {
+          "name": "Watermelon",
+          "calories": 30,
+          "tags": []
+        },
+        {
+          "name": "Kiwi",
+          "calories": 61,
+          "tags": []
+        }
+      ],
+      "Sweet Bites": [
+        {
+          "name": "Multi-Grain Bread",
+          "calories": 172,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Raisin Walnut Bread",
+          "calories": 173,
+          "tags": [
+            "Vegetarian",
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Whole Wheat Sourdough Bread",
+          "calories": 201,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Coconut Pineapple Bread",
+          "calories": 300,
+          "tags": [
+            "Gluten",
+            "Tree-Nuts",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Vegan Cinnamon Quick Bread",
+          "calories": 398,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Brownie",
+          "calories": 296,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Angel Food Cake",
+          "calories": 238,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Almond Cashew Butter",
+          "calories": 587,
+          "tags": [
+            "Soy",
+            "Peanut",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Black Pepper Strawberry Compote",
+          "calories": 126,
+          "tags": []
+        },
+        {
+          "name": "Peanut Butter",
+          "calories": 587,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Plantain Butter",
+          "calories": 179,
+          "tags": []
+        },
+        {
+          "name": "Cherry Compote",
+          "calories": 125,
+          "tags": []
+        }
+      ],
+      "Yogurt Bar": [
+        {
+          "name": "Low-fat Greek Yogurt",
+          "calories": 59,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Vegan Vanilla Coconut Yogurt",
+          "calories": 372,
+          "tags": [
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Wild Blueberries",
+          "calories": 51,
+          "tags": []
+        },
+        {
+          "name": "Mango",
+          "calories": 60,
+          "tags": []
+        }
+      ],
+      "Beverage Special": [
+        {
+          "name": "Lemon, Raspberry, & Mint Water",
+          "calories": 2,
+          "tags": []
+        }
+      ],
+      "Greens 'N More": [
+        {
+          "name": "Romaine Lettuce",
+          "calories": 17,
+          "tags": []
+        },
+        {
+          "name": "Power Greens Blend",
+          "calories": 37,
+          "tags": []
+        },
+        {
+          "name": "Mesclun Lettuce Mix",
+          "calories": 15,
+          "tags": []
+        },
+        {
+          "name": "Spinach",
+          "calories": 23,
+          "tags": []
+        },
+        {
+          "name": "Roasted Broccoli",
+          "calories": 863,
+          "tags": []
+        },
+        {
+          "name": "Roasted Brussels Sprouts",
+          "calories": 242,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Roasted Cauliflower",
+          "calories": 45,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Green Lentils",
+          "calories": 451,
+          "tags": []
+        },
+        {
+          "name": "Roasted Butternut Squash",
+          "calories": 45,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Oven Roasted Red Beets",
+          "calories": 216,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ]
+    }
+  },
+  "2025-04-04": {
+    "Breakfast": {
+      "Freshly Bowled": [
+        {
+          "name": "Lentil Ragu, Egg, & Swiss Chard Bowl w/ Toast",
+          "calories": 387,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        }
+      ],
+      "Harvest": [
+        {
+          "name": "Scrambled Egg & Quinoa w/ Corn Avocado Salsa",
+          "calories": 121,
+          "tags": [
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Scrambled Eggs",
+          "calories": 168,
+          "tags": [
+            "Vegetarian",
+            "Low-Carbon-Footprint",
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Scrambled Egg Whites",
+          "calories": 378,
+          "tags": [
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Vegan Scrambled Eggs",
+          "calories": 580,
+          "tags": [
+            "Soy"
+          ]
+        },
+        {
+          "name": "Roasted Red Breakfast Potato Wedges",
+          "calories": 83,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ],
+      "Stone Fired": [
+        {
+          "name": "Four Grain Waffles",
+          "calories": 169,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Blueberry & Roasted Red Grape Marmalade",
+          "calories": 86,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Waffle",
+          "calories": 197,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        }
+      ],
+      "Simply Grilled": [
+        {
+          "name": "Whole Wheat Pancake",
+          "calories": 196,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Vegan Pancake",
+          "calories": 118,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Alcohol"
+          ]
+        }
+      ],
+      "Fruit": [
+        {
+          "name": "Cantaloupe Melon",
+          "calories": 34,
+          "tags": []
+        },
+        {
+          "name": "Grapefruit",
+          "calories": 42,
+          "tags": []
+        },
+        {
+          "name": "Green Grapes",
+          "calories": 69,
+          "tags": []
+        },
+        {
+          "name": "Red Grapes",
+          "calories": 69,
+          "tags": []
+        },
+        {
+          "name": "Pineapple",
+          "calories": 50,
+          "tags": []
+        },
+        {
+          "name": "Watermelon",
+          "calories": 30,
+          "tags": []
+        }
+      ],
+      "Sweet Bites": [
+        {
+          "name": "Multi-Grain Bread",
+          "calories": 172,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Raisin Walnut Bread",
+          "calories": 173,
+          "tags": [
+            "Vegetarian",
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Whole Wheat Sourdough Bread",
+          "calories": 201,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Lemon Poppy Bread",
+          "calories": 375,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Vegan Chocolate Loaf",
+          "calories": 315,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Alcohol"
+          ]
+        },
+        {
+          "name": "Almond Cashew Butter",
+          "calories": 587,
+          "tags": [
+            "Soy",
+            "Peanut",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Black Pepper Strawberry Compote",
+          "calories": 126,
+          "tags": []
+        },
+        {
+          "name": "Chocolate Peanut Butter",
+          "calories": 571,
+          "tags": [
+            "Vegetarian",
+            "Soy",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Cilantro Lime Marmalade",
+          "calories": 105,
+          "tags": []
+        }
+      ],
+      "Yogurt Bar": [
+        {
+          "name": "Lowfat Cottage Cheese",
+          "calories": 393,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Low-fat Greek Yogurt",
+          "calories": 59,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Vegan Vanilla Coconut Yogurt",
+          "calories": 372,
+          "tags": [
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Lowfat Strawberry Yogurt",
+          "calories": 71,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Wild Blueberries",
+          "calories": 51,
+          "tags": []
+        },
+        {
+          "name": "Mango",
+          "calories": 60,
+          "tags": []
+        }
+      ],
+      "Beverage Special": [
+        {
+          "name": "Raspberry Water",
+          "calories": 1,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ],
+      "Greens 'N More": [
+        {
+          "name": "Assorted Bagels",
+          "calories": 257,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Baby Arugula",
+          "calories": 25,
+          "tags": []
+        },
+        {
+          "name": "Low Fat Cream Cheese",
+          "calories": 250,
+          "tags": [
+            "Vegetarian",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Vegan Non-Dairy Cream Cheese",
+          "calories": 233,
+          "tags": [
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Avocado Topping",
+          "calories": 156,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Pesto Cream Cheese",
+          "calories": 277,
+          "tags": [
+            "Dairy"
+          ]
+        }
+      ],
+      "Cereal / Oatmeal": [
+        {
+          "name": "Oatmeal",
+          "calories": 183,
+          "tags": [
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Malt-O-Meal",
+          "calories": 47,
+          "tags": [
+            "Gluten",
+            "Wheat"
+          ]
+        }
+      ]
+    },
+    "Lunch": {
+      "Soups": [
+        {
+          "name": "Seafood, Leek & Tomato Chowder",
+          "calories": 38,
+          "tags": [
+            "Fish",
+            "Crustacean-Shellfish",
+            "Alcohol"
+          ]
+        },
+        {
+          "name": "Potato Leek Soup",
+          "calories": 52,
+          "tags": [
+            "Vegetarian",
+            "Dairy"
+          ]
+        }
+      ],
+      "Freshly Bowled": [
+        {
+          "name": "Whole Wheat Herb Spaghetti w/ Shrimp & Sauteed Spinach Bowl",
+          "calories": 346,
+          "tags": [
+            "Crustacean-Shellfish",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Herbed Whole Wheat Spaghetti",
+          "calories": 353,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint",
+            "Gluten"
+          ]
+        }
+      ],
+      "Harvest": [
+        {
+          "name": "Chicken, Avocado, & Rainbow Quinoa Lettuce Wrap",
+          "calories": 276,
+          "tags": [
+            "Soy",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "BBQ Seitan Lettuce Wrap",
+          "calories": 133,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint",
+            "Gluten"
+          ]
+        }
+      ],
+      "Farmstand": [
+        {
+          "name": "Frijoles de la Olla",
+          "calories": 163,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Brown Calrose Rice",
+          "calories": 181,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Wheat Berry",
+          "calories": 0,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Roasted Cauliflower",
+          "calories": 45,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Sauteed Spinach & Kale",
+          "calories": 264,
+          "tags": []
+        }
+      ],
+      "Stone Fired": [
+        {
+          "name": "Roasted Pork, Sorrel, & Goat Cheese Pizza",
+          "calories": 191,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Layered Vegetable Flatbread",
+          "calories": 266,
+          "tags": [
+            "Gluten",
+            "Wheat"
+          ]
+        }
+      ],
+      "Simply Grilled": [
+        {
+          "name": "Cilantro Jalapeno Marinated Grilled Chicken Thigh",
+          "calories": 225,
+          "tags": []
+        },
+        {
+          "name": "Tofu Caprese Stacker",
+          "calories": 125,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Roasted Potatoes",
+          "calories": 246,
+          "tags": []
+        }
+      ],
+      "Fruit": [
+        {
+          "name": "Cantaloupe Melon",
+          "calories": 34,
+          "tags": []
+        },
+        {
+          "name": "Green Grapes",
+          "calories": 69,
+          "tags": []
+        },
+        {
+          "name": "Red Grapes",
+          "calories": 69,
+          "tags": []
+        },
+        {
+          "name": "Pineapple",
+          "calories": 50,
+          "tags": []
+        },
+        {
+          "name": "Watermelon",
+          "calories": 30,
+          "tags": []
+        },
+        {
+          "name": "Strawberries",
+          "calories": 33,
+          "tags": []
+        }
+      ],
+      "Sweet Bites": [
+        {
+          "name": "Multi-Grain Bread",
+          "calories": 172,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Raisin Walnut Bread",
+          "calories": 173,
+          "tags": [
+            "Vegetarian",
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Whole Wheat Sourdough Bread",
+          "calories": 201,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Apricot Almond Bar",
+          "calories": 340,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Lemon Poppy Bread",
+          "calories": 375,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Vegan Chocolate Loaf",
+          "calories": 315,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Alcohol"
+          ]
+        },
+        {
+          "name": "Almond Butter",
+          "calories": 634,
+          "tags": []
+        },
+        {
+          "name": "Black Pepper Strawberry Compote",
+          "calories": 126,
+          "tags": []
+        },
+        {
+          "name": "Chocolate Peanut Butter",
+          "calories": 571,
+          "tags": [
+            "Vegetarian",
+            "Soy",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Blueberry & Roasted Red Grape Marmalade",
+          "calories": 86,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Cilantro Lime Marmalade",
+          "calories": 105,
+          "tags": []
+        }
+      ],
+      "Yogurt Bar": [
+        {
+          "name": "Low-fat Greek Yogurt",
+          "calories": 59,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Vegan Vanilla Coconut Yogurt",
+          "calories": 372,
+          "tags": [
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Wild Blueberries",
+          "calories": 51,
+          "tags": []
+        },
+        {
+          "name": "Mango",
+          "calories": 60,
+          "tags": []
+        }
+      ],
+      "Beverage Special": [
+        {
+          "name": "Raspberry Water",
+          "calories": 1,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ],
+      "Greens 'N More": [
+        {
+          "name": "Romaine Lettuce",
+          "calories": 17,
+          "tags": []
+        },
+        {
+          "name": "Power Greens Blend",
+          "calories": 37,
+          "tags": []
+        },
+        {
+          "name": "Mesclun Lettuce Mix",
+          "calories": 15,
+          "tags": []
+        },
+        {
+          "name": "Spinach",
+          "calories": 23,
+          "tags": []
+        },
+        {
+          "name": "Roasted Broccoli",
+          "calories": 863,
+          "tags": []
+        },
+        {
+          "name": "Roasted Brussels Sprouts",
+          "calories": 242,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Roasted Cauliflower",
+          "calories": 45,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Green Lentils",
+          "calories": 451,
+          "tags": []
+        },
+        {
+          "name": "Roasted Butternut Squash",
+          "calories": 45,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Oven Roasted Red Beets",
+          "calories": 216,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ]
+    },
+    "Dinner": {
+      "Soups": [
+        {
+          "name": "Seafood, Leek & Tomato Chowder",
+          "calories": 38,
+          "tags": [
+            "Fish",
+            "Crustacean-Shellfish",
+            "Alcohol"
+          ]
+        },
+        {
+          "name": "Potato Leek Soup",
+          "calories": 52,
+          "tags": [
+            "Vegetarian",
+            "Dairy"
+          ]
+        }
+      ],
+      "Freshly Bowled": [
+        {
+          "name": "Chipotle Chicken, Brown Rice, & Avocado Bowl",
+          "calories": 253,
+          "tags": [
+            "Soy",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Potato, Kale, Brown Rice, & Red Bean Bowl",
+          "calories": 495,
+          "tags": []
+        }
+      ],
+      "Harvest": [
+        {
+          "name": "Lemon Cod",
+          "calories": 254,
+          "tags": [
+            "Fish",
+            "Alcohol"
+          ]
+        },
+        {
+          "name": "Yukon Gold Potato & Cauliflower Mash",
+          "calories": 64,
+          "tags": []
+        },
+        {
+          "name": "Tempeh Enchilada",
+          "calories": 134,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        }
+      ],
+      "Farmstand": [
+        {
+          "name": "Frijoles de la Olla",
+          "calories": 163,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Brown Jasmine Rice",
+          "calories": 211,
+          "tags": []
+        },
+        {
+          "name": "Garlicky Green Beans",
+          "calories": 87,
+          "tags": []
+        },
+        {
+          "name": "Chinese Kale w/ Five Spice",
+          "calories": 252,
+          "tags": []
+        }
+      ],
+      "Simply Grilled": [
+        {
+          "name": "Grilled Tri Tip Persian Style",
+          "calories": 153,
+          "tags": [
+            "Sesame"
+          ]
+        },
+        {
+          "name": "Pan Roasted Mushrooms w/ Onions",
+          "calories": 220,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Grilled Pineapple",
+          "calories": 50,
+          "tags": []
+        }
+      ],
+      "Fruit": [
+        {
+          "name": "Cantaloupe Melon",
+          "calories": 34,
+          "tags": []
+        },
+        {
+          "name": "Green Grapes",
+          "calories": 69,
+          "tags": []
+        },
+        {
+          "name": "Red Grapes",
+          "calories": 69,
+          "tags": []
+        },
+        {
+          "name": "Pineapple",
+          "calories": 50,
+          "tags": []
+        },
+        {
+          "name": "Watermelon",
+          "calories": 30,
+          "tags": []
+        },
+        {
+          "name": "Strawberries",
+          "calories": 33,
+          "tags": []
+        }
+      ],
+      "Sweet Bites": [
+        {
+          "name": "Multi-Grain Bread",
+          "calories": 172,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Raisin Walnut Bread",
+          "calories": 173,
+          "tags": [
+            "Vegetarian",
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Whole Wheat Sourdough Bread",
+          "calories": 201,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Apricot Almond Bar",
+          "calories": 340,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Lemon Poppy Bread",
+          "calories": 375,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Vegan Chocolate Loaf",
+          "calories": 315,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Alcohol"
+          ]
+        },
+        {
+          "name": "Chocolate Pecan Tart",
+          "calories": 333,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Almond Cashew Butter",
+          "calories": 587,
+          "tags": [
+            "Soy",
+            "Peanut",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Black Pepper Strawberry Compote",
+          "calories": 126,
+          "tags": []
+        },
+        {
+          "name": "Chocolate Peanut Butter",
+          "calories": 571,
+          "tags": [
+            "Vegetarian",
+            "Soy",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Blueberry & Roasted Red Grape Marmalade",
+          "calories": 86,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Cilantro Lime Marmalade",
+          "calories": 105,
+          "tags": []
+        }
+      ],
+      "Yogurt Bar": [
+        {
+          "name": "Low-fat Greek Yogurt",
+          "calories": 59,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Vegan Vanilla Coconut Yogurt",
+          "calories": 372,
+          "tags": [
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Wild Blueberries",
+          "calories": 51,
+          "tags": []
+        },
+        {
+          "name": "Mango",
+          "calories": 60,
+          "tags": []
+        }
+      ],
+      "Beverage Special": [
+        {
+          "name": "Kiwi  Water",
+          "calories": 4,
+          "tags": []
+        }
+      ],
+      "Greens 'N More": [
+        {
+          "name": "Romaine Lettuce",
+          "calories": 17,
+          "tags": []
+        },
+        {
+          "name": "Power Greens Blend",
+          "calories": 37,
+          "tags": []
+        },
+        {
+          "name": "Mesclun Lettuce Mix",
+          "calories": 15,
+          "tags": []
+        },
+        {
+          "name": "Spinach",
+          "calories": 23,
+          "tags": []
+        },
+        {
+          "name": "Roasted Broccoli",
+          "calories": 863,
+          "tags": []
+        },
+        {
+          "name": "Roasted Brussels Sprouts",
+          "calories": 242,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Roasted Cauliflower",
+          "calories": 45,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Green Lentils",
+          "calories": 451,
+          "tags": []
+        },
+        {
+          "name": "Roasted Butternut Squash",
+          "calories": 45,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Oven Roasted Red Beets",
+          "calories": 216,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ]
+    }
+  },
+  "2025-04-05": {
+    "Breakfast": {
+      "Freshly Bowled": [
+        {
+          "name": "Bruin Scramble (Ham & Cheddar)",
+          "calories": 878,
+          "tags": [
+            "Low-Carbon-Footprint",
+            "Dairy",
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Bruin Scramble (Vegetarian)",
+          "calories": 771,
+          "tags": [
+            "Vegetarian",
+            "Low-Carbon-Footprint",
+            "Dairy"
+          ]
+        }
+      ],
+      "Harvest": [
+        {
+          "name": "Egg, Mushroom & Kale on W.W. English Muffin",
+          "calories": 312,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Scrambled Eggs",
+          "calories": 168,
+          "tags": [
+            "Vegetarian",
+            "Low-Carbon-Footprint",
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Scrambled Egg Whites",
+          "calories": 378,
+          "tags": [
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Vegan Scrambled Eggs",
+          "calories": 580,
+          "tags": [
+            "Soy"
+          ]
+        },
+        {
+          "name": "Roasted Red Breakfast Potato Wedges",
+          "calories": 83,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ],
+      "Stone Fired": [
+        {
+          "name": "Four Grain Waffles w/ Oranges & Citrus Marmalade",
+          "calories": 147,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Roasted Beet & Grilled Pineapple Butter",
+          "calories": 179,
+          "tags": []
+        },
+        {
+          "name": "Waffle",
+          "calories": 197,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        }
+      ],
+      "Simply Grilled": [
+        {
+          "name": "Ginger Pancake w/ Banana Walnut Topping",
+          "calories": 213,
+          "tags": [
+            "Gluten",
+            "Tree-Nuts",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Vegan Pancake",
+          "calories": 118,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Alcohol"
+          ]
+        }
+      ],
+      "Fruit": [
+        {
+          "name": "Cantaloupe Melon",
+          "calories": 34,
+          "tags": []
+        },
+        {
+          "name": "Grapefruit",
+          "calories": 42,
+          "tags": []
+        },
+        {
+          "name": "Green Grapes",
+          "calories": 69,
+          "tags": []
+        },
+        {
+          "name": "Red Grapes",
+          "calories": 69,
+          "tags": []
+        },
+        {
+          "name": "Pineapple",
+          "calories": 50,
+          "tags": []
+        },
+        {
+          "name": "Watermelon",
+          "calories": 30,
+          "tags": []
+        }
+      ],
+      "Sweet Bites": [
+        {
+          "name": "Multi-Grain Bread",
+          "calories": 172,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Raisin Walnut Bread",
+          "calories": 173,
+          "tags": [
+            "Vegetarian",
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Whole Wheat Sourdough Bread",
+          "calories": 201,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Vegan Apple Quickbread",
+          "calories": 320,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Vegan Carrot Quickbread",
+          "calories": 318,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Almond Cashew Butter",
+          "calories": 587,
+          "tags": [
+            "Soy",
+            "Peanut",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Black Pepper Strawberry Compote",
+          "calories": 126,
+          "tags": []
+        },
+        {
+          "name": "Peanut Butter",
+          "calories": 587,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Chayote & Apple Butter",
+          "calories": 84,
+          "tags": [
+            "Soy"
+          ]
+        }
+      ],
+      "Yogurt Bar": [
+        {
+          "name": "Lowfat Cottage Cheese",
+          "calories": 393,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Low-fat Greek Yogurt",
+          "calories": 59,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Vegan Vanilla Coconut Yogurt",
+          "calories": 372,
+          "tags": [
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Lowfat Strawberry Yogurt",
+          "calories": 71,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Wild Blueberries",
+          "calories": 51,
+          "tags": []
+        },
+        {
+          "name": "Mango",
+          "calories": 60,
+          "tags": []
+        }
+      ],
+      "Beverage Special": [
+        {
+          "name": "Orange Hibiscus Water",
+          "calories": 1,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ],
+      "Greens 'N More": [
+        {
+          "name": "Assorted Bagels",
+          "calories": 257,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Baby Arugula",
+          "calories": 25,
+          "tags": []
+        },
+        {
+          "name": "Low Fat Cream Cheese",
+          "calories": 250,
+          "tags": [
+            "Vegetarian",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Vegan Non-Dairy Cream Cheese",
+          "calories": 233,
+          "tags": [
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Avocado Topping",
+          "calories": 156,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Chocolate Chip Cream Cheese",
+          "calories": 300,
+          "tags": [
+            "Vegetarian",
+            "Soy",
+            "Dairy"
+          ]
+        }
+      ],
+      "Cereal / Oatmeal": [
+        {
+          "name": "Oatmeal",
+          "calories": 183,
+          "tags": [
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Quinoa Flakes & Brown Rice Cereal",
+          "calories": 96,
+          "tags": []
+        }
+      ]
+    },
+    "Lunch": {
+      "Soups": [
+        {
+          "name": "Chicken Noodle Soup",
+          "calories": 124,
+          "tags": [
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Tomato & Fresh Basil Soup",
+          "calories": 30,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ],
+      "Freshly Bowled": [
+        {
+          "name": "Bruin Scramble (Ham & Cheddar)",
+          "calories": 878,
+          "tags": [
+            "Low-Carbon-Footprint",
+            "Dairy",
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Bruin Scramble (Vegetarian)",
+          "calories": 771,
+          "tags": [
+            "Vegetarian",
+            "Low-Carbon-Footprint",
+            "Dairy"
+          ]
+        }
+      ],
+      "Harvest": [
+        {
+          "name": "Caribbean Napa Cabbage Salmon Taco",
+          "calories": 72,
+          "tags": [
+            "Fish"
+          ]
+        },
+        {
+          "name": "Chickpea Salad Sandwich",
+          "calories": 167,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        }
+      ],
+      "Farmstand": [
+        {
+          "name": "Frijoles de la Olla",
+          "calories": 163,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Brown Calrose Rice",
+          "calories": 181,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Farro, Wheatberry, & Brown Rice",
+          "calories": 109,
+          "tags": [
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Roasted Broccoli",
+          "calories": 863,
+          "tags": []
+        },
+        {
+          "name": "Sauteed Kale",
+          "calories": 361,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ],
+      "Stone Fired": [
+        {
+          "name": "Spicy Beef & Eggplant Flatbread",
+          "calories": 501,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Sesame"
+          ]
+        },
+        {
+          "name": "Southwest Black Bean & Avocado Tortilla Pizza",
+          "calories": 401,
+          "tags": [
+            "Dairy"
+          ]
+        }
+      ],
+      "Simply Grilled": [
+        {
+          "name": "Moroccan Grilled Chicken Thigh",
+          "calories": 128,
+          "tags": []
+        },
+        {
+          "name": "Falafel Stacker",
+          "calories": 133,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Grilled Sweet Potato w/ Lemon Chile Dressing",
+          "calories": 1056,
+          "tags": []
+        }
+      ],
+      "Fruit": [
+        {
+          "name": "Cantaloupe Melon",
+          "calories": 34,
+          "tags": []
+        },
+        {
+          "name": "Green Grapes",
+          "calories": 69,
+          "tags": []
+        },
+        {
+          "name": "Red Grapes",
+          "calories": 69,
+          "tags": []
+        },
+        {
+          "name": "Pineapple",
+          "calories": 50,
+          "tags": []
+        },
+        {
+          "name": "Watermelon",
+          "calories": 30,
+          "tags": []
+        },
+        {
+          "name": "Kiwi",
+          "calories": 61,
+          "tags": []
+        }
+      ],
+      "Sweet Bites": [
+        {
+          "name": "Multi-Grain Bread",
+          "calories": 172,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Raisin Walnut Bread",
+          "calories": 173,
+          "tags": [
+            "Vegetarian",
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Whole Wheat Sourdough Bread",
+          "calories": 201,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Vegan Apple Quickbread",
+          "calories": 320,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Vegan Carrot Quickbread",
+          "calories": 318,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Flaxsnax Breakfast Cookie w/ Pecans",
+          "calories": 425,
+          "tags": [
+            "Gluten",
+            "Tree-Nuts",
+            "Sesame"
+          ]
+        },
+        {
+          "name": "Almond Butter",
+          "calories": 634,
+          "tags": []
+        },
+        {
+          "name": "Black Pepper Strawberry Compote",
+          "calories": 126,
+          "tags": []
+        },
+        {
+          "name": "Peanut Butter",
+          "calories": 587,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Chayote & Apple Butter",
+          "calories": 84,
+          "tags": [
+            "Soy"
+          ]
+        },
+        {
+          "name": "Fig Compote",
+          "calories": 195,
+          "tags": [
+            "Alcohol"
+          ]
+        }
+      ],
+      "Yogurt Bar": [
+        {
+          "name": "Low-fat Greek Yogurt",
+          "calories": 59,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Vegan Vanilla Coconut Yogurt",
+          "calories": 372,
+          "tags": [
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Wild Blueberries",
+          "calories": 51,
+          "tags": []
+        },
+        {
+          "name": "Mango",
+          "calories": 60,
+          "tags": []
+        }
+      ],
+      "Beverage Special": [
+        {
+          "name": "Orange Hibiscus Water",
+          "calories": 1,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ],
+      "Greens 'N More": [
+        {
+          "name": "Romaine Lettuce",
+          "calories": 17,
+          "tags": []
+        },
+        {
+          "name": "Power Greens Blend",
+          "calories": 37,
+          "tags": []
+        },
+        {
+          "name": "Mesclun Lettuce Mix",
+          "calories": 15,
+          "tags": []
+        },
+        {
+          "name": "Spinach",
+          "calories": 23,
+          "tags": []
+        },
+        {
+          "name": "Roasted Broccoli",
+          "calories": 863,
+          "tags": []
+        },
+        {
+          "name": "Roasted Brussels Sprouts",
+          "calories": 242,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Roasted Cauliflower",
+          "calories": 45,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Green Lentils",
+          "calories": 451,
+          "tags": []
+        },
+        {
+          "name": "Roasted Butternut Squash",
+          "calories": 45,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Oven Roasted Red Beets",
+          "calories": 216,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ]
+    },
+    "Dinner": {
+      "Soups": [
+        {
+          "name": "Chicken Noodle Soup",
+          "calories": 124,
+          "tags": [
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Tomato & Fresh Basil Soup",
+          "calories": 30,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ],
+      "Freshly Bowled": [
+        {
+          "name": "Tex Mex Turkey, Black Bean, & Spinach Bowl",
+          "calories": 189,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Tex Mex Squash, Spinach, & Black Beans w/ Cornbread",
+          "calories": 119,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        }
+      ],
+      "Harvest": [
+        {
+          "name": "Maple Chipotle Pork Tenderloin",
+          "calories": 125,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Potato, Beet, & Parsnip Mash",
+          "calories": 355,
+          "tags": []
+        },
+        {
+          "name": "Heirloom Bean Stew",
+          "calories": 100,
+          "tags": []
+        }
+      ],
+      "Farmstand": [
+        {
+          "name": "Frijoles de la Olla",
+          "calories": 163,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Brown Calrose Rice",
+          "calories": 181,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Whole Wheat Couscous",
+          "calories": 237,
+          "tags": [
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Roasted Gold & Red Beets",
+          "calories": 259,
+          "tags": []
+        },
+        {
+          "name": "Sauteed Spinach & Kale",
+          "calories": 264,
+          "tags": []
+        }
+      ],
+      "Simply Grilled": [
+        {
+          "name": "Grilled Shrimp",
+          "calories": 385,
+          "tags": [
+            "Crustacean-Shellfish"
+          ]
+        },
+        {
+          "name": "Mojo-Marinated Grilled Tofu",
+          "calories": 562,
+          "tags": [
+            "Soy"
+          ]
+        },
+        {
+          "name": "Baked Russet Potato",
+          "calories": 79,
+          "tags": []
+        }
+      ],
+      "Fruit": [
+        {
+          "name": "Cantaloupe Melon",
+          "calories": 34,
+          "tags": []
+        },
+        {
+          "name": "Green Grapes",
+          "calories": 69,
+          "tags": []
+        },
+        {
+          "name": "Red Grapes",
+          "calories": 69,
+          "tags": []
+        },
+        {
+          "name": "Pineapple",
+          "calories": 50,
+          "tags": []
+        },
+        {
+          "name": "Watermelon",
+          "calories": 30,
+          "tags": []
+        },
+        {
+          "name": "Kiwi",
+          "calories": 61,
+          "tags": []
+        }
+      ],
+      "Sweet Bites": [
+        {
+          "name": "Multi-Grain Bread",
+          "calories": 172,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Raisin Walnut Bread",
+          "calories": 173,
+          "tags": [
+            "Vegetarian",
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Whole Wheat Sourdough Bread",
+          "calories": 201,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Flaxsnax Breakfast Cookie w/ Pecans",
+          "calories": 425,
+          "tags": [
+            "Gluten",
+            "Tree-Nuts",
+            "Sesame"
+          ]
+        },
+        {
+          "name": "Vegan Apple Quickbread",
+          "calories": 320,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Vegan Carrot Quickbread",
+          "calories": 318,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Lemon Tart Mignardise",
+          "calories": 305,
+          "tags": [
+            "Dairy",
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Almond Cashew Butter",
+          "calories": 587,
+          "tags": [
+            "Soy",
+            "Peanut",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Black Pepper Strawberry Compote",
+          "calories": 126,
+          "tags": []
+        },
+        {
+          "name": "Peanut Butter",
+          "calories": 587,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Chayote & Apple Butter",
+          "calories": 84,
+          "tags": [
+            "Soy"
+          ]
+        },
+        {
+          "name": "Fig Compote",
+          "calories": 195,
+          "tags": [
+            "Alcohol"
+          ]
+        }
+      ],
+      "Yogurt Bar": [
+        {
+          "name": "Low-fat Greek Yogurt",
+          "calories": 59,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Vegan Vanilla Coconut Yogurt",
+          "calories": 372,
+          "tags": [
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Wild Blueberries",
+          "calories": 51,
+          "tags": []
+        },
+        {
+          "name": "Mango",
+          "calories": 60,
+          "tags": []
+        }
+      ],
+      "Beverage Special": [
+        {
+          "name": "Navel Orange Water",
+          "calories": 6,
+          "tags": []
+        }
+      ],
+      "Greens 'N More": [
+        {
+          "name": "Romaine Lettuce",
+          "calories": 17,
+          "tags": []
+        },
+        {
+          "name": "Power Greens Blend",
+          "calories": 37,
+          "tags": []
+        },
+        {
+          "name": "Mesclun Lettuce Mix",
+          "calories": 15,
+          "tags": []
+        },
+        {
+          "name": "Spinach",
+          "calories": 23,
+          "tags": []
+        },
+        {
+          "name": "Roasted Broccoli",
+          "calories": 863,
+          "tags": []
+        },
+        {
+          "name": "Roasted Brussels Sprouts",
+          "calories": 242,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Roasted Cauliflower",
+          "calories": 45,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Green Lentils",
+          "calories": 451,
+          "tags": []
+        },
+        {
+          "name": "Roasted Butternut Squash",
+          "calories": 45,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Oven Roasted Red Beets",
+          "calories": 216,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ]
+    }
+  }
+}

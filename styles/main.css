@@ -1,0 +1,74 @@
+/* styles/main.css */
+
+/* Body & basic text styling */
+body {
+    margin: 30px;
+    font-family: Helvetica, Arial, sans-serif;
+    color: #222;
+    line-height: 1.4;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+  
+  /* Container for the 3 columns */
+  #menu-container {
+    display: flex;
+    justify-content: space-around;
+    max-width: 90%;
+    margin: 0 auto; /* center the container horizontally */
+    gap: 2rem;      /* spacing between columns */
+  }
+  
+  /* Each meal column */
+  .column {
+    flex: 1;
+  }
+  
+  /* The meal heading in each column, e.g. "Breakfast" */
+  .column h2 {
+    text-align: center;
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    text-transform: uppercase;
+  }
+  
+  /* Station headings, e.g. "Hot Station" */
+  .section-heading {
+    margin-top: 1.5rem;
+    margin-bottom: 0.5rem;
+    font-size: 1.15rem;
+    text-decoration: underline;
+    font-weight: bold;
+  }
+  
+  /* Lists of items (recipes) below each station heading */
+  .column ul {
+    list-style: none; /* remove bullet points */
+    padding-left: 0;
+    margin: 0 0 1rem;
+  }
+  
+  /* Optional styling for each recipe item */
+  .column li {
+    margin: 0.25rem 0;
+  }
+  
+  /* 
+    MEDIA QUERY:
+    When the screen is narrower than 600px, switch columns 
+    from side-by-side to stacked vertically.
+  */
+  @media (max-width: 768px) {
+    #menu-container {
+      flex-direction: column; /* stack them top-to-bottom */
+      gap: 1rem;              /* reduce the space between columns */
+    }
+  
+    .column h2 {
+      margin-top: 1rem;
+    }
+  }
+  

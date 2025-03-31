@@ -1,0 +1,5158 @@
+{
+  "2025-03-30": {
+    "Breakfast": {
+      "The Front Burner": [
+        {
+          "name": "Maple Syrup",
+          "calories": 256,
+          "tags": []
+        },
+        {
+          "name": "Pancakes",
+          "calories": 14,
+          "tags": [
+            "Vegetarian",
+            "Soy"
+          ]
+        }
+      ],
+      "The Kitchen": [
+        {
+          "name": "Scrambled Eggs",
+          "calories": 191,
+          "tags": []
+        },
+        {
+          "name": "Fried Egg",
+          "calories": 214,
+          "tags": [
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Pork Sausage",
+          "calories": 384,
+          "tags": []
+        },
+        {
+          "name": "Hash Browns with Butter",
+          "calories": 150,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Cheddar Cheese",
+          "calories": 393,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Tomatillo Salsa",
+          "calories": 42,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Hard Cooked Eggs",
+          "calories": 133,
+          "tags": [
+            "Eggs"
+          ]
+        }
+      ],
+      "The Pizzeria": [
+        {
+          "name": "",
+          "calories": 0,
+          "tags": []
+        },
+        {
+          "name": "Maple Syrup",
+          "calories": 256,
+          "tags": []
+        }
+      ],
+      "The Grill": [
+        {
+          "name": "Bodega Egg & Bacon Roll",
+          "calories": 354,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        }
+      ],
+      "The Sweet Stop": [
+        {
+          "name": "Vanilla Low-fat Yogurt",
+          "calories": 138,
+          "tags": []
+        },
+        {
+          "name": "Lowfat Strawberry Yogurt",
+          "calories": 71,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Lowfat Cottage Cheese",
+          "calories": 393,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Greek Yogurt",
+          "calories": 97,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Blueberries",
+          "calories": 51,
+          "tags": []
+        },
+        {
+          "name": "Mandarin Oranges",
+          "calories": 50,
+          "tags": []
+        },
+        {
+          "name": "Pineapple",
+          "calories": 63,
+          "tags": []
+        },
+        {
+          "name": "Mango",
+          "calories": 60,
+          "tags": []
+        },
+        {
+          "name": "Whipped Cream",
+          "calories": 0,
+          "tags": []
+        },
+        {
+          "name": "Oat & Honey Granola",
+          "calories": 473,
+          "tags": [
+            "Soy",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Glazed Donut",
+          "calories": 110,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Mini Croissant",
+          "calories": 417,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Mini Almond Bear Claw",
+          "calories": null,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Blueberry Muffin",
+          "calories": 345,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        }
+      ],
+      "Soups": [
+        {
+          "name": "Oatmeal",
+          "calories": 55,
+          "tags": [
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Dark Brown Sugar",
+          "calories": 380,
+          "tags": []
+        },
+        {
+          "name": "Raisins",
+          "calories": 299,
+          "tags": []
+        }
+      ],
+      "SALADS": [
+        {
+          "name": "Cream Cheese",
+          "calories": 350,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Strawberry Cream Cheese",
+          "calories": 340,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Avocado",
+          "calories": 160,
+          "tags": []
+        },
+        {
+          "name": "Black Forest Ham",
+          "calories": 107,
+          "tags": []
+        },
+        {
+          "name": "Tomato",
+          "calories": 18,
+          "tags": []
+        },
+        {
+          "name": "Nonpareil Capers",
+          "calories": 23,
+          "tags": []
+        },
+        {
+          "name": "Red Onion",
+          "calories": 40,
+          "tags": []
+        },
+        {
+          "name": "Swiss Cheese",
+          "calories": 381,
+          "tags": []
+        },
+        {
+          "name": "Watermelon",
+          "calories": 0,
+          "tags": []
+        },
+        {
+          "name": "Pineapple",
+          "calories": 50,
+          "tags": []
+        },
+        {
+          "name": "Cantaloupe",
+          "calories": 1,
+          "tags": []
+        },
+        {
+          "name": "Baby Spinach",
+          "calories": 23,
+          "tags": []
+        }
+      ],
+      "Warm Sides": [
+        {
+          "name": "Bagel",
+          "calories": 257,
+          "tags": [
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Everything Bagel",
+          "calories": 274,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Sesame"
+          ]
+        }
+      ]
+    },
+    "Lunch": {
+      "Theme of the Day": [
+        {
+          "name": "Brunch",
+          "calories": 0,
+          "tags": []
+        }
+      ],
+      "The Front Burner": [
+        {
+          "name": "Scrambled Eggs",
+          "calories": 168,
+          "tags": [
+            "Vegetarian",
+            "Low-Carbon-Footprint",
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Bacon",
+          "calories": 407,
+          "tags": []
+        },
+        {
+          "name": "Fried Eggs",
+          "calories": 190,
+          "tags": [
+            "Eggs"
+          ]
+        }
+      ],
+      "The Kitchen": [
+        {
+          "name": "Scrambled Eggs",
+          "calories": 191,
+          "tags": []
+        },
+        {
+          "name": "Fried Egg",
+          "calories": 214,
+          "tags": [
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Bacon",
+          "calories": 407,
+          "tags": []
+        },
+        {
+          "name": "Breakfast Hash Brown",
+          "calories": 169,
+          "tags": []
+        },
+        {
+          "name": "Cheddar Cheese",
+          "calories": 393,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Tomatillo Salsa",
+          "calories": 42,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Hard Cooked Eggs",
+          "calories": 133,
+          "tags": [
+            "Eggs"
+          ]
+        }
+      ],
+      "The Pizzeria": [
+        {
+          "name": "Three Cheese & Tomato Pizza",
+          "calories": 241,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Cheese Pizza",
+          "calories": 216,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Garlic Chicken Pizza",
+          "calories": 228,
+          "tags": [
+            "Fish",
+            "Soy",
+            "Crustacean-Shellfish"
+          ]
+        }
+      ],
+      "The Grill": [
+        {
+          "name": "Bruin Burger",
+          "calories": 157,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Bruin Cheeseburger",
+          "calories": 168,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "LA Hot Chicken Sandwich",
+          "calories": 266,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Impossible Burger",
+          "calories": 85,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Brunch Burger",
+          "calories": 247,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        }
+      ],
+      "The Sweet Stop": [
+        {
+          "name": "Chocolate Ganache Cake",
+          "calories": 374,
+          "tags": [
+            "Vegetarian",
+            "Soy",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Snickerdoodle Cookies",
+          "calories": 467,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Chocolate Silk Pie",
+          "calories": 171,
+          "tags": [
+            "Vegetarian",
+            "Soy",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Red Velvet Brownie",
+          "calories": 338,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Vegan Cranberry Apple Crisp",
+          "calories": 75,
+          "tags": [
+            "Vegetarian",
+            "Vegan",
+            "Soy"
+          ]
+        },
+        {
+          "name": "Strawberry Shortcake",
+          "calories": 326,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Wheat"
+          ]
+        }
+      ],
+      "Soups": [
+        {
+          "name": "Chicken Tortilla Soup",
+          "calories": 106,
+          "tags": []
+        },
+        {
+          "name": "Potato Leek Soup",
+          "calories": 52,
+          "tags": [
+            "Vegetarian",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Cilantro Jalapeno Marinated Grilled Chicken Thigh",
+          "calories": 225,
+          "tags": []
+        },
+        {
+          "name": "Mexican Rice",
+          "calories": 282,
+          "tags": []
+        },
+        {
+          "name": "De La Olla Beans",
+          "calories": 163,
+          "tags": []
+        }
+      ],
+      "Warm Sides": [
+        {
+          "name": "Roasted Cauliflower",
+          "calories": 56,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Roasted Brussels Sprouts",
+          "calories": 242,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ]
+    },
+    "Dinner": {
+      "Theme of the Day": [
+        {
+          "name": "Brunch",
+          "calories": 0,
+          "tags": []
+        }
+      ],
+      "The Front Burner": [
+        {
+          "name": "Mission St. Chicken Burrito",
+          "calories": 219,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Bean & Cheese Burrito",
+          "calories": 170,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Shrimp Fajita",
+          "calories": 71,
+          "tags": [
+            "Crustacean-Shellfish"
+          ]
+        },
+        {
+          "name": "Mexican Rice",
+          "calories": 282,
+          "tags": []
+        },
+        {
+          "name": "Vegetable Fajitas",
+          "calories": 161,
+          "tags": []
+        }
+      ],
+      "The Kitchen": [
+        {
+          "name": "Carne Asada Fries",
+          "calories": 83,
+          "tags": [
+            "Fish",
+            "Soy",
+            "Crustacean-Shellfish"
+          ]
+        },
+        {
+          "name": "Fried Vegan Chick'n",
+          "calories": 130,
+          "tags": []
+        }
+      ],
+      "The Pizzeria": [
+        {
+          "name": "Three Cheese & Tomato Pizza",
+          "calories": 241,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Cheese Pizza",
+          "calories": 216,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Garlic Chicken Pizza",
+          "calories": 228,
+          "tags": [
+            "Fish",
+            "Soy",
+            "Crustacean-Shellfish"
+          ]
+        }
+      ],
+      "The Grill": [
+        {
+          "name": "Bruin Burger",
+          "calories": 157,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Bruin Cheeseburger",
+          "calories": 168,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "LA Hot Chicken Sandwich",
+          "calories": 266,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Impossible Burger",
+          "calories": 85,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Brunch Burger",
+          "calories": 247,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        }
+      ],
+      "The Sweet Stop": [
+        {
+          "name": "Chocolate Ganache Cake",
+          "calories": 374,
+          "tags": [
+            "Vegetarian",
+            "Soy",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Snickerdoodle Cookies",
+          "calories": 467,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Chocolate Silk Pie",
+          "calories": 171,
+          "tags": [
+            "Vegetarian",
+            "Soy",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Red Velvet Brownie",
+          "calories": 338,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Vegan Cranberry Apple Crisp",
+          "calories": 75,
+          "tags": [
+            "Vegetarian",
+            "Vegan",
+            "Soy"
+          ]
+        },
+        {
+          "name": "Strawberry Shortcake",
+          "calories": 326,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Wheat"
+          ]
+        }
+      ],
+      "Soups": [
+        {
+          "name": "Chicken Tortilla Soup",
+          "calories": 106,
+          "tags": []
+        },
+        {
+          "name": "Potato Leek Soup",
+          "calories": 52,
+          "tags": [
+            "Vegetarian",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Cilantro Jalapeno Marinated Grilled Chicken Thigh",
+          "calories": 225,
+          "tags": []
+        },
+        {
+          "name": "Mexican Rice",
+          "calories": 282,
+          "tags": []
+        },
+        {
+          "name": "De La Olla Beans",
+          "calories": 163,
+          "tags": []
+        }
+      ],
+      "Warm Sides": [
+        {
+          "name": "Roasted Cauliflower",
+          "calories": 56,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Roasted Brussels Sprouts",
+          "calories": 242,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ]
+    }
+  },
+  "2025-03-31": {
+    "Breakfast": {
+      "The Front Burner": [
+        {
+          "name": "Bruin Scramble (Ham & Cheddar)",
+          "calories": 878,
+          "tags": [
+            "Low-Carbon-Footprint",
+            "Dairy",
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Bruin Scramble (Vegetarian)",
+          "calories": 771,
+          "tags": [
+            "Vegetarian",
+            "Low-Carbon-Footprint",
+            "Dairy"
+          ]
+        }
+      ],
+      "The Kitchen": [
+        {
+          "name": "Scrambled Eggs",
+          "calories": 191,
+          "tags": []
+        },
+        {
+          "name": "Fried Egg",
+          "calories": 214,
+          "tags": [
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Hash Browns with Butter",
+          "calories": 150,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Smoked Polish Sausage",
+          "calories": 360,
+          "tags": []
+        },
+        {
+          "name": "Cheddar Cheese",
+          "calories": 393,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Tomatillo Salsa",
+          "calories": 42,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Hard Cooked Eggs",
+          "calories": 133,
+          "tags": [
+            "Eggs"
+          ]
+        }
+      ],
+      "The Pizzeria": [
+        {
+          "name": "",
+          "calories": 0,
+          "tags": []
+        },
+        {
+          "name": "Maple Syrup",
+          "calories": 256,
+          "tags": []
+        }
+      ],
+      "The Grill": [
+        {
+          "name": "Bodega Egg & Bacon Roll",
+          "calories": 354,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Egg Benedict Sandwich",
+          "calories": 221,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        }
+      ],
+      "The Sweet Stop": [
+        {
+          "name": "Vanilla Low-fat Yogurt",
+          "calories": 138,
+          "tags": []
+        },
+        {
+          "name": "Lowfat Strawberry Yogurt",
+          "calories": 71,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Lowfat Cottage Cheese",
+          "calories": 393,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Greek Yogurt",
+          "calories": 97,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Blueberries",
+          "calories": 51,
+          "tags": []
+        },
+        {
+          "name": "Mandarin Oranges",
+          "calories": 50,
+          "tags": []
+        },
+        {
+          "name": "Pineapple",
+          "calories": 63,
+          "tags": []
+        },
+        {
+          "name": "Mango",
+          "calories": 60,
+          "tags": []
+        },
+        {
+          "name": "Whipped Cream",
+          "calories": 0,
+          "tags": []
+        },
+        {
+          "name": "Oat & Honey Granola",
+          "calories": 473,
+          "tags": [
+            "Soy",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Glazed Donut",
+          "calories": 110,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Mini Croissant",
+          "calories": 417,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Chocolate Muffin",
+          "calories": 386,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Salvadorian Coffee Cake",
+          "calories": 328,
+          "tags": [
+            "Vegetarian",
+            "Sesame",
+            "Dairy"
+          ]
+        }
+      ],
+      "Soups": [
+        {
+          "name": "Oatmeal",
+          "calories": 55,
+          "tags": [
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Dark Brown Sugar",
+          "calories": 380,
+          "tags": []
+        },
+        {
+          "name": "Raisins",
+          "calories": 299,
+          "tags": []
+        }
+      ],
+      "SALADS": [
+        {
+          "name": "Cream Cheese",
+          "calories": 350,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Strawberry Cream Cheese",
+          "calories": 340,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Avocado",
+          "calories": 160,
+          "tags": []
+        },
+        {
+          "name": "Black Forest Ham",
+          "calories": 107,
+          "tags": []
+        },
+        {
+          "name": "Tomato",
+          "calories": 18,
+          "tags": []
+        },
+        {
+          "name": "Nonpareil Capers",
+          "calories": 23,
+          "tags": []
+        },
+        {
+          "name": "Red Onion",
+          "calories": 40,
+          "tags": []
+        },
+        {
+          "name": "Swiss Cheese",
+          "calories": 381,
+          "tags": []
+        },
+        {
+          "name": "Watermelon",
+          "calories": 0,
+          "tags": []
+        },
+        {
+          "name": "Pineapple",
+          "calories": 50,
+          "tags": []
+        },
+        {
+          "name": "Cantaloupe",
+          "calories": 1,
+          "tags": []
+        },
+        {
+          "name": "Baby Spinach",
+          "calories": 23,
+          "tags": []
+        }
+      ],
+      "Warm Sides": [
+        {
+          "name": "Bagel",
+          "calories": 257,
+          "tags": [
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Everything Bagel",
+          "calories": 274,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Sesame"
+          ]
+        }
+      ]
+    },
+    "Lunch": {
+      "Theme of the Day": [
+        {
+          "name": "Hawaiian Islands",
+          "calories": 0,
+          "tags": []
+        }
+      ],
+      "The Front Burner": [
+        {
+          "name": "Garlic Shrimp",
+          "calories": 173,
+          "tags": [
+            "Crustacean-Shellfish",
+            "Dairy",
+            "Alcohol"
+          ]
+        },
+        {
+          "name": "Steamed Rice",
+          "calories": 373,
+          "tags": []
+        }
+      ],
+      "The Kitchen": [
+        {
+          "name": "Honey Huli Huli Rotisserie Chicken",
+          "calories": 169,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Roasted Green Beans",
+          "calories": 47,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint",
+            "Halal"
+          ]
+        },
+        {
+          "name": "Coconut Crusted Tofu",
+          "calories": 220,
+          "tags": [
+            "Fish",
+            "Soy",
+            "Crustacean-Shellfish"
+          ]
+        }
+      ],
+      "The Pizzeria": [
+        {
+          "name": "Luau Pizza",
+          "calories": 150,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Cheese Pizza",
+          "calories": 216,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Pepperoni Deluxe Pizza",
+          "calories": 197,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        }
+      ],
+      "The Grill": [
+        {
+          "name": "Bruin Burger",
+          "calories": 157,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Bruin Cheeseburger",
+          "calories": 168,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "LA Hot Chicken Sandwich",
+          "calories": 266,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Impossible Burger",
+          "calories": 85,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Big Island Burger",
+          "calories": 225,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        }
+      ],
+      "The Sweet Stop": [
+        {
+          "name": "White Cupcake",
+          "calories": 343,
+          "tags": [
+            "Gluten",
+            "Tree-Nuts",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "White Chocolate Chip Cookie w/ Cranberries",
+          "calories": 428,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "White Chocolate Raspberry Pie",
+          "calories": 365,
+          "tags": [
+            "Dairy",
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Blueberry Princess Bar",
+          "calories": 272,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Vegan Cranberry Apple Crisp",
+          "calories": 151,
+          "tags": [
+            "Soy",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Tres Leches Cake",
+          "calories": 305,
+          "tags": [
+            "Gluten",
+            "Tree-Nuts",
+            "Wheat"
+          ]
+        }
+      ],
+      "Soups": [
+        {
+          "name": "Spicy Lentil",
+          "calories": 153,
+          "tags": []
+        },
+        {
+          "name": "Chicken Tortilla Soup",
+          "calories": 106,
+          "tags": []
+        },
+        {
+          "name": "Broccoli Cheddar Soup",
+          "calories": 126,
+          "tags": [
+            "Vegetarian",
+            "Fish",
+            "Soy"
+          ]
+        },
+        {
+          "name": "Mesquite Barbecue Chicken Breast",
+          "calories": 165,
+          "tags": [
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Steamed Rice",
+          "calories": 373,
+          "tags": []
+        }
+      ],
+      "SALADS": [
+        {
+          "name": "California Pasta Salad",
+          "calories": 216,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Mexican Street Corn Salad",
+          "calories": 299,
+          "tags": [
+            "Soy",
+            "Dairy",
+            "Eggs"
+          ]
+        }
+      ],
+      "Warm Sides": [
+        {
+          "name": "Roasted Broccoli w/ Garlic",
+          "calories": 92,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Roasted Fingerling Potato",
+          "calories": 76,
+          "tags": []
+        },
+        {
+          "name": "Roasted Cauliflower",
+          "calories": 56,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ]
+    },
+    "Dinner": {
+      "Late Night De Neve": [
+        {
+          "name": "Cheese Pizza",
+          "calories": 250,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        }
+      ],
+      "Theme of the Day": [
+        {
+          "name": "Hawaiian Islands",
+          "calories": 0,
+          "tags": []
+        }
+      ],
+      "The Front Burner": [
+        {
+          "name": "Macadamia Nut Crumble Mahi Mahi",
+          "calories": 71,
+          "tags": [
+            "Fish",
+            "Soy",
+            "Crustacean-Shellfish"
+          ]
+        },
+        {
+          "name": "Green Papaya & Orange Slaw",
+          "calories": 46,
+          "tags": []
+        },
+        {
+          "name": "Fried Buffalo Tofu",
+          "calories": 92,
+          "tags": [
+            "Soy"
+          ]
+        }
+      ],
+      "The Kitchen": [
+        {
+          "name": "Hawaiian Roasted Pork",
+          "calories": 189,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "",
+          "calories": 345,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Fried Vegan Chick'n",
+          "calories": 130,
+          "tags": []
+        }
+      ],
+      "The Pizzeria": [
+        {
+          "name": "Luau Pizza",
+          "calories": 150,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Cheese Pizza",
+          "calories": 216,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Pepperoni Deluxe Pizza",
+          "calories": 197,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        }
+      ],
+      "The Grill": [
+        {
+          "name": "Bruin Burger",
+          "calories": 157,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Bruin Cheeseburger",
+          "calories": 168,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "LA Hot Chicken Sandwich",
+          "calories": 266,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Impossible Burger",
+          "calories": 85,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Big Island Burger",
+          "calories": 225,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        }
+      ],
+      "The Sweet Stop": [
+        {
+          "name": "White Cupcake",
+          "calories": 343,
+          "tags": [
+            "Gluten",
+            "Tree-Nuts",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "White Chocolate Chip Cookie w/ Cranberries",
+          "calories": 428,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "White Chocolate Raspberry Pie",
+          "calories": 365,
+          "tags": [
+            "Dairy",
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Blueberry Princess Bar",
+          "calories": 272,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Vegan Cranberry Apple Crisp",
+          "calories": 151,
+          "tags": [
+            "Soy",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Tres Leches Cake",
+          "calories": 305,
+          "tags": [
+            "Gluten",
+            "Tree-Nuts",
+            "Wheat"
+          ]
+        }
+      ],
+      "Soups": [
+        {
+          "name": "Cilantro Rice",
+          "calories": 111,
+          "tags": [
+            "Soy"
+          ]
+        },
+        {
+          "name": "Spicy Lentil",
+          "calories": 153,
+          "tags": []
+        },
+        {
+          "name": "Beef & Barley Soup",
+          "calories": 40,
+          "tags": [
+            "High-Carbon-Footprint",
+            "Soy",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Potato Leek Soup",
+          "calories": 52,
+          "tags": [
+            "Vegetarian",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Mesquite Barbecue Chicken Breast",
+          "calories": 165,
+          "tags": [
+            "Gluten"
+          ]
+        }
+      ],
+      "Warm Sides": [
+        {
+          "name": "Roasted Broccoli w/ Garlic",
+          "calories": 92,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Roasted Cauliflower w/ Chile & Lime",
+          "calories": 52,
+          "tags": []
+        },
+        {
+          "name": "Roasted Fingerling Potato",
+          "calories": 76,
+          "tags": []
+        }
+      ]
+    }
+  },
+  "2025-04-01": {
+    "Breakfast": {
+      "The Kitchen": [
+        {
+          "name": "Scrambled Eggs",
+          "calories": 191,
+          "tags": []
+        },
+        {
+          "name": "Fried Egg",
+          "calories": 214,
+          "tags": [
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Pork Sausage",
+          "calories": 384,
+          "tags": []
+        },
+        {
+          "name": "Hash Browns with Butter",
+          "calories": 150,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Cheddar Cheese",
+          "calories": 393,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Tomatillo Salsa",
+          "calories": 42,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Hard Cooked Eggs",
+          "calories": 133,
+          "tags": [
+            "Eggs"
+          ]
+        }
+      ],
+      "The Pizzeria": [
+        {
+          "name": "",
+          "calories": 0,
+          "tags": []
+        },
+        {
+          "name": "Maple Syrup",
+          "calories": 256,
+          "tags": []
+        }
+      ],
+      "The Grill": [
+        {
+          "name": "Bodega Egg & Bacon Roll",
+          "calories": 354,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        }
+      ],
+      "The Sweet Stop": [
+        {
+          "name": "Vanilla Low-fat Yogurt",
+          "calories": 138,
+          "tags": []
+        },
+        {
+          "name": "Lowfat Strawberry Yogurt",
+          "calories": 71,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Lowfat Cottage Cheese",
+          "calories": 393,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Greek Yogurt",
+          "calories": 97,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Blueberries",
+          "calories": 51,
+          "tags": []
+        },
+        {
+          "name": "Mandarin Oranges",
+          "calories": 50,
+          "tags": []
+        },
+        {
+          "name": "Pineapple",
+          "calories": 63,
+          "tags": []
+        },
+        {
+          "name": "Mango",
+          "calories": 60,
+          "tags": []
+        },
+        {
+          "name": "Whipped Cream",
+          "calories": 0,
+          "tags": []
+        },
+        {
+          "name": "Oat & Honey Granola",
+          "calories": 473,
+          "tags": [
+            "Soy",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Glazed Donut",
+          "calories": 110,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Mini Croissant",
+          "calories": 417,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Chocolate Croissant",
+          "calories": 419,
+          "tags": []
+        },
+        {
+          "name": "Banana Muffin",
+          "calories": 414,
+          "tags": [
+            "Gluten",
+            "Tree-Nuts",
+            "Wheat"
+          ]
+        }
+      ],
+      "Soups": [
+        {
+          "name": "Oatmeal",
+          "calories": 55,
+          "tags": [
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Dark Brown Sugar",
+          "calories": 380,
+          "tags": []
+        },
+        {
+          "name": "Raisins",
+          "calories": 299,
+          "tags": []
+        }
+      ],
+      "SALADS": [
+        {
+          "name": "Cream Cheese",
+          "calories": 350,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Strawberry Cream Cheese",
+          "calories": 340,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Avocado",
+          "calories": 160,
+          "tags": []
+        },
+        {
+          "name": "Black Forest Ham",
+          "calories": 107,
+          "tags": []
+        },
+        {
+          "name": "Tomato",
+          "calories": 18,
+          "tags": []
+        },
+        {
+          "name": "Nonpareil Capers",
+          "calories": 23,
+          "tags": []
+        },
+        {
+          "name": "Red Onion",
+          "calories": 40,
+          "tags": []
+        },
+        {
+          "name": "Swiss Cheese",
+          "calories": 381,
+          "tags": []
+        },
+        {
+          "name": "Watermelon",
+          "calories": 0,
+          "tags": []
+        },
+        {
+          "name": "Pineapple",
+          "calories": 50,
+          "tags": []
+        },
+        {
+          "name": "Cantaloupe",
+          "calories": 1,
+          "tags": []
+        },
+        {
+          "name": "Baby Spinach",
+          "calories": 23,
+          "tags": []
+        }
+      ],
+      "Warm Sides": [
+        {
+          "name": "Bagel",
+          "calories": 257,
+          "tags": [
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Everything Bagel",
+          "calories": 274,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Sesame"
+          ]
+        }
+      ]
+    },
+    "Lunch": {
+      "The Pizzeria": [
+        {
+          "name": "Pepperoni Pizza",
+          "calories": 244,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        }
+      ],
+      "The Grill": [
+        {
+          "name": "Bruin Burger",
+          "calories": 157,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Bruin Cheeseburger",
+          "calories": 168,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "LA Hot Chicken Sandwich",
+          "calories": 266,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Impossible Burger",
+          "calories": 85,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        }
+      ],
+      "The Sweet Stop": [
+        {
+          "name": "Red Velvet Cake",
+          "calories": 386,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Mexican Wedding Cookie",
+          "calories": 560,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Dutch Apple Pie",
+          "calories": 162,
+          "tags": [
+            "Soy",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Fudge Brownie",
+          "calories": 366,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Vegan Mixed Berry Crisp",
+          "calories": 89,
+          "tags": [
+            "Soy",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Maple Walnut Blondies",
+          "calories": 368,
+          "tags": [
+            "Gluten",
+            "Tree-Nuts",
+            "Wheat"
+          ]
+        }
+      ],
+      "Soups": [
+        {
+          "name": "Chicken Tortilla Soup",
+          "calories": 106,
+          "tags": []
+        },
+        {
+          "name": "Potato Leek Soup",
+          "calories": 52,
+          "tags": [
+            "Vegetarian",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Honey Lime Chicken Thighs",
+          "calories": 133,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Coconut Rice w/ Plantains",
+          "calories": 189,
+          "tags": [
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Spicy Black Beans",
+          "calories": 78,
+          "tags": []
+        }
+      ],
+      "Warm Sides": [
+        {
+          "name": "Roasted Diced Sweet Potatoes",
+          "calories": 133,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Garlicky Green Beans",
+          "calories": 87,
+          "tags": []
+        }
+      ]
+    },
+    "Dinner": {
+      "The Kitchen": [
+        {
+          "name": "Picanha Rotisserie Sirlion Steak",
+          "calories": 216,
+          "tags": []
+        },
+        {
+          "name": "Roasted Fingerling Potato & Cilantro Pesto",
+          "calories": 187,
+          "tags": []
+        },
+        {
+          "name": "Vegan Sausage",
+          "calories": 239,
+          "tags": [
+            "Gluten",
+            "Wheat"
+          ]
+        }
+      ],
+      "The Pizzeria": [
+        {
+          "name": "Pepperoni Pizza",
+          "calories": 244,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        }
+      ],
+      "The Grill": [
+        {
+          "name": "Bruin Burger",
+          "calories": 157,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Bruin Cheeseburger",
+          "calories": 168,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "LA Hot Chicken Sandwich",
+          "calories": 266,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Impossible Burger",
+          "calories": 85,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        }
+      ],
+      "The Sweet Stop": [
+        {
+          "name": "Red Velvet Cake",
+          "calories": 386,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Mexican Wedding Cookie",
+          "calories": 560,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Dutch Apple Pie",
+          "calories": 162,
+          "tags": [
+            "Soy",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Fudge Brownie",
+          "calories": 366,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Vegan Mixed Berry Crisp",
+          "calories": 89,
+          "tags": [
+            "Soy",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Maple Walnut Blondies",
+          "calories": 368,
+          "tags": [
+            "Gluten",
+            "Tree-Nuts",
+            "Wheat"
+          ]
+        }
+      ],
+      "Soups": [
+        {
+          "name": "Chicken Tortilla Soup",
+          "calories": 106,
+          "tags": []
+        },
+        {
+          "name": "Potato Leek Soup",
+          "calories": 52,
+          "tags": [
+            "Vegetarian",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Coconut Rice w/ Plantains",
+          "calories": 189,
+          "tags": [
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Spicy Black Beans",
+          "calories": 78,
+          "tags": []
+        }
+      ],
+      "Warm Sides": [
+        {
+          "name": "Garlicky Green Beans",
+          "calories": 87,
+          "tags": []
+        },
+        {
+          "name": "Roasted Diced Sweet Potatoes",
+          "calories": 133,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ]
+    }
+  },
+  "2025-04-02": {
+    "Breakfast": {
+      "The Front Burner": [
+        {
+          "name": "Bruin Scramble (Ham & Cheddar)",
+          "calories": 878,
+          "tags": [
+            "Low-Carbon-Footprint",
+            "Dairy",
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Bruin Scramble (Vegetarian)",
+          "calories": 771,
+          "tags": [
+            "Vegetarian",
+            "Low-Carbon-Footprint",
+            "Dairy"
+          ]
+        }
+      ],
+      "The Kitchen": [
+        {
+          "name": "Scrambled Eggs",
+          "calories": 191,
+          "tags": []
+        },
+        {
+          "name": "Fried Egg",
+          "calories": 214,
+          "tags": [
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Smoked Polish Sausage",
+          "calories": 360,
+          "tags": []
+        },
+        {
+          "name": "Hash Browns with Butter",
+          "calories": 150,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Cheddar Cheese",
+          "calories": 393,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Tomatillo Salsa",
+          "calories": 42,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Hard Cooked Eggs",
+          "calories": 133,
+          "tags": [
+            "Eggs"
+          ]
+        }
+      ],
+      "The Pizzeria": [
+        {
+          "name": "",
+          "calories": 0,
+          "tags": []
+        },
+        {
+          "name": "Maple Syrup",
+          "calories": 256,
+          "tags": []
+        }
+      ],
+      "The Grill": [
+        {
+          "name": "Bodega Egg & Bacon Roll",
+          "calories": 354,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        }
+      ],
+      "The Sweet Stop": [
+        {
+          "name": "Vanilla Low-fat Yogurt",
+          "calories": 138,
+          "tags": []
+        },
+        {
+          "name": "Lowfat Strawberry Yogurt",
+          "calories": 71,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Lowfat Cottage Cheese",
+          "calories": 393,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Greek Yogurt",
+          "calories": 97,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Blueberries",
+          "calories": 51,
+          "tags": []
+        },
+        {
+          "name": "Mandarin Oranges",
+          "calories": 50,
+          "tags": []
+        },
+        {
+          "name": "Pineapple",
+          "calories": 63,
+          "tags": []
+        },
+        {
+          "name": "Mango",
+          "calories": 60,
+          "tags": []
+        },
+        {
+          "name": "Whipped Cream",
+          "calories": 0,
+          "tags": []
+        },
+        {
+          "name": "Oat & Honey Granola",
+          "calories": 473,
+          "tags": [
+            "Soy",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Glazed Donut",
+          "calories": 110,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Mini Croissant",
+          "calories": 417,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Cinnamon Roll",
+          "calories": 285,
+          "tags": [
+            "Dairy",
+            "Alcohol"
+          ]
+        },
+        {
+          "name": "Chocolate Cinnamon Cream Cheese Coffee Cake",
+          "calories": 369,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        }
+      ],
+      "Soups": [
+        {
+          "name": "Oatmeal",
+          "calories": 55,
+          "tags": [
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Dark Brown Sugar",
+          "calories": 380,
+          "tags": []
+        },
+        {
+          "name": "Raisins",
+          "calories": 299,
+          "tags": []
+        }
+      ],
+      "SALADS": [
+        {
+          "name": "Cream Cheese",
+          "calories": 350,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Strawberry Cream Cheese",
+          "calories": 340,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Avocado",
+          "calories": 160,
+          "tags": []
+        },
+        {
+          "name": "Black Forest Ham",
+          "calories": 107,
+          "tags": []
+        },
+        {
+          "name": "Tomato",
+          "calories": 18,
+          "tags": []
+        },
+        {
+          "name": "Nonpareil Capers",
+          "calories": 23,
+          "tags": []
+        },
+        {
+          "name": "Red Onion",
+          "calories": 40,
+          "tags": []
+        },
+        {
+          "name": "Swiss Cheese",
+          "calories": 381,
+          "tags": []
+        },
+        {
+          "name": "Watermelon",
+          "calories": 0,
+          "tags": []
+        },
+        {
+          "name": "Pineapple",
+          "calories": 50,
+          "tags": []
+        },
+        {
+          "name": "Cantaloupe",
+          "calories": 1,
+          "tags": []
+        },
+        {
+          "name": "Baby Spinach",
+          "calories": 23,
+          "tags": []
+        }
+      ],
+      "Warm Sides": [
+        {
+          "name": "Bagel",
+          "calories": 257,
+          "tags": [
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Everything Bagel",
+          "calories": 274,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Sesame"
+          ]
+        }
+      ]
+    },
+    "Lunch": {
+      "Theme of the Day": [
+        {
+          "name": "Prairie Midwest",
+          "calories": 0,
+          "tags": []
+        }
+      ],
+      "The Front Burner": [
+        {
+          "name": "Cincinnati Style Chili",
+          "calories": 88,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Spaghetti Noodles",
+          "calories": 357,
+          "tags": [
+            "Gluten",
+            "Wheat"
+          ]
+        }
+      ],
+      "The Kitchen": [
+        {
+          "name": "Wisconsin Beer Brats",
+          "calories": 288,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "House-Made Potato Chippers",
+          "calories": 188,
+          "tags": []
+        },
+        {
+          "name": "Vegetarian Hot Dog",
+          "calories": 295,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        }
+      ],
+      "The Pizzeria": [
+        {
+          "name": "Detroit-Style Pepperoni Pizza",
+          "calories": 287,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Garlic Chicken Pizza",
+          "calories": 228,
+          "tags": [
+            "Fish",
+            "Soy",
+            "Crustacean-Shellfish"
+          ]
+        },
+        {
+          "name": "Tillamook Ricotta & Fontina Pizza",
+          "calories": 212,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        }
+      ],
+      "The Grill": [
+        {
+          "name": "Bruin Burger",
+          "calories": 157,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Bruin Cheeseburger",
+          "calories": 168,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "LA Hot Chicken Sandwich",
+          "calories": 266,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Impossible Burger",
+          "calories": 85,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "OMG Burger",
+          "calories": 177,
+          "tags": [
+            "Fish",
+            "Soy",
+            "Crustacean-Shellfish"
+          ]
+        }
+      ],
+      "The Sweet Stop": [
+        {
+          "name": "Chocolate Cupcake",
+          "calories": 346,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Vegan Chocolate Chip Cookie",
+          "calories": 446,
+          "tags": [
+            "Vegan",
+            "Soy",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Coffee Toffee Pie",
+          "calories": 395,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Blondie w/ Walnuts",
+          "calories": 374,
+          "tags": [
+            "Gluten",
+            "Tree-Nuts",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "BAK CRISP PEACH",
+          "calories": 161,
+          "tags": [
+            "Soy",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Banana Bread Pudding",
+          "calories": 214,
+          "tags": [
+            "Vegetarian",
+            "Soy",
+            "Gluten"
+          ]
+        }
+      ],
+      "Soups": [
+        {
+          "name": "Chicken Noodle Soup",
+          "calories": 124,
+          "tags": [
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Tomato Basil Soup",
+          "calories": 29,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Grilled Chicken Thigh",
+          "calories": 121,
+          "tags": []
+        },
+        {
+          "name": "Brown Rice, Lentil, & Black Bean Saute",
+          "calories": 163,
+          "tags": []
+        },
+        {
+          "name": "Portobello Three Bean Chili",
+          "calories": 61,
+          "tags": [
+            "Fish"
+          ]
+        }
+      ],
+      "Warm Sides": [
+        {
+          "name": "Roasted Broccoli w/ Garlic",
+          "calories": 92,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ]
+    },
+    "Dinner": {
+      "Late Night De Neve": [
+        {
+          "name": "Cheese Pizza",
+          "calories": 250,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        }
+      ],
+      "Theme of the Day": [
+        {
+          "name": "Prairie Midwest",
+          "calories": 0,
+          "tags": []
+        }
+      ],
+      "The Front Burner": [
+        {
+          "name": "German Meatballs w/ Caper Cream Sauce & Egg Noodles",
+          "calories": 336,
+          "tags": [
+            "Fish",
+            "Soy",
+            "Crustacean-Shellfish"
+          ]
+        },
+        {
+          "name": "Egg Noodles w/ Mushrooms",
+          "calories": 335,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        }
+      ],
+      "The Kitchen": [
+        {
+          "name": "Idaho Stuffed Potato Skin",
+          "calories": 119,
+          "tags": [
+            "Dairy"
+          ]
+        }
+      ],
+      "The Pizzeria": [
+        {
+          "name": "Detroit-Style Pepperoni Pizza",
+          "calories": 287,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Garlic Chicken Pizza",
+          "calories": 228,
+          "tags": [
+            "Fish",
+            "Soy",
+            "Crustacean-Shellfish"
+          ]
+        },
+        {
+          "name": "Tillamook Ricotta & Fontina Pizza",
+          "calories": 212,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        }
+      ],
+      "The Grill": [
+        {
+          "name": "Bruin Burger",
+          "calories": 157,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Bruin Cheeseburger",
+          "calories": 168,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "LA Hot Chicken Sandwich",
+          "calories": 266,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Impossible Burger",
+          "calories": 85,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "OMG Burger",
+          "calories": 177,
+          "tags": [
+            "Fish",
+            "Soy",
+            "Crustacean-Shellfish"
+          ]
+        }
+      ],
+      "The Sweet Stop": [
+        {
+          "name": "Chocolate Cupcake",
+          "calories": 346,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Vegan Chocolate Chip Cookie",
+          "calories": 446,
+          "tags": [
+            "Vegan",
+            "Soy",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Coffee Toffee Pie",
+          "calories": 395,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Blondie w/ Walnuts",
+          "calories": 374,
+          "tags": [
+            "Gluten",
+            "Tree-Nuts",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "BAK CRISP PEACH",
+          "calories": 161,
+          "tags": [
+            "Soy",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Banana Bread Pudding",
+          "calories": 214,
+          "tags": [
+            "Vegetarian",
+            "Soy",
+            "Gluten"
+          ]
+        }
+      ],
+      "Soups": [
+        {
+          "name": "Chicken Noodle Soup",
+          "calories": 124,
+          "tags": [
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Tomato Basil Soup",
+          "calories": 29,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Grilled Chicken Thigh",
+          "calories": 121,
+          "tags": []
+        },
+        {
+          "name": "Brown Rice, Lentil, & Black Bean Saute",
+          "calories": 163,
+          "tags": []
+        },
+        {
+          "name": "Portobello Three Bean Chili",
+          "calories": 61,
+          "tags": [
+            "Fish"
+          ]
+        }
+      ],
+      "Warm Sides": [
+        {
+          "name": "Roasted Broccoli w/ Garlic",
+          "calories": 92,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ]
+    }
+  },
+  "2025-04-03": {
+    "Breakfast": {
+      "The Kitchen": [
+        {
+          "name": "Scrambled Eggs",
+          "calories": 191,
+          "tags": []
+        },
+        {
+          "name": "Fried Egg",
+          "calories": 214,
+          "tags": [
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Pork Sausage",
+          "calories": 384,
+          "tags": []
+        },
+        {
+          "name": "Hash Browns with Butter",
+          "calories": 150,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Cheddar Cheese",
+          "calories": 393,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Tomatillo Salsa",
+          "calories": 42,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Hard Cooked Eggs",
+          "calories": 133,
+          "tags": [
+            "Eggs"
+          ]
+        }
+      ],
+      "The Pizzeria": [
+        {
+          "name": "",
+          "calories": 0,
+          "tags": []
+        },
+        {
+          "name": "Maple Syrup",
+          "calories": 256,
+          "tags": []
+        }
+      ],
+      "The Grill": [
+        {
+          "name": "Bodega Egg & Bacon Roll",
+          "calories": 354,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "The Griddler",
+          "calories": 117,
+          "tags": [
+            "Soy",
+            "Dairy",
+            "Eggs"
+          ]
+        }
+      ],
+      "The Sweet Stop": [
+        {
+          "name": "Vanilla Low-fat Yogurt",
+          "calories": 138,
+          "tags": []
+        },
+        {
+          "name": "Lowfat Strawberry Yogurt",
+          "calories": 71,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Lowfat Cottage Cheese",
+          "calories": 393,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Greek Yogurt",
+          "calories": 97,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Blueberries",
+          "calories": 51,
+          "tags": []
+        },
+        {
+          "name": "Mandarin Oranges",
+          "calories": 50,
+          "tags": []
+        },
+        {
+          "name": "Pineapple",
+          "calories": 63,
+          "tags": []
+        },
+        {
+          "name": "Mango",
+          "calories": 60,
+          "tags": []
+        },
+        {
+          "name": "Whipped Cream",
+          "calories": 0,
+          "tags": []
+        },
+        {
+          "name": "Oat & Honey Granola",
+          "calories": 473,
+          "tags": [
+            "Soy",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Glazed Donut",
+          "calories": 110,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Mini Croissant",
+          "calories": 417,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Mini Apple Danish",
+          "calories": 269,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Mocha Chocolate Chip Muffin",
+          "calories": 372,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        }
+      ],
+      "Soups": [
+        {
+          "name": "Oatmeal",
+          "calories": 55,
+          "tags": [
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Dark Brown Sugar",
+          "calories": 380,
+          "tags": []
+        },
+        {
+          "name": "Raisins",
+          "calories": 299,
+          "tags": []
+        }
+      ],
+      "SALADS": [
+        {
+          "name": "Cream Cheese",
+          "calories": 350,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Strawberry Cream Cheese",
+          "calories": 340,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Avocado",
+          "calories": 160,
+          "tags": []
+        },
+        {
+          "name": "Black Forest Ham",
+          "calories": 107,
+          "tags": []
+        },
+        {
+          "name": "Tomato",
+          "calories": 18,
+          "tags": []
+        },
+        {
+          "name": "Nonpareil Capers",
+          "calories": 23,
+          "tags": []
+        },
+        {
+          "name": "Red Onion",
+          "calories": 40,
+          "tags": []
+        },
+        {
+          "name": "Swiss Cheese",
+          "calories": 381,
+          "tags": []
+        },
+        {
+          "name": "Watermelon",
+          "calories": 0,
+          "tags": []
+        },
+        {
+          "name": "Pineapple",
+          "calories": 50,
+          "tags": []
+        },
+        {
+          "name": "Cantaloupe",
+          "calories": 1,
+          "tags": []
+        },
+        {
+          "name": "Baby Spinach",
+          "calories": 23,
+          "tags": []
+        }
+      ],
+      "Warm Sides": [
+        {
+          "name": "Bagel",
+          "calories": 257,
+          "tags": [
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Everything Bagel",
+          "calories": 274,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Sesame"
+          ]
+        }
+      ]
+    },
+    "Lunch": {
+      "Theme of the Day": [
+        {
+          "name": "American Diner",
+          "calories": 0,
+          "tags": []
+        }
+      ],
+      "The Front Burner": [
+        {
+          "name": "Baked Mac and Cheese",
+          "calories": 301,
+          "tags": [
+            "Fish",
+            "Soy",
+            "Crustacean-Shellfish"
+          ]
+        }
+      ],
+      "The Kitchen": [
+        {
+          "name": "Country Fried Steak",
+          "calories": 490,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Steak Cut Fries",
+          "calories": 0,
+          "tags": []
+        },
+        {
+          "name": "Fried Vegan Chick'n",
+          "calories": 130,
+          "tags": []
+        }
+      ],
+      "The Pizzeria": [
+        {
+          "name": "Meatball Pizza",
+          "calories": 225,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Pepper & Mushroom Pizza",
+          "calories": 194,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Pepperoni Pizza",
+          "calories": 244,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        }
+      ],
+      "The Grill": [
+        {
+          "name": "Bruin Burger",
+          "calories": 157,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Bruin Cheeseburger",
+          "calories": 168,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "LA Hot Chicken Sandwich",
+          "calories": 266,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Impossible Burger",
+          "calories": 85,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Pastrami Burger",
+          "calories": 187,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        }
+      ],
+      "The Sweet Stop": [
+        {
+          "name": "Cheesecake",
+          "calories": 336,
+          "tags": [
+            "Vegetarian",
+            "Soy",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Vegan Oatmeal Raisin Cookie",
+          "calories": 411,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Key Lime Pie",
+          "calories": 228,
+          "tags": [
+            "Dairy",
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Chipmunk Bar",
+          "calories": 385,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Vegan Chocolate Cherry Crisp",
+          "calories": 124,
+          "tags": [
+            "Soy",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Chocolate Macaroon Bundt Cake",
+          "calories": 373,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        }
+      ],
+      "Soups": [
+        {
+          "name": "Chicken Tortilla Soup",
+          "calories": 106,
+          "tags": []
+        },
+        {
+          "name": "Potato Leek Soup",
+          "calories": 52,
+          "tags": [
+            "Vegetarian",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Roasted Garlic Marinated Grilled Chicken Thigh",
+          "calories": 160,
+          "tags": []
+        },
+        {
+          "name": "Lemon Spinach Rice",
+          "calories": 225,
+          "tags": []
+        },
+        {
+          "name": "Stewed Cannellini Beans w/ Tomatoes",
+          "calories": 373,
+          "tags": []
+        }
+      ],
+      "Warm Sides": [
+        {
+          "name": "Roasted Green Beans",
+          "calories": 47,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint",
+            "Halal"
+          ]
+        },
+        {
+          "name": "Peas & Carrots",
+          "calories": 38,
+          "tags": []
+        }
+      ]
+    },
+    "Dinner": {
+      "Late Night De Neve": [
+        {
+          "name": "Cheese Pizza",
+          "calories": 250,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        }
+      ],
+      "Theme of the Day": [
+        {
+          "name": "American Diner",
+          "calories": 0,
+          "tags": []
+        }
+      ],
+      "The Front Burner": [
+        {
+          "name": "Chicken Pot Pie",
+          "calories": 177,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Vegetable Pot Pie",
+          "calories": 201,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        }
+      ],
+      "The Kitchen": [
+        {
+          "name": "Beef Meatloaf",
+          "calories": 199,
+          "tags": [
+            "Fish",
+            "Soy",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "BBQ Plum and Chipotle Tofu",
+          "calories": 154,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        }
+      ],
+      "The Pizzeria": [
+        {
+          "name": "Meatball Pizza",
+          "calories": 225,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Pepper & Mushroom Pizza",
+          "calories": 194,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Pepperoni Pizza",
+          "calories": 244,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        }
+      ],
+      "The Grill": [
+        {
+          "name": "Bruin Burger",
+          "calories": 157,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Bruin Cheeseburger",
+          "calories": 168,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "LA Hot Chicken Sandwich",
+          "calories": 266,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Impossible Burger",
+          "calories": 85,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Pastrami Burger",
+          "calories": 187,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        }
+      ],
+      "The Sweet Stop": [
+        {
+          "name": "Cheesecake",
+          "calories": 336,
+          "tags": [
+            "Vegetarian",
+            "Soy",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Vegan Oatmeal Raisin Cookie",
+          "calories": 411,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Key Lime Pie",
+          "calories": 228,
+          "tags": [
+            "Dairy",
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Chipmunk Bar",
+          "calories": 385,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Vegan Chocolate Cherry Crisp",
+          "calories": 124,
+          "tags": [
+            "Soy",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Chocolate Macaroon Bundt Cake",
+          "calories": 373,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        }
+      ],
+      "Soups": [
+        {
+          "name": "Chicken Tortilla Soup",
+          "calories": 106,
+          "tags": []
+        },
+        {
+          "name": "Potato Leek Soup",
+          "calories": 52,
+          "tags": [
+            "Vegetarian",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Roasted Garlic Marinated Grilled Chicken Thigh",
+          "calories": 160,
+          "tags": []
+        },
+        {
+          "name": "Lemon Spinach Rice",
+          "calories": 225,
+          "tags": []
+        },
+        {
+          "name": "Stewed Cannellini Beans w/ Tomatoes",
+          "calories": 373,
+          "tags": []
+        }
+      ],
+      "Warm Sides": [
+        {
+          "name": "Roasted Green Beans",
+          "calories": 47,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint",
+            "Halal"
+          ]
+        },
+        {
+          "name": "Peas & Carrots",
+          "calories": 38,
+          "tags": []
+        }
+      ]
+    }
+  },
+  "2025-04-04": {
+    "Breakfast": {
+      "The Front Burner": [
+        {
+          "name": "Bruin Scramble (Ham & Cheddar)",
+          "calories": 878,
+          "tags": [
+            "Low-Carbon-Footprint",
+            "Dairy",
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Bruin Scramble (Vegetarian)",
+          "calories": 771,
+          "tags": [
+            "Vegetarian",
+            "Low-Carbon-Footprint",
+            "Dairy"
+          ]
+        }
+      ],
+      "The Kitchen": [
+        {
+          "name": "Scrambled Eggs",
+          "calories": 191,
+          "tags": []
+        },
+        {
+          "name": "Fried Egg",
+          "calories": 214,
+          "tags": [
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Smoked Polish Sausage",
+          "calories": 360,
+          "tags": []
+        },
+        {
+          "name": "Hash Browns with Butter",
+          "calories": 150,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Cheddar Cheese",
+          "calories": 393,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Tomatillo Salsa",
+          "calories": 42,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Hard Cooked Eggs",
+          "calories": 133,
+          "tags": [
+            "Eggs"
+          ]
+        }
+      ],
+      "The Pizzeria": [
+        {
+          "name": "",
+          "calories": 0,
+          "tags": []
+        },
+        {
+          "name": "Maple Syrup",
+          "calories": 256,
+          "tags": []
+        }
+      ],
+      "The Grill": [
+        {
+          "name": "Bodega Egg & Bacon Roll",
+          "calories": 354,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Smoked Salmon Egg Benedict",
+          "calories": 276,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        }
+      ],
+      "The Sweet Stop": [
+        {
+          "name": "Vanilla Low-fat Yogurt",
+          "calories": 138,
+          "tags": []
+        },
+        {
+          "name": "Lowfat Strawberry Yogurt",
+          "calories": 71,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Lowfat Cottage Cheese",
+          "calories": 393,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Greek Yogurt",
+          "calories": 97,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Blueberries",
+          "calories": 51,
+          "tags": []
+        },
+        {
+          "name": "Mandarin Oranges",
+          "calories": 50,
+          "tags": []
+        },
+        {
+          "name": "Pineapple",
+          "calories": 63,
+          "tags": []
+        },
+        {
+          "name": "Mango",
+          "calories": 60,
+          "tags": []
+        },
+        {
+          "name": "Whipped Cream",
+          "calories": 0,
+          "tags": []
+        },
+        {
+          "name": "Oat & Honey Granola",
+          "calories": 473,
+          "tags": [
+            "Soy",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Glazed Donut",
+          "calories": 110,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Mini Croissant",
+          "calories": 417,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Chocolate Croissant",
+          "calories": 419,
+          "tags": []
+        },
+        {
+          "name": "Cinnamon Streusel Coffee Cake",
+          "calories": 381,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        }
+      ],
+      "Soups": [
+        {
+          "name": "Oatmeal",
+          "calories": 55,
+          "tags": [
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Dark Brown Sugar",
+          "calories": 380,
+          "tags": []
+        },
+        {
+          "name": "Raisins",
+          "calories": 299,
+          "tags": []
+        }
+      ],
+      "SALADS": [
+        {
+          "name": "Cream Cheese",
+          "calories": 350,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Strawberry Cream Cheese",
+          "calories": 340,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Avocado",
+          "calories": 160,
+          "tags": []
+        },
+        {
+          "name": "Black Forest Ham",
+          "calories": 107,
+          "tags": []
+        },
+        {
+          "name": "Tomato",
+          "calories": 18,
+          "tags": []
+        },
+        {
+          "name": "Nonpareil Capers",
+          "calories": 23,
+          "tags": []
+        },
+        {
+          "name": "Red Onion",
+          "calories": 40,
+          "tags": []
+        },
+        {
+          "name": "Swiss Cheese",
+          "calories": 381,
+          "tags": []
+        },
+        {
+          "name": "Watermelon",
+          "calories": 0,
+          "tags": []
+        },
+        {
+          "name": "Pineapple",
+          "calories": 50,
+          "tags": []
+        },
+        {
+          "name": "Cantaloupe",
+          "calories": 1,
+          "tags": []
+        },
+        {
+          "name": "Baby Spinach",
+          "calories": 23,
+          "tags": []
+        }
+      ],
+      "Warm Sides": [
+        {
+          "name": "Bagel",
+          "calories": 257,
+          "tags": [
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Everything Bagel",
+          "calories": 274,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Sesame"
+          ]
+        }
+      ]
+    },
+    "Lunch": {
+      "Theme of the Day": [
+        {
+          "name": "LA Street Food",
+          "calories": 0,
+          "tags": []
+        }
+      ],
+      "The Front Burner": [
+        {
+          "name": "Baja California Seafood Ceviche Tostada",
+          "calories": 67,
+          "tags": [
+            "Crustacean-Shellfish"
+          ]
+        },
+        {
+          "name": "Marleny's Vegan Ceviche",
+          "calories": 24,
+          "tags": []
+        }
+      ],
+      "The Kitchen": [
+        {
+          "name": "Smash Beef Tacos",
+          "calories": 184,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Smash Impossible Taco",
+          "calories": 111,
+          "tags": [
+            "Gluten",
+            "Tree-Nuts",
+            "Wheat"
+          ]
+        }
+      ],
+      "The Pizzeria": [
+        {
+          "name": "Pepperoni Pizza",
+          "calories": 244,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Three Cheese & Tomato Pizza",
+          "calories": 241,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Individual Margherita  Pizza",
+          "calories": 164,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        }
+      ],
+      "The Grill": [
+        {
+          "name": "Bruin Burger",
+          "calories": 157,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Bruin Cheeseburger",
+          "calories": 168,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "LA Hot Chicken Sandwich",
+          "calories": 266,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Impossible Burger",
+          "calories": 85,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Patty Melt",
+          "calories": 249,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        }
+      ],
+      "The Sweet Stop": [
+        {
+          "name": "Twinkie Cake",
+          "calories": 420,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Sugar Cookies",
+          "calories": 487,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Cherry Almond Crumble Pie",
+          "calories": 129,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Almond Fudge Bar",
+          "calories": 415,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Vegan Mixed Berry Crisp",
+          "calories": 89,
+          "tags": [
+            "Soy",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Deep Dish S'Mores",
+          "calories": 387,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        }
+      ],
+      "Soups": [
+        {
+          "name": "Boston Clam Chowder",
+          "calories": 110,
+          "tags": [
+            "Fish",
+            "Soy",
+            "Crustacean-Shellfish"
+          ]
+        },
+        {
+          "name": "Tomato Basil Soup",
+          "calories": 29,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Roasted Garlic Marinated Grilled Chicken Thigh",
+          "calories": 160,
+          "tags": []
+        },
+        {
+          "name": "Orange Maple Sweet Potato Lentil Mash",
+          "calories": 190,
+          "tags": []
+        }
+      ],
+      "Warm Sides": [
+        {
+          "name": "Glazed Carrots",
+          "calories": 72,
+          "tags": [
+            "Vegetarian",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Pan Roasted Mushrooms w/ Onions",
+          "calories": 220,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ]
+    },
+    "Dinner": {
+      "Late Night De Neve": [
+        {
+          "name": "Cheese Pizza",
+          "calories": 250,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        }
+      ],
+      "Theme of the Day": [
+        {
+          "name": "LA Street Food",
+          "calories": 0,
+          "tags": []
+        }
+      ],
+      "The Front Burner": [
+        {
+          "name": "Beef Frito Pie",
+          "calories": 208,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Vegan Frito Pie",
+          "calories": 254,
+          "tags": [
+            "Tree-Nuts"
+          ]
+        }
+      ],
+      "The Kitchen": [
+        {
+          "name": "Buffalo Chicken Wings",
+          "calories": 354,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Carrot Sticks",
+          "calories": 41,
+          "tags": []
+        },
+        {
+          "name": "Celery Sticks",
+          "calories": 16,
+          "tags": []
+        },
+        {
+          "name": "Fried Buffalo Tofu",
+          "calories": 92,
+          "tags": [
+            "Soy"
+          ]
+        }
+      ],
+      "The Pizzeria": [
+        {
+          "name": "Pepperoni Pizza",
+          "calories": 244,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Three Cheese & Tomato Pizza",
+          "calories": 241,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Individual Margherita  Pizza",
+          "calories": 164,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        }
+      ],
+      "The Grill": [
+        {
+          "name": "Bruin Burger",
+          "calories": 157,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Bruin Cheeseburger",
+          "calories": 168,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "LA Hot Chicken Sandwich",
+          "calories": 266,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Impossible Burger",
+          "calories": 85,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Patty Melt",
+          "calories": 249,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        }
+      ],
+      "The Sweet Stop": [
+        {
+          "name": "Twinkie Cake",
+          "calories": 420,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Sugar Cookies",
+          "calories": 487,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Cherry Almond Crumble Pie",
+          "calories": 129,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Almond Fudge Bar",
+          "calories": 415,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Vegan Mixed Berry Crisp",
+          "calories": 89,
+          "tags": [
+            "Soy",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Deep Dish S'Mores",
+          "calories": 387,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        }
+      ],
+      "Soups": [
+        {
+          "name": "Boston Clam Chowder",
+          "calories": 110,
+          "tags": [
+            "Fish",
+            "Soy",
+            "Crustacean-Shellfish"
+          ]
+        },
+        {
+          "name": "Tomato Basil Soup",
+          "calories": 29,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Roasted Garlic Marinated Grilled Chicken Thigh",
+          "calories": 160,
+          "tags": []
+        },
+        {
+          "name": "Orange Maple Sweet Potato Lentil Mash",
+          "calories": 190,
+          "tags": []
+        }
+      ],
+      "Warm Sides": [
+        {
+          "name": "Pan Roasted Mushrooms w/ Onions",
+          "calories": 220,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Glazed Carrots",
+          "calories": 72,
+          "tags": [
+            "Vegetarian",
+            "Dairy"
+          ]
+        }
+      ]
+    }
+  },
+  "2025-04-05": {
+    "Breakfast": {
+      "The Front Burner": [
+        {
+          "name": "French Toast",
+          "calories": 280,
+          "tags": [
+            "Dairy",
+            "Eggs",
+            "Alcohol"
+          ]
+        },
+        {
+          "name": "Maple Syrup",
+          "calories": 256,
+          "tags": []
+        }
+      ],
+      "The Kitchen": [
+        {
+          "name": "Scrambled Eggs",
+          "calories": 191,
+          "tags": []
+        },
+        {
+          "name": "Fried Egg",
+          "calories": 214,
+          "tags": [
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Pork Sausage",
+          "calories": 384,
+          "tags": []
+        },
+        {
+          "name": "Hash Browns with Butter",
+          "calories": 150,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Cheddar Cheese",
+          "calories": 393,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Tomatillo Salsa",
+          "calories": 42,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Hard Cooked Eggs",
+          "calories": 133,
+          "tags": [
+            "Eggs"
+          ]
+        }
+      ],
+      "The Pizzeria": [
+        {
+          "name": "",
+          "calories": 0,
+          "tags": []
+        },
+        {
+          "name": "Maple Syrup",
+          "calories": 256,
+          "tags": []
+        }
+      ],
+      "The Grill": [
+        {
+          "name": "Bodega Egg & Bacon Roll",
+          "calories": 354,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        }
+      ],
+      "The Sweet Stop": [
+        {
+          "name": "Vanilla Low-fat Yogurt",
+          "calories": 138,
+          "tags": []
+        },
+        {
+          "name": "Lowfat Strawberry Yogurt",
+          "calories": 71,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Lowfat Cottage Cheese",
+          "calories": 393,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Greek Yogurt",
+          "calories": 97,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Blueberries",
+          "calories": 51,
+          "tags": []
+        },
+        {
+          "name": "Mandarin Oranges",
+          "calories": 50,
+          "tags": []
+        },
+        {
+          "name": "Pineapple",
+          "calories": 63,
+          "tags": []
+        },
+        {
+          "name": "Mango",
+          "calories": 60,
+          "tags": []
+        },
+        {
+          "name": "Whipped Cream",
+          "calories": 0,
+          "tags": []
+        },
+        {
+          "name": "Oat & Honey Granola",
+          "calories": 473,
+          "tags": [
+            "Soy",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Glazed Donut",
+          "calories": 110,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Mini Croissant",
+          "calories": 417,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Mini Maple Pecan Danish",
+          "calories": 486,
+          "tags": [
+            "Gluten",
+            "Tree-Nuts",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Chocolate Muffin",
+          "calories": 386,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        }
+      ],
+      "Soups": [
+        {
+          "name": "Oatmeal",
+          "calories": 55,
+          "tags": [
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Dark Brown Sugar",
+          "calories": 380,
+          "tags": []
+        },
+        {
+          "name": "Raisins",
+          "calories": 299,
+          "tags": []
+        }
+      ],
+      "SALADS": [
+        {
+          "name": "Cream Cheese",
+          "calories": 350,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Strawberry Cream Cheese",
+          "calories": 340,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Avocado",
+          "calories": 160,
+          "tags": []
+        },
+        {
+          "name": "Black Forest Ham",
+          "calories": 107,
+          "tags": []
+        },
+        {
+          "name": "Tomato",
+          "calories": 18,
+          "tags": []
+        },
+        {
+          "name": "Nonpareil Capers",
+          "calories": 23,
+          "tags": []
+        },
+        {
+          "name": "Red Onion",
+          "calories": 40,
+          "tags": []
+        },
+        {
+          "name": "Swiss Cheese",
+          "calories": 381,
+          "tags": []
+        },
+        {
+          "name": "Watermelon",
+          "calories": 0,
+          "tags": []
+        },
+        {
+          "name": "Pineapple",
+          "calories": 50,
+          "tags": []
+        },
+        {
+          "name": "Cantaloupe",
+          "calories": 1,
+          "tags": []
+        },
+        {
+          "name": "Baby Spinach",
+          "calories": 23,
+          "tags": []
+        }
+      ],
+      "Warm Sides": [
+        {
+          "name": "Bagel",
+          "calories": 257,
+          "tags": [
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Everything Bagel",
+          "calories": 274,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Sesame"
+          ]
+        }
+      ]
+    },
+    "Lunch": {
+      "Theme of the Day": [
+        {
+          "name": "Brunch",
+          "calories": 0,
+          "tags": []
+        }
+      ],
+      "The Front Burner": [
+        {
+          "name": "French Toast",
+          "calories": 280,
+          "tags": [
+            "Dairy",
+            "Eggs",
+            "Alcohol"
+          ]
+        },
+        {
+          "name": "Maple Syrup",
+          "calories": 256,
+          "tags": []
+        }
+      ],
+      "The Kitchen": [
+        {
+          "name": "Scrambled Eggs",
+          "calories": 191,
+          "tags": []
+        },
+        {
+          "name": "Fried Egg",
+          "calories": 214,
+          "tags": [
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Breakfast Hash Brown",
+          "calories": 169,
+          "tags": []
+        },
+        {
+          "name": "Cheddar Cheese",
+          "calories": 393,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Tomatillo Salsa",
+          "calories": 42,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Hard Cooked Eggs",
+          "calories": 133,
+          "tags": [
+            "Eggs"
+          ]
+        }
+      ],
+      "The Pizzeria": [
+        {
+          "name": "Individual Margherita  Pizza",
+          "calories": 164,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Pepperoni Pizza",
+          "calories": 244,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        }
+      ],
+      "The Grill": [
+        {
+          "name": "Bruin Burger",
+          "calories": 157,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Bruin Cheeseburger",
+          "calories": 168,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "LA Hot Chicken Sandwich",
+          "calories": 266,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Impossible Burger",
+          "calories": 85,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Maple Bacon Breakfast Burger",
+          "calories": 214,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        }
+      ],
+      "Soups": [
+        {
+          "name": "Chicken Noodle Soup",
+          "calories": 124,
+          "tags": [
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Potato Leek Soup",
+          "calories": 52,
+          "tags": [
+            "Vegetarian",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Honey Lime Chicken Thighs",
+          "calories": 133,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Garlic Rice",
+          "calories": 122,
+          "tags": []
+        },
+        {
+          "name": "Garbanzo Picadillo",
+          "calories": 82,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ],
+      "Warm Sides": [
+        {
+          "name": "Roasted Brussels Sprouts",
+          "calories": 242,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Roasted Butternut Squash",
+          "calories": 52,
+          "tags": []
+        }
+      ]
+    },
+    "Dinner": {
+      "Late Night De Neve": [
+        {
+          "name": "Cheese Pizza",
+          "calories": 250,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        }
+      ],
+      "Theme of the Day": [
+        {
+          "name": "Brunch",
+          "calories": 0,
+          "tags": []
+        }
+      ],
+      "The Front Burner": [
+        {
+          "name": "Huevos Rancheros",
+          "calories": 141,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        }
+      ],
+      "The Kitchen": [
+        {
+          "name": "Chicken & Waffles with Onion Bacon Jam",
+          "calories": 76,
+          "tags": []
+        },
+        {
+          "name": "Fried Vegan Chick'n",
+          "calories": 130,
+          "tags": []
+        }
+      ],
+      "The Pizzeria": [
+        {
+          "name": "Individual Margherita  Pizza",
+          "calories": 164,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Pepperoni Pizza",
+          "calories": 244,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        }
+      ],
+      "The Grill": [
+        {
+          "name": "Bruin Burger",
+          "calories": 157,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Bruin Cheeseburger",
+          "calories": 168,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "LA Hot Chicken Sandwich",
+          "calories": 266,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Impossible Burger",
+          "calories": 85,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Maple Bacon Breakfast Burger",
+          "calories": 214,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        }
+      ],
+      "The Sweet Stop": [
+        {
+          "name": "Carrot Cupcake",
+          "calories": 326,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Vegan Double Chocolate Cookie",
+          "calories": 464,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Banana Cream Pie",
+          "calories": 136,
+          "tags": [
+            "Tree-Nuts",
+            "Dairy",
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Magic Bar",
+          "calories": 456,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Vegan Blackberry-Peach Crisp",
+          "calories": 123,
+          "tags": [
+            "Soy",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Deep Dish Blackout Cake",
+          "calories": 246,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        }
+      ],
+      "Soups": [
+        {
+          "name": "Chicken Noodle Soup",
+          "calories": 124,
+          "tags": [
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Potato Leek Soup",
+          "calories": 52,
+          "tags": [
+            "Vegetarian",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Garlic Rice",
+          "calories": 122,
+          "tags": []
+        },
+        {
+          "name": "Honey Lime Chicken Thighs",
+          "calories": 133,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Garbanzo Picadillo",
+          "calories": 82,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ],
+      "Warm Sides": [
+        {
+          "name": "Roasted Butternut Squash",
+          "calories": 52,
+          "tags": []
+        },
+        {
+          "name": "Roasted Brussels Sprouts",
+          "calories": 242,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ]
+    }
+  }
+}

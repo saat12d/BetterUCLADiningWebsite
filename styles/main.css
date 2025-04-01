@@ -157,3 +157,10 @@ header h1 {
     gap: 1.5rem;
   }
 }
+
+footer {
+  text-align: center;
+  font-size: 0.9rem;
+  color: #666;
+  margin: 2rem 0;
+}

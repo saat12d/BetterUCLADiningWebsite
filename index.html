@@ -1,10 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>UCLA Dining Menus</title>
-  <link rel="stylesheet" href="styles/main.css">
-</head>
+  <head>
+    <meta charset="UTF-8" />
+    <title>UCLA Dining Menus</title>
+    <!-- Reuse the same stylesheet -->
+    <link rel="stylesheet" href="styles/main.css" />
+    <!-- Optionally, you can keep using the Google Font import you had before -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link 
+      href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap" 
+      rel="stylesheet"
+    >
+  </head>
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-PXGFCFLNNS"></script>
 <script>
@@ -15,19 +23,24 @@
   gtag('config', 'G-PXGFCFLNNS');
 </script>
 <body>
-  <h1>Welcome to UCLA Dining Menus</h1>
 
-  <p>Select a dining hall menu to view:</p>
-  <ul>
-    <!-- Link to each dining hall’s “today” view -->
-    <li><a href="bplate-today.html">Bruin Plate (Today)</a></li>
-    <li><a href="epicuria-today.html">Epicuria (Today)</a></li>
-    <li><a href="deneve-today.html">De Neve (Today)</a></li>
-    <!-- Add more as needed -->
-  </ul>
+  <header>
+    <h1>UCLA Dining Menus</h1>
+  </header>
 
-  <!-- Optionally, you could add further links to display 
-       “all dates,” “tomorrow,” “any given date,” etc. -->
+  <main class="home-container">
+    <p>
+      Welcome to the improved UCLA Dining Menus! Choose a dining hall below to 
+      see today's menu.
+    </p>
+
+    <ul class="menu-links">
+      <li><a href="bplate-today.html">Bruin Plate (Today)</a></li>
+      <li><a href="epicuria-today.html">Epicuria (Today)</a></li>
+      <li><a href="deneve-today.html">De Neve (Today)</a></li>
+      <!-- Add more as needed -->
+    </ul>
+  </main>
 
 </body>
 </html>

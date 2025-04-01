@@ -1,74 +1,159 @@
-/* styles/main.css */
+/* -------- GLOBAL & HEADER (from previous example) -------- */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
 
-/* Body & basic text styling */
+:root {
+  --accent-color: #6ca0dc;
+}
+
 body {
-    margin: 30px;
-    font-family: Helvetica, Arial, sans-serif;
-    color: #222;
-    line-height: 1.4;
-  }
-  
-  h1 {
-    text-align: center;
-    margin-bottom: 2rem;
-  }
-  
-  /* Container for the 3 columns */
+  font-family: 'Open Sans', sans-serif;
+  background-color: #f7f7f7;
+  color: #333;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  display: flex;            
+  align-items: center;        
+  justify-content: space-between;
+  background-color: #fff;
+  padding: 1.25rem 2rem;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.05);
+}
+
+header h1 {
+  font-size: 1.5rem;
+  margin: 0;           
+  font-weight: 600;
+}
+
+.back-button {
+  text-decoration: none;     
+  color: #333;               
+  background-color: #eee;
+  border: 1px solid #ccc;  
+  border-radius: 4px;
+  padding: 0.5rem 1rem;      
+  font-weight: 600;          
+  transition: background-color 0.2s ease;
+}
+
+.back-button:hover {
+  background-color: var(--accent-color);
+  color: #fff; 
+}
+
+
+/* -------- HOMEPAGE STYLES -------- */
+.home-container {
+  max-width: 800px;
+  margin: 2rem auto;  /* center the container & add vertical space */
+  background-color: #fff;
+  padding: 2rem;
+  border-radius: 6px;
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.05);
+}
+
+.home-container p {
+  margin-bottom: 1.5rem;
+  font-size: 1rem;
+  text-align: center;
+}
+
+/* List of links on the homepage */
+.menu-links {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  padding-left: 0;
+  margin: 0 auto;
+  max-width: 300px;
+}
+
+/* Each link - you can style them as buttons or keep them as standard links */
+.menu-links a {
+  display: block;
+  padding: 0.75rem 1rem;
+  text-decoration: none;
+  text-align: center;
+  background-color: #eee;
+  border-radius: 4px;
+  transition: background-color 0.2s ease;
+  font-weight: 600;
+  color: #333;
+}
+
+.menu-links a:hover {
+  background-color: #ddd;
+}
+
+/* -------- STYLES FOR THE 3-COLUMN LAYOUT (unchanged from previous) -------- */
+#menu-container {
+  display: flex;
+  max-width: 1200px;
+  margin: 2rem auto;
+  gap: 2rem;
+  padding: 0 1rem;
+}
+
+.column {
+  flex: 1;
+  background-color: #fff;
+  border-radius: 6px;
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.05);
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.column h2 {
+  text-align: center;
+  font-size: 1.4rem;
+  margin-bottom: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 0.5rem;
+}
+
+.section-heading {
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  text-decoration: underline;
+  border-left: 3px solid var(--accent-color);
+  padding-left: 0.5rem;
+}
+
+.column ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0 0 1rem;
+}
+
+.column li {
+  margin: 0.25rem 0;
+  line-height: 1.4;
+  padding: 0.25rem;
+  transition: background-color 0.2s ease;
+}
+
+.column li:hover {
+  background-color: #f9f9f9;
+}
+
+/* Responsive columns for smaller screens */
+@media (max-width: 900px) {
   #menu-container {
-    display: flex;
-    justify-content: space-around;
-    max-width: 90%;
-    margin: 0 auto; /* center the container horizontally */
-    gap: 2rem;      /* spacing between columns */
+    flex-direction: column;
+    gap: 1.5rem;
   }
-  
-  /* Each meal column */
-  .column {
-    flex: 1;
-  }
-  
-  /* The meal heading in each column, e.g. "Breakfast" */
-  .column h2 {
-    text-align: center;
-    font-size: 1.5rem;
-    margin-bottom: 1rem;
-    text-transform: uppercase;
-  }
-  
-  /* Station headings, e.g. "Hot Station" */
-  .section-heading {
-    margin-top: 1.5rem;
-    margin-bottom: 0.5rem;
-    font-size: 1.15rem;
-    text-decoration: underline;
-    font-weight: bold;
-  }
-  
-  /* Lists of items (recipes) below each station heading */
-  .column ul {
-    list-style: none; /* remove bullet points */
-    padding-left: 0;
-    margin: 0 0 1rem;
-  }
-  
-  /* Optional styling for each recipe item */
-  .column li {
-    margin: 0.25rem 0;
-  }
-  
-  /* 
-    MEDIA QUERY:
-    When the screen is narrower than 600px, switch columns 
-    from side-by-side to stacked vertically.
-  */
-  @media (max-width: 1100px) {
-    #menu-container {
-      flex-direction: column; /* stack them top-to-bottom */
-      gap: 1rem;              /* reduce the space between columns */
-    }
-  
-    .column h2 {
-      margin-top: 1rem;
-    }
-  }
-  
+}

@@ -56,7 +56,7 @@ function getTodayDateKey() {
     const todayKey = getTodayDateKey();
     try {
       // Fetch the JSON for Bruin Plate
-      const response = await fetch('data/deneve_menu.json');
+      const response = await fetch('data/deneve_strike_menu.json');
       const data = await response.json();
   
       if (!data[todayKey]) {

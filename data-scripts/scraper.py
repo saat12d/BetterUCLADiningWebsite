@@ -98,10 +98,10 @@ async def scrape_bruin_plate_meals():
         await browser.close()
 
         # Save all_data to JSON
-        with open("epicuria_menu.json", "w") as f:
+        with open("epicuria_strike_menu.json", "w") as f:
             json.dump(all_data, f, indent=2)
 
-        print("✅ Data saved to bruin_plate_menu.json")
+        print("✅ Data saved to feast_menu.json")
 
 # Run the async scraper
 if __name__ == "__main__":

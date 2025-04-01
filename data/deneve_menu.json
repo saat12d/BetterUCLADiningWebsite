@@ -1632,13 +1632,6 @@
           "tags": []
         },
         {
-          "name": "Hash Browns with Butter",
-          "calories": 150,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
           "name": "Cheddar Cheese",
           "calories": 393,
           "tags": [
@@ -1654,8 +1647,8 @@
           ]
         },
         {
-          "name": "Hard Cooked Eggs",
-          "calories": 133,
+          "name": "Tater Tots",
+          "calories": 160,
           "tags": [
             "Eggs"
           ]
@@ -1663,7 +1656,7 @@
       ],
       "The Pizzeria": [
         {
-          "name": "",
+          "name": "Waffle",
           "calories": 0,
           "tags": []
         },
@@ -1671,17 +1664,6 @@
           "name": "Maple Syrup",
           "calories": 256,
           "tags": []
-        }
-      ],
-      "The Grill": [
-        {
-          "name": "Bodega Egg & Bacon Roll",
-          "calories": 354,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
         }
       ],
       "The Sweet Stop": [
@@ -1883,10 +1865,42 @@
       ]
     },
     "Lunch": {
+      "The Kitchen": [
+        {
+          "name": "Country Fried Steak",
+          "calories": "490"
+        },
+        {
+          "name": "Steak Cut Fries",
+          "calories": ""
+        },
+        {
+          "name": "Vegan Chick'n Fingers",
+          "calories": "248"
+        }
+      ],
       "The Pizzeria": [
         {
           "name": "Pepperoni Pizza",
           "calories": 244,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Cheese Pizza",
+          "calories": 216,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Mushroom Pizza",
+          "calories": 204,
           "tags": [
             "Gluten",
             "Wheat",

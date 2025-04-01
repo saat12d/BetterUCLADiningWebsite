@@ -164,3 +164,18 @@ footer {
   color: #666;
   margin: 2rem 0;
 }
+
+.alert-banner {
+  background-color: #fff3cd; /* soft yellow, for example */
+  border-bottom: 1px solid #ffecb5; 
+  padding: 0.75rem 1rem;
+  text-align: center;
+}
+
+.alert-banner p {
+  margin: 0; 
+  font-weight: 600; /* bold-ish text */
+  color: #664d03;   /* a darker color that’s readable on the pale background */
+  line-height: 1.4;
+}
+

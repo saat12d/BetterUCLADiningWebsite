@@ -57,7 +57,7 @@ function getTodayDateKey() {
     console.log(todayKey)
     try {
       // Fetch the JSON for Bruin Plate
-      const response = await fetch('data/epicuria_strike_menu.json');
+      const response = await fetch('data/epicuria_menu.json');
       const data = await response.json();
   
       if (!data[todayKey]) {

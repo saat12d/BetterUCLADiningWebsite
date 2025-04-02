@@ -1,4 +1,5 @@
 // scripts/bplate-today.js
+import { tagIcons } from './constants.js'
 
 function getTodayDateKey() {
     const now = new Date();
@@ -43,7 +44,28 @@ function getTodayDateKey() {
       const ul = document.createElement('ul');
       mealData[sectionName].forEach(recipe => {
         const li = document.createElement('li');
-        li.textContent = formatRecipe(recipe);
+        const name = document.createElement('span');
+        name.textContent = `${recipe.name} (${recipe.calories} Cal)`;
+  
+        // Create a tag icon group
+        const tagSpan = document.createElement('span');
+        tagSpan.className = 'tag-icons';
+        if (recipe.tags) {
+          recipe.tags.forEach(tag => {
+            const iconPath = tagIcons[tag];
+            if (iconPath) {
+              const iconImg = document.createElement('img');
+              iconImg.src = iconPath;
+              iconImg.alt = tag;
+              iconImg.title = tag;
+              iconImg.className = 'tag-icon-img';
+              tagSpan.appendChild(iconImg);
+            }
+          });
+        }
+  
+        li.appendChild(name);
+        li.appendChild(tagSpan);
         ul.appendChild(li);
       });
   

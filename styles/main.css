@@ -1,4 +1,4 @@
-/* -------- GLOBAL & HEADER (from previous example) -------- */
+/* -------- GLOBAL & HEADER -------- */
 * {
   box-sizing: border-box;
   margin: 0;
@@ -6,14 +6,21 @@
 }
 
 :root {
-  --accent-color: #6ca0dc;
+  --primary-color: #4a5568;
+  --accent-color: #68d391;
+  --background-color: #f7fafc;
+  --text-color: #2d3748;
+  --border-color: #e2e8f0;
+  --hover-color: #9ae6b4;
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.1);
+  --shadow-md: 0 4px 6px rgba(0, 0, 0, 0.05);
 }
 
 body {
   font-family: 'Open Sans', sans-serif;
-  background-color: #f7f7f7;
-  color: #333;
-  line-height: 1.5;
+  background-color: var(--background-color);
+  color: var(--text-color);
+  line-height: 1.6;
   margin: 0;
   padding: 0;
 }
@@ -22,176 +29,275 @@ header {
   display: flex;            
   align-items: center;        
   justify-content: space-between;
-  background-color: #fff;
-  padding: 1.25rem 2rem;
-  box-shadow: 0 0 8px rgba(0, 0, 0, 0.05);
+  background-color: white;
+  padding: 1.5rem 2rem;
+  box-shadow: var(--shadow-sm);
+  position: sticky;
+  top: 0;
+  z-index: 100;
 }
 
 header h1 {
-  font-size: 1.5rem;
+  font-size: 1.75rem;
   margin: 0;           
   font-weight: 600;
+  color: var(--primary-color);
 }
 
 .back-button {
   text-decoration: none;     
-  color: #333;               
-  background-color: #eee;
-  border: 1px solid #ccc;  
-  border-radius: 4px;
+  color: var(--text-color);               
+  background-color: white;
+  border: 1px solid var(--border-color);  
+  border-radius: 6px;
   padding: 0.5rem 1rem;      
-  font-weight: 600;          
-  transition: background-color 0.2s ease;
+  font-weight: 500;          
+  transition: all 0.2s ease;
 }
 
 .back-button:hover {
   background-color: var(--accent-color);
-  color: #fff; 
+  color: white;
+  transform: translateY(-1px);
 }
-
 
 /* -------- HOMEPAGE STYLES -------- */
 .home-container {
-  max-width: 800px;
-  margin: 2rem auto;  /* center the container & add vertical space */
-  background-color: #fff;
-  padding: 2rem;
-  border-radius: 6px;
-  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.05);
+  max-width: 900px;
+  margin: 2rem auto;
+  background-color: white;
+  padding: 2.5rem;
+  border-radius: 12px;
+  box-shadow: var(--shadow-md);
 }
 
 .home-container p {
-  margin-bottom: 1.5rem;
-  font-size: 1rem;
+  margin-bottom: 2rem;
+  font-size: 1.1rem;
   text-align: center;
+  color: var(--primary-color);
 }
 
-/* List of links on the homepage */
 .menu-links {
   list-style: none;
-  display: flex;
-  flex-direction: column;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   gap: 1rem;
-  padding-left: 0;
-  margin: 0 auto;
-  max-width: 300px;
+  padding: 0;
+  margin: 2rem 0;
 }
 
-/* Each link - you can style them as buttons or keep them as standard links */
 .menu-links a {
   display: block;
-  padding: 0.75rem 1rem;
+  padding: 1rem;
   text-decoration: none;
   text-align: center;
-  background-color: #eee;
-  border-radius: 4px;
-  transition: background-color 0.2s ease;
-  font-weight: 600;
-  color: #333;
+  background-color: white;
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  transition: all 0.2s ease;
+  font-weight: 500;
+  color: var(--text-color);
 }
 
 .menu-links a:hover {
-  background-color: #ddd;
+  border-color: var(--accent-color);
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-sm);
 }
 
-/* -------- STYLES FOR THE 3-COLUMN LAYOUT (unchanged from previous) -------- */
+/* -------- MENU CONTAINER STYLES -------- */
 #menu-container {
-  display: flex;
-  max-width: 1200px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  max-width: 1300px;
   margin: 2rem auto;
   gap: 2rem;
-  padding: 0 1rem;
+  padding: 0 2rem;
 }
 
 .column {
-  flex: 1;
-  background-color: #fff;
-  border-radius: 6px;
-  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.05);
-  padding: 1rem;
+  background-color: white;
+  border-radius: 12px;
+  box-shadow: var(--shadow-md);
+  padding: 1.5rem;
   display: flex;
   flex-direction: column;
 }
 
 .column h2 {
   text-align: center;
-  font-size: 1.4rem;
-  margin-bottom: 1rem;
-  text-transform: uppercase;
-  letter-spacing: 0.5px;
-  border-bottom: 1px solid #ddd;
-  padding-bottom: 0.5rem;
+  font-size: 1.5rem;
+  margin-bottom: 1.5rem;
+  color: var(--primary-color);
+  padding-bottom: 0.75rem;
+  border-bottom: 2px solid var(--accent-color);
 }
 
 .section-heading {
   margin-top: 1.5rem;
-  margin-bottom: 0.5rem;
+  margin-bottom: 1rem;
   font-size: 1.1rem;
   font-weight: 600;
-  text-decoration: underline;
+  color: var(--primary-color);
+  padding-left: 0.75rem;
   border-left: 3px solid var(--accent-color);
-  padding-left: 0.5rem;
 }
 
 .column ul {
   list-style: none;
-  padding-left: 0;
-  margin: 0 0 1rem;
+  padding-left: 0.5rem;
+  margin: 0 0 1.5rem;
 }
 
 .column li {
-  margin: 0.25rem 0;
-  line-height: 1.4;
-  padding: 0.25rem;
-  transition: background-color 0.2s ease;
+  margin: 0.5rem 0;
+  padding: 0.5rem;
+  border-radius: 4px;
+  transition: all 0.2s ease;
 }
 
 .column li:hover {
-  background-color: #f9f9f9;
+  background-color: var(--background-color);
+  transform: translateX(4px);
 }
 
-/* Responsive columns for smaller screens */
-@media (max-width: 1100px) {
-  #menu-container {
-    flex-direction: column;
-    gap: 1.5rem;
-  }
+/* Tables (Food Trucks & Dining Hours) */
+.food-truck-info,
+.dining-hours {
+  margin: 2.5rem 0;
+  padding: 1.5rem;
+  background-color: white;
+  border-radius: 12px;
+  box-shadow: var(--shadow-md);
 }
 
-footer {
+.food-truck-info h2,
+.dining-hours h2 {
+  color: var(--primary-color);
+  margin-bottom: 1.5rem;
   text-align: center;
-  font-size: 0.9rem;
-  color: #666;
-  margin: 2rem 0;
+  font-size: 1.5rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 2px solid var(--accent-color);
 }
 
+.hours-table-container {
+  overflow-x: auto;
+  margin: 1rem 0;
+  border-radius: 8px;
+}
+
+.food-truck-table,
+.dining-hours-table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  margin: 1rem 0;
+  background-color: white;
+}
+
+.food-truck-table th,
+.food-truck-table td,
+.dining-hours-table th,
+.dining-hours-table td {
+  padding: 1rem;
+  text-align: left;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.food-truck-table th,
+.dining-hours-table th {
+  background-color: var(--accent-color);
+  color: white;
+  font-weight: 600;
+}
+
+.food-truck-table tr:nth-child(even),
+.dining-hours-table tr:nth-child(even) {
+  background-color: var(--background-color);
+}
+
+.food-truck-table tr:hover,
+.dining-hours-table tr:hover {
+  background-color: var(--background-color);
+}
+
+.hours-note {
+  font-size: 0.9rem;
+  color: var(--primary-color);
+  text-align: center;
+  margin-top: 1.5rem;
+  font-style: italic;
+}
+
+/* Alert Banner */
 .alert-banner {
-  background-color: #fff3cd; /* soft yellow, for example */
-  border-bottom: 1px solid #ffecb5; 
-  padding: 0.75rem 1rem;
+  background-color: #fef3c7;
+  border-bottom: 1px solid #fcd34d;
+  padding: 1rem;
   text-align: center;
 }
 
 .alert-banner p {
-  margin: 0; 
-  font-weight: 600; /* bold-ish text */
-  color: #664d03;   /* a darker color that’s readable on the pale background */
-  line-height: 1.4;
+  margin: 0;
+  font-weight: 500;
+  color: #92400e;
+  line-height: 1.5;
 }
 
+/* Footer */
+footer {
+  text-align: center;
+  font-size: 0.9rem;
+  color: var(--primary-color);
+  margin: 3rem 0;
+  padding: 1rem;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .home-container,
+  .column,
+  .food-truck-info,
+  .dining-hours {
+    margin: 1rem;
+    padding: 1rem;
+  }
+
+  header {
+    padding: 1rem;
+  }
+
+  header h1 {
+    font-size: 1.4rem;
+  }
+
+  .menu-links {
+    grid-template-columns: 1fr;
+  }
+
+  #menu-container {
+    padding: 0 1rem;
+    gap: 1rem;
+  }
+}
+
+/* Tag Legend */
 .tag-legend {
   max-width: 1000px;
   margin: 3rem auto 2rem;
   padding: 1.5rem;
-  background: #fff;
-  border-radius: 6px;
-  box-shadow: 0 1px 5px rgba(0,0,0,0.05);
+  background-color: white;
+  border-radius: 12px;
+  box-shadow: var(--shadow-md);
 }
 
 .tag-legend h2 {
   text-align: center;
   font-size: 1.25rem;
   margin-bottom: 1rem;
+  color: var(--primary-color);
 }
 
 .tag-grid {
@@ -233,9 +339,10 @@ footer {
 }
 
 .tag-icon:hover {
-  transform: scale(1.1); /* tiny grow effect */
+  transform: scale(1.1);
 }
 
+/* Calorie Counter */
 .calorie-counter {
   display: inline-flex;
   align-items: center;
@@ -245,16 +352,18 @@ footer {
 }
 
 .calorie-counter button {
-  background-color: #eee;
-  border: none;
+  background-color: var(--background-color);
+  border: 1px solid var(--border-color);
   padding: 2px 6px;
   cursor: pointer;
   font-size: 1rem;
   border-radius: 4px;
+  transition: all 0.2s ease;
 }
 
 .calorie-counter button:hover {
-  background-color: #ddd;
+  background-color: var(--accent-color);
+  color: white;
 }
 
 .calorie-count {
@@ -266,46 +375,9 @@ footer {
 .meal-total {
   margin-top: 1.5rem;
   padding-top: 0.5rem;
-  border-top: 1px solid #ccc;
+  border-top: 1px solid var(--border-color);
   font-weight: bold;
   text-align: right;
-}
-
-.food-truck-info {
-  max-width: 800px;
-  margin: 2rem auto;
-  padding: 1rem;
-  background-color: #fff;
-  border-radius: 6px;
-  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.05);
-}
-
-.food-truck-info h2 {
-  text-align: center;
-  margin-bottom: 1rem;
-  font-size: 1.5rem;
-}
-
-.food-truck-table {
-  width: 100%;
-  border-collapse: collapse;
-  margin: 0 auto;
-}
-
-.food-truck-table th,
-.food-truck-table td {
-  border: 1px solid #ddd;
-  padding: 0.75rem;
-  text-align: left;
-}
-
-.food-truck-table th {
-  background-color: #f4f4f4;
-  font-weight: bold;
-}
-
-.food-truck-table tr:nth-child(even) {
-  background-color: #f9f9f9;
 }
 
 

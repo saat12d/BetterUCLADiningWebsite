@@ -29,12 +29,18 @@
     </div> -->
     <!-- ALERT BANNER END -->
   <header>
-    <h1>Today's Bruin Plate Menu (April 3rd)</h1>
-
-    <!-- Simple "Go Back" button -->
+    <div class="header-content">
+      <h1>Bruin Plate Menu - <span id="selected-date">Loading...</span></h1>
+    </div>
     <a href="index.html" class="back-button">Home</a>
   </header>
 
+  <div class="date-selector-container">
+    <label for="date-picker">Select Date:</label>
+    <select id="date-picker" aria-label="Select date">
+      <option value="">Loading dates...</option>
+    </select>
+  </div>
 
   <main id="menu-container">
     <div class="column">

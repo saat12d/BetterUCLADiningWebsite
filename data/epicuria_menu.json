@@ -1,11 +1,18 @@
 {
   "2025-04-02": {
-    "Breakfast": {},
     "Lunch": {
       "Soups": [
         {
-          "name": "Tuscan Bean Soup",
-          "calories": 3334,
+          "name": "Potato Leek Soup",
+          "calories": 3815,
+          "tags": [
+            "Vegetarian",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Tomato & Fresh Basil Soup",
+          "calories": 287,
           "tags": [
             "Vegan",
             "Low-Carbon-Footprint"
@@ -23,69 +30,92 @@
           ]
         },
         {
-          "name": "Beef Brisket",
-          "calories": 126,
-          "tags": []
+          "name": "Rotini Pasta",
+          "calories": 236,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint",
+            "Gluten"
+          ]
         },
         {
-          "name": "Plum Tomato Sauce",
-          "calories": 7,
+          "name": "Cannellini Beans",
+          "calories": 84,
           "tags": []
         },
         {
           "name": "",
-          "calories": 681,
+          "calories": 32,
           "tags": []
         },
         {
-          "name": "cauliflower",
+          "name": "Garlic Basil Cream Sauce",
           "calories": 25,
+          "tags": [
+            "Fish",
+            "Soy",
+            "Crustacean-Shellfish"
+          ]
+        },
+        {
+          "name": "Roasted Mushrooms",
+          "calories": 13,
           "tags": []
         },
         {
-          "name": "Cherry Tomato",
-          "calories": 18,
+          "name": "Caramelized Onion",
+          "calories": 16,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Bacon",
+          "calories": 64,
           "tags": []
         },
         {
-          "name": "Garbanzo Beans",
-          "calories": 378,
+          "name": "Pork Sausage",
+          "calories": 435,
           "tags": []
         }
       ],
       "Psistaris": [
         {
-          "name": "Roasted Butternut Squash",
-          "calories": 50,
+          "name": "Roasted Carrots",
+          "calories": 21,
           "tags": []
         },
         {
-          "name": "Roasted Peppers & Peas w/ Dill",
-          "calories": 57,
-          "tags": []
-        },
-        {
-          "name": "Psistaria Special",
-          "calories": null,
+          "name": "Spanish Seasoned Pomme Frites",
+          "calories": 123,
           "tags": [
-            "Halal",
-            "Fish",
             "Soy"
           ]
         },
         {
-          "name": "Zucchini Fritters w/ Cilantro Lime Cream",
-          "calories": 118,
+          "name": "Italian Style Broccoli & Cauliflower",
+          "calories": 33,
+          "tags": []
+        },
+        {
+          "name": "Grilled Greek Chicken Sandwich",
+          "calories": 382,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Caprese Panini",
+          "calories": 243,
           "tags": [
             "Gluten",
             "Wheat",
             "Dairy"
           ]
-        },
-        {
-          "name": "Shoestring Fries",
-          "calories": 143,
-          "tags": []
         }
       ],
       "Mezze": [
@@ -96,14 +126,6 @@
             "Vegan",
             "Low-Carbon-Footprint",
             "Sesame"
-          ]
-        },
-        {
-          "name": "",
-          "calories": 78,
-          "tags": [
-            "Vegan",
-            "Low-Carbon-Footprint"
           ]
         },
         {
@@ -132,21 +154,24 @@
           "tags": []
         },
         {
-          "name": "Mezze Vegetarian Special",
-          "calories": null,
+          "name": "Roasted Mushroom Muhammara",
+          "calories": 101,
+          "tags": []
+        },
+        {
+          "name": "",
+          "calories": 294,
           "tags": [
-            "Fish",
-            "Soy",
-            "Crustacean-Shellfish"
+            "Soy"
           ]
         },
         {
-          "name": "Bulgur Wheat",
-          "calories": 81,
+          "name": "Herbed Rice",
+          "calories": 206,
           "tags": [
-            "Vegan",
-            "Low-Carbon-Footprint",
-            "Gluten"
+            "Soy",
+            "Gluten",
+            "Wheat"
           ]
         },
         {
@@ -157,19 +182,32 @@
       ],
       "Alimenti": [
         {
-          "name": "Mediterranean Roasted Chicken",
-          "calories": 439,
-          "tags": []
+          "name": "Alimenti Special",
+          "calories": null,
+          "tags": [
+            "Fish",
+            "Soy",
+            "Crustacean-Shellfish"
+          ]
+        },
+        {
+          "name": "Alimenti Vegetarian Special",
+          "calories": null,
+          "tags": [
+            "Fish",
+            "Soy",
+            "Crustacean-Shellfish"
+          ]
         }
       ],
       "Dolce": [
         {
-          "name": "Apple Tarte Tatin",
-          "calories": 9749,
+          "name": "Chocolate Bouchon",
+          "calories": 208,
           "tags": [
             "Soy",
             "Gluten",
-            "Wheat"
+            "Tree-Nuts"
           ]
         },
         {
@@ -182,15 +220,6 @@
           ]
         },
         {
-          "name": "Vegan Oatmeal Raisin Cookie",
-          "calories": 1809,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
           "name": "Pignoli",
           "calories": 139,
           "tags": [
@@ -200,17 +229,8 @@
           ]
         },
         {
-          "name": "Twinkie Cake",
-          "calories": 43514,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Tree-Nuts"
-          ]
-        },
-        {
-          "name": "Vegan Carrot Quickbread",
-          "calories": 5885,
+          "name": "Apple Tarte Tatin",
+          "calories": 9749,
           "tags": [
             "Soy",
             "Gluten",
@@ -218,8 +238,17 @@
           ]
         },
         {
-          "name": "Chocolate Ganache",
-          "calories": 1068,
+          "name": "Vegan Oatmeal Raisin Cookie",
+          "calories": 1809,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Twinkie Cake",
+          "calories": 438,
           "tags": [
             "Soy",
             "Gluten",
@@ -228,24 +257,6 @@
         }
       ],
       "Capri Pizza": [
-        {
-          "name": "Cheese Pizza",
-          "calories": 174,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Pepperoni Pizza",
-          "calories": 215,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        },
         {
           "name": "Caesar Salad",
           "calories": 11366,
@@ -261,8 +272,26 @@
           "tags": []
         },
         {
-          "name": "Smoked Chicken & Pesto Pizza",
-          "calories": 275,
+          "name": "Pepperoni Pizza",
+          "calories": 218,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Margherita Pizza",
+          "calories": 201,
+          "tags": [
+            "Vegetarian",
+            "Halal",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Brisket & Sundried Tomato Pizza",
+          "calories": 229,
           "tags": [
             "Gluten",
             "Wheat",
@@ -292,50 +321,66 @@
       ],
       "Capri": [
         {
-          "name": "Pasta w/ Shrimp and Pesto",
-          "calories": 380,
+          "name": "Pasta Arrabbiata",
+          "calories": 912,
           "tags": [
-            "Crustacean-Shellfish",
+            "Wheat",
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Lemon Caper Ziti w/ Chicken",
+          "calories": 796,
+          "tags": [
             "Gluten",
-            "Wheat"
+            "Wheat",
+            "Dairy"
           ]
         }
       ],
       "Psistaris": [
         {
-          "name": "Rosemary Chicken",
-          "calories": 550,
-          "tags": []
-        },
-        {
-          "name": "Roasted Mushroom Muhammara",
-          "calories": 101,
-          "tags": []
-        },
-        {
-          "name": "Oven Roasted Herb Potatoes",
-          "calories": 110,
+          "name": "Spanakopita Sandwich",
+          "calories": 1457,
           "tags": [
-            "Vegan",
-            "Low-Carbon-Footprint"
+            "Dairy"
           ]
         },
         {
-          "name": "Roasted Cumin & Coriander Carrots",
-          "calories": 392,
+          "name": "Fiery Spiced Cauliflower",
+          "calories": 26,
           "tags": []
         },
         {
-          "name": "Grilled Kale w/ Orange & Crushed Red Chili",
-          "calories": 48,
+          "name": "Sauteed Cabbage w/ Mediterranean Spice",
+          "calories": 224,
+          "tags": [
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Psistaria Special",
+          "calories": null,
+          "tags": [
+            "Halal",
+            "Fish",
+            "Soy"
+          ]
+        },
+        {
+          "name": "Turkish Spice Blend Chips",
+          "calories": 127,
           "tags": []
         }
       ],
       "Mezze": [
         {
-          "name": "Mediterranean Yellow Rice w/ Vegetables",
-          "calories": 351,
-          "tags": []
+          "name": "Quinoa Pilaf",
+          "calories": 118,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
         },
         {
           "name": "Hummus",
@@ -374,10 +419,11 @@
       ],
       "Alimenti": [
         {
-          "name": "Braised Beef & Turnip Saute",
-          "calories": 223,
+          "name": "Cioppino",
+          "calories": 77,
           "tags": [
-            "Sesame"
+            "Crustacean-Shellfish",
+            "Alcohol"
           ]
         },
         {
@@ -385,6 +431,15 @@
           "calories": 62,
           "tags": [
             "Sesame"
+          ]
+        },
+        {
+          "name": "Garlic Bread",
+          "calories": 145,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
           ]
         }
       ],
@@ -469,218 +524,14 @@
           "tags": []
         },
         {
-          "name": "Mushroom Pizza",
-          "calories": 101,
+          "name": "Bacon Pizza",
+          "calories": 1946,
           "tags": []
         }
       ]
     }
   },
   "2025-04-03": {
-    "Breakfast": {
-      "Soups": [
-        {
-          "name": "Chicken Noodle Soup",
-          "calories": 976,
-          "tags": [
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Tomato & Fresh Basil Soup",
-          "calories": 287,
-          "tags": [
-            "Vegan",
-            "Low-Carbon-Footprint"
-          ]
-        }
-      ],
-      "Capri": [
-        {
-          "name": "Pasta w/ Shrimp and Pesto",
-          "calories": 380,
-          "tags": [
-            "Crustacean-Shellfish",
-            "Gluten",
-            "Wheat"
-          ]
-        }
-      ],
-      "Psistaris": [
-        {
-          "name": "Rosemary Chicken",
-          "calories": 550,
-          "tags": []
-        },
-        {
-          "name": "Roasted Mushroom Muhammara",
-          "calories": 101,
-          "tags": []
-        },
-        {
-          "name": "Oven Roasted Herb Potatoes",
-          "calories": 110,
-          "tags": [
-            "Vegan",
-            "Low-Carbon-Footprint"
-          ]
-        },
-        {
-          "name": "Roasted Cumin & Coriander Carrots",
-          "calories": 392,
-          "tags": []
-        },
-        {
-          "name": "Grilled Kale w/ Orange & Crushed Red Chili",
-          "calories": 48,
-          "tags": []
-        }
-      ],
-      "Mezze": [
-        {
-          "name": "Mediterranean Yellow Rice w/ Vegetables",
-          "calories": 351,
-          "tags": []
-        },
-        {
-          "name": "Hummus",
-          "calories": 730,
-          "tags": [
-            "Vegan",
-            "Low-Carbon-Footprint",
-            "Sesame"
-          ]
-        },
-        {
-          "name": "Marinated Red Grape Tomatoes",
-          "calories": 1629,
-          "tags": []
-        },
-        {
-          "name": "Tzatziki",
-          "calories": 330,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "kalamata Olives",
-          "calories": 833,
-          "tags": []
-        },
-        {
-          "name": "Lavash Chips",
-          "calories": 998,
-          "tags": [
-            "Gluten",
-            "Wheat"
-          ]
-        }
-      ],
-      "Alimenti": [
-        {
-          "name": "Braised Beef & Turnip Saute",
-          "calories": 223,
-          "tags": [
-            "Sesame"
-          ]
-        },
-        {
-          "name": "Roasted Root Vegetables w/ Chermoula",
-          "calories": 62,
-          "tags": [
-            "Sesame"
-          ]
-        }
-      ],
-      "Dolce": [
-        {
-          "name": "Pignoli",
-          "calories": 139,
-          "tags": [
-            "Gluten",
-            "Tree-Nuts",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Flan",
-          "calories": 143,
-          "tags": [
-            "Dairy",
-            "Eggs",
-            "Alcohol"
-          ]
-        },
-        {
-          "name": "Chocolate Ganache Cake",
-          "calories": 23169,
-          "tags": [
-            "Vegetarian",
-            "Soy",
-            "Gluten"
-          ]
-        },
-        {
-          "name": "Apple Tarte Tatin",
-          "calories": 9749,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Vegan Oatmeal Raisin Cookie",
-          "calories": 1809,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        }
-      ],
-      "Capri Pizza": [
-        {
-          "name": "Cheese Pizza",
-          "calories": 174,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Pepperoni Pizza",
-          "calories": 215,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Caesar Salad",
-          "calories": 11366,
-          "tags": [
-            "Fish",
-            "Soy",
-            "Gluten"
-          ]
-        },
-        {
-          "name": "Mediterranean Salad",
-          "calories": 140,
-          "tags": []
-        },
-        {
-          "name": "Mushroom Pizza",
-          "calories": 101,
-          "tags": []
-        }
-      ]
-    },
     "Lunch": {
       "Soups": [
         {
@@ -689,6 +540,15 @@
           "tags": [
             "Vegan",
             "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Roasted Pork & Rosemary Soup",
+          "calories": 779,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
           ]
         }
       ],
@@ -948,6 +808,13 @@
             "Wheat",
             "Dairy"
           ]
+        },
+        {
+          "name": "",
+          "calories": 145,
+          "tags": [
+            "Dairy"
+          ]
         }
       ]
     },
@@ -972,12 +839,12 @@
       ],
       "Capri": [
         {
-          "name": "Pasta w/ Shrimp and Pesto",
-          "calories": 380,
+          "name": "Smoked Salmon Cream Sauce",
+          "calories": 111,
           "tags": [
-            "Crustacean-Shellfish",
-            "Gluten",
-            "Wheat"
+            "Fish",
+            "Soy",
+            "Crustacean-Shellfish"
           ]
         }
       ],
@@ -1054,17 +921,25 @@
       ],
       "Alimenti": [
         {
-          "name": "Braised Beef & Turnip Saute",
-          "calories": 223,
+          "name": "Polenta",
+          "calories": 271,
           "tags": [
-            "Sesame"
+            "Dairy"
           ]
         },
         {
-          "name": "Roasted Root Vegetables w/ Chermoula",
-          "calories": 62,
+          "name": "Roasted Beets & Sweet Potatoes w/ Polenta",
+          "calories": 502,
           "tags": [
-            "Sesame"
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Italian Fried Chicken",
+          "calories": 367,
+          "tags": [
+            "Gluten",
+            "Wheat"
           ]
         }
       ],
@@ -1157,215 +1032,19 @@
     }
   },
   "2025-04-04": {
-    "Breakfast": {
+    "Lunch": {
       "Soups": [
         {
-          "name": "Chicken Noodle Soup",
-          "calories": 976,
+          "name": "Minestrone Soup",
+          "calories": 1641,
           "tags": [
-            "Gluten",
-            "Wheat"
+            "Vegan",
+            "Low-Carbon-Footprint"
           ]
         },
         {
           "name": "Tomato & Fresh Basil Soup",
           "calories": 287,
-          "tags": [
-            "Vegan",
-            "Low-Carbon-Footprint"
-          ]
-        }
-      ],
-      "Capri": [
-        {
-          "name": "Pasta w/ Shrimp and Pesto",
-          "calories": 380,
-          "tags": [
-            "Crustacean-Shellfish",
-            "Gluten",
-            "Wheat"
-          ]
-        }
-      ],
-      "Psistaris": [
-        {
-          "name": "Rosemary Chicken",
-          "calories": 550,
-          "tags": []
-        },
-        {
-          "name": "Roasted Mushroom Muhammara",
-          "calories": 101,
-          "tags": []
-        },
-        {
-          "name": "Oven Roasted Herb Potatoes",
-          "calories": 110,
-          "tags": [
-            "Vegan",
-            "Low-Carbon-Footprint"
-          ]
-        },
-        {
-          "name": "Roasted Cumin & Coriander Carrots",
-          "calories": 392,
-          "tags": []
-        },
-        {
-          "name": "Grilled Kale w/ Orange & Crushed Red Chili",
-          "calories": 48,
-          "tags": []
-        }
-      ],
-      "Mezze": [
-        {
-          "name": "Mediterranean Yellow Rice w/ Vegetables",
-          "calories": 351,
-          "tags": []
-        },
-        {
-          "name": "Hummus",
-          "calories": 730,
-          "tags": [
-            "Vegan",
-            "Low-Carbon-Footprint",
-            "Sesame"
-          ]
-        },
-        {
-          "name": "Marinated Red Grape Tomatoes",
-          "calories": 1629,
-          "tags": []
-        },
-        {
-          "name": "Tzatziki",
-          "calories": 330,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "kalamata Olives",
-          "calories": 833,
-          "tags": []
-        },
-        {
-          "name": "Lavash Chips",
-          "calories": 998,
-          "tags": [
-            "Gluten",
-            "Wheat"
-          ]
-        }
-      ],
-      "Alimenti": [
-        {
-          "name": "Braised Beef & Turnip Saute",
-          "calories": 223,
-          "tags": [
-            "Sesame"
-          ]
-        },
-        {
-          "name": "Roasted Root Vegetables w/ Chermoula",
-          "calories": 62,
-          "tags": [
-            "Sesame"
-          ]
-        }
-      ],
-      "Dolce": [
-        {
-          "name": "Pignoli",
-          "calories": 139,
-          "tags": [
-            "Gluten",
-            "Tree-Nuts",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Flan",
-          "calories": 143,
-          "tags": [
-            "Dairy",
-            "Eggs",
-            "Alcohol"
-          ]
-        },
-        {
-          "name": "Chocolate Ganache Cake",
-          "calories": 23169,
-          "tags": [
-            "Vegetarian",
-            "Soy",
-            "Gluten"
-          ]
-        },
-        {
-          "name": "Apple Tarte Tatin",
-          "calories": 9749,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Vegan Oatmeal Raisin Cookie",
-          "calories": 1809,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        }
-      ],
-      "Capri Pizza": [
-        {
-          "name": "Cheese Pizza",
-          "calories": 174,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Pepperoni Pizza",
-          "calories": 215,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Caesar Salad",
-          "calories": 11366,
-          "tags": [
-            "Fish",
-            "Soy",
-            "Gluten"
-          ]
-        },
-        {
-          "name": "Mediterranean Salad",
-          "calories": 140,
-          "tags": []
-        },
-        {
-          "name": "Mushroom Pizza",
-          "calories": 101,
-          "tags": []
-        }
-      ]
-    },
-    "Lunch": {
-      "Soups": [
-        {
-          "name": "Tuscan Bean Soup",
-          "calories": 3334,
           "tags": [
             "Vegan",
             "Low-Carbon-Footprint"
@@ -1383,59 +1062,52 @@
           ]
         },
         {
-          "name": "Beef Brisket",
-          "calories": 126,
+          "name": "Cavatappi Pasta",
+          "calories": 357,
+          "tags": [
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Chicken Breast",
+          "calories": 143,
           "tags": []
         },
         {
-          "name": "Plum Tomato Sauce",
-          "calories": 7,
+          "name": "Cannellini Beans",
+          "calories": 84,
           "tags": []
         },
         {
-          "name": "",
-          "calories": 681,
+          "name": "Spicy Marinara Sauce",
+          "calories": 26,
           "tags": []
         },
         {
-          "name": "cauliflower",
-          "calories": 25,
+          "name": "Four Cheese Sauce",
+          "calories": 180,
+          "tags": [
+            "Fish",
+            "Soy",
+            "Crustacean-Shellfish"
+          ]
+        },
+        {
+          "name": "Zucchini",
+          "calories": 21,
           "tags": []
         },
         {
-          "name": "Cherry Tomato",
-          "calories": 18,
-          "tags": []
-        },
-        {
-          "name": "Garbanzo Beans",
-          "calories": 378,
+          "name": "Red Bell Pepper",
+          "calories": 31,
           "tags": []
         }
       ],
       "Psistaris": [
         {
-          "name": "Roasted Butternut Squash",
-          "calories": 50,
-          "tags": []
-        },
-        {
-          "name": "Roasted Peppers & Peas w/ Dill",
-          "calories": 57,
-          "tags": []
-        },
-        {
-          "name": "Psistaria Special",
-          "calories": null,
-          "tags": [
-            "Halal",
-            "Fish",
-            "Soy"
-          ]
-        },
-        {
-          "name": "Zucchini Fritters w/ Cilantro Lime Cream",
-          "calories": 118,
+          "name": "French Onion & Braised Beef Sandwich",
+          "calories": 446,
           "tags": [
             "Gluten",
             "Wheat",
@@ -1443,12 +1115,47 @@
           ]
         },
         {
-          "name": "Shoestring Fries",
-          "calories": 143,
+          "name": "Mushroom Pita",
+          "calories": 266,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Patatas Bravas",
+          "calories": 107,
+          "tags": []
+        },
+        {
+          "name": "Roasted Zucchini",
+          "calories": 25,
+          "tags": []
+        },
+        {
+          "name": "Black Eyed Peas & Collard Greens",
+          "calories": 66,
           "tags": []
         }
       ],
       "Mezze": [
+        {
+          "name": "Quinoa",
+          "calories": 94,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Pesto Potato Frittata",
+          "calories": 243,
+          "tags": [
+            "Dairy",
+            "Eggs"
+          ]
+        },
         {
           "name": "Hummus",
           "calories": 730,
@@ -1492,22 +1199,9 @@
           "tags": []
         },
         {
-          "name": "Mezze Vegetarian Special",
-          "calories": null,
-          "tags": [
-            "Fish",
-            "Soy",
-            "Crustacean-Shellfish"
-          ]
-        },
-        {
-          "name": "Bulgur Wheat",
-          "calories": 81,
-          "tags": [
-            "Vegan",
-            "Low-Carbon-Footprint",
-            "Gluten"
-          ]
+          "name": "Roasted Mushroom Muhammara",
+          "calories": 101,
+          "tags": []
         },
         {
           "name": "Cucumber",
@@ -1517,69 +1211,19 @@
       ],
       "Alimenti": [
         {
-          "name": "Mediterranean Roasted Chicken",
-          "calories": 439,
-          "tags": []
+          "name": "Ricotta Rosa Baked pasta",
+          "calories": 674,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
         }
       ],
       "Dolce": [
         {
-          "name": "Apple Tarte Tatin",
-          "calories": 9749,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Flan",
-          "calories": 143,
-          "tags": [
-            "Dairy",
-            "Eggs",
-            "Alcohol"
-          ]
-        },
-        {
-          "name": "Vegan Oatmeal Raisin Cookie",
-          "calories": 1809,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Pignoli",
-          "calories": 139,
-          "tags": [
-            "Gluten",
-            "Tree-Nuts",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Twinkie Cake",
-          "calories": 43514,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Tree-Nuts"
-          ]
-        },
-        {
-          "name": "Vegan Carrot Quickbread",
-          "calories": 5885,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Chocolate Ganache",
-          "calories": 1068,
+          "name": "Chocolate Bouchon",
+          "calories": 208,
           "tags": [
             "Soy",
             "Gluten",
@@ -1621,1376 +1265,18 @@
           "tags": []
         },
         {
-          "name": "Smoked Chicken & Pesto Pizza",
-          "calories": 275,
+          "name": "Artichoke Cheese Pizza",
+          "calories": 230,
           "tags": [
             "Gluten",
             "Wheat",
             "Dairy"
           ]
-        }
-      ]
-    },
-    "Dinner": {
-      "Soups": [
-        {
-          "name": "Chicken Noodle Soup",
-          "calories": 976,
-          "tags": [
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Tomato & Fresh Basil Soup",
-          "calories": 287,
-          "tags": [
-            "Vegan",
-            "Low-Carbon-Footprint"
-          ]
-        }
-      ],
-      "Capri": [
-        {
-          "name": "Pasta w/ Shrimp and Pesto",
-          "calories": 380,
-          "tags": [
-            "Crustacean-Shellfish",
-            "Gluten",
-            "Wheat"
-          ]
-        }
-      ],
-      "Psistaris": [
-        {
-          "name": "Rosemary Chicken",
-          "calories": 550,
-          "tags": []
-        },
-        {
-          "name": "Roasted Mushroom Muhammara",
-          "calories": 101,
-          "tags": []
-        },
-        {
-          "name": "Oven Roasted Herb Potatoes",
-          "calories": 110,
-          "tags": [
-            "Vegan",
-            "Low-Carbon-Footprint"
-          ]
-        },
-        {
-          "name": "Roasted Cumin & Coriander Carrots",
-          "calories": 392,
-          "tags": []
-        },
-        {
-          "name": "Grilled Kale w/ Orange & Crushed Red Chili",
-          "calories": 48,
-          "tags": []
-        }
-      ],
-      "Mezze": [
-        {
-          "name": "Mediterranean Yellow Rice w/ Vegetables",
-          "calories": 351,
-          "tags": []
-        },
-        {
-          "name": "Hummus",
-          "calories": 730,
-          "tags": [
-            "Vegan",
-            "Low-Carbon-Footprint",
-            "Sesame"
-          ]
-        },
-        {
-          "name": "Marinated Red Grape Tomatoes",
-          "calories": 1629,
-          "tags": []
-        },
-        {
-          "name": "Tzatziki",
-          "calories": 330,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "kalamata Olives",
-          "calories": 833,
-          "tags": []
-        },
-        {
-          "name": "Lavash Chips",
-          "calories": 998,
-          "tags": [
-            "Gluten",
-            "Wheat"
-          ]
-        }
-      ],
-      "Alimenti": [
-        {
-          "name": "Braised Beef & Turnip Saute",
-          "calories": 223,
-          "tags": [
-            "Sesame"
-          ]
-        },
-        {
-          "name": "Roasted Root Vegetables w/ Chermoula",
-          "calories": 62,
-          "tags": [
-            "Sesame"
-          ]
-        }
-      ],
-      "Dolce": [
-        {
-          "name": "Pignoli",
-          "calories": 139,
-          "tags": [
-            "Gluten",
-            "Tree-Nuts",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Flan",
-          "calories": 143,
-          "tags": [
-            "Dairy",
-            "Eggs",
-            "Alcohol"
-          ]
-        },
-        {
-          "name": "Chocolate Ganache Cake",
-          "calories": 23169,
-          "tags": [
-            "Vegetarian",
-            "Soy",
-            "Gluten"
-          ]
-        },
-        {
-          "name": "Apple Tarte Tatin",
-          "calories": 9749,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Vegan Oatmeal Raisin Cookie",
-          "calories": 1809,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        }
-      ],
-      "Capri Pizza": [
-        {
-          "name": "Cheese Pizza",
-          "calories": 174,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Pepperoni Pizza",
-          "calories": 215,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Caesar Salad",
-          "calories": 11366,
-          "tags": [
-            "Fish",
-            "Soy",
-            "Gluten"
-          ]
-        },
-        {
-          "name": "Mediterranean Salad",
-          "calories": 140,
-          "tags": []
-        },
-        {
-          "name": "Mushroom Pizza",
-          "calories": 101,
-          "tags": []
-        }
-      ]
-    }
-  },
-  "2025-04-05": {
-    "Breakfast": {
-      "Soups": [
-        {
-          "name": "Chicken Noodle Soup",
-          "calories": 976,
-          "tags": [
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Tomato & Fresh Basil Soup",
-          "calories": 287,
-          "tags": [
-            "Vegan",
-            "Low-Carbon-Footprint"
-          ]
-        }
-      ],
-      "Capri": [
-        {
-          "name": "Pasta w/ Shrimp and Pesto",
-          "calories": 380,
-          "tags": [
-            "Crustacean-Shellfish",
-            "Gluten",
-            "Wheat"
-          ]
-        }
-      ],
-      "Psistaris": [
-        {
-          "name": "Rosemary Chicken",
-          "calories": 550,
-          "tags": []
-        },
-        {
-          "name": "Roasted Mushroom Muhammara",
-          "calories": 101,
-          "tags": []
-        },
-        {
-          "name": "Oven Roasted Herb Potatoes",
-          "calories": 110,
-          "tags": [
-            "Vegan",
-            "Low-Carbon-Footprint"
-          ]
-        },
-        {
-          "name": "Roasted Cumin & Coriander Carrots",
-          "calories": 392,
-          "tags": []
-        },
-        {
-          "name": "Grilled Kale w/ Orange & Crushed Red Chili",
-          "calories": 48,
-          "tags": []
-        }
-      ],
-      "Mezze": [
-        {
-          "name": "Mediterranean Yellow Rice w/ Vegetables",
-          "calories": 351,
-          "tags": []
-        },
-        {
-          "name": "Hummus",
-          "calories": 730,
-          "tags": [
-            "Vegan",
-            "Low-Carbon-Footprint",
-            "Sesame"
-          ]
-        },
-        {
-          "name": "Marinated Red Grape Tomatoes",
-          "calories": 1629,
-          "tags": []
-        },
-        {
-          "name": "Tzatziki",
-          "calories": 330,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "kalamata Olives",
-          "calories": 833,
-          "tags": []
-        },
-        {
-          "name": "Lavash Chips",
-          "calories": 998,
-          "tags": [
-            "Gluten",
-            "Wheat"
-          ]
-        }
-      ],
-      "Alimenti": [
-        {
-          "name": "Braised Beef & Turnip Saute",
-          "calories": 223,
-          "tags": [
-            "Sesame"
-          ]
-        },
-        {
-          "name": "Roasted Root Vegetables w/ Chermoula",
-          "calories": 62,
-          "tags": [
-            "Sesame"
-          ]
-        }
-      ],
-      "Dolce": [
-        {
-          "name": "Pignoli",
-          "calories": 139,
-          "tags": [
-            "Gluten",
-            "Tree-Nuts",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Flan",
-          "calories": 143,
-          "tags": [
-            "Dairy",
-            "Eggs",
-            "Alcohol"
-          ]
-        },
-        {
-          "name": "Chocolate Ganache Cake",
-          "calories": 23169,
-          "tags": [
-            "Vegetarian",
-            "Soy",
-            "Gluten"
-          ]
-        },
-        {
-          "name": "Apple Tarte Tatin",
-          "calories": 9749,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Vegan Oatmeal Raisin Cookie",
-          "calories": 1809,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        }
-      ],
-      "Capri Pizza": [
-        {
-          "name": "Cheese Pizza",
-          "calories": 174,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Pepperoni Pizza",
-          "calories": 215,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Caesar Salad",
-          "calories": 11366,
-          "tags": [
-            "Fish",
-            "Soy",
-            "Gluten"
-          ]
-        },
-        {
-          "name": "Mediterranean Salad",
-          "calories": 140,
-          "tags": []
-        },
-        {
-          "name": "Mushroom Pizza",
-          "calories": 101,
-          "tags": []
-        }
-      ]
-    },
-    "Lunch": {
-      "Soups": [
-        {
-          "name": "Tuscan Bean Soup",
-          "calories": 3334,
-          "tags": [
-            "Vegan",
-            "Low-Carbon-Footprint"
-          ]
-        }
-      ],
-      "Capri": [
-        {
-          "name": "Build-Your-Own Pasta Bowl",
-          "calories": 1296,
-          "tags": [
-            "Fish",
-            "Soy",
-            "Crustacean-Shellfish"
-          ]
-        },
-        {
-          "name": "Beef Brisket",
-          "calories": 126,
-          "tags": []
-        },
-        {
-          "name": "Plum Tomato Sauce",
-          "calories": 7,
-          "tags": []
-        },
-        {
-          "name": "",
-          "calories": 681,
-          "tags": []
-        },
-        {
-          "name": "cauliflower",
-          "calories": 25,
-          "tags": []
-        },
-        {
-          "name": "Cherry Tomato",
-          "calories": 18,
-          "tags": []
-        },
-        {
-          "name": "Garbanzo Beans",
-          "calories": 378,
-          "tags": []
-        }
-      ],
-      "Psistaris": [
-        {
-          "name": "Roasted Butternut Squash",
-          "calories": 50,
-          "tags": []
-        },
-        {
-          "name": "Roasted Peppers & Peas w/ Dill",
-          "calories": 57,
-          "tags": []
-        },
-        {
-          "name": "Psistaria Special",
-          "calories": null,
-          "tags": [
-            "Halal",
-            "Fish",
-            "Soy"
-          ]
-        },
-        {
-          "name": "Zucchini Fritters w/ Cilantro Lime Cream",
-          "calories": 118,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Shoestring Fries",
-          "calories": 143,
-          "tags": []
-        }
-      ],
-      "Mezze": [
-        {
-          "name": "Hummus",
-          "calories": 730,
-          "tags": [
-            "Vegan",
-            "Low-Carbon-Footprint",
-            "Sesame"
-          ]
-        },
-        {
-          "name": "",
-          "calories": 78,
-          "tags": [
-            "Vegan",
-            "Low-Carbon-Footprint"
-          ]
-        },
-        {
-          "name": "Roasted Zucchini",
-          "calories": 25,
-          "tags": []
-        },
-        {
-          "name": "Grape Tomatoes",
-          "calories": 6,
-          "tags": []
-        },
-        {
-          "name": "Zhug",
-          "calories": 1797,
-          "tags": []
-        },
-        {
-          "name": "Spinach",
-          "calories": 7,
-          "tags": []
-        },
-        {
-          "name": "Marinated Olives",
-          "calories": 106,
-          "tags": []
-        },
-        {
-          "name": "Mezze Vegetarian Special",
-          "calories": null,
-          "tags": [
-            "Fish",
-            "Soy",
-            "Crustacean-Shellfish"
-          ]
-        },
-        {
-          "name": "Bulgur Wheat",
-          "calories": 81,
-          "tags": [
-            "Vegan",
-            "Low-Carbon-Footprint",
-            "Gluten"
-          ]
-        },
-        {
-          "name": "Cucumber",
-          "calories": 5,
-          "tags": []
-        }
-      ],
-      "Alimenti": [
-        {
-          "name": "Mediterranean Roasted Chicken",
-          "calories": 439,
-          "tags": []
-        }
-      ],
-      "Dolce": [
-        {
-          "name": "Apple Tarte Tatin",
-          "calories": 9749,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Flan",
-          "calories": 143,
-          "tags": [
-            "Dairy",
-            "Eggs",
-            "Alcohol"
-          ]
-        },
-        {
-          "name": "Vegan Oatmeal Raisin Cookie",
-          "calories": 1809,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Pignoli",
-          "calories": 139,
-          "tags": [
-            "Gluten",
-            "Tree-Nuts",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Twinkie Cake",
-          "calories": 43514,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Tree-Nuts"
-          ]
-        },
-        {
-          "name": "Vegan Carrot Quickbread",
-          "calories": 5885,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Chocolate Ganache",
-          "calories": 1068,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Tree-Nuts"
-          ]
-        }
-      ],
-      "Capri Pizza": [
-        {
-          "name": "Cheese Pizza",
-          "calories": 174,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Pepperoni Pizza",
-          "calories": 215,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Caesar Salad",
-          "calories": 11366,
-          "tags": [
-            "Fish",
-            "Soy",
-            "Gluten"
-          ]
-        },
-        {
-          "name": "Mediterranean Salad",
-          "calories": 140,
-          "tags": []
-        },
-        {
-          "name": "Smoked Chicken & Pesto Pizza",
-          "calories": 275,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        }
-      ]
-    },
-    "Dinner": {
-      "Soups": [
-        {
-          "name": "Chicken Noodle Soup",
-          "calories": 976,
-          "tags": [
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Tomato & Fresh Basil Soup",
-          "calories": 287,
-          "tags": [
-            "Vegan",
-            "Low-Carbon-Footprint"
-          ]
-        }
-      ],
-      "Capri": [
-        {
-          "name": "Pasta w/ Shrimp and Pesto",
-          "calories": 380,
-          "tags": [
-            "Crustacean-Shellfish",
-            "Gluten",
-            "Wheat"
-          ]
-        }
-      ],
-      "Psistaris": [
-        {
-          "name": "Rosemary Chicken",
-          "calories": 550,
-          "tags": []
-        },
-        {
-          "name": "Roasted Mushroom Muhammara",
-          "calories": 101,
-          "tags": []
-        },
-        {
-          "name": "Oven Roasted Herb Potatoes",
-          "calories": 110,
-          "tags": [
-            "Vegan",
-            "Low-Carbon-Footprint"
-          ]
-        },
-        {
-          "name": "Roasted Cumin & Coriander Carrots",
-          "calories": 392,
-          "tags": []
-        },
-        {
-          "name": "Grilled Kale w/ Orange & Crushed Red Chili",
-          "calories": 48,
-          "tags": []
-        }
-      ],
-      "Mezze": [
-        {
-          "name": "Mediterranean Yellow Rice w/ Vegetables",
-          "calories": 351,
-          "tags": []
-        },
-        {
-          "name": "Hummus",
-          "calories": 730,
-          "tags": [
-            "Vegan",
-            "Low-Carbon-Footprint",
-            "Sesame"
-          ]
-        },
-        {
-          "name": "Marinated Red Grape Tomatoes",
-          "calories": 1629,
-          "tags": []
-        },
-        {
-          "name": "Tzatziki",
-          "calories": 330,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "kalamata Olives",
-          "calories": 833,
-          "tags": []
-        },
-        {
-          "name": "Lavash Chips",
-          "calories": 998,
-          "tags": [
-            "Gluten",
-            "Wheat"
-          ]
-        }
-      ],
-      "Alimenti": [
-        {
-          "name": "Braised Beef & Turnip Saute",
-          "calories": 223,
-          "tags": [
-            "Sesame"
-          ]
-        },
-        {
-          "name": "Roasted Root Vegetables w/ Chermoula",
-          "calories": 62,
-          "tags": [
-            "Sesame"
-          ]
-        }
-      ],
-      "Dolce": [
-        {
-          "name": "Pignoli",
-          "calories": 139,
-          "tags": [
-            "Gluten",
-            "Tree-Nuts",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Flan",
-          "calories": 143,
-          "tags": [
-            "Dairy",
-            "Eggs",
-            "Alcohol"
-          ]
-        },
-        {
-          "name": "Chocolate Ganache Cake",
-          "calories": 23169,
-          "tags": [
-            "Vegetarian",
-            "Soy",
-            "Gluten"
-          ]
-        },
-        {
-          "name": "Apple Tarte Tatin",
-          "calories": 9749,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Vegan Oatmeal Raisin Cookie",
-          "calories": 1809,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        }
-      ],
-      "Capri Pizza": [
-        {
-          "name": "Cheese Pizza",
-          "calories": 174,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Pepperoni Pizza",
-          "calories": 215,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Caesar Salad",
-          "calories": 11366,
-          "tags": [
-            "Fish",
-            "Soy",
-            "Gluten"
-          ]
-        },
-        {
-          "name": "Mediterranean Salad",
-          "calories": 140,
-          "tags": []
-        },
-        {
-          "name": "Mushroom Pizza",
-          "calories": 101,
-          "tags": []
         }
       ]
     }
   },
   "2025-04-06": {
-    "Breakfast": {
-      "Soups": [
-        {
-          "name": "Chicken Noodle Soup",
-          "calories": 976,
-          "tags": [
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Tomato & Fresh Basil Soup",
-          "calories": 287,
-          "tags": [
-            "Vegan",
-            "Low-Carbon-Footprint"
-          ]
-        }
-      ],
-      "Capri": [
-        {
-          "name": "Pasta w/ Shrimp and Pesto",
-          "calories": 380,
-          "tags": [
-            "Crustacean-Shellfish",
-            "Gluten",
-            "Wheat"
-          ]
-        }
-      ],
-      "Psistaris": [
-        {
-          "name": "Rosemary Chicken",
-          "calories": 550,
-          "tags": []
-        },
-        {
-          "name": "Roasted Mushroom Muhammara",
-          "calories": 101,
-          "tags": []
-        },
-        {
-          "name": "Oven Roasted Herb Potatoes",
-          "calories": 110,
-          "tags": [
-            "Vegan",
-            "Low-Carbon-Footprint"
-          ]
-        },
-        {
-          "name": "Roasted Cumin & Coriander Carrots",
-          "calories": 392,
-          "tags": []
-        },
-        {
-          "name": "Grilled Kale w/ Orange & Crushed Red Chili",
-          "calories": 48,
-          "tags": []
-        }
-      ],
-      "Mezze": [
-        {
-          "name": "Mediterranean Yellow Rice w/ Vegetables",
-          "calories": 351,
-          "tags": []
-        },
-        {
-          "name": "Hummus",
-          "calories": 730,
-          "tags": [
-            "Vegan",
-            "Low-Carbon-Footprint",
-            "Sesame"
-          ]
-        },
-        {
-          "name": "Marinated Red Grape Tomatoes",
-          "calories": 1629,
-          "tags": []
-        },
-        {
-          "name": "Tzatziki",
-          "calories": 330,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "kalamata Olives",
-          "calories": 833,
-          "tags": []
-        },
-        {
-          "name": "Lavash Chips",
-          "calories": 998,
-          "tags": [
-            "Gluten",
-            "Wheat"
-          ]
-        }
-      ],
-      "Alimenti": [
-        {
-          "name": "Braised Beef & Turnip Saute",
-          "calories": 223,
-          "tags": [
-            "Sesame"
-          ]
-        },
-        {
-          "name": "Roasted Root Vegetables w/ Chermoula",
-          "calories": 62,
-          "tags": [
-            "Sesame"
-          ]
-        }
-      ],
-      "Dolce": [
-        {
-          "name": "Pignoli",
-          "calories": 139,
-          "tags": [
-            "Gluten",
-            "Tree-Nuts",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Flan",
-          "calories": 143,
-          "tags": [
-            "Dairy",
-            "Eggs",
-            "Alcohol"
-          ]
-        },
-        {
-          "name": "Chocolate Ganache Cake",
-          "calories": 23169,
-          "tags": [
-            "Vegetarian",
-            "Soy",
-            "Gluten"
-          ]
-        },
-        {
-          "name": "Apple Tarte Tatin",
-          "calories": 9749,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Vegan Oatmeal Raisin Cookie",
-          "calories": 1809,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        }
-      ],
-      "Capri Pizza": [
-        {
-          "name": "Cheese Pizza",
-          "calories": 174,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Pepperoni Pizza",
-          "calories": 215,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Caesar Salad",
-          "calories": 11366,
-          "tags": [
-            "Fish",
-            "Soy",
-            "Gluten"
-          ]
-        },
-        {
-          "name": "Mediterranean Salad",
-          "calories": 140,
-          "tags": []
-        },
-        {
-          "name": "Mushroom Pizza",
-          "calories": 101,
-          "tags": []
-        }
-      ]
-    },
-    "Lunch": {
-      "Soups": [
-        {
-          "name": "Tuscan Bean Soup",
-          "calories": 3334,
-          "tags": [
-            "Vegan",
-            "Low-Carbon-Footprint"
-          ]
-        }
-      ],
-      "Capri": [
-        {
-          "name": "Build-Your-Own Pasta Bowl",
-          "calories": 1296,
-          "tags": [
-            "Fish",
-            "Soy",
-            "Crustacean-Shellfish"
-          ]
-        },
-        {
-          "name": "Beef Brisket",
-          "calories": 126,
-          "tags": []
-        },
-        {
-          "name": "Plum Tomato Sauce",
-          "calories": 7,
-          "tags": []
-        },
-        {
-          "name": "",
-          "calories": 681,
-          "tags": []
-        },
-        {
-          "name": "cauliflower",
-          "calories": 25,
-          "tags": []
-        },
-        {
-          "name": "Cherry Tomato",
-          "calories": 18,
-          "tags": []
-        },
-        {
-          "name": "Garbanzo Beans",
-          "calories": 378,
-          "tags": []
-        }
-      ],
-      "Psistaris": [
-        {
-          "name": "Roasted Butternut Squash",
-          "calories": 50,
-          "tags": []
-        },
-        {
-          "name": "Roasted Peppers & Peas w/ Dill",
-          "calories": 57,
-          "tags": []
-        },
-        {
-          "name": "Psistaria Special",
-          "calories": null,
-          "tags": [
-            "Halal",
-            "Fish",
-            "Soy"
-          ]
-        },
-        {
-          "name": "Zucchini Fritters w/ Cilantro Lime Cream",
-          "calories": 118,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Shoestring Fries",
-          "calories": 143,
-          "tags": []
-        }
-      ],
-      "Mezze": [
-        {
-          "name": "Hummus",
-          "calories": 730,
-          "tags": [
-            "Vegan",
-            "Low-Carbon-Footprint",
-            "Sesame"
-          ]
-        },
-        {
-          "name": "",
-          "calories": 78,
-          "tags": [
-            "Vegan",
-            "Low-Carbon-Footprint"
-          ]
-        },
-        {
-          "name": "Roasted Zucchini",
-          "calories": 25,
-          "tags": []
-        },
-        {
-          "name": "Grape Tomatoes",
-          "calories": 6,
-          "tags": []
-        },
-        {
-          "name": "Zhug",
-          "calories": 1797,
-          "tags": []
-        },
-        {
-          "name": "Spinach",
-          "calories": 7,
-          "tags": []
-        },
-        {
-          "name": "Marinated Olives",
-          "calories": 106,
-          "tags": []
-        },
-        {
-          "name": "Mezze Vegetarian Special",
-          "calories": null,
-          "tags": [
-            "Fish",
-            "Soy",
-            "Crustacean-Shellfish"
-          ]
-        },
-        {
-          "name": "Bulgur Wheat",
-          "calories": 81,
-          "tags": [
-            "Vegan",
-            "Low-Carbon-Footprint",
-            "Gluten"
-          ]
-        },
-        {
-          "name": "Cucumber",
-          "calories": 5,
-          "tags": []
-        }
-      ],
-      "Alimenti": [
-        {
-          "name": "Mediterranean Roasted Chicken",
-          "calories": 439,
-          "tags": []
-        }
-      ],
-      "Dolce": [
-        {
-          "name": "Apple Tarte Tatin",
-          "calories": 9749,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Flan",
-          "calories": 143,
-          "tags": [
-            "Dairy",
-            "Eggs",
-            "Alcohol"
-          ]
-        },
-        {
-          "name": "Vegan Oatmeal Raisin Cookie",
-          "calories": 1809,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Pignoli",
-          "calories": 139,
-          "tags": [
-            "Gluten",
-            "Tree-Nuts",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Twinkie Cake",
-          "calories": 43514,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Tree-Nuts"
-          ]
-        },
-        {
-          "name": "Vegan Carrot Quickbread",
-          "calories": 5885,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Chocolate Ganache",
-          "calories": 1068,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Tree-Nuts"
-          ]
-        }
-      ],
-      "Capri Pizza": [
-        {
-          "name": "Cheese Pizza",
-          "calories": 174,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Pepperoni Pizza",
-          "calories": 215,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Caesar Salad",
-          "calories": 11366,
-          "tags": [
-            "Fish",
-            "Soy",
-            "Gluten"
-          ]
-        },
-        {
-          "name": "Mediterranean Salad",
-          "calories": 140,
-          "tags": []
-        },
-        {
-          "name": "Smoked Chicken & Pesto Pizza",
-          "calories": 275,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        }
-      ]
-    },
     "Dinner": {
       "Soups": [
         {
@@ -3012,51 +1298,25 @@
       ],
       "Capri": [
         {
-          "name": "Pasta w/ Shrimp and Pesto",
-          "calories": 380,
+          "name": "Tortellini Alfredo w/ Peppers",
+          "calories": 437,
           "tags": [
-            "Crustacean-Shellfish",
-            "Gluten",
-            "Wheat"
+            "Fish",
+            "Soy",
+            "Crustacean-Shellfish"
           ]
         }
       ],
       "Psistaris": [
         {
-          "name": "Rosemary Chicken",
-          "calories": 550,
-          "tags": []
-        },
-        {
-          "name": "Roasted Mushroom Muhammara",
-          "calories": 101,
-          "tags": []
-        },
-        {
-          "name": "Oven Roasted Herb Potatoes",
-          "calories": 110,
+          "name": "Grilled Green Peppercorn Chicken Breast",
+          "calories": 126,
           "tags": [
-            "Vegan",
-            "Low-Carbon-Footprint"
+            "Fish"
           ]
-        },
-        {
-          "name": "Roasted Cumin & Coriander Carrots",
-          "calories": 392,
-          "tags": []
-        },
-        {
-          "name": "Grilled Kale w/ Orange & Crushed Red Chili",
-          "calories": 48,
-          "tags": []
         }
       ],
       "Mezze": [
-        {
-          "name": "Mediterranean Yellow Rice w/ Vegetables",
-          "calories": 351,
-          "tags": []
-        },
         {
           "name": "Hummus",
           "calories": 730,
@@ -3092,66 +1352,47 @@
           ]
         }
       ],
-      "Alimenti": [
-        {
-          "name": "Braised Beef & Turnip Saute",
-          "calories": 223,
-          "tags": [
-            "Sesame"
-          ]
-        },
-        {
-          "name": "Roasted Root Vegetables w/ Chermoula",
-          "calories": 62,
-          "tags": [
-            "Sesame"
-          ]
-        }
-      ],
       "Dolce": [
         {
-          "name": "Pignoli",
-          "calories": 139,
-          "tags": [
-            "Gluten",
-            "Tree-Nuts",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Flan",
-          "calories": 143,
-          "tags": [
-            "Dairy",
-            "Eggs",
-            "Alcohol"
-          ]
-        },
-        {
-          "name": "Chocolate Ganache Cake",
-          "calories": 23169,
+          "name": "Greek Cinnamon Olive Oil Cookies",
+          "calories": 1348,
           "tags": [
             "Vegetarian",
+            "Vegan",
+            "Halal"
+          ]
+        },
+        {
+          "name": "Moroccan Spiced Chocolate Mousse",
+          "calories": 403,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Tiramisu",
+          "calories": 132,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Cannoli",
+          "calories": 28,
+          "tags": [
+            "Soy",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Vegan Chocolate Chip Cookie",
+          "calories": 1969,
+          "tags": [
+            "Vegan",
             "Soy",
             "Gluten"
-          ]
-        },
-        {
-          "name": "Apple Tarte Tatin",
-          "calories": 9749,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Vegan Oatmeal Raisin Cookie",
-          "calories": 1809,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
           ]
         }
       ],
@@ -3189,15 +1430,15 @@
           "tags": []
         },
         {
-          "name": "Mushroom Pizza",
-          "calories": 101,
+          "name": "Bacon Pizza",
+          "calories": 1946,
           "tags": []
         }
       ]
     }
   },
   "2025-04-07": {
-    "Breakfast": {
+    "Lunch": {
       "Soups": [
         {
           "name": "Chicken Noodle Soup",
@@ -3218,51 +1459,44 @@
       ],
       "Capri": [
         {
-          "name": "Pasta w/ Shrimp and Pesto",
-          "calories": 380,
+          "name": "Build-Your-Own Pasta Bowl",
+          "calories": 1296,
           "tags": [
-            "Crustacean-Shellfish",
-            "Gluten",
-            "Wheat"
+            "Fish",
+            "Soy",
+            "Crustacean-Shellfish"
           ]
         }
       ],
       "Psistaris": [
         {
-          "name": "Rosemary Chicken",
-          "calories": 550,
+          "name": "Italian Style Broccoli & Cauliflower",
+          "calories": 33,
           "tags": []
         },
         {
-          "name": "Roasted Mushroom Muhammara",
-          "calories": 101,
-          "tags": []
-        },
-        {
-          "name": "Oven Roasted Herb Potatoes",
-          "calories": 110,
+          "name": "Dukkah Spiced Butternut Squash",
+          "calories": 69,
           "tags": [
-            "Vegan",
-            "Low-Carbon-Footprint"
+            "Tree-Nuts",
+            "Sesame"
           ]
         },
         {
-          "name": "Roasted Cumin & Coriander Carrots",
-          "calories": 392,
-          "tags": []
+          "name": "Carrot-Cumin Farro",
+          "calories": 160,
+          "tags": [
+            "Gluten",
+            "Wheat"
+          ]
         },
         {
-          "name": "Grilled Kale w/ Orange & Crushed Red Chili",
-          "calories": 48,
+          "name": "Turkish Spice Blend Chips",
+          "calories": 127,
           "tags": []
         }
       ],
       "Mezze": [
-        {
-          "name": "Mediterranean Yellow Rice w/ Vegetables",
-          "calories": 351,
-          "tags": []
-        },
         {
           "name": "Hummus",
           "calories": 730,
@@ -3298,328 +1532,10 @@
           ]
         }
       ],
-      "Alimenti": [
-        {
-          "name": "Braised Beef & Turnip Saute",
-          "calories": 223,
-          "tags": [
-            "Sesame"
-          ]
-        },
-        {
-          "name": "Roasted Root Vegetables w/ Chermoula",
-          "calories": 62,
-          "tags": [
-            "Sesame"
-          ]
-        }
-      ],
       "Dolce": [
         {
-          "name": "Pignoli",
-          "calories": 139,
-          "tags": [
-            "Gluten",
-            "Tree-Nuts",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Flan",
-          "calories": 143,
-          "tags": [
-            "Dairy",
-            "Eggs",
-            "Alcohol"
-          ]
-        },
-        {
-          "name": "Chocolate Ganache Cake",
-          "calories": 23169,
-          "tags": [
-            "Vegetarian",
-            "Soy",
-            "Gluten"
-          ]
-        },
-        {
-          "name": "Apple Tarte Tatin",
-          "calories": 9749,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Vegan Oatmeal Raisin Cookie",
-          "calories": 1809,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        }
-      ],
-      "Capri Pizza": [
-        {
-          "name": "Cheese Pizza",
-          "calories": 174,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Pepperoni Pizza",
-          "calories": 215,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Caesar Salad",
-          "calories": 11366,
-          "tags": [
-            "Fish",
-            "Soy",
-            "Gluten"
-          ]
-        },
-        {
-          "name": "Mediterranean Salad",
-          "calories": 140,
-          "tags": []
-        },
-        {
-          "name": "Mushroom Pizza",
-          "calories": 101,
-          "tags": []
-        }
-      ]
-    },
-    "Lunch": {
-      "Soups": [
-        {
-          "name": "Tuscan Bean Soup",
-          "calories": 3334,
-          "tags": [
-            "Vegan",
-            "Low-Carbon-Footprint"
-          ]
-        }
-      ],
-      "Capri": [
-        {
-          "name": "Build-Your-Own Pasta Bowl",
-          "calories": 1296,
-          "tags": [
-            "Fish",
-            "Soy",
-            "Crustacean-Shellfish"
-          ]
-        },
-        {
-          "name": "Beef Brisket",
-          "calories": 126,
-          "tags": []
-        },
-        {
-          "name": "Plum Tomato Sauce",
-          "calories": 7,
-          "tags": []
-        },
-        {
-          "name": "",
-          "calories": 681,
-          "tags": []
-        },
-        {
-          "name": "cauliflower",
-          "calories": 25,
-          "tags": []
-        },
-        {
-          "name": "Cherry Tomato",
-          "calories": 18,
-          "tags": []
-        },
-        {
-          "name": "Garbanzo Beans",
-          "calories": 378,
-          "tags": []
-        }
-      ],
-      "Psistaris": [
-        {
-          "name": "Roasted Butternut Squash",
-          "calories": 50,
-          "tags": []
-        },
-        {
-          "name": "Roasted Peppers & Peas w/ Dill",
-          "calories": 57,
-          "tags": []
-        },
-        {
-          "name": "Psistaria Special",
-          "calories": null,
-          "tags": [
-            "Halal",
-            "Fish",
-            "Soy"
-          ]
-        },
-        {
-          "name": "Zucchini Fritters w/ Cilantro Lime Cream",
-          "calories": 118,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Shoestring Fries",
-          "calories": 143,
-          "tags": []
-        }
-      ],
-      "Mezze": [
-        {
-          "name": "Hummus",
-          "calories": 730,
-          "tags": [
-            "Vegan",
-            "Low-Carbon-Footprint",
-            "Sesame"
-          ]
-        },
-        {
-          "name": "",
-          "calories": 78,
-          "tags": [
-            "Vegan",
-            "Low-Carbon-Footprint"
-          ]
-        },
-        {
-          "name": "Roasted Zucchini",
-          "calories": 25,
-          "tags": []
-        },
-        {
-          "name": "Grape Tomatoes",
-          "calories": 6,
-          "tags": []
-        },
-        {
-          "name": "Zhug",
-          "calories": 1797,
-          "tags": []
-        },
-        {
-          "name": "Spinach",
-          "calories": 7,
-          "tags": []
-        },
-        {
-          "name": "Marinated Olives",
-          "calories": 106,
-          "tags": []
-        },
-        {
-          "name": "Mezze Vegetarian Special",
-          "calories": null,
-          "tags": [
-            "Fish",
-            "Soy",
-            "Crustacean-Shellfish"
-          ]
-        },
-        {
-          "name": "Bulgur Wheat",
-          "calories": 81,
-          "tags": [
-            "Vegan",
-            "Low-Carbon-Footprint",
-            "Gluten"
-          ]
-        },
-        {
-          "name": "Cucumber",
-          "calories": 5,
-          "tags": []
-        }
-      ],
-      "Alimenti": [
-        {
-          "name": "Mediterranean Roasted Chicken",
-          "calories": 439,
-          "tags": []
-        }
-      ],
-      "Dolce": [
-        {
-          "name": "Apple Tarte Tatin",
-          "calories": 9749,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Flan",
-          "calories": 143,
-          "tags": [
-            "Dairy",
-            "Eggs",
-            "Alcohol"
-          ]
-        },
-        {
-          "name": "Vegan Oatmeal Raisin Cookie",
-          "calories": 1809,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Pignoli",
-          "calories": 139,
-          "tags": [
-            "Gluten",
-            "Tree-Nuts",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Twinkie Cake",
-          "calories": 43514,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Tree-Nuts"
-          ]
-        },
-        {
-          "name": "Vegan Carrot Quickbread",
-          "calories": 5885,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Chocolate Ganache",
-          "calories": 1068,
+          "name": "Chocolate Bouchon",
+          "calories": 208,
           "tags": [
             "Soy",
             "Gluten",
@@ -3661,8 +1577,8 @@
           "tags": []
         },
         {
-          "name": "Smoked Chicken & Pesto Pizza",
-          "calories": 275,
+          "name": "Italian Sausage Pizza",
+          "calories": 205,
           "tags": [
             "Gluten",
             "Wheat",
@@ -3690,53 +1606,7 @@
           ]
         }
       ],
-      "Capri": [
-        {
-          "name": "Pasta w/ Shrimp and Pesto",
-          "calories": 380,
-          "tags": [
-            "Crustacean-Shellfish",
-            "Gluten",
-            "Wheat"
-          ]
-        }
-      ],
-      "Psistaris": [
-        {
-          "name": "Rosemary Chicken",
-          "calories": 550,
-          "tags": []
-        },
-        {
-          "name": "Roasted Mushroom Muhammara",
-          "calories": 101,
-          "tags": []
-        },
-        {
-          "name": "Oven Roasted Herb Potatoes",
-          "calories": 110,
-          "tags": [
-            "Vegan",
-            "Low-Carbon-Footprint"
-          ]
-        },
-        {
-          "name": "Roasted Cumin & Coriander Carrots",
-          "calories": 392,
-          "tags": []
-        },
-        {
-          "name": "Grilled Kale w/ Orange & Crushed Red Chili",
-          "calories": 48,
-          "tags": []
-        }
-      ],
       "Mezze": [
-        {
-          "name": "Mediterranean Yellow Rice w/ Vegetables",
-          "calories": 351,
-          "tags": []
-        },
         {
           "name": "Hummus",
           "calories": 730,
@@ -3772,66 +1642,47 @@
           ]
         }
       ],
-      "Alimenti": [
-        {
-          "name": "Braised Beef & Turnip Saute",
-          "calories": 223,
-          "tags": [
-            "Sesame"
-          ]
-        },
-        {
-          "name": "Roasted Root Vegetables w/ Chermoula",
-          "calories": 62,
-          "tags": [
-            "Sesame"
-          ]
-        }
-      ],
       "Dolce": [
         {
-          "name": "Pignoli",
-          "calories": 139,
-          "tags": [
-            "Gluten",
-            "Tree-Nuts",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Flan",
-          "calories": 143,
-          "tags": [
-            "Dairy",
-            "Eggs",
-            "Alcohol"
-          ]
-        },
-        {
-          "name": "Chocolate Ganache Cake",
-          "calories": 23169,
+          "name": "Greek Cinnamon Olive Oil Cookies",
+          "calories": 1348,
           "tags": [
             "Vegetarian",
+            "Vegan",
+            "Halal"
+          ]
+        },
+        {
+          "name": "Moroccan Spiced Chocolate Mousse",
+          "calories": 403,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Tiramisu",
+          "calories": 132,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Cannoli",
+          "calories": 28,
+          "tags": [
+            "Soy",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Vegan Chocolate Chip Cookie",
+          "calories": 1969,
+          "tags": [
+            "Vegan",
             "Soy",
             "Gluten"
-          ]
-        },
-        {
-          "name": "Apple Tarte Tatin",
-          "calories": 9749,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Vegan Oatmeal Raisin Cookie",
-          "calories": 1809,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
           ]
         }
       ],
@@ -3869,15 +1720,15 @@
           "tags": []
         },
         {
-          "name": "Mushroom Pizza",
-          "calories": 101,
+          "name": "Bell Pepper Pizza",
+          "calories": 231,
           "tags": []
         }
       ]
     }
   },
   "2025-04-08": {
-    "Breakfast": {
+    "Lunch": {
       "Soups": [
         {
           "name": "Chicken Noodle Soup",
@@ -3898,51 +1749,41 @@
       ],
       "Capri": [
         {
-          "name": "Pasta w/ Shrimp and Pesto",
-          "calories": 380,
+          "name": "Build-Your-Own Pasta Bowl",
+          "calories": 1296,
           "tags": [
-            "Crustacean-Shellfish",
-            "Gluten",
-            "Wheat"
+            "Fish",
+            "Soy",
+            "Crustacean-Shellfish"
           ]
         }
       ],
       "Psistaris": [
         {
-          "name": "Rosemary Chicken",
-          "calories": 550,
+          "name": "Roasted Eggplant",
+          "calories": 57,
           "tags": []
         },
         {
-          "name": "Roasted Mushroom Muhammara",
-          "calories": 101,
+          "name": "Garlic Rice",
+          "calories": 109,
           "tags": []
         },
         {
-          "name": "Oven Roasted Herb Potatoes",
-          "calories": 110,
+          "name": "Roasted Brussels Sprouts",
+          "calories": 148,
           "tags": [
             "Vegan",
             "Low-Carbon-Footprint"
           ]
         },
         {
-          "name": "Roasted Cumin & Coriander Carrots",
-          "calories": 392,
-          "tags": []
-        },
-        {
-          "name": "Grilled Kale w/ Orange & Crushed Red Chili",
-          "calories": 48,
+          "name": "Turkish Spice Blend Chips",
+          "calories": 127,
           "tags": []
         }
       ],
       "Mezze": [
-        {
-          "name": "Mediterranean Yellow Rice w/ Vegetables",
-          "calories": 351,
-          "tags": []
-        },
         {
           "name": "Hummus",
           "calories": 730,
@@ -3978,328 +1819,10 @@
           ]
         }
       ],
-      "Alimenti": [
-        {
-          "name": "Braised Beef & Turnip Saute",
-          "calories": 223,
-          "tags": [
-            "Sesame"
-          ]
-        },
-        {
-          "name": "Roasted Root Vegetables w/ Chermoula",
-          "calories": 62,
-          "tags": [
-            "Sesame"
-          ]
-        }
-      ],
       "Dolce": [
         {
-          "name": "Pignoli",
-          "calories": 139,
-          "tags": [
-            "Gluten",
-            "Tree-Nuts",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Flan",
-          "calories": 143,
-          "tags": [
-            "Dairy",
-            "Eggs",
-            "Alcohol"
-          ]
-        },
-        {
-          "name": "Chocolate Ganache Cake",
-          "calories": 23169,
-          "tags": [
-            "Vegetarian",
-            "Soy",
-            "Gluten"
-          ]
-        },
-        {
-          "name": "Apple Tarte Tatin",
-          "calories": 9749,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Vegan Oatmeal Raisin Cookie",
-          "calories": 1809,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        }
-      ],
-      "Capri Pizza": [
-        {
-          "name": "Cheese Pizza",
-          "calories": 174,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Pepperoni Pizza",
-          "calories": 215,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Caesar Salad",
-          "calories": 11366,
-          "tags": [
-            "Fish",
-            "Soy",
-            "Gluten"
-          ]
-        },
-        {
-          "name": "Mediterranean Salad",
-          "calories": 140,
-          "tags": []
-        },
-        {
-          "name": "Mushroom Pizza",
-          "calories": 101,
-          "tags": []
-        }
-      ]
-    },
-    "Lunch": {
-      "Soups": [
-        {
-          "name": "Tuscan Bean Soup",
-          "calories": 3334,
-          "tags": [
-            "Vegan",
-            "Low-Carbon-Footprint"
-          ]
-        }
-      ],
-      "Capri": [
-        {
-          "name": "Build-Your-Own Pasta Bowl",
-          "calories": 1296,
-          "tags": [
-            "Fish",
-            "Soy",
-            "Crustacean-Shellfish"
-          ]
-        },
-        {
-          "name": "Beef Brisket",
-          "calories": 126,
-          "tags": []
-        },
-        {
-          "name": "Plum Tomato Sauce",
-          "calories": 7,
-          "tags": []
-        },
-        {
-          "name": "",
-          "calories": 681,
-          "tags": []
-        },
-        {
-          "name": "cauliflower",
-          "calories": 25,
-          "tags": []
-        },
-        {
-          "name": "Cherry Tomato",
-          "calories": 18,
-          "tags": []
-        },
-        {
-          "name": "Garbanzo Beans",
-          "calories": 378,
-          "tags": []
-        }
-      ],
-      "Psistaris": [
-        {
-          "name": "Roasted Butternut Squash",
-          "calories": 50,
-          "tags": []
-        },
-        {
-          "name": "Roasted Peppers & Peas w/ Dill",
-          "calories": 57,
-          "tags": []
-        },
-        {
-          "name": "Psistaria Special",
-          "calories": null,
-          "tags": [
-            "Halal",
-            "Fish",
-            "Soy"
-          ]
-        },
-        {
-          "name": "Zucchini Fritters w/ Cilantro Lime Cream",
-          "calories": 118,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Shoestring Fries",
-          "calories": 143,
-          "tags": []
-        }
-      ],
-      "Mezze": [
-        {
-          "name": "Hummus",
-          "calories": 730,
-          "tags": [
-            "Vegan",
-            "Low-Carbon-Footprint",
-            "Sesame"
-          ]
-        },
-        {
-          "name": "",
-          "calories": 78,
-          "tags": [
-            "Vegan",
-            "Low-Carbon-Footprint"
-          ]
-        },
-        {
-          "name": "Roasted Zucchini",
-          "calories": 25,
-          "tags": []
-        },
-        {
-          "name": "Grape Tomatoes",
-          "calories": 6,
-          "tags": []
-        },
-        {
-          "name": "Zhug",
-          "calories": 1797,
-          "tags": []
-        },
-        {
-          "name": "Spinach",
-          "calories": 7,
-          "tags": []
-        },
-        {
-          "name": "Marinated Olives",
-          "calories": 106,
-          "tags": []
-        },
-        {
-          "name": "Mezze Vegetarian Special",
-          "calories": null,
-          "tags": [
-            "Fish",
-            "Soy",
-            "Crustacean-Shellfish"
-          ]
-        },
-        {
-          "name": "Bulgur Wheat",
-          "calories": 81,
-          "tags": [
-            "Vegan",
-            "Low-Carbon-Footprint",
-            "Gluten"
-          ]
-        },
-        {
-          "name": "Cucumber",
-          "calories": 5,
-          "tags": []
-        }
-      ],
-      "Alimenti": [
-        {
-          "name": "Mediterranean Roasted Chicken",
-          "calories": 439,
-          "tags": []
-        }
-      ],
-      "Dolce": [
-        {
-          "name": "Apple Tarte Tatin",
-          "calories": 9749,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Flan",
-          "calories": 143,
-          "tags": [
-            "Dairy",
-            "Eggs",
-            "Alcohol"
-          ]
-        },
-        {
-          "name": "Vegan Oatmeal Raisin Cookie",
-          "calories": 1809,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Pignoli",
-          "calories": 139,
-          "tags": [
-            "Gluten",
-            "Tree-Nuts",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Twinkie Cake",
-          "calories": 43514,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Tree-Nuts"
-          ]
-        },
-        {
-          "name": "Vegan Carrot Quickbread",
-          "calories": 5885,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Chocolate Ganache",
-          "calories": 1068,
+          "name": "Chocolate Bouchon",
+          "calories": 208,
           "tags": [
             "Soy",
             "Gluten",
@@ -4341,12 +1864,12 @@
           "tags": []
         },
         {
-          "name": "Smoked Chicken & Pesto Pizza",
-          "calories": 275,
+          "name": "Shrimp, Mushroom, & Caper Pizza",
+          "calories": 385,
           "tags": [
+            "Crustacean-Shellfish",
             "Gluten",
-            "Wheat",
-            "Dairy"
+            "Wheat"
           ]
         }
       ]
@@ -4370,53 +1893,7 @@
           ]
         }
       ],
-      "Capri": [
-        {
-          "name": "Pasta w/ Shrimp and Pesto",
-          "calories": 380,
-          "tags": [
-            "Crustacean-Shellfish",
-            "Gluten",
-            "Wheat"
-          ]
-        }
-      ],
-      "Psistaris": [
-        {
-          "name": "Rosemary Chicken",
-          "calories": 550,
-          "tags": []
-        },
-        {
-          "name": "Roasted Mushroom Muhammara",
-          "calories": 101,
-          "tags": []
-        },
-        {
-          "name": "Oven Roasted Herb Potatoes",
-          "calories": 110,
-          "tags": [
-            "Vegan",
-            "Low-Carbon-Footprint"
-          ]
-        },
-        {
-          "name": "Roasted Cumin & Coriander Carrots",
-          "calories": 392,
-          "tags": []
-        },
-        {
-          "name": "Grilled Kale w/ Orange & Crushed Red Chili",
-          "calories": 48,
-          "tags": []
-        }
-      ],
       "Mezze": [
-        {
-          "name": "Mediterranean Yellow Rice w/ Vegetables",
-          "calories": 351,
-          "tags": []
-        },
         {
           "name": "Hummus",
           "calories": 730,
@@ -4452,66 +1929,47 @@
           ]
         }
       ],
-      "Alimenti": [
-        {
-          "name": "Braised Beef & Turnip Saute",
-          "calories": 223,
-          "tags": [
-            "Sesame"
-          ]
-        },
-        {
-          "name": "Roasted Root Vegetables w/ Chermoula",
-          "calories": 62,
-          "tags": [
-            "Sesame"
-          ]
-        }
-      ],
       "Dolce": [
         {
-          "name": "Pignoli",
-          "calories": 139,
-          "tags": [
-            "Gluten",
-            "Tree-Nuts",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Flan",
-          "calories": 143,
-          "tags": [
-            "Dairy",
-            "Eggs",
-            "Alcohol"
-          ]
-        },
-        {
-          "name": "Chocolate Ganache Cake",
-          "calories": 23169,
+          "name": "Greek Cinnamon Olive Oil Cookies",
+          "calories": 1348,
           "tags": [
             "Vegetarian",
+            "Vegan",
+            "Halal"
+          ]
+        },
+        {
+          "name": "Moroccan Spiced Chocolate Mousse",
+          "calories": 403,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Tiramisu",
+          "calories": 132,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Cannoli",
+          "calories": 28,
+          "tags": [
+            "Soy",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Vegan Chocolate Chip Cookie",
+          "calories": 1969,
+          "tags": [
+            "Vegan",
             "Soy",
             "Gluten"
-          ]
-        },
-        {
-          "name": "Apple Tarte Tatin",
-          "calories": 9749,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Vegan Oatmeal Raisin Cookie",
-          "calories": 1809,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
           ]
         }
       ],
@@ -4549,8 +2007,8 @@
           "tags": []
         },
         {
-          "name": "Mushroom Pizza",
-          "calories": 101,
+          "name": "Diced Tomato Pizza",
+          "calories": 96,
           "tags": []
         }
       ]

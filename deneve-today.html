@@ -30,12 +30,20 @@
       </p>
     </div> -->
     <!-- ALERT BANNER END -->
-  <header>
-    <h1>Today's De Neve Menu (April 3rd)</h1>
-
-    <!-- Simple "Go Back" button -->
-    <a href="index.html" class="back-button">Home</a>
-  </header>
+    <header>
+      <div class="header-content">
+        <h1>De Neve Menu - <span id="selected-date">Loading...</span></h1>
+      </div>
+      <a href="index.html" class="back-button">Home</a>
+    </header>
+  
+    <div class="date-selector-container">
+      <label for="date-picker">Select Date:</label>
+      <select id="date-picker" aria-label="Select date">
+        <option value="">Loading dates...</option>
+      </select>
+    </div>
+  
 
 
   <div id="menu-container">

@@ -9,7 +9,7 @@ async def scrape_bruin_plate_meals():
         page = await context.new_page()
 
         # Go to Bruin Plate menu
-        await page.goto("https://dining.ucla.edu/epicuria-at-covel/")
+        await page.goto("https://dining.ucla.edu/de-neve-dining/")
         # Wait for and click the 'Change' button to open the date/meal modal
         await page.wait_for_selector('button:has-text("Change")')
         await page.click('button:has-text("Change")')
@@ -98,10 +98,10 @@ async def scrape_bruin_plate_meals():
         await browser.close()
 
         # Save all_data to JSON
-        with open("../data/epicuria_menu.json", "w") as f:
+        with open("../data/deneve_menu.json", "w") as f:
             json.dump(all_data, f, indent=2)
 
-        print("✅ Data saved to feast_menu.json")
+        print("✅ Data saved to deneve_menu.json")
 
 # Run the async scraper
 if __name__ == "__main__":

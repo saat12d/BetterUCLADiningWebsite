@@ -2,14 +2,21 @@ from playwright.async_api import async_playwright
 import asyncio
 import json
 
-async def scrape_bruin_plate_meals():
+async def scrape_dining_hall(url, output_file):
+    """
+    Scrape menu data for a dining hall
+    
+    Args:
+        url (str): URL of the dining hall menu page
+        output_file (str): Path to save the JSON output
+    """
     async with async_playwright() as p:
-        browser = await p.chromium.launch(headless=True)  # Set to False if you want to watch
+        browser = await p.chromium.launch(headless=True)
         context = await browser.new_context()
         page = await context.new_page()
 
-        # Go to Bruin Plate menu
-        await page.goto("https://dining.ucla.edu/epicuria-at-covel/")
+        # Go to dining hall menu
+        await page.goto(url)
         # Wait for and click the 'Change' button to open the date/meal modal
         await page.wait_for_selector('button:has-text("Change")')
         await page.click('button:has-text("Change")')
@@ -98,11 +105,63 @@ async def scrape_bruin_plate_meals():
         await browser.close()
 
         # Save all_data to JSON
-        with open("../data/epicuria_menu.json", "w") as f:
+        with open(output_file, "w") as f:
             json.dump(all_data, f, indent=2)
 
-        print("✅ Data saved to feast_menu.json")
+        print(f"✅ Data saved to {output_file}")
 
-# Run the async scraper
+async def scrape_all_dining_halls():
+    """Scrape menu data for all UCLA dining halls"""
+    
+    # Define dining halls with their URLs and output files
+    dining_halls = [
+        {
+            "name": "Bruin Plate",
+            "url": "https://dining.ucla.edu/bruin-plate/",
+            "output": "../data/bruin_plate_menu.json"
+        },
+        {
+            "name": "De Neve",
+            "url": "https://dining.ucla.edu/de-neve-dining/",
+            "output": "../data/deneve_menu.json"
+        },
+        {
+            "name": "Epicuria",
+            "url": "https://dining.ucla.edu/epicuria-at-covel/",
+            "output": "../data/epicuria_menu.json"
+        },
+        {
+            "name": "Epicuria at Ackerman",
+            "url": "https://dining.ucla.edu/epicuria-ackerman/",
+            "output": "../data/epic_at_ackerman_menu.json"
+        },
+        {
+            "name": "Rendezvous",
+            "url": "https://dining.ucla.edu/rendezvous/",
+            "output": "../data/rendez_menu.json"
+        },
+        {
+            "name": "BCafe",
+            "url": "https://dining.ucla.edu/bruin-cafe/",
+            "output": "../data/bcafe_menu.json"
+        },
+        {
+            "name": "Cafe 1919",
+            "url": "https://dining.ucla.edu/cafe-1919/",
+            "output": "../data/1919_menu.json"
+        }
+    ]
+
+    # Scrape each dining hall
+    for hall in dining_halls:
+        print(f"\n🔄 Scraping {hall['name']}...")
+        try:
+            await scrape_dining_hall(hall['url'], hall['output'])
+            print(f"✅ Successfully scraped {hall['name']}")
+        except Exception as e:
+            print(f"❌ Error scraping {hall['name']}: {str(e)}")
+
 if __name__ == "__main__":
-    asyncio.run(scrape_bruin_plate_meals())
+    print("🚀 Starting UCLA Dining Hall Menu Scraper")
+    asyncio.run(scrape_all_dining_halls())
+    print("\n✨ All scraping tasks completed!") 

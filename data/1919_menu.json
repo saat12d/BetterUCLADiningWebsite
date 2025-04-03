@@ -1,885 +1,4 @@
 {
-  "2025-04-01": {
-    "Breakfast": {
-      "SALADS": [
-        {
-          "name": "Caesar Salad",
-          "calories": 170,
-          "tags": [
-            "Soy",
-            "Dairy",
-            "Alcohol"
-          ]
-        },
-        {
-          "name": "Chicken Caesar Salad",
-          "calories": 819,
-          "tags": [
-            "Fish",
-            "Soy",
-            "Gluten"
-          ]
-        },
-        {
-          "name": "Gamberetti Salad",
-          "calories": 828,
-          "tags": [
-            "Fish",
-            "Soy",
-            "Crustacean-Shellfish"
-          ]
-        },
-        {
-          "name": "Mediterranean Tomato & Cucumber Chopped Salad",
-          "calories": 383,
-          "tags": []
-        },
-        {
-          "name": "Pollo Verdura Salad",
-          "calories": 939,
-          "tags": [
-            "Dairy"
-          ]
-        }
-      ],
-      "PANINIS": [
-        {
-          "name": "Caprese Panini",
-          "calories": 243,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Chicken Parmesan Sandwich",
-          "calories": 640,
-          "tags": [
-            "Fish",
-            "Soy",
-            "Crustacean-Shellfish"
-          ]
-        },
-        {
-          "name": "Florentino Panini",
-          "calories": 641,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Campania Panini",
-          "calories": 512,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Tacchino Panini",
-          "calories": 1524,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Tuscano Panini",
-          "calories": 952,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Italian Sandwich",
-          "calories": 633,
-          "tags": [
-            "Gluten",
-            "Tree-Nuts",
-            "Wheat"
-          ]
-        }
-      ],
-      "Roman Pizza": [
-        {
-          "name": "Prosciutto & Pear Pizza (Roman Style)",
-          "calories": 803,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        }
-      ],
-      "DRESSING": [
-        {
-          "name": "Sundried Tomato & Goat Cheese Pizza",
-          "calories": 699,
-          "tags": [
-            "Vegetarian",
-            "High-Carbon-Footprint",
-            "Gluten"
-          ]
-        },
-        {
-          "name": "Formaggio Tradizionale Pizzetta",
-          "calories": 592,
-          "tags": [
-            "Vegetarian",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Genova Pizzetta",
-          "calories": 809,
-          "tags": [
-            "Halal",
-            "Fish",
-            "Soy"
-          ]
-        },
-        {
-          "name": "Il Carnivora Pizzetta",
-          "calories": 787,
-          "tags": [
-            "High-Carbon-Footprint",
-            "Soy",
-            "Gluten"
-          ]
-        },
-        {
-          "name": "Margherita Pizzetta",
-          "calories": 584,
-          "tags": [
-            "Vegetarian",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Pepperoni Pizza",
-          "calories": 712,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        }
-      ],
-      "PRETZELS": [
-        {
-          "name": "Marinara Sauce",
-          "calories": 3647,
-          "tags": [
-            "Vegan",
-            "Low-Carbon-Footprint"
-          ]
-        },
-        {
-          "name": "Jalape\u00f1o Cheese Sauce",
-          "calories": 1207,
-          "tags": [
-            "Vegetarian",
-            "Fish",
-            "Soy"
-          ]
-        }
-      ],
-      "Fruit": [
-        {
-          "name": "Bananas",
-          "calories": 89,
-          "tags": []
-        },
-        {
-          "name": "Oranges",
-          "calories": 47,
-          "tags": []
-        },
-        {
-          "name": "Fuji Apple",
-          "calories": 63,
-          "tags": []
-        },
-        {
-          "name": "Granny Smith Apple",
-          "calories": 58,
-          "tags": []
-        }
-      ],
-      "Fountain Beverages": [
-        {
-          "name": "Fountain Beverage",
-          "calories": 3,
-          "tags": []
-        }
-      ],
-      "SIDES": [
-        {
-          "name": "BBQ Kettle Chips",
-          "calories": 213,
-          "tags": []
-        },
-        {
-          "name": "Baked Lays Potato Chips",
-          "calories": 140,
-          "tags": [
-            "Soy"
-          ]
-        },
-        {
-          "name": "Sea Salt Kettle Chips",
-          "calories": 228,
-          "tags": []
-        },
-        {
-          "name": "Jalape\u00f1o Kettle Chips",
-          "calories": 307,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Smartfood\u00ae White Cheddar Popcorn",
-          "calories": 648,
-          "tags": []
-        },
-        {
-          "name": "Oatmeal Raisin Cookie",
-          "calories": 453,
-          "tags": [
-            "Vegetarian",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Caprese Salad",
-          "calories": 268,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Caesar Salad",
-          "calories": 138,
-          "tags": [
-            "Soy",
-            "Dairy",
-            "Alcohol"
-          ]
-        },
-        {
-          "name": "Fresh Fruit Cup",
-          "calories": 45,
-          "tags": []
-        },
-        {
-          "name": "Chocolate Chip Cookie",
-          "calories": 482,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        }
-      ]
-    },
-    "Lunch": {
-      "SALADS": [
-        {
-          "name": "Caesar Salad",
-          "calories": 170,
-          "tags": [
-            "Soy",
-            "Dairy",
-            "Alcohol"
-          ]
-        },
-        {
-          "name": "Chicken Caesar Salad",
-          "calories": 819,
-          "tags": [
-            "Fish",
-            "Soy",
-            "Gluten"
-          ]
-        },
-        {
-          "name": "Gamberetti Salad",
-          "calories": 828,
-          "tags": [
-            "Fish",
-            "Soy",
-            "Crustacean-Shellfish"
-          ]
-        },
-        {
-          "name": "Mediterranean Tomato & Cucumber Chopped Salad",
-          "calories": 383,
-          "tags": []
-        },
-        {
-          "name": "Pollo Verdura Salad",
-          "calories": 939,
-          "tags": [
-            "Dairy"
-          ]
-        }
-      ],
-      "PANINIS": [
-        {
-          "name": "Caprese Panini",
-          "calories": 243,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Chicken Parmesan Sandwich",
-          "calories": 640,
-          "tags": [
-            "Fish",
-            "Soy",
-            "Crustacean-Shellfish"
-          ]
-        },
-        {
-          "name": "Florentino Panini",
-          "calories": 641,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Campania Panini",
-          "calories": 512,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Tacchino Panini",
-          "calories": 1524,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Tuscano Panini",
-          "calories": 952,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Italian Sandwich",
-          "calories": 633,
-          "tags": [
-            "Gluten",
-            "Tree-Nuts",
-            "Wheat"
-          ]
-        }
-      ],
-      "Roman Pizza": [
-        {
-          "name": "Prosciutto & Pear Pizza (Roman Style)",
-          "calories": 803,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        }
-      ],
-      "DRESSING": [
-        {
-          "name": "Sundried Tomato & Goat Cheese Pizza",
-          "calories": 699,
-          "tags": [
-            "Vegetarian",
-            "High-Carbon-Footprint",
-            "Gluten"
-          ]
-        },
-        {
-          "name": "Formaggio Tradizionale Pizzetta",
-          "calories": 592,
-          "tags": [
-            "Vegetarian",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Genova Pizzetta",
-          "calories": 809,
-          "tags": [
-            "Halal",
-            "Fish",
-            "Soy"
-          ]
-        },
-        {
-          "name": "Il Carnivora Pizzetta",
-          "calories": 787,
-          "tags": [
-            "High-Carbon-Footprint",
-            "Soy",
-            "Gluten"
-          ]
-        },
-        {
-          "name": "Margherita Pizzetta",
-          "calories": 584,
-          "tags": [
-            "Vegetarian",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Pepperoni Pizza",
-          "calories": 712,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        }
-      ],
-      "PRETZELS": [
-        {
-          "name": "Marinara Sauce",
-          "calories": 3647,
-          "tags": [
-            "Vegan",
-            "Low-Carbon-Footprint"
-          ]
-        },
-        {
-          "name": "Jalape\u00f1o Cheese Sauce",
-          "calories": 1207,
-          "tags": [
-            "Vegetarian",
-            "Fish",
-            "Soy"
-          ]
-        }
-      ],
-      "Fruit": [
-        {
-          "name": "Bananas",
-          "calories": 89,
-          "tags": []
-        },
-        {
-          "name": "Oranges",
-          "calories": 47,
-          "tags": []
-        },
-        {
-          "name": "Fuji Apple",
-          "calories": 63,
-          "tags": []
-        },
-        {
-          "name": "Granny Smith Apple",
-          "calories": 58,
-          "tags": []
-        }
-      ],
-      "Fountain Beverages": [
-        {
-          "name": "Fountain Beverage",
-          "calories": 3,
-          "tags": []
-        }
-      ],
-      "SIDES": [
-        {
-          "name": "BBQ Kettle Chips",
-          "calories": 213,
-          "tags": []
-        },
-        {
-          "name": "Baked Lays Potato Chips",
-          "calories": 140,
-          "tags": [
-            "Soy"
-          ]
-        },
-        {
-          "name": "Sea Salt Kettle Chips",
-          "calories": 228,
-          "tags": []
-        },
-        {
-          "name": "Jalape\u00f1o Kettle Chips",
-          "calories": 307,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Smartfood\u00ae White Cheddar Popcorn",
-          "calories": 648,
-          "tags": []
-        },
-        {
-          "name": "Oatmeal Raisin Cookie",
-          "calories": 453,
-          "tags": [
-            "Vegetarian",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Caprese Salad",
-          "calories": 268,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Caesar Salad",
-          "calories": 138,
-          "tags": [
-            "Soy",
-            "Dairy",
-            "Alcohol"
-          ]
-        },
-        {
-          "name": "Fresh Fruit Cup",
-          "calories": 45,
-          "tags": []
-        },
-        {
-          "name": "Chocolate Chip Cookie",
-          "calories": 482,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        }
-      ]
-    },
-    "Dinner": {
-      "SALADS": [
-        {
-          "name": "Caesar Salad",
-          "calories": 170,
-          "tags": [
-            "Soy",
-            "Dairy",
-            "Alcohol"
-          ]
-        },
-        {
-          "name": "Chicken Caesar Salad",
-          "calories": 819,
-          "tags": [
-            "Fish",
-            "Soy",
-            "Gluten"
-          ]
-        },
-        {
-          "name": "Gamberetti Salad",
-          "calories": 828,
-          "tags": [
-            "Fish",
-            "Soy",
-            "Crustacean-Shellfish"
-          ]
-        },
-        {
-          "name": "Mediterranean Tomato & Cucumber Chopped Salad",
-          "calories": 383,
-          "tags": []
-        },
-        {
-          "name": "Pollo Verdura Salad",
-          "calories": 939,
-          "tags": [
-            "Dairy"
-          ]
-        }
-      ],
-      "PANINIS": [
-        {
-          "name": "Caprese Panini",
-          "calories": 243,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Chicken Parmesan Sandwich",
-          "calories": 640,
-          "tags": [
-            "Fish",
-            "Soy",
-            "Crustacean-Shellfish"
-          ]
-        },
-        {
-          "name": "Florentino Panini",
-          "calories": 641,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Campania Panini",
-          "calories": 512,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Tacchino Panini",
-          "calories": 1524,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Tuscano Panini",
-          "calories": 952,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Italian Sandwich",
-          "calories": 633,
-          "tags": [
-            "Gluten",
-            "Tree-Nuts",
-            "Wheat"
-          ]
-        }
-      ],
-      "Roman Pizza": [
-        {
-          "name": "Prosciutto & Pear Pizza (Roman Style)",
-          "calories": 803,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        }
-      ],
-      "DRESSING": [
-        {
-          "name": "Sundried Tomato & Goat Cheese Pizza",
-          "calories": 699,
-          "tags": [
-            "Vegetarian",
-            "High-Carbon-Footprint",
-            "Gluten"
-          ]
-        },
-        {
-          "name": "Formaggio Tradizionale Pizzetta",
-          "calories": 592,
-          "tags": [
-            "Vegetarian",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Genova Pizzetta",
-          "calories": 809,
-          "tags": [
-            "Halal",
-            "Fish",
-            "Soy"
-          ]
-        },
-        {
-          "name": "Il Carnivora Pizzetta",
-          "calories": 787,
-          "tags": [
-            "High-Carbon-Footprint",
-            "Soy",
-            "Gluten"
-          ]
-        },
-        {
-          "name": "Margherita Pizzetta",
-          "calories": 584,
-          "tags": [
-            "Vegetarian",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Pepperoni Pizza",
-          "calories": 712,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        }
-      ],
-      "PRETZELS": [
-        {
-          "name": "Marinara Sauce",
-          "calories": 3647,
-          "tags": [
-            "Vegan",
-            "Low-Carbon-Footprint"
-          ]
-        },
-        {
-          "name": "Jalape\u00f1o Cheese Sauce",
-          "calories": 1207,
-          "tags": [
-            "Vegetarian",
-            "Fish",
-            "Soy"
-          ]
-        }
-      ],
-      "Fruit": [
-        {
-          "name": "Bananas",
-          "calories": 89,
-          "tags": []
-        },
-        {
-          "name": "Oranges",
-          "calories": 47,
-          "tags": []
-        },
-        {
-          "name": "Fuji Apple",
-          "calories": 63,
-          "tags": []
-        },
-        {
-          "name": "Granny Smith Apple",
-          "calories": 58,
-          "tags": []
-        }
-      ],
-      "Fountain Beverages": [
-        {
-          "name": "Fountain Beverage",
-          "calories": 3,
-          "tags": []
-        }
-      ],
-      "SIDES": [
-        {
-          "name": "BBQ Kettle Chips",
-          "calories": 213,
-          "tags": []
-        },
-        {
-          "name": "Baked Lays Potato Chips",
-          "calories": 140,
-          "tags": [
-            "Soy"
-          ]
-        },
-        {
-          "name": "Sea Salt Kettle Chips",
-          "calories": 228,
-          "tags": []
-        },
-        {
-          "name": "Jalape\u00f1o Kettle Chips",
-          "calories": 307,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Smartfood\u00ae White Cheddar Popcorn",
-          "calories": 648,
-          "tags": []
-        },
-        {
-          "name": "Oatmeal Raisin Cookie",
-          "calories": 453,
-          "tags": [
-            "Vegetarian",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Caprese Salad",
-          "calories": 268,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Caesar Salad",
-          "calories": 138,
-          "tags": [
-            "Soy",
-            "Dairy",
-            "Alcohol"
-          ]
-        },
-        {
-          "name": "Fresh Fruit Cup",
-          "calories": 45,
-          "tags": []
-        },
-        {
-          "name": "Chocolate Chip Cookie",
-          "calories": 482,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        }
-      ]
-    }
-  },
   "2025-04-02": {
     "Breakfast": {
       "SALADS": [
@@ -894,7 +13,7 @@
         },
         {
           "name": "Chicken Caesar Salad",
-          "calories": 819,
+          "calories": 1435,
           "tags": [
             "Fish",
             "Soy",
@@ -903,7 +22,7 @@
         },
         {
           "name": "Gamberetti Salad",
-          "calories": 828,
+          "calories": 1405,
           "tags": [
             "Fish",
             "Soy",
@@ -917,7 +36,7 @@
         },
         {
           "name": "Pollo Verdura Salad",
-          "calories": 939,
+          "calories": 931,
           "tags": [
             "Dairy"
           ]
@@ -935,11 +54,11 @@
         },
         {
           "name": "Chicken Parmesan Sandwich",
-          "calories": 640,
+          "calories": 641,
           "tags": [
-            "Fish",
-            "Soy",
-            "Crustacean-Shellfish"
+            "Gluten",
+            "Wheat",
+            "Dairy"
           ]
         },
         {
@@ -1151,7 +270,7 @@
         },
         {
           "name": "Caesar Salad",
-          "calories": 138,
+          "calories": 139,
           "tags": [
             "Soy",
             "Dairy",
@@ -1187,7 +306,7 @@
         },
         {
           "name": "Chicken Caesar Salad",
-          "calories": 819,
+          "calories": 1435,
           "tags": [
             "Fish",
             "Soy",
@@ -1196,7 +315,7 @@
         },
         {
           "name": "Gamberetti Salad",
-          "calories": 828,
+          "calories": 1405,
           "tags": [
             "Fish",
             "Soy",
@@ -1210,7 +329,7 @@
         },
         {
           "name": "Pollo Verdura Salad",
-          "calories": 939,
+          "calories": 931,
           "tags": [
             "Dairy"
           ]
@@ -1228,11 +347,11 @@
         },
         {
           "name": "Chicken Parmesan Sandwich",
-          "calories": 640,
+          "calories": 641,
           "tags": [
-            "Fish",
-            "Soy",
-            "Crustacean-Shellfish"
+            "Gluten",
+            "Wheat",
+            "Dairy"
           ]
         },
         {
@@ -1444,7 +563,7 @@
         },
         {
           "name": "Caesar Salad",
-          "calories": 138,
+          "calories": 139,
           "tags": [
             "Soy",
             "Dairy",
@@ -1480,7 +599,7 @@
         },
         {
           "name": "Chicken Caesar Salad",
-          "calories": 819,
+          "calories": 1435,
           "tags": [
             "Fish",
             "Soy",
@@ -1489,7 +608,7 @@
         },
         {
           "name": "Gamberetti Salad",
-          "calories": 828,
+          "calories": 1405,
           "tags": [
             "Fish",
             "Soy",
@@ -1503,7 +622,7 @@
         },
         {
           "name": "Pollo Verdura Salad",
-          "calories": 939,
+          "calories": 931,
           "tags": [
             "Dairy"
           ]
@@ -1521,11 +640,11 @@
         },
         {
           "name": "Chicken Parmesan Sandwich",
-          "calories": 640,
+          "calories": 641,
           "tags": [
-            "Fish",
-            "Soy",
-            "Crustacean-Shellfish"
+            "Gluten",
+            "Wheat",
+            "Dairy"
           ]
         },
         {
@@ -1737,7 +856,7 @@
         },
         {
           "name": "Caesar Salad",
-          "calories": 138,
+          "calories": 139,
           "tags": [
             "Soy",
             "Dairy",
@@ -1775,7 +894,7 @@
         },
         {
           "name": "Chicken Caesar Salad",
-          "calories": 819,
+          "calories": 1435,
           "tags": [
             "Fish",
             "Soy",
@@ -1784,7 +903,7 @@
         },
         {
           "name": "Gamberetti Salad",
-          "calories": 828,
+          "calories": 1405,
           "tags": [
             "Fish",
             "Soy",
@@ -1798,7 +917,7 @@
         },
         {
           "name": "Pollo Verdura Salad",
-          "calories": 939,
+          "calories": 931,
           "tags": [
             "Dairy"
           ]
@@ -1816,11 +935,11 @@
         },
         {
           "name": "Chicken Parmesan Sandwich",
-          "calories": 640,
+          "calories": 641,
           "tags": [
-            "Fish",
-            "Soy",
-            "Crustacean-Shellfish"
+            "Gluten",
+            "Wheat",
+            "Dairy"
           ]
         },
         {
@@ -2032,7 +1151,7 @@
         },
         {
           "name": "Caesar Salad",
-          "calories": 138,
+          "calories": 139,
           "tags": [
             "Soy",
             "Dairy",
@@ -2068,7 +1187,7 @@
         },
         {
           "name": "Chicken Caesar Salad",
-          "calories": 819,
+          "calories": 1435,
           "tags": [
             "Fish",
             "Soy",
@@ -2077,7 +1196,7 @@
         },
         {
           "name": "Gamberetti Salad",
-          "calories": 828,
+          "calories": 1405,
           "tags": [
             "Fish",
             "Soy",
@@ -2091,7 +1210,7 @@
         },
         {
           "name": "Pollo Verdura Salad",
-          "calories": 939,
+          "calories": 931,
           "tags": [
             "Dairy"
           ]
@@ -2109,11 +1228,11 @@
         },
         {
           "name": "Chicken Parmesan Sandwich",
-          "calories": 640,
+          "calories": 641,
           "tags": [
-            "Fish",
-            "Soy",
-            "Crustacean-Shellfish"
+            "Gluten",
+            "Wheat",
+            "Dairy"
           ]
         },
         {
@@ -2325,7 +1444,7 @@
         },
         {
           "name": "Caesar Salad",
-          "calories": 138,
+          "calories": 139,
           "tags": [
             "Soy",
             "Dairy",
@@ -2361,7 +1480,7 @@
         },
         {
           "name": "Chicken Caesar Salad",
-          "calories": 819,
+          "calories": 1435,
           "tags": [
             "Fish",
             "Soy",
@@ -2370,7 +1489,7 @@
         },
         {
           "name": "Gamberetti Salad",
-          "calories": 828,
+          "calories": 1405,
           "tags": [
             "Fish",
             "Soy",
@@ -2384,7 +1503,7 @@
         },
         {
           "name": "Pollo Verdura Salad",
-          "calories": 939,
+          "calories": 931,
           "tags": [
             "Dairy"
           ]
@@ -2402,11 +1521,11 @@
         },
         {
           "name": "Chicken Parmesan Sandwich",
-          "calories": 640,
+          "calories": 641,
           "tags": [
-            "Fish",
-            "Soy",
-            "Crustacean-Shellfish"
+            "Gluten",
+            "Wheat",
+            "Dairy"
           ]
         },
         {
@@ -2618,7 +1737,7 @@
         },
         {
           "name": "Caesar Salad",
-          "calories": 138,
+          "calories": 139,
           "tags": [
             "Soy",
             "Dairy",
@@ -2656,7 +1775,7 @@
         },
         {
           "name": "Chicken Caesar Salad",
-          "calories": 819,
+          "calories": 1435,
           "tags": [
             "Fish",
             "Soy",
@@ -2665,7 +1784,7 @@
         },
         {
           "name": "Gamberetti Salad",
-          "calories": 828,
+          "calories": 1405,
           "tags": [
             "Fish",
             "Soy",
@@ -2679,7 +1798,7 @@
         },
         {
           "name": "Pollo Verdura Salad",
-          "calories": 939,
+          "calories": 931,
           "tags": [
             "Dairy"
           ]
@@ -2697,11 +1816,11 @@
         },
         {
           "name": "Chicken Parmesan Sandwich",
-          "calories": 640,
+          "calories": 641,
           "tags": [
-            "Fish",
-            "Soy",
-            "Crustacean-Shellfish"
+            "Gluten",
+            "Wheat",
+            "Dairy"
           ]
         },
         {
@@ -2913,7 +2032,7 @@
         },
         {
           "name": "Caesar Salad",
-          "calories": 138,
+          "calories": 139,
           "tags": [
             "Soy",
             "Dairy",
@@ -2949,7 +2068,7 @@
         },
         {
           "name": "Chicken Caesar Salad",
-          "calories": 819,
+          "calories": 1435,
           "tags": [
             "Fish",
             "Soy",
@@ -2958,7 +2077,7 @@
         },
         {
           "name": "Gamberetti Salad",
-          "calories": 828,
+          "calories": 1405,
           "tags": [
             "Fish",
             "Soy",
@@ -2972,7 +2091,7 @@
         },
         {
           "name": "Pollo Verdura Salad",
-          "calories": 939,
+          "calories": 931,
           "tags": [
             "Dairy"
           ]
@@ -2990,11 +2109,11 @@
         },
         {
           "name": "Chicken Parmesan Sandwich",
-          "calories": 640,
+          "calories": 641,
           "tags": [
-            "Fish",
-            "Soy",
-            "Crustacean-Shellfish"
+            "Gluten",
+            "Wheat",
+            "Dairy"
           ]
         },
         {
@@ -3206,7 +2325,7 @@
         },
         {
           "name": "Caesar Salad",
-          "calories": 138,
+          "calories": 139,
           "tags": [
             "Soy",
             "Dairy",
@@ -3242,7 +2361,7 @@
         },
         {
           "name": "Chicken Caesar Salad",
-          "calories": 819,
+          "calories": 1435,
           "tags": [
             "Fish",
             "Soy",
@@ -3251,7 +2370,7 @@
         },
         {
           "name": "Gamberetti Salad",
-          "calories": 828,
+          "calories": 1405,
           "tags": [
             "Fish",
             "Soy",
@@ -3265,7 +2384,7 @@
         },
         {
           "name": "Pollo Verdura Salad",
-          "calories": 939,
+          "calories": 931,
           "tags": [
             "Dairy"
           ]
@@ -3283,11 +2402,11 @@
         },
         {
           "name": "Chicken Parmesan Sandwich",
-          "calories": 640,
+          "calories": 641,
           "tags": [
-            "Fish",
-            "Soy",
-            "Crustacean-Shellfish"
+            "Gluten",
+            "Wheat",
+            "Dairy"
           ]
         },
         {
@@ -3499,7 +2618,7 @@
         },
         {
           "name": "Caesar Salad",
-          "calories": 138,
+          "calories": 139,
           "tags": [
             "Soy",
             "Dairy",
@@ -3537,7 +2656,7 @@
         },
         {
           "name": "Chicken Caesar Salad",
-          "calories": 819,
+          "calories": 1435,
           "tags": [
             "Fish",
             "Soy",
@@ -3546,7 +2665,7 @@
         },
         {
           "name": "Gamberetti Salad",
-          "calories": 828,
+          "calories": 1405,
           "tags": [
             "Fish",
             "Soy",
@@ -3560,7 +2679,7 @@
         },
         {
           "name": "Pollo Verdura Salad",
-          "calories": 939,
+          "calories": 931,
           "tags": [
             "Dairy"
           ]
@@ -3578,11 +2697,11 @@
         },
         {
           "name": "Chicken Parmesan Sandwich",
-          "calories": 640,
+          "calories": 641,
           "tags": [
-            "Fish",
-            "Soy",
-            "Crustacean-Shellfish"
+            "Gluten",
+            "Wheat",
+            "Dairy"
           ]
         },
         {
@@ -3794,7 +2913,7 @@
         },
         {
           "name": "Caesar Salad",
-          "calories": 138,
+          "calories": 139,
           "tags": [
             "Soy",
             "Dairy",
@@ -3830,7 +2949,7 @@
         },
         {
           "name": "Chicken Caesar Salad",
-          "calories": 819,
+          "calories": 1435,
           "tags": [
             "Fish",
             "Soy",
@@ -3839,7 +2958,7 @@
         },
         {
           "name": "Gamberetti Salad",
-          "calories": 828,
+          "calories": 1405,
           "tags": [
             "Fish",
             "Soy",
@@ -3853,7 +2972,7 @@
         },
         {
           "name": "Pollo Verdura Salad",
-          "calories": 939,
+          "calories": 931,
           "tags": [
             "Dairy"
           ]
@@ -3871,11 +2990,11 @@
         },
         {
           "name": "Chicken Parmesan Sandwich",
-          "calories": 640,
+          "calories": 641,
           "tags": [
-            "Fish",
-            "Soy",
-            "Crustacean-Shellfish"
+            "Gluten",
+            "Wheat",
+            "Dairy"
           ]
         },
         {
@@ -4087,7 +3206,7 @@
         },
         {
           "name": "Caesar Salad",
-          "calories": 138,
+          "calories": 139,
           "tags": [
             "Soy",
             "Dairy",
@@ -4123,7 +3242,7 @@
         },
         {
           "name": "Chicken Caesar Salad",
-          "calories": 819,
+          "calories": 1435,
           "tags": [
             "Fish",
             "Soy",
@@ -4132,7 +3251,7 @@
         },
         {
           "name": "Gamberetti Salad",
-          "calories": 828,
+          "calories": 1405,
           "tags": [
             "Fish",
             "Soy",
@@ -4146,7 +3265,7 @@
         },
         {
           "name": "Pollo Verdura Salad",
-          "calories": 939,
+          "calories": 931,
           "tags": [
             "Dairy"
           ]
@@ -4164,11 +3283,11 @@
         },
         {
           "name": "Chicken Parmesan Sandwich",
-          "calories": 640,
+          "calories": 641,
           "tags": [
-            "Fish",
-            "Soy",
-            "Crustacean-Shellfish"
+            "Gluten",
+            "Wheat",
+            "Dairy"
           ]
         },
         {
@@ -4380,7 +3499,7 @@
         },
         {
           "name": "Caesar Salad",
-          "calories": 138,
+          "calories": 139,
           "tags": [
             "Soy",
             "Dairy",
@@ -4418,7 +3537,7 @@
         },
         {
           "name": "Chicken Caesar Salad",
-          "calories": 819,
+          "calories": 1435,
           "tags": [
             "Fish",
             "Soy",
@@ -4427,7 +3546,7 @@
         },
         {
           "name": "Gamberetti Salad",
-          "calories": 828,
+          "calories": 1405,
           "tags": [
             "Fish",
             "Soy",
@@ -4441,7 +3560,7 @@
         },
         {
           "name": "Pollo Verdura Salad",
-          "calories": 939,
+          "calories": 931,
           "tags": [
             "Dairy"
           ]
@@ -4459,11 +3578,11 @@
         },
         {
           "name": "Chicken Parmesan Sandwich",
-          "calories": 640,
+          "calories": 641,
           "tags": [
-            "Fish",
-            "Soy",
-            "Crustacean-Shellfish"
+            "Gluten",
+            "Wheat",
+            "Dairy"
           ]
         },
         {
@@ -4675,7 +3794,7 @@
         },
         {
           "name": "Caesar Salad",
-          "calories": 138,
+          "calories": 139,
           "tags": [
             "Soy",
             "Dairy",
@@ -4711,7 +3830,7 @@
         },
         {
           "name": "Chicken Caesar Salad",
-          "calories": 819,
+          "calories": 1435,
           "tags": [
             "Fish",
             "Soy",
@@ -4720,7 +3839,7 @@
         },
         {
           "name": "Gamberetti Salad",
-          "calories": 828,
+          "calories": 1405,
           "tags": [
             "Fish",
             "Soy",
@@ -4734,7 +3853,7 @@
         },
         {
           "name": "Pollo Verdura Salad",
-          "calories": 939,
+          "calories": 931,
           "tags": [
             "Dairy"
           ]
@@ -4752,11 +3871,11 @@
         },
         {
           "name": "Chicken Parmesan Sandwich",
-          "calories": 640,
+          "calories": 641,
           "tags": [
-            "Fish",
-            "Soy",
-            "Crustacean-Shellfish"
+            "Gluten",
+            "Wheat",
+            "Dairy"
           ]
         },
         {
@@ -4968,7 +4087,7 @@
         },
         {
           "name": "Caesar Salad",
-          "calories": 138,
+          "calories": 139,
           "tags": [
             "Soy",
             "Dairy",
@@ -5004,7 +4123,7 @@
         },
         {
           "name": "Chicken Caesar Salad",
-          "calories": 819,
+          "calories": 1435,
           "tags": [
             "Fish",
             "Soy",
@@ -5013,7 +4132,7 @@
         },
         {
           "name": "Gamberetti Salad",
-          "calories": 828,
+          "calories": 1405,
           "tags": [
             "Fish",
             "Soy",
@@ -5027,7 +4146,7 @@
         },
         {
           "name": "Pollo Verdura Salad",
-          "calories": 939,
+          "calories": 931,
           "tags": [
             "Dairy"
           ]
@@ -5045,11 +4164,11 @@
         },
         {
           "name": "Chicken Parmesan Sandwich",
-          "calories": 640,
+          "calories": 641,
           "tags": [
-            "Fish",
-            "Soy",
-            "Crustacean-Shellfish"
+            "Gluten",
+            "Wheat",
+            "Dairy"
           ]
         },
         {
@@ -5261,7 +4380,7 @@
         },
         {
           "name": "Caesar Salad",
-          "calories": 138,
+          "calories": 139,
           "tags": [
             "Soy",
             "Dairy",
@@ -5299,7 +4418,7 @@
         },
         {
           "name": "Chicken Caesar Salad",
-          "calories": 819,
+          "calories": 1435,
           "tags": [
             "Fish",
             "Soy",
@@ -5308,7 +4427,7 @@
         },
         {
           "name": "Gamberetti Salad",
-          "calories": 828,
+          "calories": 1405,
           "tags": [
             "Fish",
             "Soy",
@@ -5322,7 +4441,7 @@
         },
         {
           "name": "Pollo Verdura Salad",
-          "calories": 939,
+          "calories": 931,
           "tags": [
             "Dairy"
           ]
@@ -5340,11 +4459,11 @@
         },
         {
           "name": "Chicken Parmesan Sandwich",
-          "calories": 640,
+          "calories": 641,
           "tags": [
-            "Fish",
-            "Soy",
-            "Crustacean-Shellfish"
+            "Gluten",
+            "Wheat",
+            "Dairy"
           ]
         },
         {
@@ -5556,7 +4675,7 @@
         },
         {
           "name": "Caesar Salad",
-          "calories": 138,
+          "calories": 139,
           "tags": [
             "Soy",
             "Dairy",
@@ -5592,7 +4711,7 @@
         },
         {
           "name": "Chicken Caesar Salad",
-          "calories": 819,
+          "calories": 1435,
           "tags": [
             "Fish",
             "Soy",
@@ -5601,7 +4720,7 @@
         },
         {
           "name": "Gamberetti Salad",
-          "calories": 828,
+          "calories": 1405,
           "tags": [
             "Fish",
             "Soy",
@@ -5615,7 +4734,7 @@
         },
         {
           "name": "Pollo Verdura Salad",
-          "calories": 939,
+          "calories": 931,
           "tags": [
             "Dairy"
           ]
@@ -5633,11 +4752,11 @@
         },
         {
           "name": "Chicken Parmesan Sandwich",
-          "calories": 640,
+          "calories": 641,
           "tags": [
-            "Fish",
-            "Soy",
-            "Crustacean-Shellfish"
+            "Gluten",
+            "Wheat",
+            "Dairy"
           ]
         },
         {
@@ -5849,7 +4968,7 @@
         },
         {
           "name": "Caesar Salad",
-          "calories": 138,
+          "calories": 139,
           "tags": [
             "Soy",
             "Dairy",
@@ -5885,7 +5004,7 @@
         },
         {
           "name": "Chicken Caesar Salad",
-          "calories": 819,
+          "calories": 1435,
           "tags": [
             "Fish",
             "Soy",
@@ -5894,7 +5013,7 @@
         },
         {
           "name": "Gamberetti Salad",
-          "calories": 828,
+          "calories": 1405,
           "tags": [
             "Fish",
             "Soy",
@@ -5908,7 +5027,7 @@
         },
         {
           "name": "Pollo Verdura Salad",
-          "calories": 939,
+          "calories": 931,
           "tags": [
             "Dairy"
           ]
@@ -5926,11 +5045,11 @@
         },
         {
           "name": "Chicken Parmesan Sandwich",
-          "calories": 640,
+          "calories": 641,
           "tags": [
-            "Fish",
-            "Soy",
-            "Crustacean-Shellfish"
+            "Gluten",
+            "Wheat",
+            "Dairy"
           ]
         },
         {
@@ -6142,7 +5261,888 @@
         },
         {
           "name": "Caesar Salad",
-          "calories": 138,
+          "calories": 139,
+          "tags": [
+            "Soy",
+            "Dairy",
+            "Alcohol"
+          ]
+        },
+        {
+          "name": "Fresh Fruit Cup",
+          "calories": 45,
+          "tags": []
+        },
+        {
+          "name": "Chocolate Chip Cookie",
+          "calories": 482,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        }
+      ]
+    }
+  },
+  "2025-04-08": {
+    "Breakfast": {
+      "SALADS": [
+        {
+          "name": "Caesar Salad",
+          "calories": 170,
+          "tags": [
+            "Soy",
+            "Dairy",
+            "Alcohol"
+          ]
+        },
+        {
+          "name": "Chicken Caesar Salad",
+          "calories": 1435,
+          "tags": [
+            "Fish",
+            "Soy",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Gamberetti Salad",
+          "calories": 1405,
+          "tags": [
+            "Fish",
+            "Soy",
+            "Crustacean-Shellfish"
+          ]
+        },
+        {
+          "name": "Mediterranean Tomato & Cucumber Chopped Salad",
+          "calories": 383,
+          "tags": []
+        },
+        {
+          "name": "Pollo Verdura Salad",
+          "calories": 931,
+          "tags": [
+            "Dairy"
+          ]
+        }
+      ],
+      "PANINIS": [
+        {
+          "name": "Caprese Panini",
+          "calories": 243,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Chicken Parmesan Sandwich",
+          "calories": 641,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Florentino Panini",
+          "calories": 641,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Campania Panini",
+          "calories": 512,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Tacchino Panini",
+          "calories": 1524,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Tuscano Panini",
+          "calories": 952,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Italian Sandwich",
+          "calories": 633,
+          "tags": [
+            "Gluten",
+            "Tree-Nuts",
+            "Wheat"
+          ]
+        }
+      ],
+      "Roman Pizza": [
+        {
+          "name": "Prosciutto & Pear Pizza (Roman Style)",
+          "calories": 803,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        }
+      ],
+      "DRESSING": [
+        {
+          "name": "Sundried Tomato & Goat Cheese Pizza",
+          "calories": 699,
+          "tags": [
+            "Vegetarian",
+            "High-Carbon-Footprint",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Formaggio Tradizionale Pizzetta",
+          "calories": 592,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Genova Pizzetta",
+          "calories": 809,
+          "tags": [
+            "Halal",
+            "Fish",
+            "Soy"
+          ]
+        },
+        {
+          "name": "Il Carnivora Pizzetta",
+          "calories": 787,
+          "tags": [
+            "High-Carbon-Footprint",
+            "Soy",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Margherita Pizzetta",
+          "calories": 584,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Pepperoni Pizza",
+          "calories": 712,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        }
+      ],
+      "PRETZELS": [
+        {
+          "name": "Marinara Sauce",
+          "calories": 3647,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Jalape\u00f1o Cheese Sauce",
+          "calories": 1207,
+          "tags": [
+            "Vegetarian",
+            "Fish",
+            "Soy"
+          ]
+        }
+      ],
+      "Fruit": [
+        {
+          "name": "Bananas",
+          "calories": 89,
+          "tags": []
+        },
+        {
+          "name": "Oranges",
+          "calories": 47,
+          "tags": []
+        },
+        {
+          "name": "Fuji Apple",
+          "calories": 63,
+          "tags": []
+        },
+        {
+          "name": "Granny Smith Apple",
+          "calories": 58,
+          "tags": []
+        }
+      ],
+      "Fountain Beverages": [
+        {
+          "name": "Fountain Beverage",
+          "calories": 3,
+          "tags": []
+        }
+      ],
+      "SIDES": [
+        {
+          "name": "BBQ Kettle Chips",
+          "calories": 213,
+          "tags": []
+        },
+        {
+          "name": "Baked Lays Potato Chips",
+          "calories": 140,
+          "tags": [
+            "Soy"
+          ]
+        },
+        {
+          "name": "Sea Salt Kettle Chips",
+          "calories": 228,
+          "tags": []
+        },
+        {
+          "name": "Jalape\u00f1o Kettle Chips",
+          "calories": 307,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Smartfood\u00ae White Cheddar Popcorn",
+          "calories": 648,
+          "tags": []
+        },
+        {
+          "name": "Oatmeal Raisin Cookie",
+          "calories": 453,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Caprese Salad",
+          "calories": 268,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Caesar Salad",
+          "calories": 139,
+          "tags": [
+            "Soy",
+            "Dairy",
+            "Alcohol"
+          ]
+        },
+        {
+          "name": "Fresh Fruit Cup",
+          "calories": 45,
+          "tags": []
+        },
+        {
+          "name": "Chocolate Chip Cookie",
+          "calories": 482,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        }
+      ]
+    },
+    "Lunch": {
+      "SALADS": [
+        {
+          "name": "Caesar Salad",
+          "calories": 170,
+          "tags": [
+            "Soy",
+            "Dairy",
+            "Alcohol"
+          ]
+        },
+        {
+          "name": "Chicken Caesar Salad",
+          "calories": 1435,
+          "tags": [
+            "Fish",
+            "Soy",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Gamberetti Salad",
+          "calories": 1405,
+          "tags": [
+            "Fish",
+            "Soy",
+            "Crustacean-Shellfish"
+          ]
+        },
+        {
+          "name": "Mediterranean Tomato & Cucumber Chopped Salad",
+          "calories": 383,
+          "tags": []
+        },
+        {
+          "name": "Pollo Verdura Salad",
+          "calories": 931,
+          "tags": [
+            "Dairy"
+          ]
+        }
+      ],
+      "PANINIS": [
+        {
+          "name": "Caprese Panini",
+          "calories": 243,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Chicken Parmesan Sandwich",
+          "calories": 641,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Florentino Panini",
+          "calories": 641,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Campania Panini",
+          "calories": 512,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Tacchino Panini",
+          "calories": 1524,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Tuscano Panini",
+          "calories": 952,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Italian Sandwich",
+          "calories": 633,
+          "tags": [
+            "Gluten",
+            "Tree-Nuts",
+            "Wheat"
+          ]
+        }
+      ],
+      "Roman Pizza": [
+        {
+          "name": "Prosciutto & Pear Pizza (Roman Style)",
+          "calories": 803,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        }
+      ],
+      "DRESSING": [
+        {
+          "name": "Sundried Tomato & Goat Cheese Pizza",
+          "calories": 699,
+          "tags": [
+            "Vegetarian",
+            "High-Carbon-Footprint",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Formaggio Tradizionale Pizzetta",
+          "calories": 592,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Genova Pizzetta",
+          "calories": 809,
+          "tags": [
+            "Halal",
+            "Fish",
+            "Soy"
+          ]
+        },
+        {
+          "name": "Il Carnivora Pizzetta",
+          "calories": 787,
+          "tags": [
+            "High-Carbon-Footprint",
+            "Soy",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Margherita Pizzetta",
+          "calories": 584,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Pepperoni Pizza",
+          "calories": 712,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        }
+      ],
+      "PRETZELS": [
+        {
+          "name": "Marinara Sauce",
+          "calories": 3647,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Jalape\u00f1o Cheese Sauce",
+          "calories": 1207,
+          "tags": [
+            "Vegetarian",
+            "Fish",
+            "Soy"
+          ]
+        }
+      ],
+      "Fruit": [
+        {
+          "name": "Bananas",
+          "calories": 89,
+          "tags": []
+        },
+        {
+          "name": "Oranges",
+          "calories": 47,
+          "tags": []
+        },
+        {
+          "name": "Fuji Apple",
+          "calories": 63,
+          "tags": []
+        },
+        {
+          "name": "Granny Smith Apple",
+          "calories": 58,
+          "tags": []
+        }
+      ],
+      "Fountain Beverages": [
+        {
+          "name": "Fountain Beverage",
+          "calories": 3,
+          "tags": []
+        }
+      ],
+      "SIDES": [
+        {
+          "name": "BBQ Kettle Chips",
+          "calories": 213,
+          "tags": []
+        },
+        {
+          "name": "Baked Lays Potato Chips",
+          "calories": 140,
+          "tags": [
+            "Soy"
+          ]
+        },
+        {
+          "name": "Sea Salt Kettle Chips",
+          "calories": 228,
+          "tags": []
+        },
+        {
+          "name": "Jalape\u00f1o Kettle Chips",
+          "calories": 307,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Smartfood\u00ae White Cheddar Popcorn",
+          "calories": 648,
+          "tags": []
+        },
+        {
+          "name": "Oatmeal Raisin Cookie",
+          "calories": 453,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Caprese Salad",
+          "calories": 268,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Caesar Salad",
+          "calories": 139,
+          "tags": [
+            "Soy",
+            "Dairy",
+            "Alcohol"
+          ]
+        },
+        {
+          "name": "Fresh Fruit Cup",
+          "calories": 45,
+          "tags": []
+        },
+        {
+          "name": "Chocolate Chip Cookie",
+          "calories": 482,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        }
+      ]
+    },
+    "Dinner": {
+      "SALADS": [
+        {
+          "name": "Caesar Salad",
+          "calories": 170,
+          "tags": [
+            "Soy",
+            "Dairy",
+            "Alcohol"
+          ]
+        },
+        {
+          "name": "Chicken Caesar Salad",
+          "calories": 1435,
+          "tags": [
+            "Fish",
+            "Soy",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Gamberetti Salad",
+          "calories": 1405,
+          "tags": [
+            "Fish",
+            "Soy",
+            "Crustacean-Shellfish"
+          ]
+        },
+        {
+          "name": "Mediterranean Tomato & Cucumber Chopped Salad",
+          "calories": 383,
+          "tags": []
+        },
+        {
+          "name": "Pollo Verdura Salad",
+          "calories": 931,
+          "tags": [
+            "Dairy"
+          ]
+        }
+      ],
+      "PANINIS": [
+        {
+          "name": "Caprese Panini",
+          "calories": 243,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Chicken Parmesan Sandwich",
+          "calories": 641,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Florentino Panini",
+          "calories": 641,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Campania Panini",
+          "calories": 512,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Tacchino Panini",
+          "calories": 1524,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Tuscano Panini",
+          "calories": 952,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Italian Sandwich",
+          "calories": 633,
+          "tags": [
+            "Gluten",
+            "Tree-Nuts",
+            "Wheat"
+          ]
+        }
+      ],
+      "Roman Pizza": [
+        {
+          "name": "Prosciutto & Pear Pizza (Roman Style)",
+          "calories": 803,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        }
+      ],
+      "DRESSING": [
+        {
+          "name": "Sundried Tomato & Goat Cheese Pizza",
+          "calories": 699,
+          "tags": [
+            "Vegetarian",
+            "High-Carbon-Footprint",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Formaggio Tradizionale Pizzetta",
+          "calories": 592,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Genova Pizzetta",
+          "calories": 809,
+          "tags": [
+            "Halal",
+            "Fish",
+            "Soy"
+          ]
+        },
+        {
+          "name": "Il Carnivora Pizzetta",
+          "calories": 787,
+          "tags": [
+            "High-Carbon-Footprint",
+            "Soy",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Margherita Pizzetta",
+          "calories": 584,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Pepperoni Pizza",
+          "calories": 712,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        }
+      ],
+      "PRETZELS": [
+        {
+          "name": "Marinara Sauce",
+          "calories": 3647,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Jalape\u00f1o Cheese Sauce",
+          "calories": 1207,
+          "tags": [
+            "Vegetarian",
+            "Fish",
+            "Soy"
+          ]
+        }
+      ],
+      "Fruit": [
+        {
+          "name": "Bananas",
+          "calories": 89,
+          "tags": []
+        },
+        {
+          "name": "Oranges",
+          "calories": 47,
+          "tags": []
+        },
+        {
+          "name": "Fuji Apple",
+          "calories": 63,
+          "tags": []
+        },
+        {
+          "name": "Granny Smith Apple",
+          "calories": 58,
+          "tags": []
+        }
+      ],
+      "Fountain Beverages": [
+        {
+          "name": "Fountain Beverage",
+          "calories": 3,
+          "tags": []
+        }
+      ],
+      "SIDES": [
+        {
+          "name": "BBQ Kettle Chips",
+          "calories": 213,
+          "tags": []
+        },
+        {
+          "name": "Baked Lays Potato Chips",
+          "calories": 140,
+          "tags": [
+            "Soy"
+          ]
+        },
+        {
+          "name": "Sea Salt Kettle Chips",
+          "calories": 228,
+          "tags": []
+        },
+        {
+          "name": "Jalape\u00f1o Kettle Chips",
+          "calories": 307,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Smartfood\u00ae White Cheddar Popcorn",
+          "calories": 648,
+          "tags": []
+        },
+        {
+          "name": "Oatmeal Raisin Cookie",
+          "calories": 453,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Caprese Salad",
+          "calories": 268,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Caesar Salad",
+          "calories": 139,
           "tags": [
             "Soy",
             "Dairy",

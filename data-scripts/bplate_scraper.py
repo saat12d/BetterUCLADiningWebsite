@@ -1,6 +1,7 @@
 from playwright.async_api import async_playwright
 import asyncio
 import json
+from datetime import datetime, timedelta
 
 async def scrape_bruin_plate_meals():
     async with async_playwright() as p:
@@ -9,7 +10,7 @@ async def scrape_bruin_plate_meals():
         page = await context.new_page()
 
         # Go to Bruin Plate menu
-        await page.goto("https://dining.ucla.edu/epicuria-at-covel/")
+        await page.goto("https://dining.ucla.edu/bruin-plate/")
         # Wait for and click the 'Change' button to open the date/meal modal
         await page.wait_for_selector('button:has-text("Change")')
         await page.click('button:has-text("Change")')
@@ -28,6 +29,17 @@ async def scrape_bruin_plate_meals():
             # Get the value attribute (e.g. "2025-03-30") of the nth option
             date_option = date_options.nth(date_index)
             date_value = await date_option.get_attribute('value')
+            date_text = await date_option.text_content()
+
+            # Parse the date and adjust it forward by one day
+            # This is because UCLA's system shows tomorrow's menu under today's date
+            try:
+                menu_date = datetime.strptime(date_value, "%Y-%m-%d")
+                adjusted_date = menu_date + timedelta(days=1)
+                adjusted_date_str = adjusted_date.strftime("%Y-%m-%d")
+            except ValueError:
+                print(f"Warning: Could not parse date {date_value}, skipping...")
+                continue
 
             # Select this date from the dropdown
             await page.select_option('#menu-date', value=date_value)
@@ -87,8 +99,9 @@ async def scrape_bruin_plate_meals():
                 if i < len(meal_types) - 1:
                     await page.click('button:has-text("Change")')
 
-            # Finished collecting for this date, store it under date_value
-            all_data[date_value] = date_data
+            # Finished collecting for this date, store it under adjusted_date_str
+            all_data[adjusted_date_str] = date_data
+            print(f"✓ Scraped menu for {adjusted_date_str} (original date: {date_value})")
 
             # If there are still more dates to process, open the modal again
             if date_index < date_count - 1:
@@ -98,10 +111,10 @@ async def scrape_bruin_plate_meals():
         await browser.close()
 
         # Save all_data to JSON
-        with open("../data/epicuria_menu.json", "w") as f:
+        with open("../data/bruin_plate_menu.json", "w") as f:
             json.dump(all_data, f, indent=2)
 
-        print("✅ Data saved to feast_menu.json")
+        print("✅ Data saved to bruin_plate_menu.json")
 
 # Run the async scraper
 if __name__ == "__main__":

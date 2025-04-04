@@ -267,10 +267,13 @@ footer {
 
   header {
     padding: 1rem;
+    flex-direction: column;
+    gap: 1rem;
+    text-align: center;
   }
 
   header h1 {
-    font-size: 1.4rem;
+    font-size: 1.25rem;
   }
 
   .menu-links {
@@ -278,8 +281,73 @@ footer {
   }
 
   #menu-container {
-    padding: 0 1rem;
+    grid-template-columns: 1fr;
+    padding: 0.5rem;
     gap: 1rem;
+    margin: 1rem 0.5rem;
+  }
+
+  .column {
+    margin: 0;
+    border-radius: 8px;
+  }
+
+  .column h2 {
+    font-size: 1.25rem;
+    margin-bottom: 1rem;
+  }
+
+  .section-heading {
+    font-size: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 0.75rem;
+  }
+
+  .column li {
+    padding: 0.75rem 0.5rem;
+    font-size: 0.95rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+  }
+
+  .tag-icons {
+    margin-left: 0;
+    margin-top: 0.25rem;
+  }
+
+  .tag-icon-img {
+    width: 16px;
+    height: 16px;
+  }
+}
+
+@media (max-width: 480px) {
+  header h1 {
+    font-size: 1.1rem;
+  }
+
+  .column h2 {
+    font-size: 1.1rem;
+  }
+
+  .section-heading {
+    font-size: 0.95rem;
+  }
+
+  .column li {
+    font-size: 0.9rem;
+  }
+
+  .tag-icon-img {
+    width: 14px;
+    height: 14px;
+  }
+
+  .info-message {
+    margin: 0.5rem;
+    padding: 0.75rem;
+    font-size: 0.95rem;
   }
 }
 

@@ -1,2718 +1,4 @@
 {
-  "2025-04-02": {
-    "Breakfast": {
-      "BREAKFAST": [
-        {
-          "name": "Build-Your-Own Breakfast Bowl",
-          "calories": 482,
-          "tags": [
-            "Soy",
-            "Dairy",
-            "Eggs"
-          ]
-        },
-        {
-          "name": "Build-Your-Own Breakfast Burrito",
-          "calories": 598,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Assorted Cereal Cups",
-          "calories": 350,
-          "tags": [
-            "Wheat",
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Oatmeal",
-          "calories": null,
-          "tags": []
-        },
-        {
-          "name": "Blueberry & Apple Oatmeal Parfait",
-          "calories": 255,
-          "tags": [
-            "Gluten",
-            "Tree-Nuts",
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Fresh Berry Parfait",
-          "calories": 326,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Fresh Fruit Cup",
-          "calories": 45,
-          "tags": []
-        },
-        {
-          "name": "Bruin Waffle Plate",
-          "calories": 650,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Baked Apple Instant Oatmeal",
-          "calories": null,
-          "tags": []
-        }
-      ],
-      "DAILY SPECIALS": [
-        {
-          "name": "Plain Chicken Wings",
-          "calories": 562,
-          "tags": []
-        },
-        {
-          "name": "Frank's RedHot\u00ae Chicken Wings",
-          "calories": 563,
-          "tags": []
-        },
-        {
-          "name": "Lemon Pepper Chicken Wings",
-          "calories": 622,
-          "tags": []
-        },
-        {
-          "name": "Szechuan Chicken Wings",
-          "calories": 665,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Wedge Cut Fries",
-          "calories": 112,
-          "tags": []
-        }
-      ],
-      "TOASTED SANDWICHES": [
-        {
-          "name": "Ham & Swiss Sandwich",
-          "calories": 940,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Roasted Turkey & Provolone Sandwich",
-          "calories": 1040,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Vegan BBQ Beef Sandwich",
-          "calories": 509,
-          "tags": [
-            "Vegan",
-            "Low-Carbon-Footprint",
-            "Soy"
-          ]
-        },
-        {
-          "name": "BBQ Beef Brisket Sandwich",
-          "calories": 958,
-          "tags": [
-            "High-Carbon-Footprint",
-            "Soy",
-            "Gluten"
-          ]
-        },
-        {
-          "name": "Chicken Ranch & Swiss Sandwich",
-          "calories": 878,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "The Cuban Sandwich",
-          "calories": 990,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Chipotle BBQ Turkey Sandwich",
-          "calories": 651,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Chicken Caesar Sandwich",
-          "calories": 641,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Roasted Salmon Sandwich",
-          "calories": 947,
-          "tags": [
-            "Fish",
-            "Soy",
-            "Gluten"
-          ]
-        },
-        {
-          "name": "Pastrami & Swiss Sandwich",
-          "calories": 596,
-          "tags": [
-            "High-Carbon-Footprint",
-            "Soy",
-            "Gluten"
-          ]
-        },
-        {
-          "name": "Chicken Pesto Sandwich",
-          "calories": 662,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Roasted Portabella Mushroom Sandwich",
-          "calories": 508,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Buffalo Chicken Sandwich",
-          "calories": 783,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Cheesesteak",
-          "calories": 1077,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Vegan Chicken Caesar Sandwich",
-          "calories": 616,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Tree-Nuts"
-          ]
-        },
-        {
-          "name": "Vegan Chipotle BBQ Turkey Sandwich",
-          "calories": 635,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Tree-Nuts"
-          ]
-        },
-        {
-          "name": "Vegan Cuban Sandwich",
-          "calories": 852,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Tree-Nuts"
-          ]
-        },
-        {
-          "name": "Vegan Roasted Salmon Sandwich",
-          "calories": 805,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Vegetarian Chicken Ranch & Swiss Sandwich",
-          "calories": 860,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Vegetarian Pastrami & Swiss Sandwich",
-          "calories": 607,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Vegetarian Ham & Swiss Sandwich",
-          "calories": 960,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Chicken Parmesan Sandwich",
-          "calories": 707,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        }
-      ],
-      "ENTREE SALADS": [
-        {
-          "name": "Vegetarian Cobb Salad",
-          "calories": 314,
-          "tags": [
-            "Soy",
-            "Dairy",
-            "Eggs"
-          ]
-        },
-        {
-          "name": "Mixed Green Salad",
-          "calories": 461,
-          "tags": [
-            "Dairy",
-            "Alcohol"
-          ]
-        },
-        {
-          "name": "Asian Wonton Salad",
-          "calories": 308,
-          "tags": [
-            "Gluten",
-            "Tree-Nuts",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Caesar Salad",
-          "calories": 170,
-          "tags": [
-            "Soy",
-            "Dairy",
-            "Alcohol"
-          ]
-        },
-        {
-          "name": "Chopped Mediterranean Salad",
-          "calories": 289,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Asian Chicken Salad",
-          "calories": 172,
-          "tags": [
-            "Gluten",
-            "Tree-Nuts",
-            "Wheat"
-          ]
-        }
-      ],
-      "ENTREE SOUPS": [
-        {
-          "name": "Chicken Noodle Soup",
-          "calories": 213,
-          "tags": [
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Tomato & Fresh Basil Soup",
-          "calories": 287,
-          "tags": [
-            "Vegan",
-            "Low-Carbon-Footprint"
-          ]
-        }
-      ],
-      "GRAB & GO SANDWICHES": [
-        {
-          "name": "Peanut Butter & Strawberry Preserves Sandwich",
-          "calories": 752,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Peanut"
-          ]
-        },
-        {
-          "name": "Avocado BLT Sandwich",
-          "calories": 719,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Italian Sandwich",
-          "calories": 633,
-          "tags": [
-            "Gluten",
-            "Tree-Nuts",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Turkey & Provolone Sandwich",
-          "calories": 1255,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Ham & Swiss Croissant Sandwich",
-          "calories": 809,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Tuna Salad Croissant Sandwich",
-          "calories": 948,
-          "tags": [
-            "Fish",
-            "Soy",
-            "Gluten"
-          ]
-        }
-      ],
-      "GRAB & GO SALADS": [
-        {
-          "name": "Chicken Caesar Salad",
-          "calories": 372,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Vegetarian Cobb Salad",
-          "calories": 314,
-          "tags": [
-            "Soy",
-            "Dairy",
-            "Eggs"
-          ]
-        },
-        {
-          "name": "Caesar Salad",
-          "calories": 170,
-          "tags": [
-            "Soy",
-            "Dairy",
-            "Alcohol"
-          ]
-        },
-        {
-          "name": "Asian Chicken Salad",
-          "calories": 172,
-          "tags": [
-            "Gluten",
-            "Tree-Nuts",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Asian Wonton Salad",
-          "calories": 308,
-          "tags": [
-            "Gluten",
-            "Tree-Nuts",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "BBQ Chicken Salad",
-          "calories": 338,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Chicken Caesar Salad",
-          "calories": 372,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Mixed Green Salad",
-          "calories": 461,
-          "tags": [
-            "Dairy",
-            "Alcohol"
-          ]
-        }
-      ],
-      "ACAI BOWLS & FRESH FRUIT SMOOTHIES": [
-        {
-          "name": "A\u00e7a\u00ed Bruin Bowl",
-          "calories": 845,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Tree-Nuts"
-          ]
-        },
-        {
-          "name": "Strawberry Sensation Smoothie",
-          "calories": 434,
-          "tags": []
-        },
-        {
-          "name": "Mango Madness Smoothie",
-          "calories": 245,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Caribbean Island Smoothie",
-          "calories": 167,
-          "tags": []
-        },
-        {
-          "name": "Bruin Fresh Smoothie",
-          "calories": 556,
-          "tags": [
-            "Vegetarian"
-          ]
-        },
-        {
-          "name": "Smoothie #15: Chocolate Banana",
-          "calories": 355,
-          "tags": [
-            "Gluten"
-          ]
-        },
-        {
-          "name": "Smoothie #06: Alooooha",
-          "calories": 433,
-          "tags": [
-            "Dairy"
-          ]
-        }
-      ],
-      "FAIR TRADE COFFEE & TEA": [
-        {
-          "name": "Caf\u00e9 Latte",
-          "calories": 117,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Vanilla Latte",
-          "calories": 88,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Mocha Latte",
-          "calories": 119,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Caramel Latte",
-          "calories": 211,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Chai Tea Latte",
-          "calories": 11,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Brewed Coffee",
-          "calories": 70,
-          "tags": []
-        },
-        {
-          "name": "Espresso",
-          "calories": 1,
-          "tags": []
-        },
-        {
-          "name": "Caf\u00e9 Caramel",
-          "calories": 190,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Caf\u00e9 Mocha",
-          "calories": 89,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Caf\u00e9 Vanilla",
-          "calories": 58,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Brewed Tea",
-          "calories": null,
-          "tags": []
-        },
-        {
-          "name": "White Chocolate Latte",
-          "calories": 73,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Cappuccino",
-          "calories": 73,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Hot Chocolate",
-          "calories": 156,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Hot Vanilla",
-          "calories": 125,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Horchata Latte",
-          "calories": 4,
-          "tags": []
-        },
-        {
-          "name": "Tea Latte",
-          "calories": 10,
-          "tags": [
-            "Dairy"
-          ]
-        }
-      ],
-      "PASTRIES": [
-        {
-          "name": "Cheese Danish",
-          "calories": 351,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Red Velvet Cupcake",
-          "calories": 69,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Butter Croissant",
-          "calories": 350,
-          "tags": [
-            "Vegetarian",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Chocolate Hazelnut  Croissant",
-          "calories": null,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Tree-Nuts"
-          ]
-        },
-        {
-          "name": "Apple Turnover",
-          "calories": 292,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Oatmeal Raisin Cookie",
-          "calories": 453,
-          "tags": [
-            "Vegetarian",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Chocolate Chip Cookie",
-          "calories": 482,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Morning Bun",
-          "calories": 462,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Norwegian Cream Cake w/ Meringue & Almonds",
-          "calories": 39816,
-          "tags": [
-            "Gluten",
-            "Tree-Nuts",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "White Chocolate Strawberry Tart",
-          "calories": 235,
-          "tags": [
-            "Vegetarian",
-            "Soy",
-            "Gluten"
-          ]
-        },
-        {
-          "name": "Black & White Verrine",
-          "calories": 722,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Tree-Nuts"
-          ]
-        },
-        {
-          "name": "Plain Bagel",
-          "calories": 316,
-          "tags": [
-            "Eggs"
-          ]
-        },
-        {
-          "name": "Everything Bagel",
-          "calories": 274,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Sesame"
-          ]
-        },
-        {
-          "name": "Wheat Bagel",
-          "calories": 247,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Blueberry Muffin",
-          "calories": 682,
-          "tags": [
-            "Vegetarian",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Banana Muffin",
-          "calories": 808,
-          "tags": [
-            "Vegetarian",
-            "Gluten",
-            "Tree-Nuts"
-          ]
-        },
-        {
-          "name": "Mocha Muffin",
-          "calories": 767,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        }
-      ],
-      "Parfaits / Fruit Cups": [
-        {
-          "name": "Blueberry & Apple Oatmeal Parfait",
-          "calories": 255,
-          "tags": [
-            "Gluten",
-            "Tree-Nuts",
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Fresh Berry Parfait",
-          "calories": 326,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Fresh Fruit Cup",
-          "calories": 45,
-          "tags": []
-        }
-      ],
-      "Sides": [
-        {
-          "name": "Bananas",
-          "calories": 89,
-          "tags": []
-        },
-        {
-          "name": "Fuji Apple",
-          "calories": 63,
-          "tags": []
-        },
-        {
-          "name": "Granny Smith Apple",
-          "calories": 58,
-          "tags": []
-        },
-        {
-          "name": "Oranges",
-          "calories": 47,
-          "tags": []
-        },
-        {
-          "name": "BBQ Kettle Chips",
-          "calories": 500,
-          "tags": []
-        },
-        {
-          "name": "Sea Salt Kettle Chips",
-          "calories": 535,
-          "tags": []
-        },
-        {
-          "name": "Smartfood White Cheddar Popcorn",
-          "calories": 571,
-          "tags": []
-        },
-        {
-          "name": "Baked Original Lays",
-          "calories": 437,
-          "tags": [
-            "Soy"
-          ]
-        },
-        {
-          "name": "jalapeno Kettle Chips",
-          "calories": 750,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Oatmeal Raisin Cookie",
-          "calories": 453,
-          "tags": [
-            "Vegetarian",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Chocolate Chip Cookie",
-          "calories": 482,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        }
-      ]
-    },
-    "Lunch": {
-      "BREAKFAST": [
-        {
-          "name": "Build-Your-Own Breakfast Bowl",
-          "calories": 482,
-          "tags": [
-            "Soy",
-            "Dairy",
-            "Eggs"
-          ]
-        },
-        {
-          "name": "Build-Your-Own Breakfast Burrito",
-          "calories": 598,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Assorted Cereal Cups",
-          "calories": 350,
-          "tags": [
-            "Wheat",
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Oatmeal",
-          "calories": null,
-          "tags": []
-        },
-        {
-          "name": "Blueberry & Apple Oatmeal Parfait",
-          "calories": 255,
-          "tags": [
-            "Gluten",
-            "Tree-Nuts",
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Fresh Berry Parfait",
-          "calories": 326,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Fresh Fruit Cup",
-          "calories": 45,
-          "tags": []
-        },
-        {
-          "name": "Bruin Waffle Plate",
-          "calories": 650,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Baked Apple Instant Oatmeal",
-          "calories": null,
-          "tags": []
-        }
-      ],
-      "DAILY SPECIALS": [
-        {
-          "name": "Plain Chicken Wings",
-          "calories": 562,
-          "tags": []
-        },
-        {
-          "name": "Frank's RedHot\u00ae Chicken Wings",
-          "calories": 563,
-          "tags": []
-        },
-        {
-          "name": "Lemon Pepper Chicken Wings",
-          "calories": 622,
-          "tags": []
-        },
-        {
-          "name": "Szechuan Chicken Wings",
-          "calories": 665,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Wedge Cut Fries",
-          "calories": 112,
-          "tags": []
-        }
-      ],
-      "TOASTED SANDWICHES": [
-        {
-          "name": "Ham & Swiss Sandwich",
-          "calories": 940,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Roasted Turkey & Provolone Sandwich",
-          "calories": 1040,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Vegan BBQ Beef Sandwich",
-          "calories": 509,
-          "tags": [
-            "Vegan",
-            "Low-Carbon-Footprint",
-            "Soy"
-          ]
-        },
-        {
-          "name": "BBQ Beef Brisket Sandwich",
-          "calories": 958,
-          "tags": [
-            "High-Carbon-Footprint",
-            "Soy",
-            "Gluten"
-          ]
-        },
-        {
-          "name": "Chicken Ranch & Swiss Sandwich",
-          "calories": 878,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "The Cuban Sandwich",
-          "calories": 990,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Chipotle BBQ Turkey Sandwich",
-          "calories": 651,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Chicken Caesar Sandwich",
-          "calories": 641,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Roasted Salmon Sandwich",
-          "calories": 947,
-          "tags": [
-            "Fish",
-            "Soy",
-            "Gluten"
-          ]
-        },
-        {
-          "name": "Pastrami & Swiss Sandwich",
-          "calories": 596,
-          "tags": [
-            "High-Carbon-Footprint",
-            "Soy",
-            "Gluten"
-          ]
-        },
-        {
-          "name": "Chicken Pesto Sandwich",
-          "calories": 662,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Roasted Portabella Mushroom Sandwich",
-          "calories": 508,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Buffalo Chicken Sandwich",
-          "calories": 783,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Cheesesteak",
-          "calories": 1077,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Vegan Chicken Caesar Sandwich",
-          "calories": 616,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Tree-Nuts"
-          ]
-        },
-        {
-          "name": "Vegan Chipotle BBQ Turkey Sandwich",
-          "calories": 635,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Tree-Nuts"
-          ]
-        },
-        {
-          "name": "Vegan Cuban Sandwich",
-          "calories": 852,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Tree-Nuts"
-          ]
-        },
-        {
-          "name": "Vegan Roasted Salmon Sandwich",
-          "calories": 805,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Vegetarian Chicken Ranch & Swiss Sandwich",
-          "calories": 860,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Vegetarian Pastrami & Swiss Sandwich",
-          "calories": 607,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Vegetarian Ham & Swiss Sandwich",
-          "calories": 960,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Chicken Parmesan Sandwich",
-          "calories": 707,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        }
-      ],
-      "ENTREE SALADS": [
-        {
-          "name": "Vegetarian Cobb Salad",
-          "calories": 314,
-          "tags": [
-            "Soy",
-            "Dairy",
-            "Eggs"
-          ]
-        },
-        {
-          "name": "Mixed Green Salad",
-          "calories": 461,
-          "tags": [
-            "Dairy",
-            "Alcohol"
-          ]
-        },
-        {
-          "name": "Asian Wonton Salad",
-          "calories": 308,
-          "tags": [
-            "Gluten",
-            "Tree-Nuts",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Caesar Salad",
-          "calories": 170,
-          "tags": [
-            "Soy",
-            "Dairy",
-            "Alcohol"
-          ]
-        },
-        {
-          "name": "Chopped Mediterranean Salad",
-          "calories": 289,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Asian Chicken Salad",
-          "calories": 172,
-          "tags": [
-            "Gluten",
-            "Tree-Nuts",
-            "Wheat"
-          ]
-        }
-      ],
-      "ENTREE SOUPS": [
-        {
-          "name": "Chicken Noodle Soup",
-          "calories": 213,
-          "tags": [
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Tomato & Fresh Basil Soup",
-          "calories": 287,
-          "tags": [
-            "Vegan",
-            "Low-Carbon-Footprint"
-          ]
-        }
-      ],
-      "GRAB & GO SANDWICHES": [
-        {
-          "name": "Peanut Butter & Strawberry Preserves Sandwich",
-          "calories": 752,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Peanut"
-          ]
-        },
-        {
-          "name": "Avocado BLT Sandwich",
-          "calories": 719,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Italian Sandwich",
-          "calories": 633,
-          "tags": [
-            "Gluten",
-            "Tree-Nuts",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Turkey & Provolone Sandwich",
-          "calories": 1255,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Ham & Swiss Croissant Sandwich",
-          "calories": 809,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Tuna Salad Croissant Sandwich",
-          "calories": 948,
-          "tags": [
-            "Fish",
-            "Soy",
-            "Gluten"
-          ]
-        }
-      ],
-      "GRAB & GO SALADS": [
-        {
-          "name": "Chicken Caesar Salad",
-          "calories": 372,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Vegetarian Cobb Salad",
-          "calories": 314,
-          "tags": [
-            "Soy",
-            "Dairy",
-            "Eggs"
-          ]
-        },
-        {
-          "name": "Caesar Salad",
-          "calories": 170,
-          "tags": [
-            "Soy",
-            "Dairy",
-            "Alcohol"
-          ]
-        },
-        {
-          "name": "Asian Chicken Salad",
-          "calories": 172,
-          "tags": [
-            "Gluten",
-            "Tree-Nuts",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Asian Wonton Salad",
-          "calories": 308,
-          "tags": [
-            "Gluten",
-            "Tree-Nuts",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "BBQ Chicken Salad",
-          "calories": 338,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Chicken Caesar Salad",
-          "calories": 372,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Mixed Green Salad",
-          "calories": 461,
-          "tags": [
-            "Dairy",
-            "Alcohol"
-          ]
-        }
-      ],
-      "ACAI BOWLS & FRESH FRUIT SMOOTHIES": [
-        {
-          "name": "A\u00e7a\u00ed Bruin Bowl",
-          "calories": 845,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Tree-Nuts"
-          ]
-        },
-        {
-          "name": "Strawberry Sensation Smoothie",
-          "calories": 434,
-          "tags": []
-        },
-        {
-          "name": "Mango Madness Smoothie",
-          "calories": 245,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Caribbean Island Smoothie",
-          "calories": 167,
-          "tags": []
-        },
-        {
-          "name": "Bruin Fresh Smoothie",
-          "calories": 556,
-          "tags": [
-            "Vegetarian"
-          ]
-        },
-        {
-          "name": "Smoothie #15: Chocolate Banana",
-          "calories": 355,
-          "tags": [
-            "Gluten"
-          ]
-        },
-        {
-          "name": "Smoothie #06: Alooooha",
-          "calories": 433,
-          "tags": [
-            "Dairy"
-          ]
-        }
-      ],
-      "FAIR TRADE COFFEE & TEA": [
-        {
-          "name": "Caf\u00e9 Latte",
-          "calories": 117,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Vanilla Latte",
-          "calories": 88,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Mocha Latte",
-          "calories": 119,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Caramel Latte",
-          "calories": 211,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Chai Tea Latte",
-          "calories": 11,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Brewed Coffee",
-          "calories": 70,
-          "tags": []
-        },
-        {
-          "name": "Espresso",
-          "calories": 1,
-          "tags": []
-        },
-        {
-          "name": "Caf\u00e9 Caramel",
-          "calories": 190,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Caf\u00e9 Mocha",
-          "calories": 89,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Caf\u00e9 Vanilla",
-          "calories": 58,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Brewed Tea",
-          "calories": null,
-          "tags": []
-        },
-        {
-          "name": "White Chocolate Latte",
-          "calories": 73,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Cappuccino",
-          "calories": 73,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Hot Chocolate",
-          "calories": 156,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Hot Vanilla",
-          "calories": 125,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Horchata Latte",
-          "calories": 4,
-          "tags": []
-        },
-        {
-          "name": "Tea Latte",
-          "calories": 10,
-          "tags": [
-            "Dairy"
-          ]
-        }
-      ],
-      "PASTRIES": [
-        {
-          "name": "Cheese Danish",
-          "calories": 351,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Red Velvet Cupcake",
-          "calories": 69,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Butter Croissant",
-          "calories": 350,
-          "tags": [
-            "Vegetarian",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Chocolate Hazelnut  Croissant",
-          "calories": null,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Tree-Nuts"
-          ]
-        },
-        {
-          "name": "Apple Turnover",
-          "calories": 292,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Oatmeal Raisin Cookie",
-          "calories": 453,
-          "tags": [
-            "Vegetarian",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Chocolate Chip Cookie",
-          "calories": 482,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Morning Bun",
-          "calories": 462,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Norwegian Cream Cake w/ Meringue & Almonds",
-          "calories": 39816,
-          "tags": [
-            "Gluten",
-            "Tree-Nuts",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "White Chocolate Strawberry Tart",
-          "calories": 235,
-          "tags": [
-            "Vegetarian",
-            "Soy",
-            "Gluten"
-          ]
-        },
-        {
-          "name": "Black & White Verrine",
-          "calories": 722,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Tree-Nuts"
-          ]
-        },
-        {
-          "name": "Plain Bagel",
-          "calories": 316,
-          "tags": [
-            "Eggs"
-          ]
-        },
-        {
-          "name": "Everything Bagel",
-          "calories": 274,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Sesame"
-          ]
-        },
-        {
-          "name": "Wheat Bagel",
-          "calories": 247,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Blueberry Muffin",
-          "calories": 682,
-          "tags": [
-            "Vegetarian",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Banana Muffin",
-          "calories": 808,
-          "tags": [
-            "Vegetarian",
-            "Gluten",
-            "Tree-Nuts"
-          ]
-        },
-        {
-          "name": "Mocha Muffin",
-          "calories": 767,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        }
-      ],
-      "Parfaits / Fruit Cups": [
-        {
-          "name": "Blueberry & Apple Oatmeal Parfait",
-          "calories": 255,
-          "tags": [
-            "Gluten",
-            "Tree-Nuts",
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Fresh Berry Parfait",
-          "calories": 326,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Fresh Fruit Cup",
-          "calories": 45,
-          "tags": []
-        }
-      ],
-      "Sides": [
-        {
-          "name": "Bananas",
-          "calories": 89,
-          "tags": []
-        },
-        {
-          "name": "Fuji Apple",
-          "calories": 63,
-          "tags": []
-        },
-        {
-          "name": "Granny Smith Apple",
-          "calories": 58,
-          "tags": []
-        },
-        {
-          "name": "Oranges",
-          "calories": 47,
-          "tags": []
-        },
-        {
-          "name": "BBQ Kettle Chips",
-          "calories": 500,
-          "tags": []
-        },
-        {
-          "name": "Sea Salt Kettle Chips",
-          "calories": 535,
-          "tags": []
-        },
-        {
-          "name": "Smartfood White Cheddar Popcorn",
-          "calories": 571,
-          "tags": []
-        },
-        {
-          "name": "Baked Original Lays",
-          "calories": 437,
-          "tags": [
-            "Soy"
-          ]
-        },
-        {
-          "name": "jalapeno Kettle Chips",
-          "calories": 750,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Oatmeal Raisin Cookie",
-          "calories": 453,
-          "tags": [
-            "Vegetarian",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Chocolate Chip Cookie",
-          "calories": 482,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        }
-      ]
-    },
-    "Dinner": {
-      "BREAKFAST": [
-        {
-          "name": "Build-Your-Own Breakfast Bowl",
-          "calories": 482,
-          "tags": [
-            "Soy",
-            "Dairy",
-            "Eggs"
-          ]
-        },
-        {
-          "name": "Build-Your-Own Breakfast Burrito",
-          "calories": 598,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Assorted Cereal Cups",
-          "calories": 350,
-          "tags": [
-            "Wheat",
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Oatmeal",
-          "calories": null,
-          "tags": []
-        },
-        {
-          "name": "Blueberry & Apple Oatmeal Parfait",
-          "calories": 255,
-          "tags": [
-            "Gluten",
-            "Tree-Nuts",
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Fresh Berry Parfait",
-          "calories": 326,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Fresh Fruit Cup",
-          "calories": 45,
-          "tags": []
-        },
-        {
-          "name": "Bruin Waffle Plate",
-          "calories": 650,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Baked Apple Instant Oatmeal",
-          "calories": null,
-          "tags": []
-        }
-      ],
-      "DAILY SPECIALS": [
-        {
-          "name": "Plain Chicken Wings",
-          "calories": 562,
-          "tags": []
-        },
-        {
-          "name": "Frank's RedHot\u00ae Chicken Wings",
-          "calories": 563,
-          "tags": []
-        },
-        {
-          "name": "Lemon Pepper Chicken Wings",
-          "calories": 622,
-          "tags": []
-        },
-        {
-          "name": "Szechuan Chicken Wings",
-          "calories": 665,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Wedge Cut Fries",
-          "calories": 112,
-          "tags": []
-        }
-      ],
-      "TOASTED SANDWICHES": [
-        {
-          "name": "Ham & Swiss Sandwich",
-          "calories": 940,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Roasted Turkey & Provolone Sandwich",
-          "calories": 1040,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Vegan BBQ Beef Sandwich",
-          "calories": 509,
-          "tags": [
-            "Vegan",
-            "Low-Carbon-Footprint",
-            "Soy"
-          ]
-        },
-        {
-          "name": "BBQ Beef Brisket Sandwich",
-          "calories": 958,
-          "tags": [
-            "High-Carbon-Footprint",
-            "Soy",
-            "Gluten"
-          ]
-        },
-        {
-          "name": "Chicken Ranch & Swiss Sandwich",
-          "calories": 878,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "The Cuban Sandwich",
-          "calories": 990,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Chipotle BBQ Turkey Sandwich",
-          "calories": 651,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Chicken Caesar Sandwich",
-          "calories": 641,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Roasted Salmon Sandwich",
-          "calories": 947,
-          "tags": [
-            "Fish",
-            "Soy",
-            "Gluten"
-          ]
-        },
-        {
-          "name": "Pastrami & Swiss Sandwich",
-          "calories": 596,
-          "tags": [
-            "High-Carbon-Footprint",
-            "Soy",
-            "Gluten"
-          ]
-        },
-        {
-          "name": "Chicken Pesto Sandwich",
-          "calories": 662,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Roasted Portabella Mushroom Sandwich",
-          "calories": 508,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Buffalo Chicken Sandwich",
-          "calories": 783,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Cheesesteak",
-          "calories": 1077,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Vegan Chicken Caesar Sandwich",
-          "calories": 616,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Tree-Nuts"
-          ]
-        },
-        {
-          "name": "Vegan Chipotle BBQ Turkey Sandwich",
-          "calories": 635,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Tree-Nuts"
-          ]
-        },
-        {
-          "name": "Vegan Cuban Sandwich",
-          "calories": 852,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Tree-Nuts"
-          ]
-        },
-        {
-          "name": "Vegan Roasted Salmon Sandwich",
-          "calories": 805,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Vegetarian Chicken Ranch & Swiss Sandwich",
-          "calories": 860,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Vegetarian Pastrami & Swiss Sandwich",
-          "calories": 607,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Vegetarian Ham & Swiss Sandwich",
-          "calories": 960,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Chicken Parmesan Sandwich",
-          "calories": 707,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        }
-      ],
-      "ENTREE SALADS": [
-        {
-          "name": "Vegetarian Cobb Salad",
-          "calories": 314,
-          "tags": [
-            "Soy",
-            "Dairy",
-            "Eggs"
-          ]
-        },
-        {
-          "name": "Mixed Green Salad",
-          "calories": 461,
-          "tags": [
-            "Dairy",
-            "Alcohol"
-          ]
-        },
-        {
-          "name": "Asian Wonton Salad",
-          "calories": 308,
-          "tags": [
-            "Gluten",
-            "Tree-Nuts",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Caesar Salad",
-          "calories": 170,
-          "tags": [
-            "Soy",
-            "Dairy",
-            "Alcohol"
-          ]
-        },
-        {
-          "name": "Chopped Mediterranean Salad",
-          "calories": 289,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Asian Chicken Salad",
-          "calories": 172,
-          "tags": [
-            "Gluten",
-            "Tree-Nuts",
-            "Wheat"
-          ]
-        }
-      ],
-      "ENTREE SOUPS": [
-        {
-          "name": "Chicken Noodle Soup",
-          "calories": 213,
-          "tags": [
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Tomato & Fresh Basil Soup",
-          "calories": 287,
-          "tags": [
-            "Vegan",
-            "Low-Carbon-Footprint"
-          ]
-        }
-      ],
-      "GRAB & GO SANDWICHES": [
-        {
-          "name": "Peanut Butter & Strawberry Preserves Sandwich",
-          "calories": 752,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Peanut"
-          ]
-        },
-        {
-          "name": "Avocado BLT Sandwich",
-          "calories": 719,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Italian Sandwich",
-          "calories": 633,
-          "tags": [
-            "Gluten",
-            "Tree-Nuts",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Turkey & Provolone Sandwich",
-          "calories": 1255,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Ham & Swiss Croissant Sandwich",
-          "calories": 809,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Tuna Salad Croissant Sandwich",
-          "calories": 948,
-          "tags": [
-            "Fish",
-            "Soy",
-            "Gluten"
-          ]
-        }
-      ],
-      "GRAB & GO SALADS": [
-        {
-          "name": "Chicken Caesar Salad",
-          "calories": 372,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Vegetarian Cobb Salad",
-          "calories": 314,
-          "tags": [
-            "Soy",
-            "Dairy",
-            "Eggs"
-          ]
-        },
-        {
-          "name": "Caesar Salad",
-          "calories": 170,
-          "tags": [
-            "Soy",
-            "Dairy",
-            "Alcohol"
-          ]
-        },
-        {
-          "name": "Asian Chicken Salad",
-          "calories": 172,
-          "tags": [
-            "Gluten",
-            "Tree-Nuts",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Asian Wonton Salad",
-          "calories": 308,
-          "tags": [
-            "Gluten",
-            "Tree-Nuts",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "BBQ Chicken Salad",
-          "calories": 338,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Chicken Caesar Salad",
-          "calories": 372,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Mixed Green Salad",
-          "calories": 461,
-          "tags": [
-            "Dairy",
-            "Alcohol"
-          ]
-        }
-      ],
-      "ACAI BOWLS & FRESH FRUIT SMOOTHIES": [
-        {
-          "name": "A\u00e7a\u00ed Bruin Bowl",
-          "calories": 845,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Tree-Nuts"
-          ]
-        },
-        {
-          "name": "Strawberry Sensation Smoothie",
-          "calories": 434,
-          "tags": []
-        },
-        {
-          "name": "Mango Madness Smoothie",
-          "calories": 245,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Caribbean Island Smoothie",
-          "calories": 167,
-          "tags": []
-        },
-        {
-          "name": "Bruin Fresh Smoothie",
-          "calories": 556,
-          "tags": [
-            "Vegetarian"
-          ]
-        },
-        {
-          "name": "Smoothie #15: Chocolate Banana",
-          "calories": 355,
-          "tags": [
-            "Gluten"
-          ]
-        },
-        {
-          "name": "Smoothie #06: Alooooha",
-          "calories": 433,
-          "tags": [
-            "Dairy"
-          ]
-        }
-      ],
-      "FAIR TRADE COFFEE & TEA": [
-        {
-          "name": "Caf\u00e9 Latte",
-          "calories": 117,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Vanilla Latte",
-          "calories": 88,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Mocha Latte",
-          "calories": 119,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Caramel Latte",
-          "calories": 211,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Chai Tea Latte",
-          "calories": 11,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Brewed Coffee",
-          "calories": 70,
-          "tags": []
-        },
-        {
-          "name": "Espresso",
-          "calories": 1,
-          "tags": []
-        },
-        {
-          "name": "Caf\u00e9 Caramel",
-          "calories": 190,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Caf\u00e9 Mocha",
-          "calories": 89,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Caf\u00e9 Vanilla",
-          "calories": 58,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Brewed Tea",
-          "calories": null,
-          "tags": []
-        },
-        {
-          "name": "White Chocolate Latte",
-          "calories": 73,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Cappuccino",
-          "calories": 73,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Hot Chocolate",
-          "calories": 156,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Hot Vanilla",
-          "calories": 125,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Horchata Latte",
-          "calories": 4,
-          "tags": []
-        },
-        {
-          "name": "Tea Latte",
-          "calories": 10,
-          "tags": [
-            "Dairy"
-          ]
-        }
-      ],
-      "PASTRIES": [
-        {
-          "name": "Cheese Danish",
-          "calories": 351,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Red Velvet Cupcake",
-          "calories": 69,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Butter Croissant",
-          "calories": 350,
-          "tags": [
-            "Vegetarian",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Chocolate Hazelnut  Croissant",
-          "calories": null,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Tree-Nuts"
-          ]
-        },
-        {
-          "name": "Apple Turnover",
-          "calories": 292,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Oatmeal Raisin Cookie",
-          "calories": 453,
-          "tags": [
-            "Vegetarian",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Chocolate Chip Cookie",
-          "calories": 482,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Morning Bun",
-          "calories": 462,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Norwegian Cream Cake w/ Meringue & Almonds",
-          "calories": 39816,
-          "tags": [
-            "Gluten",
-            "Tree-Nuts",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "White Chocolate Strawberry Tart",
-          "calories": 235,
-          "tags": [
-            "Vegetarian",
-            "Soy",
-            "Gluten"
-          ]
-        },
-        {
-          "name": "Black & White Verrine",
-          "calories": 722,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Tree-Nuts"
-          ]
-        },
-        {
-          "name": "Plain Bagel",
-          "calories": 316,
-          "tags": [
-            "Eggs"
-          ]
-        },
-        {
-          "name": "Everything Bagel",
-          "calories": 274,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Sesame"
-          ]
-        },
-        {
-          "name": "Wheat Bagel",
-          "calories": 247,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Blueberry Muffin",
-          "calories": 682,
-          "tags": [
-            "Vegetarian",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Banana Muffin",
-          "calories": 808,
-          "tags": [
-            "Vegetarian",
-            "Gluten",
-            "Tree-Nuts"
-          ]
-        },
-        {
-          "name": "Mocha Muffin",
-          "calories": 767,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        }
-      ],
-      "Parfaits / Fruit Cups": [
-        {
-          "name": "Blueberry & Apple Oatmeal Parfait",
-          "calories": 255,
-          "tags": [
-            "Gluten",
-            "Tree-Nuts",
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Fresh Berry Parfait",
-          "calories": 326,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Fresh Fruit Cup",
-          "calories": 45,
-          "tags": []
-        }
-      ],
-      "Sides": [
-        {
-          "name": "Bananas",
-          "calories": 89,
-          "tags": []
-        },
-        {
-          "name": "Fuji Apple",
-          "calories": 63,
-          "tags": []
-        },
-        {
-          "name": "Granny Smith Apple",
-          "calories": 58,
-          "tags": []
-        },
-        {
-          "name": "Oranges",
-          "calories": 47,
-          "tags": []
-        },
-        {
-          "name": "BBQ Kettle Chips",
-          "calories": 500,
-          "tags": []
-        },
-        {
-          "name": "Sea Salt Kettle Chips",
-          "calories": 535,
-          "tags": []
-        },
-        {
-          "name": "Smartfood White Cheddar Popcorn",
-          "calories": 571,
-          "tags": []
-        },
-        {
-          "name": "Baked Original Lays",
-          "calories": 437,
-          "tags": [
-            "Soy"
-          ]
-        },
-        {
-          "name": "jalapeno Kettle Chips",
-          "calories": 750,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Oatmeal Raisin Cookie",
-          "calories": 453,
-          "tags": [
-            "Vegetarian",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Chocolate Chip Cookie",
-          "calories": 482,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        }
-      ]
-    }
-  },
   "2025-04-03": {
     "Breakfast": {
       "BREAKFAST": [
@@ -2749,7 +35,7 @@
         },
         {
           "name": "Blueberry & Apple Oatmeal Parfait",
-          "calories": 255,
+          "calories": 273,
           "tags": [
             "Gluten",
             "Tree-Nuts",
@@ -2786,7 +72,7 @@
       "DAILY SPECIALS": [
         {
           "name": "Blacken Chicken w/ Black Beans & Rice",
-          "calories": 1399,
+          "calories": 1356,
           "tags": []
         }
       ],
@@ -3010,11 +296,11 @@
         },
         {
           "name": "Asian Wonton Salad",
-          "calories": 308,
+          "calories": 307,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         },
         {
@@ -3037,9 +323,9 @@
           "name": "Asian Chicken Salad",
           "calories": 172,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         }
       ],
@@ -3054,7 +340,7 @@
         },
         {
           "name": "Tomato & Fresh Basil Soup",
-          "calories": 287,
+          "calories": 51,
           "tags": [
             "Vegan",
             "Low-Carbon-Footprint"
@@ -3149,18 +435,18 @@
           "name": "Asian Chicken Salad",
           "calories": 172,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         },
         {
           "name": "Asian Wonton Salad",
-          "calories": 308,
+          "calories": 307,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         },
         {
@@ -3198,7 +484,7 @@
         },
         {
           "name": "Quinoa Grain Bowl with Chicken",
-          "calories": 1156,
+          "calories": 1144,
           "tags": [
             "Sesame",
             "Dairy"
@@ -3229,7 +515,7 @@
         },
         {
           "name": "Caribbean Island Smoothie",
-          "calories": 167,
+          "calories": 183,
           "tags": []
         },
         {
@@ -3278,7 +564,7 @@
         },
         {
           "name": "Caramel Latte",
-          "calories": 211,
+          "calories": 140,
           "tags": [
             "Dairy"
           ]
@@ -3302,7 +588,7 @@
         },
         {
           "name": "Caf\u00e9 Caramel",
-          "calories": 190,
+          "calories": 119,
           "tags": [
             "Dairy"
           ]
@@ -3440,7 +726,7 @@
         },
         {
           "name": "Norwegian Cream Cake w/ Meringue & Almonds",
-          "calories": 39816,
+          "calories": 40087,
           "tags": [
             "Gluten",
             "Tree-Nuts",
@@ -3449,7 +735,7 @@
         },
         {
           "name": "White Chocolate Strawberry Tart",
-          "calories": 235,
+          "calories": 248,
           "tags": [
             "Vegetarian",
             "Soy",
@@ -3458,7 +744,7 @@
         },
         {
           "name": "Black & White Verrine",
-          "calories": 722,
+          "calories": 774,
           "tags": [
             "Soy",
             "Gluten",
@@ -3521,7 +807,7 @@
       "Parfaits / Fruit Cups": [
         {
           "name": "Blueberry & Apple Oatmeal Parfait",
-          "calories": 255,
+          "calories": 273,
           "tags": [
             "Gluten",
             "Tree-Nuts",
@@ -3646,7 +932,7 @@
         },
         {
           "name": "Blueberry & Apple Oatmeal Parfait",
-          "calories": 255,
+          "calories": 273,
           "tags": [
             "Gluten",
             "Tree-Nuts",
@@ -3683,7 +969,7 @@
       "DAILY SPECIALS": [
         {
           "name": "Blacken Chicken w/ Black Beans & Rice",
-          "calories": 1399,
+          "calories": 1356,
           "tags": []
         }
       ],
@@ -3907,11 +1193,11 @@
         },
         {
           "name": "Asian Wonton Salad",
-          "calories": 308,
+          "calories": 307,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         },
         {
@@ -3934,9 +1220,9 @@
           "name": "Asian Chicken Salad",
           "calories": 172,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         }
       ],
@@ -3951,7 +1237,7 @@
         },
         {
           "name": "Tomato & Fresh Basil Soup",
-          "calories": 287,
+          "calories": 51,
           "tags": [
             "Vegan",
             "Low-Carbon-Footprint"
@@ -4046,18 +1332,18 @@
           "name": "Asian Chicken Salad",
           "calories": 172,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         },
         {
           "name": "Asian Wonton Salad",
-          "calories": 308,
+          "calories": 307,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         },
         {
@@ -4095,7 +1381,7 @@
         },
         {
           "name": "Quinoa Grain Bowl with Chicken",
-          "calories": 1156,
+          "calories": 1144,
           "tags": [
             "Sesame",
             "Dairy"
@@ -4126,7 +1412,7 @@
         },
         {
           "name": "Caribbean Island Smoothie",
-          "calories": 167,
+          "calories": 183,
           "tags": []
         },
         {
@@ -4175,7 +1461,7 @@
         },
         {
           "name": "Caramel Latte",
-          "calories": 211,
+          "calories": 140,
           "tags": [
             "Dairy"
           ]
@@ -4199,7 +1485,7 @@
         },
         {
           "name": "Caf\u00e9 Caramel",
-          "calories": 190,
+          "calories": 119,
           "tags": [
             "Dairy"
           ]
@@ -4337,7 +1623,7 @@
         },
         {
           "name": "Norwegian Cream Cake w/ Meringue & Almonds",
-          "calories": 39816,
+          "calories": 40087,
           "tags": [
             "Gluten",
             "Tree-Nuts",
@@ -4346,7 +1632,7 @@
         },
         {
           "name": "White Chocolate Strawberry Tart",
-          "calories": 235,
+          "calories": 248,
           "tags": [
             "Vegetarian",
             "Soy",
@@ -4355,7 +1641,7 @@
         },
         {
           "name": "Black & White Verrine",
-          "calories": 722,
+          "calories": 774,
           "tags": [
             "Soy",
             "Gluten",
@@ -4418,7 +1704,7 @@
       "Parfaits / Fruit Cups": [
         {
           "name": "Blueberry & Apple Oatmeal Parfait",
-          "calories": 255,
+          "calories": 273,
           "tags": [
             "Gluten",
             "Tree-Nuts",
@@ -4543,7 +1829,7 @@
         },
         {
           "name": "Blueberry & Apple Oatmeal Parfait",
-          "calories": 255,
+          "calories": 273,
           "tags": [
             "Gluten",
             "Tree-Nuts",
@@ -4580,7 +1866,7 @@
       "DAILY SPECIALS": [
         {
           "name": "Blacken Chicken w/ Black Beans & Rice",
-          "calories": 1399,
+          "calories": 1356,
           "tags": []
         }
       ],
@@ -4804,11 +2090,11 @@
         },
         {
           "name": "Asian Wonton Salad",
-          "calories": 308,
+          "calories": 307,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         },
         {
@@ -4831,9 +2117,9 @@
           "name": "Asian Chicken Salad",
           "calories": 172,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         }
       ],
@@ -4848,7 +2134,7 @@
         },
         {
           "name": "Tomato & Fresh Basil Soup",
-          "calories": 287,
+          "calories": 51,
           "tags": [
             "Vegan",
             "Low-Carbon-Footprint"
@@ -4943,18 +2229,18 @@
           "name": "Asian Chicken Salad",
           "calories": 172,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         },
         {
           "name": "Asian Wonton Salad",
-          "calories": 308,
+          "calories": 307,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         },
         {
@@ -4992,7 +2278,7 @@
         },
         {
           "name": "Quinoa Grain Bowl with Chicken",
-          "calories": 1156,
+          "calories": 1144,
           "tags": [
             "Sesame",
             "Dairy"
@@ -5023,7 +2309,7 @@
         },
         {
           "name": "Caribbean Island Smoothie",
-          "calories": 167,
+          "calories": 183,
           "tags": []
         },
         {
@@ -5072,7 +2358,7 @@
         },
         {
           "name": "Caramel Latte",
-          "calories": 211,
+          "calories": 140,
           "tags": [
             "Dairy"
           ]
@@ -5096,7 +2382,7 @@
         },
         {
           "name": "Caf\u00e9 Caramel",
-          "calories": 190,
+          "calories": 119,
           "tags": [
             "Dairy"
           ]
@@ -5234,7 +2520,7 @@
         },
         {
           "name": "Norwegian Cream Cake w/ Meringue & Almonds",
-          "calories": 39816,
+          "calories": 40087,
           "tags": [
             "Gluten",
             "Tree-Nuts",
@@ -5243,7 +2529,7 @@
         },
         {
           "name": "White Chocolate Strawberry Tart",
-          "calories": 235,
+          "calories": 248,
           "tags": [
             "Vegetarian",
             "Soy",
@@ -5252,7 +2538,7 @@
         },
         {
           "name": "Black & White Verrine",
-          "calories": 722,
+          "calories": 774,
           "tags": [
             "Soy",
             "Gluten",
@@ -5315,7 +2601,7 @@
       "Parfaits / Fruit Cups": [
         {
           "name": "Blueberry & Apple Oatmeal Parfait",
-          "calories": 255,
+          "calories": 273,
           "tags": [
             "Gluten",
             "Tree-Nuts",
@@ -5442,7 +2728,7 @@
         },
         {
           "name": "Blueberry & Apple Oatmeal Parfait",
-          "calories": 255,
+          "calories": 273,
           "tags": [
             "Gluten",
             "Tree-Nuts",
@@ -5706,11 +2992,11 @@
         },
         {
           "name": "Asian Wonton Salad",
-          "calories": 308,
+          "calories": 307,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         },
         {
@@ -5733,16 +3019,16 @@
           "name": "Asian Chicken Salad",
           "calories": 172,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         }
       ],
       "ENTREE SOUPS": [
         {
           "name": "Tomato & Fresh Basil Soup",
-          "calories": 287,
+          "calories": 51,
           "tags": [
             "Vegan",
             "Low-Carbon-Footprint"
@@ -5750,7 +3036,7 @@
         },
         {
           "name": "Broccoli Cheddar Soup",
-          "calories": 8756,
+          "calories": 219,
           "tags": [
             "Vegetarian",
             "Fish",
@@ -5759,7 +3045,7 @@
         },
         {
           "name": "Boston Clam Chowder",
-          "calories": 6367,
+          "calories": 188,
           "tags": [
             "Fish",
             "Soy",
@@ -5855,18 +3141,18 @@
           "name": "Asian Chicken Salad",
           "calories": 172,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         },
         {
           "name": "Asian Wonton Salad",
-          "calories": 308,
+          "calories": 307,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         },
         {
@@ -5891,6 +3177,23 @@
           "tags": [
             "Dairy",
             "Alcohol"
+          ]
+        },
+        {
+          "name": "Forbidden Rice Grain Bowl with Shrimp",
+          "calories": 757,
+          "tags": [
+            "Soy",
+            "Crustacean-Shellfish",
+            "Sesame"
+          ]
+        },
+        {
+          "name": "Quinoa Grain Bowl with Chicken",
+          "calories": 1144,
+          "tags": [
+            "Sesame",
+            "Dairy"
           ]
         }
       ],
@@ -5918,7 +3221,7 @@
         },
         {
           "name": "Caribbean Island Smoothie",
-          "calories": 167,
+          "calories": 183,
           "tags": []
         },
         {
@@ -5967,7 +3270,7 @@
         },
         {
           "name": "Caramel Latte",
-          "calories": 211,
+          "calories": 140,
           "tags": [
             "Dairy"
           ]
@@ -5991,7 +3294,7 @@
         },
         {
           "name": "Caf\u00e9 Caramel",
-          "calories": 190,
+          "calories": 119,
           "tags": [
             "Dairy"
           ]
@@ -6129,7 +3432,7 @@
         },
         {
           "name": "Norwegian Cream Cake w/ Meringue & Almonds",
-          "calories": 39816,
+          "calories": 40087,
           "tags": [
             "Gluten",
             "Tree-Nuts",
@@ -6138,7 +3441,7 @@
         },
         {
           "name": "White Chocolate Strawberry Tart",
-          "calories": 235,
+          "calories": 248,
           "tags": [
             "Vegetarian",
             "Soy",
@@ -6147,7 +3450,7 @@
         },
         {
           "name": "Black & White Verrine",
-          "calories": 722,
+          "calories": 774,
           "tags": [
             "Soy",
             "Gluten",
@@ -6210,7 +3513,7 @@
       "Parfaits / Fruit Cups": [
         {
           "name": "Blueberry & Apple Oatmeal Parfait",
-          "calories": 255,
+          "calories": 273,
           "tags": [
             "Gluten",
             "Tree-Nuts",
@@ -6335,7 +3638,7 @@
         },
         {
           "name": "Blueberry & Apple Oatmeal Parfait",
-          "calories": 255,
+          "calories": 273,
           "tags": [
             "Gluten",
             "Tree-Nuts",
@@ -6599,11 +3902,11 @@
         },
         {
           "name": "Asian Wonton Salad",
-          "calories": 308,
+          "calories": 307,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         },
         {
@@ -6626,16 +3929,16 @@
           "name": "Asian Chicken Salad",
           "calories": 172,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         }
       ],
       "ENTREE SOUPS": [
         {
           "name": "Tomato & Fresh Basil Soup",
-          "calories": 287,
+          "calories": 51,
           "tags": [
             "Vegan",
             "Low-Carbon-Footprint"
@@ -6643,7 +3946,7 @@
         },
         {
           "name": "Broccoli Cheddar Soup",
-          "calories": 8756,
+          "calories": 219,
           "tags": [
             "Vegetarian",
             "Fish",
@@ -6652,7 +3955,7 @@
         },
         {
           "name": "Boston Clam Chowder",
-          "calories": 6367,
+          "calories": 188,
           "tags": [
             "Fish",
             "Soy",
@@ -6748,18 +4051,18 @@
           "name": "Asian Chicken Salad",
           "calories": 172,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         },
         {
           "name": "Asian Wonton Salad",
-          "calories": 308,
+          "calories": 307,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         },
         {
@@ -6784,6 +4087,23 @@
           "tags": [
             "Dairy",
             "Alcohol"
+          ]
+        },
+        {
+          "name": "Forbidden Rice Grain Bowl with Shrimp",
+          "calories": 757,
+          "tags": [
+            "Soy",
+            "Crustacean-Shellfish",
+            "Sesame"
+          ]
+        },
+        {
+          "name": "Quinoa Grain Bowl with Chicken",
+          "calories": 1144,
+          "tags": [
+            "Sesame",
+            "Dairy"
           ]
         }
       ],
@@ -6811,7 +4131,7 @@
         },
         {
           "name": "Caribbean Island Smoothie",
-          "calories": 167,
+          "calories": 183,
           "tags": []
         },
         {
@@ -6860,7 +4180,7 @@
         },
         {
           "name": "Caramel Latte",
-          "calories": 211,
+          "calories": 140,
           "tags": [
             "Dairy"
           ]
@@ -6884,7 +4204,7 @@
         },
         {
           "name": "Caf\u00e9 Caramel",
-          "calories": 190,
+          "calories": 119,
           "tags": [
             "Dairy"
           ]
@@ -7022,7 +4342,7 @@
         },
         {
           "name": "Norwegian Cream Cake w/ Meringue & Almonds",
-          "calories": 39816,
+          "calories": 40087,
           "tags": [
             "Gluten",
             "Tree-Nuts",
@@ -7031,7 +4351,7 @@
         },
         {
           "name": "White Chocolate Strawberry Tart",
-          "calories": 235,
+          "calories": 248,
           "tags": [
             "Vegetarian",
             "Soy",
@@ -7040,7 +4360,7 @@
         },
         {
           "name": "Black & White Verrine",
-          "calories": 722,
+          "calories": 774,
           "tags": [
             "Soy",
             "Gluten",
@@ -7103,7 +4423,7 @@
       "Parfaits / Fruit Cups": [
         {
           "name": "Blueberry & Apple Oatmeal Parfait",
-          "calories": 255,
+          "calories": 273,
           "tags": [
             "Gluten",
             "Tree-Nuts",
@@ -7228,7 +4548,7 @@
         },
         {
           "name": "Blueberry & Apple Oatmeal Parfait",
-          "calories": 255,
+          "calories": 273,
           "tags": [
             "Gluten",
             "Tree-Nuts",
@@ -7492,11 +4812,11 @@
         },
         {
           "name": "Asian Wonton Salad",
-          "calories": 308,
+          "calories": 307,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         },
         {
@@ -7519,16 +4839,16 @@
           "name": "Asian Chicken Salad",
           "calories": 172,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         }
       ],
       "ENTREE SOUPS": [
         {
           "name": "Tomato & Fresh Basil Soup",
-          "calories": 287,
+          "calories": 51,
           "tags": [
             "Vegan",
             "Low-Carbon-Footprint"
@@ -7536,7 +4856,7 @@
         },
         {
           "name": "Broccoli Cheddar Soup",
-          "calories": 8756,
+          "calories": 219,
           "tags": [
             "Vegetarian",
             "Fish",
@@ -7545,7 +4865,7 @@
         },
         {
           "name": "Boston Clam Chowder",
-          "calories": 6367,
+          "calories": 188,
           "tags": [
             "Fish",
             "Soy",
@@ -7641,18 +4961,18 @@
           "name": "Asian Chicken Salad",
           "calories": 172,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         },
         {
           "name": "Asian Wonton Salad",
-          "calories": 308,
+          "calories": 307,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         },
         {
@@ -7677,6 +4997,23 @@
           "tags": [
             "Dairy",
             "Alcohol"
+          ]
+        },
+        {
+          "name": "Forbidden Rice Grain Bowl with Shrimp",
+          "calories": 757,
+          "tags": [
+            "Soy",
+            "Crustacean-Shellfish",
+            "Sesame"
+          ]
+        },
+        {
+          "name": "Quinoa Grain Bowl with Chicken",
+          "calories": 1144,
+          "tags": [
+            "Sesame",
+            "Dairy"
           ]
         }
       ],
@@ -7704,7 +5041,7 @@
         },
         {
           "name": "Caribbean Island Smoothie",
-          "calories": 167,
+          "calories": 183,
           "tags": []
         },
         {
@@ -7753,7 +5090,7 @@
         },
         {
           "name": "Caramel Latte",
-          "calories": 211,
+          "calories": 140,
           "tags": [
             "Dairy"
           ]
@@ -7777,7 +5114,7 @@
         },
         {
           "name": "Caf\u00e9 Caramel",
-          "calories": 190,
+          "calories": 119,
           "tags": [
             "Dairy"
           ]
@@ -7915,7 +5252,7 @@
         },
         {
           "name": "Norwegian Cream Cake w/ Meringue & Almonds",
-          "calories": 39816,
+          "calories": 40087,
           "tags": [
             "Gluten",
             "Tree-Nuts",
@@ -7924,7 +5261,7 @@
         },
         {
           "name": "White Chocolate Strawberry Tart",
-          "calories": 235,
+          "calories": 248,
           "tags": [
             "Vegetarian",
             "Soy",
@@ -7933,7 +5270,7 @@
         },
         {
           "name": "Black & White Verrine",
-          "calories": 722,
+          "calories": 774,
           "tags": [
             "Soy",
             "Gluten",
@@ -7996,7 +5333,7 @@
       "Parfaits / Fruit Cups": [
         {
           "name": "Blueberry & Apple Oatmeal Parfait",
-          "calories": 255,
+          "calories": 273,
           "tags": [
             "Gluten",
             "Tree-Nuts",
@@ -8309,11 +5646,11 @@
         },
         {
           "name": "Asian Wonton Salad",
-          "calories": 308,
+          "calories": 307,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         },
         {
@@ -8336,9 +5673,9 @@
           "name": "Asian Chicken Salad",
           "calories": 172,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         }
       ],
@@ -8353,7 +5690,7 @@
         },
         {
           "name": "Tomato & Fresh Basil Soup",
-          "calories": 287,
+          "calories": 51,
           "tags": [
             "Vegan",
             "Low-Carbon-Footprint"
@@ -8448,18 +5785,18 @@
           "name": "Asian Chicken Salad",
           "calories": 172,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         },
         {
           "name": "Asian Wonton Salad",
-          "calories": 308,
+          "calories": 307,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         },
         {
@@ -8484,6 +5821,23 @@
           "tags": [
             "Dairy",
             "Alcohol"
+          ]
+        },
+        {
+          "name": "Forbidden Rice Grain Bowl with Shrimp",
+          "calories": 757,
+          "tags": [
+            "Soy",
+            "Crustacean-Shellfish",
+            "Sesame"
+          ]
+        },
+        {
+          "name": "Quinoa Grain Bowl with Chicken",
+          "calories": 1144,
+          "tags": [
+            "Sesame",
+            "Dairy"
           ]
         }
       ],
@@ -8511,7 +5865,7 @@
         },
         {
           "name": "Caribbean Island Smoothie",
-          "calories": 167,
+          "calories": 183,
           "tags": []
         },
         {
@@ -8569,7 +5923,7 @@
         },
         {
           "name": "Caramel Latte",
-          "calories": 211,
+          "calories": 140,
           "tags": [
             "Dairy"
           ]
@@ -8593,7 +5947,7 @@
         },
         {
           "name": "Caf\u00e9 Caramel",
-          "calories": 190,
+          "calories": 119,
           "tags": [
             "Dairy"
           ]
@@ -8731,7 +6085,7 @@
         },
         {
           "name": "Norwegian Cream Cake w/ Meringue & Almonds",
-          "calories": 39816,
+          "calories": 40087,
           "tags": [
             "Gluten",
             "Tree-Nuts",
@@ -8740,7 +6094,7 @@
         },
         {
           "name": "White Chocolate Strawberry Tart",
-          "calories": 235,
+          "calories": 248,
           "tags": [
             "Vegetarian",
             "Soy",
@@ -8749,7 +6103,7 @@
         },
         {
           "name": "Black & White Verrine",
-          "calories": 722,
+          "calories": 774,
           "tags": [
             "Soy",
             "Gluten",
@@ -8812,7 +6166,7 @@
       "Parfaits / Fruit Cups": [
         {
           "name": "Blueberry & Apple Oatmeal Parfait",
-          "calories": 255,
+          "calories": 273,
           "tags": [
             "Gluten",
             "Tree-Nuts",
@@ -9123,11 +6477,11 @@
         },
         {
           "name": "Asian Wonton Salad",
-          "calories": 308,
+          "calories": 307,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         },
         {
@@ -9150,9 +6504,9 @@
           "name": "Asian Chicken Salad",
           "calories": 172,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         }
       ],
@@ -9167,7 +6521,7 @@
         },
         {
           "name": "Tomato & Fresh Basil Soup",
-          "calories": 287,
+          "calories": 51,
           "tags": [
             "Vegan",
             "Low-Carbon-Footprint"
@@ -9262,18 +6616,18 @@
           "name": "Asian Chicken Salad",
           "calories": 172,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         },
         {
           "name": "Asian Wonton Salad",
-          "calories": 308,
+          "calories": 307,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         },
         {
@@ -9298,6 +6652,23 @@
           "tags": [
             "Dairy",
             "Alcohol"
+          ]
+        },
+        {
+          "name": "Forbidden Rice Grain Bowl with Shrimp",
+          "calories": 757,
+          "tags": [
+            "Soy",
+            "Crustacean-Shellfish",
+            "Sesame"
+          ]
+        },
+        {
+          "name": "Quinoa Grain Bowl with Chicken",
+          "calories": 1144,
+          "tags": [
+            "Sesame",
+            "Dairy"
           ]
         }
       ],
@@ -9325,7 +6696,7 @@
         },
         {
           "name": "Caribbean Island Smoothie",
-          "calories": 167,
+          "calories": 183,
           "tags": []
         },
         {
@@ -9383,7 +6754,7 @@
         },
         {
           "name": "Caramel Latte",
-          "calories": 211,
+          "calories": 140,
           "tags": [
             "Dairy"
           ]
@@ -9407,7 +6778,7 @@
         },
         {
           "name": "Caf\u00e9 Caramel",
-          "calories": 190,
+          "calories": 119,
           "tags": [
             "Dairy"
           ]
@@ -9545,7 +6916,7 @@
         },
         {
           "name": "Norwegian Cream Cake w/ Meringue & Almonds",
-          "calories": 39816,
+          "calories": 40087,
           "tags": [
             "Gluten",
             "Tree-Nuts",
@@ -9554,7 +6925,7 @@
         },
         {
           "name": "White Chocolate Strawberry Tart",
-          "calories": 235,
+          "calories": 248,
           "tags": [
             "Vegetarian",
             "Soy",
@@ -9563,7 +6934,7 @@
         },
         {
           "name": "Black & White Verrine",
-          "calories": 722,
+          "calories": 774,
           "tags": [
             "Soy",
             "Gluten",
@@ -9626,7 +6997,7 @@
       "Parfaits / Fruit Cups": [
         {
           "name": "Blueberry & Apple Oatmeal Parfait",
-          "calories": 255,
+          "calories": 273,
           "tags": [
             "Gluten",
             "Tree-Nuts",
@@ -9937,11 +7308,11 @@
         },
         {
           "name": "Asian Wonton Salad",
-          "calories": 308,
+          "calories": 307,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         },
         {
@@ -9964,9 +7335,9 @@
           "name": "Asian Chicken Salad",
           "calories": 172,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         }
       ],
@@ -9981,7 +7352,7 @@
         },
         {
           "name": "Tomato & Fresh Basil Soup",
-          "calories": 287,
+          "calories": 51,
           "tags": [
             "Vegan",
             "Low-Carbon-Footprint"
@@ -10076,18 +7447,18 @@
           "name": "Asian Chicken Salad",
           "calories": 172,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         },
         {
           "name": "Asian Wonton Salad",
-          "calories": 308,
+          "calories": 307,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         },
         {
@@ -10112,6 +7483,23 @@
           "tags": [
             "Dairy",
             "Alcohol"
+          ]
+        },
+        {
+          "name": "Forbidden Rice Grain Bowl with Shrimp",
+          "calories": 757,
+          "tags": [
+            "Soy",
+            "Crustacean-Shellfish",
+            "Sesame"
+          ]
+        },
+        {
+          "name": "Quinoa Grain Bowl with Chicken",
+          "calories": 1144,
+          "tags": [
+            "Sesame",
+            "Dairy"
           ]
         }
       ],
@@ -10139,7 +7527,7 @@
         },
         {
           "name": "Caribbean Island Smoothie",
-          "calories": 167,
+          "calories": 183,
           "tags": []
         },
         {
@@ -10197,7 +7585,7 @@
         },
         {
           "name": "Caramel Latte",
-          "calories": 211,
+          "calories": 140,
           "tags": [
             "Dairy"
           ]
@@ -10221,7 +7609,7 @@
         },
         {
           "name": "Caf\u00e9 Caramel",
-          "calories": 190,
+          "calories": 119,
           "tags": [
             "Dairy"
           ]
@@ -10359,7 +7747,7 @@
         },
         {
           "name": "Norwegian Cream Cake w/ Meringue & Almonds",
-          "calories": 39816,
+          "calories": 40087,
           "tags": [
             "Gluten",
             "Tree-Nuts",
@@ -10368,7 +7756,7 @@
         },
         {
           "name": "White Chocolate Strawberry Tart",
-          "calories": 235,
+          "calories": 248,
           "tags": [
             "Vegetarian",
             "Soy",
@@ -10377,7 +7765,7 @@
         },
         {
           "name": "Black & White Verrine",
-          "calories": 722,
+          "calories": 774,
           "tags": [
             "Soy",
             "Gluten",
@@ -10440,7 +7828,7 @@
       "Parfaits / Fruit Cups": [
         {
           "name": "Blueberry & Apple Oatmeal Parfait",
-          "calories": 255,
+          "calories": 273,
           "tags": [
             "Gluten",
             "Tree-Nuts",
@@ -10753,11 +8141,11 @@
         },
         {
           "name": "Asian Wonton Salad",
-          "calories": 308,
+          "calories": 307,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         },
         {
@@ -10780,9 +8168,9 @@
           "name": "Asian Chicken Salad",
           "calories": 172,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         }
       ],
@@ -10797,7 +8185,7 @@
         },
         {
           "name": "Tomato & Fresh Basil Soup",
-          "calories": 287,
+          "calories": 51,
           "tags": [
             "Vegan",
             "Low-Carbon-Footprint"
@@ -10892,18 +8280,18 @@
           "name": "Asian Chicken Salad",
           "calories": 172,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         },
         {
           "name": "Asian Wonton Salad",
-          "calories": 308,
+          "calories": 307,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         },
         {
@@ -10928,6 +8316,23 @@
           "tags": [
             "Dairy",
             "Alcohol"
+          ]
+        },
+        {
+          "name": "Forbidden Rice Grain Bowl with Shrimp",
+          "calories": 757,
+          "tags": [
+            "Soy",
+            "Crustacean-Shellfish",
+            "Sesame"
+          ]
+        },
+        {
+          "name": "Quinoa Grain Bowl with Chicken",
+          "calories": 1144,
+          "tags": [
+            "Sesame",
+            "Dairy"
           ]
         }
       ],
@@ -10955,7 +8360,7 @@
         },
         {
           "name": "Caribbean Island Smoothie",
-          "calories": 167,
+          "calories": 183,
           "tags": []
         },
         {
@@ -11013,7 +8418,7 @@
         },
         {
           "name": "Caramel Latte",
-          "calories": 211,
+          "calories": 140,
           "tags": [
             "Dairy"
           ]
@@ -11037,7 +8442,7 @@
         },
         {
           "name": "Caf\u00e9 Caramel",
-          "calories": 190,
+          "calories": 119,
           "tags": [
             "Dairy"
           ]
@@ -11175,7 +8580,7 @@
         },
         {
           "name": "Norwegian Cream Cake w/ Meringue & Almonds",
-          "calories": 39816,
+          "calories": 40087,
           "tags": [
             "Gluten",
             "Tree-Nuts",
@@ -11184,7 +8589,7 @@
         },
         {
           "name": "White Chocolate Strawberry Tart",
-          "calories": 235,
+          "calories": 248,
           "tags": [
             "Vegetarian",
             "Soy",
@@ -11193,7 +8598,7 @@
         },
         {
           "name": "Black & White Verrine",
-          "calories": 722,
+          "calories": 774,
           "tags": [
             "Soy",
             "Gluten",
@@ -11256,7 +8661,7 @@
       "Parfaits / Fruit Cups": [
         {
           "name": "Blueberry & Apple Oatmeal Parfait",
-          "calories": 255,
+          "calories": 273,
           "tags": [
             "Gluten",
             "Tree-Nuts",
@@ -11567,11 +8972,11 @@
         },
         {
           "name": "Asian Wonton Salad",
-          "calories": 308,
+          "calories": 307,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         },
         {
@@ -11594,9 +8999,9 @@
           "name": "Asian Chicken Salad",
           "calories": 172,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         }
       ],
@@ -11611,7 +9016,7 @@
         },
         {
           "name": "Tomato & Fresh Basil Soup",
-          "calories": 287,
+          "calories": 51,
           "tags": [
             "Vegan",
             "Low-Carbon-Footprint"
@@ -11706,18 +9111,18 @@
           "name": "Asian Chicken Salad",
           "calories": 172,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         },
         {
           "name": "Asian Wonton Salad",
-          "calories": 308,
+          "calories": 307,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         },
         {
@@ -11742,6 +9147,23 @@
           "tags": [
             "Dairy",
             "Alcohol"
+          ]
+        },
+        {
+          "name": "Forbidden Rice Grain Bowl with Shrimp",
+          "calories": 757,
+          "tags": [
+            "Soy",
+            "Crustacean-Shellfish",
+            "Sesame"
+          ]
+        },
+        {
+          "name": "Quinoa Grain Bowl with Chicken",
+          "calories": 1144,
+          "tags": [
+            "Sesame",
+            "Dairy"
           ]
         }
       ],
@@ -11769,7 +9191,7 @@
         },
         {
           "name": "Caribbean Island Smoothie",
-          "calories": 167,
+          "calories": 183,
           "tags": []
         },
         {
@@ -11827,7 +9249,7 @@
         },
         {
           "name": "Caramel Latte",
-          "calories": 211,
+          "calories": 140,
           "tags": [
             "Dairy"
           ]
@@ -11851,7 +9273,7 @@
         },
         {
           "name": "Caf\u00e9 Caramel",
-          "calories": 190,
+          "calories": 119,
           "tags": [
             "Dairy"
           ]
@@ -11989,7 +9411,7 @@
         },
         {
           "name": "Norwegian Cream Cake w/ Meringue & Almonds",
-          "calories": 39816,
+          "calories": 40087,
           "tags": [
             "Gluten",
             "Tree-Nuts",
@@ -11998,7 +9420,7 @@
         },
         {
           "name": "White Chocolate Strawberry Tart",
-          "calories": 235,
+          "calories": 248,
           "tags": [
             "Vegetarian",
             "Soy",
@@ -12007,7 +9429,7 @@
         },
         {
           "name": "Black & White Verrine",
-          "calories": 722,
+          "calories": 774,
           "tags": [
             "Soy",
             "Gluten",
@@ -12070,7 +9492,7 @@
       "Parfaits / Fruit Cups": [
         {
           "name": "Blueberry & Apple Oatmeal Parfait",
-          "calories": 255,
+          "calories": 273,
           "tags": [
             "Gluten",
             "Tree-Nuts",
@@ -12381,11 +9803,11 @@
         },
         {
           "name": "Asian Wonton Salad",
-          "calories": 308,
+          "calories": 307,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         },
         {
@@ -12408,9 +9830,9 @@
           "name": "Asian Chicken Salad",
           "calories": 172,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         }
       ],
@@ -12425,7 +9847,7 @@
         },
         {
           "name": "Tomato & Fresh Basil Soup",
-          "calories": 287,
+          "calories": 51,
           "tags": [
             "Vegan",
             "Low-Carbon-Footprint"
@@ -12520,18 +9942,18 @@
           "name": "Asian Chicken Salad",
           "calories": 172,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         },
         {
           "name": "Asian Wonton Salad",
-          "calories": 308,
+          "calories": 307,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         },
         {
@@ -12556,6 +9978,23 @@
           "tags": [
             "Dairy",
             "Alcohol"
+          ]
+        },
+        {
+          "name": "Forbidden Rice Grain Bowl with Shrimp",
+          "calories": 757,
+          "tags": [
+            "Soy",
+            "Crustacean-Shellfish",
+            "Sesame"
+          ]
+        },
+        {
+          "name": "Quinoa Grain Bowl with Chicken",
+          "calories": 1144,
+          "tags": [
+            "Sesame",
+            "Dairy"
           ]
         }
       ],
@@ -12583,7 +10022,7 @@
         },
         {
           "name": "Caribbean Island Smoothie",
-          "calories": 167,
+          "calories": 183,
           "tags": []
         },
         {
@@ -12641,7 +10080,7 @@
         },
         {
           "name": "Caramel Latte",
-          "calories": 211,
+          "calories": 140,
           "tags": [
             "Dairy"
           ]
@@ -12665,7 +10104,7 @@
         },
         {
           "name": "Caf\u00e9 Caramel",
-          "calories": 190,
+          "calories": 119,
           "tags": [
             "Dairy"
           ]
@@ -12803,7 +10242,7 @@
         },
         {
           "name": "Norwegian Cream Cake w/ Meringue & Almonds",
-          "calories": 39816,
+          "calories": 40087,
           "tags": [
             "Gluten",
             "Tree-Nuts",
@@ -12812,7 +10251,7 @@
         },
         {
           "name": "White Chocolate Strawberry Tart",
-          "calories": 235,
+          "calories": 248,
           "tags": [
             "Vegetarian",
             "Soy",
@@ -12821,7 +10260,7 @@
         },
         {
           "name": "Black & White Verrine",
-          "calories": 722,
+          "calories": 774,
           "tags": [
             "Soy",
             "Gluten",
@@ -12884,7 +10323,7 @@
       "Parfaits / Fruit Cups": [
         {
           "name": "Blueberry & Apple Oatmeal Parfait",
-          "calories": 255,
+          "calories": 273,
           "tags": [
             "Gluten",
             "Tree-Nuts",
@@ -13011,7 +10450,7 @@
         },
         {
           "name": "Blueberry & Apple Oatmeal Parfait",
-          "calories": 255,
+          "calories": 273,
           "tags": [
             "Gluten",
             "Tree-Nuts",
@@ -13281,11 +10720,11 @@
         },
         {
           "name": "Asian Wonton Salad",
-          "calories": 308,
+          "calories": 307,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         },
         {
@@ -13308,9 +10747,9 @@
           "name": "Asian Chicken Salad",
           "calories": 172,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         }
       ],
@@ -13334,7 +10773,7 @@
         },
         {
           "name": "Tomato & Fresh Basil Soup",
-          "calories": 287,
+          "calories": 51,
           "tags": [
             "Vegan",
             "Low-Carbon-Footprint"
@@ -13438,18 +10877,18 @@
           "name": "Asian Chicken Salad",
           "calories": 172,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         },
         {
           "name": "Asian Wonton Salad",
-          "calories": 308,
+          "calories": 307,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         },
         {
@@ -13473,6 +10912,23 @@
           "tags": [
             "Dairy",
             "Alcohol"
+          ]
+        },
+        {
+          "name": "Forbidden Rice Grain Bowl with Shrimp",
+          "calories": 757,
+          "tags": [
+            "Soy",
+            "Crustacean-Shellfish",
+            "Sesame"
+          ]
+        },
+        {
+          "name": "Quinoa Grain Bowl with Chicken",
+          "calories": 1144,
+          "tags": [
+            "Sesame",
+            "Dairy"
           ]
         }
       ],
@@ -13500,7 +10956,7 @@
         },
         {
           "name": "Caribbean Island Smoothie",
-          "calories": 167,
+          "calories": 183,
           "tags": []
         },
         {
@@ -13556,7 +11012,7 @@
         },
         {
           "name": "Caramel Latte",
-          "calories": 211,
+          "calories": 140,
           "tags": [
             "Dairy"
           ]
@@ -13580,7 +11036,7 @@
         },
         {
           "name": "Caf\u00e9 Caramel",
-          "calories": 190,
+          "calories": 119,
           "tags": [
             "Dairy"
           ]
@@ -13718,7 +11174,7 @@
         },
         {
           "name": "Norwegian Cream Cake w/ Meringue & Almonds",
-          "calories": 39816,
+          "calories": 40087,
           "tags": [
             "Gluten",
             "Tree-Nuts",
@@ -13727,7 +11183,7 @@
         },
         {
           "name": "White Chocolate Strawberry Tart",
-          "calories": 235,
+          "calories": 248,
           "tags": [
             "Vegetarian",
             "Soy",
@@ -13736,7 +11192,7 @@
         },
         {
           "name": "Black & White Verrine",
-          "calories": 722,
+          "calories": 774,
           "tags": [
             "Soy",
             "Gluten",
@@ -13799,7 +11255,7 @@
       "Parfaits / Fruit Cups": [
         {
           "name": "Blueberry & Apple Oatmeal Parfait",
-          "calories": 255,
+          "calories": 273,
           "tags": [
             "Gluten",
             "Tree-Nuts",
@@ -13924,7 +11380,7 @@
         },
         {
           "name": "Blueberry & Apple Oatmeal Parfait",
-          "calories": 255,
+          "calories": 273,
           "tags": [
             "Gluten",
             "Tree-Nuts",
@@ -14194,11 +11650,11 @@
         },
         {
           "name": "Asian Wonton Salad",
-          "calories": 308,
+          "calories": 307,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         },
         {
@@ -14221,9 +11677,9 @@
           "name": "Asian Chicken Salad",
           "calories": 172,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         }
       ],
@@ -14247,7 +11703,7 @@
         },
         {
           "name": "Tomato & Fresh Basil Soup",
-          "calories": 287,
+          "calories": 51,
           "tags": [
             "Vegan",
             "Low-Carbon-Footprint"
@@ -14351,18 +11807,18 @@
           "name": "Asian Chicken Salad",
           "calories": 172,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         },
         {
           "name": "Asian Wonton Salad",
-          "calories": 308,
+          "calories": 307,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         },
         {
@@ -14386,6 +11842,23 @@
           "tags": [
             "Dairy",
             "Alcohol"
+          ]
+        },
+        {
+          "name": "Forbidden Rice Grain Bowl with Shrimp",
+          "calories": 757,
+          "tags": [
+            "Soy",
+            "Crustacean-Shellfish",
+            "Sesame"
+          ]
+        },
+        {
+          "name": "Quinoa Grain Bowl with Chicken",
+          "calories": 1144,
+          "tags": [
+            "Sesame",
+            "Dairy"
           ]
         }
       ],
@@ -14413,7 +11886,7 @@
         },
         {
           "name": "Caribbean Island Smoothie",
-          "calories": 167,
+          "calories": 183,
           "tags": []
         },
         {
@@ -14469,7 +11942,7 @@
         },
         {
           "name": "Caramel Latte",
-          "calories": 211,
+          "calories": 140,
           "tags": [
             "Dairy"
           ]
@@ -14493,7 +11966,7 @@
         },
         {
           "name": "Caf\u00e9 Caramel",
-          "calories": 190,
+          "calories": 119,
           "tags": [
             "Dairy"
           ]
@@ -14631,7 +12104,7 @@
         },
         {
           "name": "Norwegian Cream Cake w/ Meringue & Almonds",
-          "calories": 39816,
+          "calories": 40087,
           "tags": [
             "Gluten",
             "Tree-Nuts",
@@ -14640,7 +12113,7 @@
         },
         {
           "name": "White Chocolate Strawberry Tart",
-          "calories": 235,
+          "calories": 248,
           "tags": [
             "Vegetarian",
             "Soy",
@@ -14649,7 +12122,7 @@
         },
         {
           "name": "Black & White Verrine",
-          "calories": 722,
+          "calories": 774,
           "tags": [
             "Soy",
             "Gluten",
@@ -14712,7 +12185,7 @@
       "Parfaits / Fruit Cups": [
         {
           "name": "Blueberry & Apple Oatmeal Parfait",
-          "calories": 255,
+          "calories": 273,
           "tags": [
             "Gluten",
             "Tree-Nuts",
@@ -14837,7 +12310,7 @@
         },
         {
           "name": "Blueberry & Apple Oatmeal Parfait",
-          "calories": 255,
+          "calories": 273,
           "tags": [
             "Gluten",
             "Tree-Nuts",
@@ -15107,11 +12580,11 @@
         },
         {
           "name": "Asian Wonton Salad",
-          "calories": 308,
+          "calories": 307,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         },
         {
@@ -15134,9 +12607,9 @@
           "name": "Asian Chicken Salad",
           "calories": 172,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         }
       ],
@@ -15160,7 +12633,7 @@
         },
         {
           "name": "Tomato & Fresh Basil Soup",
-          "calories": 287,
+          "calories": 51,
           "tags": [
             "Vegan",
             "Low-Carbon-Footprint"
@@ -15264,18 +12737,18 @@
           "name": "Asian Chicken Salad",
           "calories": 172,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         },
         {
           "name": "Asian Wonton Salad",
-          "calories": 308,
+          "calories": 307,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         },
         {
@@ -15299,6 +12772,23 @@
           "tags": [
             "Dairy",
             "Alcohol"
+          ]
+        },
+        {
+          "name": "Forbidden Rice Grain Bowl with Shrimp",
+          "calories": 757,
+          "tags": [
+            "Soy",
+            "Crustacean-Shellfish",
+            "Sesame"
+          ]
+        },
+        {
+          "name": "Quinoa Grain Bowl with Chicken",
+          "calories": 1144,
+          "tags": [
+            "Sesame",
+            "Dairy"
           ]
         }
       ],
@@ -15326,7 +12816,7 @@
         },
         {
           "name": "Caribbean Island Smoothie",
-          "calories": 167,
+          "calories": 183,
           "tags": []
         },
         {
@@ -15382,7 +12872,7 @@
         },
         {
           "name": "Caramel Latte",
-          "calories": 211,
+          "calories": 140,
           "tags": [
             "Dairy"
           ]
@@ -15406,7 +12896,7 @@
         },
         {
           "name": "Caf\u00e9 Caramel",
-          "calories": 190,
+          "calories": 119,
           "tags": [
             "Dairy"
           ]
@@ -15544,7 +13034,7 @@
         },
         {
           "name": "Norwegian Cream Cake w/ Meringue & Almonds",
-          "calories": 39816,
+          "calories": 40087,
           "tags": [
             "Gluten",
             "Tree-Nuts",
@@ -15553,7 +13043,7 @@
         },
         {
           "name": "White Chocolate Strawberry Tart",
-          "calories": 235,
+          "calories": 248,
           "tags": [
             "Vegetarian",
             "Soy",
@@ -15562,7 +13052,7 @@
         },
         {
           "name": "Black & White Verrine",
-          "calories": 722,
+          "calories": 774,
           "tags": [
             "Soy",
             "Gluten",
@@ -15625,7 +13115,7 @@
       "Parfaits / Fruit Cups": [
         {
           "name": "Blueberry & Apple Oatmeal Parfait",
-          "calories": 255,
+          "calories": 273,
           "tags": [
             "Gluten",
             "Tree-Nuts",
@@ -15752,7 +13242,7 @@
         },
         {
           "name": "Blueberry & Apple Oatmeal Parfait",
-          "calories": 255,
+          "calories": 273,
           "tags": [
             "Gluten",
             "Tree-Nuts",
@@ -16022,11 +13512,11 @@
         },
         {
           "name": "Asian Wonton Salad",
-          "calories": 308,
+          "calories": 307,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         },
         {
@@ -16049,9 +13539,9 @@
           "name": "Asian Chicken Salad",
           "calories": 172,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         }
       ],
@@ -16075,7 +13565,7 @@
         },
         {
           "name": "Tomato & Fresh Basil Soup",
-          "calories": 287,
+          "calories": 51,
           "tags": [
             "Vegan",
             "Low-Carbon-Footprint"
@@ -16179,18 +13669,18 @@
           "name": "Asian Chicken Salad",
           "calories": 172,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         },
         {
           "name": "Asian Wonton Salad",
-          "calories": 308,
+          "calories": 307,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         },
         {
@@ -16224,6 +13714,23 @@
             "Dairy",
             "Alcohol"
           ]
+        },
+        {
+          "name": "Forbidden Rice Grain Bowl with Shrimp",
+          "calories": 757,
+          "tags": [
+            "Soy",
+            "Crustacean-Shellfish",
+            "Sesame"
+          ]
+        },
+        {
+          "name": "Quinoa Grain Bowl with Chicken",
+          "calories": 1144,
+          "tags": [
+            "Sesame",
+            "Dairy"
+          ]
         }
       ],
       "ACAI BOWLS & FRESH FRUIT SMOOTHIES": [
@@ -16250,7 +13757,7 @@
         },
         {
           "name": "Caribbean Island Smoothie",
-          "calories": 167,
+          "calories": 183,
           "tags": []
         },
         {
@@ -16299,7 +13806,7 @@
         },
         {
           "name": "Caramel Latte",
-          "calories": 211,
+          "calories": 140,
           "tags": [
             "Dairy"
           ]
@@ -16323,7 +13830,7 @@
         },
         {
           "name": "Caf\u00e9 Caramel",
-          "calories": 190,
+          "calories": 119,
           "tags": [
             "Dairy"
           ]
@@ -16461,7 +13968,7 @@
         },
         {
           "name": "Norwegian Cream Cake w/ Meringue & Almonds",
-          "calories": 39816,
+          "calories": 40087,
           "tags": [
             "Gluten",
             "Tree-Nuts",
@@ -16470,7 +13977,7 @@
         },
         {
           "name": "White Chocolate Strawberry Tart",
-          "calories": 235,
+          "calories": 248,
           "tags": [
             "Vegetarian",
             "Soy",
@@ -16479,7 +13986,7 @@
         },
         {
           "name": "Black & White Verrine",
-          "calories": 722,
+          "calories": 774,
           "tags": [
             "Soy",
             "Gluten",
@@ -16542,7 +14049,7 @@
       "Parfaits / Fruit Cups": [
         {
           "name": "Blueberry & Apple Oatmeal Parfait",
-          "calories": 255,
+          "calories": 273,
           "tags": [
             "Gluten",
             "Tree-Nuts",
@@ -16667,7 +14174,7 @@
         },
         {
           "name": "Blueberry & Apple Oatmeal Parfait",
-          "calories": 255,
+          "calories": 273,
           "tags": [
             "Gluten",
             "Tree-Nuts",
@@ -16937,11 +14444,11 @@
         },
         {
           "name": "Asian Wonton Salad",
-          "calories": 308,
+          "calories": 307,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         },
         {
@@ -16964,9 +14471,9 @@
           "name": "Asian Chicken Salad",
           "calories": 172,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         }
       ],
@@ -16990,7 +14497,7 @@
         },
         {
           "name": "Tomato & Fresh Basil Soup",
-          "calories": 287,
+          "calories": 51,
           "tags": [
             "Vegan",
             "Low-Carbon-Footprint"
@@ -17094,18 +14601,18 @@
           "name": "Asian Chicken Salad",
           "calories": 172,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         },
         {
           "name": "Asian Wonton Salad",
-          "calories": 308,
+          "calories": 307,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         },
         {
@@ -17139,6 +14646,23 @@
             "Dairy",
             "Alcohol"
           ]
+        },
+        {
+          "name": "Forbidden Rice Grain Bowl with Shrimp",
+          "calories": 757,
+          "tags": [
+            "Soy",
+            "Crustacean-Shellfish",
+            "Sesame"
+          ]
+        },
+        {
+          "name": "Quinoa Grain Bowl with Chicken",
+          "calories": 1144,
+          "tags": [
+            "Sesame",
+            "Dairy"
+          ]
         }
       ],
       "ACAI BOWLS & FRESH FRUIT SMOOTHIES": [
@@ -17165,7 +14689,7 @@
         },
         {
           "name": "Caribbean Island Smoothie",
-          "calories": 167,
+          "calories": 183,
           "tags": []
         },
         {
@@ -17214,7 +14738,7 @@
         },
         {
           "name": "Caramel Latte",
-          "calories": 211,
+          "calories": 140,
           "tags": [
             "Dairy"
           ]
@@ -17238,7 +14762,7 @@
         },
         {
           "name": "Caf\u00e9 Caramel",
-          "calories": 190,
+          "calories": 119,
           "tags": [
             "Dairy"
           ]
@@ -17376,7 +14900,7 @@
         },
         {
           "name": "Norwegian Cream Cake w/ Meringue & Almonds",
-          "calories": 39816,
+          "calories": 40087,
           "tags": [
             "Gluten",
             "Tree-Nuts",
@@ -17385,7 +14909,7 @@
         },
         {
           "name": "White Chocolate Strawberry Tart",
-          "calories": 235,
+          "calories": 248,
           "tags": [
             "Vegetarian",
             "Soy",
@@ -17394,7 +14918,7 @@
         },
         {
           "name": "Black & White Verrine",
-          "calories": 722,
+          "calories": 774,
           "tags": [
             "Soy",
             "Gluten",
@@ -17457,7 +14981,7 @@
       "Parfaits / Fruit Cups": [
         {
           "name": "Blueberry & Apple Oatmeal Parfait",
-          "calories": 255,
+          "calories": 273,
           "tags": [
             "Gluten",
             "Tree-Nuts",
@@ -17582,7 +15106,7 @@
         },
         {
           "name": "Blueberry & Apple Oatmeal Parfait",
-          "calories": 255,
+          "calories": 273,
           "tags": [
             "Gluten",
             "Tree-Nuts",
@@ -17852,11 +15376,11 @@
         },
         {
           "name": "Asian Wonton Salad",
-          "calories": 308,
+          "calories": 307,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         },
         {
@@ -17879,9 +15403,9 @@
           "name": "Asian Chicken Salad",
           "calories": 172,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         }
       ],
@@ -17905,7 +15429,7 @@
         },
         {
           "name": "Tomato & Fresh Basil Soup",
-          "calories": 287,
+          "calories": 51,
           "tags": [
             "Vegan",
             "Low-Carbon-Footprint"
@@ -18009,18 +15533,18 @@
           "name": "Asian Chicken Salad",
           "calories": 172,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         },
         {
           "name": "Asian Wonton Salad",
-          "calories": 308,
+          "calories": 307,
           "tags": [
+            "Soy",
             "Gluten",
-            "Tree-Nuts",
-            "Wheat"
+            "Tree-Nuts"
           ]
         },
         {
@@ -18054,6 +15578,23 @@
             "Dairy",
             "Alcohol"
           ]
+        },
+        {
+          "name": "Forbidden Rice Grain Bowl with Shrimp",
+          "calories": 757,
+          "tags": [
+            "Soy",
+            "Crustacean-Shellfish",
+            "Sesame"
+          ]
+        },
+        {
+          "name": "Quinoa Grain Bowl with Chicken",
+          "calories": 1144,
+          "tags": [
+            "Sesame",
+            "Dairy"
+          ]
         }
       ],
       "ACAI BOWLS & FRESH FRUIT SMOOTHIES": [
@@ -18080,7 +15621,7 @@
         },
         {
           "name": "Caribbean Island Smoothie",
-          "calories": 167,
+          "calories": 183,
           "tags": []
         },
         {
@@ -18129,7 +15670,7 @@
         },
         {
           "name": "Caramel Latte",
-          "calories": 211,
+          "calories": 140,
           "tags": [
             "Dairy"
           ]
@@ -18153,7 +15694,7 @@
         },
         {
           "name": "Caf\u00e9 Caramel",
-          "calories": 190,
+          "calories": 119,
           "tags": [
             "Dairy"
           ]
@@ -18291,7 +15832,7 @@
         },
         {
           "name": "Norwegian Cream Cake w/ Meringue & Almonds",
-          "calories": 39816,
+          "calories": 40087,
           "tags": [
             "Gluten",
             "Tree-Nuts",
@@ -18300,7 +15841,7 @@
         },
         {
           "name": "White Chocolate Strawberry Tart",
-          "calories": 235,
+          "calories": 248,
           "tags": [
             "Vegetarian",
             "Soy",
@@ -18309,7 +15850,7 @@
         },
         {
           "name": "Black & White Verrine",
-          "calories": 722,
+          "calories": 774,
           "tags": [
             "Soy",
             "Gluten",
@@ -18372,7 +15913,2850 @@
       "Parfaits / Fruit Cups": [
         {
           "name": "Blueberry & Apple Oatmeal Parfait",
-          "calories": 255,
+          "calories": 273,
+          "tags": [
+            "Gluten",
+            "Tree-Nuts",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Fresh Berry Parfait",
+          "calories": 326,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Fresh Fruit Cup",
+          "calories": 45,
+          "tags": []
+        }
+      ],
+      "Sides": [
+        {
+          "name": "Bananas",
+          "calories": 89,
+          "tags": []
+        },
+        {
+          "name": "Fuji Apple",
+          "calories": 63,
+          "tags": []
+        },
+        {
+          "name": "Granny Smith Apple",
+          "calories": 58,
+          "tags": []
+        },
+        {
+          "name": "Oranges",
+          "calories": 47,
+          "tags": []
+        },
+        {
+          "name": "BBQ Kettle Chips",
+          "calories": 500,
+          "tags": []
+        },
+        {
+          "name": "Sea Salt Kettle Chips",
+          "calories": 535,
+          "tags": []
+        },
+        {
+          "name": "Smartfood White Cheddar Popcorn",
+          "calories": 571,
+          "tags": []
+        },
+        {
+          "name": "Baked Original Lays",
+          "calories": 437,
+          "tags": [
+            "Soy"
+          ]
+        },
+        {
+          "name": "jalapeno Kettle Chips",
+          "calories": 750,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Oatmeal Raisin Cookie",
+          "calories": 453,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Chocolate Chip Cookie",
+          "calories": 482,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        }
+      ]
+    }
+  },
+  "2025-04-09": {
+    "Breakfast": {
+      "BREAKFAST": [
+        {
+          "name": "Build-Your-Own Breakfast Bowl",
+          "calories": 482,
+          "tags": [
+            "Soy",
+            "Dairy",
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Build-Your-Own Breakfast Burrito",
+          "calories": 598,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Assorted Cereal Cups",
+          "calories": 350,
+          "tags": [
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Oatmeal",
+          "calories": null,
+          "tags": []
+        },
+        {
+          "name": "Blueberry & Apple Oatmeal Parfait",
+          "calories": 273,
+          "tags": [
+            "Gluten",
+            "Tree-Nuts",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Fresh Berry Parfait",
+          "calories": 326,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Fresh Fruit Cup",
+          "calories": 45,
+          "tags": []
+        },
+        {
+          "name": "Bruin Waffle Plate",
+          "calories": 650,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Baked Apple Instant Oatmeal",
+          "calories": null,
+          "tags": []
+        }
+      ],
+      "DAILY SPECIALS": [
+        {
+          "name": "Plain Chicken Wings",
+          "calories": 562,
+          "tags": []
+        },
+        {
+          "name": "Frank's RedHot\u00ae Chicken Wings",
+          "calories": 563,
+          "tags": []
+        },
+        {
+          "name": "Lemon Pepper Chicken Wings",
+          "calories": 622,
+          "tags": []
+        },
+        {
+          "name": "Szechuan Chicken Wings",
+          "calories": 665,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Wedge Cut Fries",
+          "calories": 112,
+          "tags": []
+        }
+      ],
+      "TOASTED SANDWICHES": [
+        {
+          "name": "Ham & Swiss Sandwich",
+          "calories": 940,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Roasted Turkey & Provolone Sandwich",
+          "calories": 1040,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Vegan BBQ Beef Sandwich",
+          "calories": 509,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint",
+            "Soy"
+          ]
+        },
+        {
+          "name": "BBQ Beef Brisket Sandwich",
+          "calories": 958,
+          "tags": [
+            "High-Carbon-Footprint",
+            "Soy",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Chicken Ranch & Swiss Sandwich",
+          "calories": 878,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "The Cuban Sandwich",
+          "calories": 990,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Chipotle BBQ Turkey Sandwich",
+          "calories": 651,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Chicken Caesar Sandwich",
+          "calories": 641,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Roasted Salmon Sandwich",
+          "calories": 947,
+          "tags": [
+            "Fish",
+            "Soy",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Pastrami & Swiss Sandwich",
+          "calories": 596,
+          "tags": [
+            "High-Carbon-Footprint",
+            "Soy",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Chicken Pesto Sandwich",
+          "calories": 662,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Roasted Portabella Mushroom Sandwich",
+          "calories": 508,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Buffalo Chicken Sandwich",
+          "calories": 783,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Cheesesteak",
+          "calories": 1077,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Vegan Chicken Caesar Sandwich",
+          "calories": 616,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Vegan Chipotle BBQ Turkey Sandwich",
+          "calories": 635,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Vegan Cuban Sandwich",
+          "calories": 852,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Vegan Roasted Salmon Sandwich",
+          "calories": 805,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Vegetarian Chicken Ranch & Swiss Sandwich",
+          "calories": 860,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Vegetarian Pastrami & Swiss Sandwich",
+          "calories": 607,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Vegetarian Ham & Swiss Sandwich",
+          "calories": 960,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Chicken Parmesan Sandwich",
+          "calories": 707,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        }
+      ],
+      "ENTREE SALADS": [
+        {
+          "name": "Vegetarian Cobb Salad",
+          "calories": 314,
+          "tags": [
+            "Soy",
+            "Dairy",
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Mixed Green Salad",
+          "calories": 461,
+          "tags": [
+            "Dairy",
+            "Alcohol"
+          ]
+        },
+        {
+          "name": "Asian Wonton Salad",
+          "calories": 307,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Caesar Salad",
+          "calories": 170,
+          "tags": [
+            "Soy",
+            "Dairy",
+            "Alcohol"
+          ]
+        },
+        {
+          "name": "Chopped Mediterranean Salad",
+          "calories": 289,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Asian Chicken Salad",
+          "calories": 172,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        }
+      ],
+      "ENTREE SOUPS": [
+        {
+          "name": "Chicken Caesar Salad",
+          "calories": 372,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Chicken Noodle Soup",
+          "calories": 213,
+          "tags": [
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Tomato & Fresh Basil Soup",
+          "calories": 51,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ],
+      "GRAB & GO SANDWICHES": [
+        {
+          "name": "Peanut Butter & Strawberry Preserves Sandwich",
+          "calories": 752,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Peanut"
+          ]
+        },
+        {
+          "name": "Avocado BLT Sandwich",
+          "calories": 719,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Italian Sandwich",
+          "calories": 633,
+          "tags": [
+            "Gluten",
+            "Tree-Nuts",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Turkey & Provolone Sandwich",
+          "calories": 1255,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Ham & Swiss Croissant Sandwich",
+          "calories": 809,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Tuna Salad Croissant Sandwich",
+          "calories": 948,
+          "tags": [
+            "Fish",
+            "Soy",
+            "Gluten"
+          ]
+        }
+      ],
+      "GRAB & GO SALADS": [
+        {
+          "name": "Chicken Caesar Salad",
+          "calories": 372,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Chicken Caesar Salad",
+          "calories": 372,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Vegetarian Cobb Salad",
+          "calories": 314,
+          "tags": [
+            "Soy",
+            "Dairy",
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Caesar Salad",
+          "calories": 170,
+          "tags": [
+            "Soy",
+            "Dairy",
+            "Alcohol"
+          ]
+        },
+        {
+          "name": "Asian Chicken Salad",
+          "calories": 172,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Asian Wonton Salad",
+          "calories": 307,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "BBQ Chicken Salad",
+          "calories": 338,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Mixed Green Salad",
+          "calories": 461,
+          "tags": [
+            "Dairy",
+            "Alcohol"
+          ]
+        },
+        {
+          "name": "Chicken Caesar Salad",
+          "calories": 372,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Mixed Green Salad",
+          "calories": 461,
+          "tags": [
+            "Dairy",
+            "Alcohol"
+          ]
+        },
+        {
+          "name": "Forbidden Rice Grain Bowl with Shrimp",
+          "calories": 757,
+          "tags": [
+            "Soy",
+            "Crustacean-Shellfish",
+            "Sesame"
+          ]
+        },
+        {
+          "name": "Quinoa Grain Bowl with Chicken",
+          "calories": 1144,
+          "tags": [
+            "Sesame",
+            "Dairy"
+          ]
+        }
+      ],
+      "ACAI BOWLS & FRESH FRUIT SMOOTHIES": [
+        {
+          "name": "A\u00e7a\u00ed Bruin Bowl",
+          "calories": 845,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Strawberry Sensation Smoothie",
+          "calories": 434,
+          "tags": []
+        },
+        {
+          "name": "Mango Madness Smoothie",
+          "calories": 245,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Caribbean Island Smoothie",
+          "calories": 183,
+          "tags": []
+        },
+        {
+          "name": "Bruin Fresh Smoothie",
+          "calories": 556,
+          "tags": [
+            "Vegetarian"
+          ]
+        },
+        {
+          "name": "Smoothie #15: Chocolate Banana",
+          "calories": 355,
+          "tags": [
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Smoothie #06: Alooooha",
+          "calories": 433,
+          "tags": [
+            "Dairy"
+          ]
+        }
+      ],
+      "FAIR TRADE COFFEE & TEA": [
+        {
+          "name": "Caf\u00e9 Latte",
+          "calories": 117,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Vanilla Latte",
+          "calories": 88,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Mocha Latte",
+          "calories": 119,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Caramel Latte",
+          "calories": 140,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Chai Tea Latte",
+          "calories": 11,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Brewed Coffee",
+          "calories": 70,
+          "tags": []
+        },
+        {
+          "name": "Espresso",
+          "calories": 1,
+          "tags": []
+        },
+        {
+          "name": "Caf\u00e9 Caramel",
+          "calories": 119,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Caf\u00e9 Mocha",
+          "calories": 89,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Caf\u00e9 Vanilla",
+          "calories": 58,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Brewed Tea",
+          "calories": null,
+          "tags": []
+        },
+        {
+          "name": "White Chocolate Latte",
+          "calories": 73,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Cappuccino",
+          "calories": 73,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Hot Chocolate",
+          "calories": 156,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Hot Vanilla",
+          "calories": 125,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Horchata Latte",
+          "calories": 4,
+          "tags": []
+        },
+        {
+          "name": "Tea Latte",
+          "calories": 10,
+          "tags": [
+            "Dairy"
+          ]
+        }
+      ],
+      "PASTRIES": [
+        {
+          "name": "Cheese Danish",
+          "calories": 351,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Red Velvet Cupcake",
+          "calories": 69,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Butter Croissant",
+          "calories": 350,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Chocolate Hazelnut  Croissant",
+          "calories": null,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Apple Turnover",
+          "calories": 292,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Oatmeal Raisin Cookie",
+          "calories": 453,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Chocolate Chip Cookie",
+          "calories": 482,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Morning Bun",
+          "calories": 462,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Norwegian Cream Cake w/ Meringue & Almonds",
+          "calories": 40087,
+          "tags": [
+            "Gluten",
+            "Tree-Nuts",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "White Chocolate Strawberry Tart",
+          "calories": 248,
+          "tags": [
+            "Vegetarian",
+            "Soy",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Black & White Verrine",
+          "calories": 774,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Plain Bagel",
+          "calories": 316,
+          "tags": [
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Everything Bagel",
+          "calories": 274,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Sesame"
+          ]
+        },
+        {
+          "name": "Wheat Bagel",
+          "calories": 247,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Blueberry Muffin",
+          "calories": 682,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Banana Muffin",
+          "calories": 808,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Mocha Muffin",
+          "calories": 767,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        }
+      ],
+      "Parfaits / Fruit Cups": [
+        {
+          "name": "Blueberry & Apple Oatmeal Parfait",
+          "calories": 273,
+          "tags": [
+            "Gluten",
+            "Tree-Nuts",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Fresh Berry Parfait",
+          "calories": 326,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Fresh Fruit Cup",
+          "calories": 45,
+          "tags": []
+        }
+      ],
+      "Sides": [
+        {
+          "name": "Bananas",
+          "calories": 89,
+          "tags": []
+        },
+        {
+          "name": "Fuji Apple",
+          "calories": 63,
+          "tags": []
+        },
+        {
+          "name": "Granny Smith Apple",
+          "calories": 58,
+          "tags": []
+        },
+        {
+          "name": "Oranges",
+          "calories": 47,
+          "tags": []
+        },
+        {
+          "name": "BBQ Kettle Chips",
+          "calories": 500,
+          "tags": []
+        },
+        {
+          "name": "Sea Salt Kettle Chips",
+          "calories": 535,
+          "tags": []
+        },
+        {
+          "name": "Smartfood White Cheddar Popcorn",
+          "calories": 571,
+          "tags": []
+        },
+        {
+          "name": "Baked Original Lays",
+          "calories": 437,
+          "tags": [
+            "Soy"
+          ]
+        },
+        {
+          "name": "jalapeno Kettle Chips",
+          "calories": 750,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Oatmeal Raisin Cookie",
+          "calories": 453,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Chocolate Chip Cookie",
+          "calories": 482,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        }
+      ]
+    },
+    "Lunch": {
+      "BREAKFAST": [
+        {
+          "name": "Build-Your-Own Breakfast Bowl",
+          "calories": 482,
+          "tags": [
+            "Soy",
+            "Dairy",
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Build-Your-Own Breakfast Burrito",
+          "calories": 598,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Assorted Cereal Cups",
+          "calories": 350,
+          "tags": [
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Oatmeal",
+          "calories": null,
+          "tags": []
+        },
+        {
+          "name": "Blueberry & Apple Oatmeal Parfait",
+          "calories": 273,
+          "tags": [
+            "Gluten",
+            "Tree-Nuts",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Fresh Berry Parfait",
+          "calories": 326,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Fresh Fruit Cup",
+          "calories": 45,
+          "tags": []
+        },
+        {
+          "name": "Bruin Waffle Plate",
+          "calories": 650,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Baked Apple Instant Oatmeal",
+          "calories": null,
+          "tags": []
+        }
+      ],
+      "DAILY SPECIALS": [
+        {
+          "name": "Plain Chicken Wings",
+          "calories": 562,
+          "tags": []
+        },
+        {
+          "name": "Frank's RedHot\u00ae Chicken Wings",
+          "calories": 563,
+          "tags": []
+        },
+        {
+          "name": "Lemon Pepper Chicken Wings",
+          "calories": 622,
+          "tags": []
+        },
+        {
+          "name": "Szechuan Chicken Wings",
+          "calories": 665,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Wedge Cut Fries",
+          "calories": 112,
+          "tags": []
+        }
+      ],
+      "TOASTED SANDWICHES": [
+        {
+          "name": "Ham & Swiss Sandwich",
+          "calories": 940,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Roasted Turkey & Provolone Sandwich",
+          "calories": 1040,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Vegan BBQ Beef Sandwich",
+          "calories": 509,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint",
+            "Soy"
+          ]
+        },
+        {
+          "name": "BBQ Beef Brisket Sandwich",
+          "calories": 958,
+          "tags": [
+            "High-Carbon-Footprint",
+            "Soy",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Chicken Ranch & Swiss Sandwich",
+          "calories": 878,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "The Cuban Sandwich",
+          "calories": 990,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Chipotle BBQ Turkey Sandwich",
+          "calories": 651,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Chicken Caesar Sandwich",
+          "calories": 641,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Roasted Salmon Sandwich",
+          "calories": 947,
+          "tags": [
+            "Fish",
+            "Soy",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Pastrami & Swiss Sandwich",
+          "calories": 596,
+          "tags": [
+            "High-Carbon-Footprint",
+            "Soy",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Chicken Pesto Sandwich",
+          "calories": 662,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Roasted Portabella Mushroom Sandwich",
+          "calories": 508,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Buffalo Chicken Sandwich",
+          "calories": 783,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Cheesesteak",
+          "calories": 1077,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Vegan Chicken Caesar Sandwich",
+          "calories": 616,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Vegan Chipotle BBQ Turkey Sandwich",
+          "calories": 635,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Vegan Cuban Sandwich",
+          "calories": 852,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Vegan Roasted Salmon Sandwich",
+          "calories": 805,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Vegetarian Chicken Ranch & Swiss Sandwich",
+          "calories": 860,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Vegetarian Pastrami & Swiss Sandwich",
+          "calories": 607,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Vegetarian Ham & Swiss Sandwich",
+          "calories": 960,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Chicken Parmesan Sandwich",
+          "calories": 707,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        }
+      ],
+      "ENTREE SALADS": [
+        {
+          "name": "Vegetarian Cobb Salad",
+          "calories": 314,
+          "tags": [
+            "Soy",
+            "Dairy",
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Mixed Green Salad",
+          "calories": 461,
+          "tags": [
+            "Dairy",
+            "Alcohol"
+          ]
+        },
+        {
+          "name": "Asian Wonton Salad",
+          "calories": 307,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Caesar Salad",
+          "calories": 170,
+          "tags": [
+            "Soy",
+            "Dairy",
+            "Alcohol"
+          ]
+        },
+        {
+          "name": "Chopped Mediterranean Salad",
+          "calories": 289,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Asian Chicken Salad",
+          "calories": 172,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        }
+      ],
+      "ENTREE SOUPS": [
+        {
+          "name": "Chicken Caesar Salad",
+          "calories": 372,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Chicken Noodle Soup",
+          "calories": 213,
+          "tags": [
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Tomato & Fresh Basil Soup",
+          "calories": 51,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ],
+      "GRAB & GO SANDWICHES": [
+        {
+          "name": "Peanut Butter & Strawberry Preserves Sandwich",
+          "calories": 752,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Peanut"
+          ]
+        },
+        {
+          "name": "Avocado BLT Sandwich",
+          "calories": 719,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Italian Sandwich",
+          "calories": 633,
+          "tags": [
+            "Gluten",
+            "Tree-Nuts",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Turkey & Provolone Sandwich",
+          "calories": 1255,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Ham & Swiss Croissant Sandwich",
+          "calories": 809,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Tuna Salad Croissant Sandwich",
+          "calories": 948,
+          "tags": [
+            "Fish",
+            "Soy",
+            "Gluten"
+          ]
+        }
+      ],
+      "GRAB & GO SALADS": [
+        {
+          "name": "Chicken Caesar Salad",
+          "calories": 372,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Chicken Caesar Salad",
+          "calories": 372,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Vegetarian Cobb Salad",
+          "calories": 314,
+          "tags": [
+            "Soy",
+            "Dairy",
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Caesar Salad",
+          "calories": 170,
+          "tags": [
+            "Soy",
+            "Dairy",
+            "Alcohol"
+          ]
+        },
+        {
+          "name": "Asian Chicken Salad",
+          "calories": 172,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Asian Wonton Salad",
+          "calories": 307,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "BBQ Chicken Salad",
+          "calories": 338,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Mixed Green Salad",
+          "calories": 461,
+          "tags": [
+            "Dairy",
+            "Alcohol"
+          ]
+        },
+        {
+          "name": "Chicken Caesar Salad",
+          "calories": 372,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Mixed Green Salad",
+          "calories": 461,
+          "tags": [
+            "Dairy",
+            "Alcohol"
+          ]
+        },
+        {
+          "name": "Forbidden Rice Grain Bowl with Shrimp",
+          "calories": 757,
+          "tags": [
+            "Soy",
+            "Crustacean-Shellfish",
+            "Sesame"
+          ]
+        },
+        {
+          "name": "Quinoa Grain Bowl with Chicken",
+          "calories": 1144,
+          "tags": [
+            "Sesame",
+            "Dairy"
+          ]
+        }
+      ],
+      "ACAI BOWLS & FRESH FRUIT SMOOTHIES": [
+        {
+          "name": "A\u00e7a\u00ed Bruin Bowl",
+          "calories": 845,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Strawberry Sensation Smoothie",
+          "calories": 434,
+          "tags": []
+        },
+        {
+          "name": "Mango Madness Smoothie",
+          "calories": 245,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Caribbean Island Smoothie",
+          "calories": 183,
+          "tags": []
+        },
+        {
+          "name": "Bruin Fresh Smoothie",
+          "calories": 556,
+          "tags": [
+            "Vegetarian"
+          ]
+        },
+        {
+          "name": "Smoothie #15: Chocolate Banana",
+          "calories": 355,
+          "tags": [
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Smoothie #06: Alooooha",
+          "calories": 433,
+          "tags": [
+            "Dairy"
+          ]
+        }
+      ],
+      "FAIR TRADE COFFEE & TEA": [
+        {
+          "name": "Caf\u00e9 Latte",
+          "calories": 117,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Vanilla Latte",
+          "calories": 88,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Mocha Latte",
+          "calories": 119,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Caramel Latte",
+          "calories": 140,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Chai Tea Latte",
+          "calories": 11,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Brewed Coffee",
+          "calories": 70,
+          "tags": []
+        },
+        {
+          "name": "Espresso",
+          "calories": 1,
+          "tags": []
+        },
+        {
+          "name": "Caf\u00e9 Caramel",
+          "calories": 119,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Caf\u00e9 Mocha",
+          "calories": 89,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Caf\u00e9 Vanilla",
+          "calories": 58,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Brewed Tea",
+          "calories": null,
+          "tags": []
+        },
+        {
+          "name": "White Chocolate Latte",
+          "calories": 73,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Cappuccino",
+          "calories": 73,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Hot Chocolate",
+          "calories": 156,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Hot Vanilla",
+          "calories": 125,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Horchata Latte",
+          "calories": 4,
+          "tags": []
+        },
+        {
+          "name": "Tea Latte",
+          "calories": 10,
+          "tags": [
+            "Dairy"
+          ]
+        }
+      ],
+      "PASTRIES": [
+        {
+          "name": "Cheese Danish",
+          "calories": 351,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Red Velvet Cupcake",
+          "calories": 69,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Butter Croissant",
+          "calories": 350,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Chocolate Hazelnut  Croissant",
+          "calories": null,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Apple Turnover",
+          "calories": 292,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Oatmeal Raisin Cookie",
+          "calories": 453,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Chocolate Chip Cookie",
+          "calories": 482,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Morning Bun",
+          "calories": 462,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Norwegian Cream Cake w/ Meringue & Almonds",
+          "calories": 40087,
+          "tags": [
+            "Gluten",
+            "Tree-Nuts",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "White Chocolate Strawberry Tart",
+          "calories": 248,
+          "tags": [
+            "Vegetarian",
+            "Soy",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Black & White Verrine",
+          "calories": 774,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Plain Bagel",
+          "calories": 316,
+          "tags": [
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Everything Bagel",
+          "calories": 274,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Sesame"
+          ]
+        },
+        {
+          "name": "Wheat Bagel",
+          "calories": 247,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Blueberry Muffin",
+          "calories": 682,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Banana Muffin",
+          "calories": 808,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Mocha Muffin",
+          "calories": 767,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        }
+      ],
+      "Parfaits / Fruit Cups": [
+        {
+          "name": "Blueberry & Apple Oatmeal Parfait",
+          "calories": 273,
+          "tags": [
+            "Gluten",
+            "Tree-Nuts",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Fresh Berry Parfait",
+          "calories": 326,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Fresh Fruit Cup",
+          "calories": 45,
+          "tags": []
+        }
+      ],
+      "Sides": [
+        {
+          "name": "Bananas",
+          "calories": 89,
+          "tags": []
+        },
+        {
+          "name": "Fuji Apple",
+          "calories": 63,
+          "tags": []
+        },
+        {
+          "name": "Granny Smith Apple",
+          "calories": 58,
+          "tags": []
+        },
+        {
+          "name": "Oranges",
+          "calories": 47,
+          "tags": []
+        },
+        {
+          "name": "BBQ Kettle Chips",
+          "calories": 500,
+          "tags": []
+        },
+        {
+          "name": "Sea Salt Kettle Chips",
+          "calories": 535,
+          "tags": []
+        },
+        {
+          "name": "Smartfood White Cheddar Popcorn",
+          "calories": 571,
+          "tags": []
+        },
+        {
+          "name": "Baked Original Lays",
+          "calories": 437,
+          "tags": [
+            "Soy"
+          ]
+        },
+        {
+          "name": "jalapeno Kettle Chips",
+          "calories": 750,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Oatmeal Raisin Cookie",
+          "calories": 453,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Chocolate Chip Cookie",
+          "calories": 482,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        }
+      ]
+    },
+    "Dinner": {
+      "BREAKFAST": [
+        {
+          "name": "Build-Your-Own Breakfast Bowl",
+          "calories": 482,
+          "tags": [
+            "Soy",
+            "Dairy",
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Build-Your-Own Breakfast Burrito",
+          "calories": 598,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Assorted Cereal Cups",
+          "calories": 350,
+          "tags": [
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Oatmeal",
+          "calories": null,
+          "tags": []
+        },
+        {
+          "name": "Blueberry & Apple Oatmeal Parfait",
+          "calories": 273,
+          "tags": [
+            "Gluten",
+            "Tree-Nuts",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Fresh Berry Parfait",
+          "calories": 326,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Fresh Fruit Cup",
+          "calories": 45,
+          "tags": []
+        },
+        {
+          "name": "Bruin Waffle Plate",
+          "calories": 650,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Baked Apple Instant Oatmeal",
+          "calories": null,
+          "tags": []
+        }
+      ],
+      "DAILY SPECIALS": [
+        {
+          "name": "Plain Chicken Wings",
+          "calories": 562,
+          "tags": []
+        },
+        {
+          "name": "Frank's RedHot\u00ae Chicken Wings",
+          "calories": 563,
+          "tags": []
+        },
+        {
+          "name": "Lemon Pepper Chicken Wings",
+          "calories": 622,
+          "tags": []
+        },
+        {
+          "name": "Szechuan Chicken Wings",
+          "calories": 665,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Wedge Cut Fries",
+          "calories": 112,
+          "tags": []
+        }
+      ],
+      "TOASTED SANDWICHES": [
+        {
+          "name": "Ham & Swiss Sandwich",
+          "calories": 940,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Roasted Turkey & Provolone Sandwich",
+          "calories": 1040,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Vegan BBQ Beef Sandwich",
+          "calories": 509,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint",
+            "Soy"
+          ]
+        },
+        {
+          "name": "BBQ Beef Brisket Sandwich",
+          "calories": 958,
+          "tags": [
+            "High-Carbon-Footprint",
+            "Soy",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Chicken Ranch & Swiss Sandwich",
+          "calories": 878,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "The Cuban Sandwich",
+          "calories": 990,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Chipotle BBQ Turkey Sandwich",
+          "calories": 651,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Chicken Caesar Sandwich",
+          "calories": 641,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Roasted Salmon Sandwich",
+          "calories": 947,
+          "tags": [
+            "Fish",
+            "Soy",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Pastrami & Swiss Sandwich",
+          "calories": 596,
+          "tags": [
+            "High-Carbon-Footprint",
+            "Soy",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Chicken Pesto Sandwich",
+          "calories": 662,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Roasted Portabella Mushroom Sandwich",
+          "calories": 508,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Buffalo Chicken Sandwich",
+          "calories": 783,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Cheesesteak",
+          "calories": 1077,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Vegan Chicken Caesar Sandwich",
+          "calories": 616,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Vegan Chipotle BBQ Turkey Sandwich",
+          "calories": 635,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Vegan Cuban Sandwich",
+          "calories": 852,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Vegan Roasted Salmon Sandwich",
+          "calories": 805,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Vegetarian Chicken Ranch & Swiss Sandwich",
+          "calories": 860,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Vegetarian Pastrami & Swiss Sandwich",
+          "calories": 607,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Vegetarian Ham & Swiss Sandwich",
+          "calories": 960,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Chicken Parmesan Sandwich",
+          "calories": 707,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        }
+      ],
+      "ENTREE SALADS": [
+        {
+          "name": "Vegetarian Cobb Salad",
+          "calories": 314,
+          "tags": [
+            "Soy",
+            "Dairy",
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Mixed Green Salad",
+          "calories": 461,
+          "tags": [
+            "Dairy",
+            "Alcohol"
+          ]
+        },
+        {
+          "name": "Asian Wonton Salad",
+          "calories": 307,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Caesar Salad",
+          "calories": 170,
+          "tags": [
+            "Soy",
+            "Dairy",
+            "Alcohol"
+          ]
+        },
+        {
+          "name": "Chopped Mediterranean Salad",
+          "calories": 289,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Asian Chicken Salad",
+          "calories": 172,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        }
+      ],
+      "ENTREE SOUPS": [
+        {
+          "name": "Chicken Caesar Salad",
+          "calories": 372,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Chicken Noodle Soup",
+          "calories": 213,
+          "tags": [
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Tomato & Fresh Basil Soup",
+          "calories": 51,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ],
+      "GRAB & GO SANDWICHES": [
+        {
+          "name": "Peanut Butter & Strawberry Preserves Sandwich",
+          "calories": 752,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Peanut"
+          ]
+        },
+        {
+          "name": "Avocado BLT Sandwich",
+          "calories": 719,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Italian Sandwich",
+          "calories": 633,
+          "tags": [
+            "Gluten",
+            "Tree-Nuts",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Turkey & Provolone Sandwich",
+          "calories": 1255,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Ham & Swiss Croissant Sandwich",
+          "calories": 809,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Tuna Salad Croissant Sandwich",
+          "calories": 948,
+          "tags": [
+            "Fish",
+            "Soy",
+            "Gluten"
+          ]
+        }
+      ],
+      "GRAB & GO SALADS": [
+        {
+          "name": "Chicken Caesar Salad",
+          "calories": 372,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Chicken Caesar Salad",
+          "calories": 372,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Vegetarian Cobb Salad",
+          "calories": 314,
+          "tags": [
+            "Soy",
+            "Dairy",
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Caesar Salad",
+          "calories": 170,
+          "tags": [
+            "Soy",
+            "Dairy",
+            "Alcohol"
+          ]
+        },
+        {
+          "name": "Asian Chicken Salad",
+          "calories": 172,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Asian Wonton Salad",
+          "calories": 307,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "BBQ Chicken Salad",
+          "calories": 338,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Mixed Green Salad",
+          "calories": 461,
+          "tags": [
+            "Dairy",
+            "Alcohol"
+          ]
+        },
+        {
+          "name": "Chicken Caesar Salad",
+          "calories": 372,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Mixed Green Salad",
+          "calories": 461,
+          "tags": [
+            "Dairy",
+            "Alcohol"
+          ]
+        },
+        {
+          "name": "Forbidden Rice Grain Bowl with Shrimp",
+          "calories": 757,
+          "tags": [
+            "Soy",
+            "Crustacean-Shellfish",
+            "Sesame"
+          ]
+        },
+        {
+          "name": "Quinoa Grain Bowl with Chicken",
+          "calories": 1144,
+          "tags": [
+            "Sesame",
+            "Dairy"
+          ]
+        }
+      ],
+      "ACAI BOWLS & FRESH FRUIT SMOOTHIES": [
+        {
+          "name": "A\u00e7a\u00ed Bruin Bowl",
+          "calories": 845,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Strawberry Sensation Smoothie",
+          "calories": 434,
+          "tags": []
+        },
+        {
+          "name": "Mango Madness Smoothie",
+          "calories": 245,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Caribbean Island Smoothie",
+          "calories": 183,
+          "tags": []
+        },
+        {
+          "name": "Bruin Fresh Smoothie",
+          "calories": 556,
+          "tags": [
+            "Vegetarian"
+          ]
+        },
+        {
+          "name": "Smoothie #15: Chocolate Banana",
+          "calories": 355,
+          "tags": [
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Smoothie #06: Alooooha",
+          "calories": 433,
+          "tags": [
+            "Dairy"
+          ]
+        }
+      ],
+      "FAIR TRADE COFFEE & TEA": [
+        {
+          "name": "Caf\u00e9 Latte",
+          "calories": 117,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Vanilla Latte",
+          "calories": 88,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Mocha Latte",
+          "calories": 119,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Caramel Latte",
+          "calories": 140,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Chai Tea Latte",
+          "calories": 11,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Brewed Coffee",
+          "calories": 70,
+          "tags": []
+        },
+        {
+          "name": "Espresso",
+          "calories": 1,
+          "tags": []
+        },
+        {
+          "name": "Caf\u00e9 Caramel",
+          "calories": 119,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Caf\u00e9 Mocha",
+          "calories": 89,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Caf\u00e9 Vanilla",
+          "calories": 58,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Brewed Tea",
+          "calories": null,
+          "tags": []
+        },
+        {
+          "name": "White Chocolate Latte",
+          "calories": 73,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Cappuccino",
+          "calories": 73,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Hot Chocolate",
+          "calories": 156,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Hot Vanilla",
+          "calories": 125,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Horchata Latte",
+          "calories": 4,
+          "tags": []
+        },
+        {
+          "name": "Tea Latte",
+          "calories": 10,
+          "tags": [
+            "Dairy"
+          ]
+        }
+      ],
+      "PASTRIES": [
+        {
+          "name": "Cheese Danish",
+          "calories": 351,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Red Velvet Cupcake",
+          "calories": 69,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Butter Croissant",
+          "calories": 350,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Chocolate Hazelnut  Croissant",
+          "calories": null,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Apple Turnover",
+          "calories": 292,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Oatmeal Raisin Cookie",
+          "calories": 453,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Chocolate Chip Cookie",
+          "calories": 482,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Morning Bun",
+          "calories": 462,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Norwegian Cream Cake w/ Meringue & Almonds",
+          "calories": 40087,
+          "tags": [
+            "Gluten",
+            "Tree-Nuts",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "White Chocolate Strawberry Tart",
+          "calories": 248,
+          "tags": [
+            "Vegetarian",
+            "Soy",
+            "Gluten"
+          ]
+        },
+        {
+          "name": "Black & White Verrine",
+          "calories": 774,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Plain Bagel",
+          "calories": 316,
+          "tags": [
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Everything Bagel",
+          "calories": 274,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Sesame"
+          ]
+        },
+        {
+          "name": "Wheat Bagel",
+          "calories": 247,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Blueberry Muffin",
+          "calories": 682,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Banana Muffin",
+          "calories": 808,
+          "tags": [
+            "Vegetarian",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Mocha Muffin",
+          "calories": 767,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        }
+      ],
+      "Parfaits / Fruit Cups": [
+        {
+          "name": "Blueberry & Apple Oatmeal Parfait",
+          "calories": 273,
           "tags": [
             "Gluten",
             "Tree-Nuts",

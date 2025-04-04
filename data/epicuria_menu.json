@@ -846,6 +846,23 @@
             "Soy",
             "Crustacean-Shellfish"
           ]
+        },
+        {
+          "name": "Penne Noodles",
+          "calories": 1694,
+          "tags": [
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Pasta w/ Spring Vegetables",
+          "calories": 465,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
         }
       ],
       "Psistaris": [

@@ -125,11 +125,11 @@ async def scrape_all_dining_halls():
             "url": "https://dining.ucla.edu/de-neve-dining/",
             "output": "../data/deneve_menu.json"
         },
-        {
-            "name": "Epicuria",
-            "url": "https://dining.ucla.edu/epicuria-at-covel/",
-            "output": "../data/epicuria_menu.json"
-        },
+        # {
+        #     "name": "Epicuria",
+        #     "url": "https://dining.ucla.edu/epicuria-at-covel/",
+        #     "output": "../data/epicuria_menu.json"
+        # },
         {
             "name": "Epicuria at Ackerman",
             "url": "https://dining.ucla.edu/epicuria-ackerman/",

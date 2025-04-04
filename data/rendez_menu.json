@@ -1,1230 +1,4 @@
 {
-  "2025-04-02": {
-    "Breakfast": {
-      "LATIN DAILY SPECIAL": [
-        {
-          "name": "Chicken Enchiladas",
-          "calories": 538,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Potato Enchiladas",
-          "calories": 983,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        }
-      ],
-      "ASIAN DAILY SPECIAL": [
-        {
-          "name": "Vietnamese Freestyle Bowl",
-          "calories": 2859,
-          "tags": [
-            "Fish",
-            "Soy",
-            "Crustacean-Shellfish"
-          ]
-        }
-      ],
-      "LATIN BUILD YOUR OWN": [
-        {
-          "name": "Build-Your-Own Tacos",
-          "calories": 632,
-          "tags": [
-            "Soy",
-            "Crustacean-Shellfish",
-            "Tree-Nuts"
-          ]
-        },
-        {
-          "name": "Build-Your-Own Burrito Bowl",
-          "calories": 703,
-          "tags": [
-            "Soy",
-            "Crustacean-Shellfish",
-            "Tree-Nuts"
-          ]
-        },
-        {
-          "name": "Build-Your-Own Taco Salad",
-          "calories": 279,
-          "tags": [
-            "Soy",
-            "Crustacean-Shellfish",
-            "Tree-Nuts"
-          ]
-        },
-        {
-          "name": "Build-Your-Own Tacos",
-          "calories": 632,
-          "tags": [
-            "Soy",
-            "Crustacean-Shellfish",
-            "Tree-Nuts"
-          ]
-        }
-      ],
-      "LATIN SIDES": [
-        {
-          "name": "Mexican Rice",
-          "calories": 233,
-          "tags": []
-        },
-        {
-          "name": "Brown Rice",
-          "calories": 156,
-          "tags": []
-        },
-        {
-          "name": "Black Beans",
-          "calories": 5794,
-          "tags": [
-            "Vegan"
-          ]
-        },
-        {
-          "name": "Refried Beans",
-          "calories": 9104,
-          "tags": [
-            "Vegan",
-            "Low-Carbon-Footprint"
-          ]
-        }
-      ],
-      "SUSHI BOWLS": [
-        {
-          "name": "California Roll",
-          "calories": 543,
-          "tags": [
-            "Fish",
-            "Soy",
-            "Crustacean-Shellfish"
-          ]
-        },
-        {
-          "name": "Spicy Tuna Sushi Bowl",
-          "calories": 1556,
-          "tags": [
-            "Fish",
-            "Soy",
-            "Gluten"
-          ]
-        },
-        {
-          "name": "Vegan Sushi Bowl",
-          "calories": 1199,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        }
-      ],
-      "BOBA DRINKS": [
-        {
-          "name": "Milk Tea Boba",
-          "calories": 350,
-          "tags": []
-        },
-        {
-          "name": "Thai Tea Boba",
-          "calories": 273,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Taro Boba",
-          "calories": 451,
-          "tags": []
-        },
-        {
-          "name": "Green Milk Tea Boba",
-          "calories": 329,
-          "tags": []
-        },
-        {
-          "name": "Vietnamese Coffee Boba",
-          "calories": 440,
-          "tags": [
-            "Dairy"
-          ]
-        }
-      ],
-      "DRINKS": [
-        {
-          "name": "Brewed Coffee",
-          "calories": 70,
-          "tags": []
-        },
-        {
-          "name": "Fountain Beverage",
-          "calories": 3,
-          "tags": []
-        }
-      ],
-      "SALSA BAR": [
-        {
-          "name": "Salsa Bar",
-          "calories": 77,
-          "tags": []
-        }
-      ],
-      "LATIN TOPPING BAR": [
-        {
-          "name": "Latin Topping Bar",
-          "calories": 315,
-          "tags": [
-            "Soy",
-            "Dairy"
-          ]
-        }
-      ],
-      "Base": [
-        {
-          "name": "Brown Rice",
-          "calories": 156,
-          "tags": []
-        },
-        {
-          "name": "Sticky Rice",
-          "calories": 324,
-          "tags": []
-        },
-        {
-          "name": "Stir Fried Noodles & Bean Sprouts",
-          "calories": 362,
-          "tags": [
-            "Fish",
-            "Soy",
-            "Gluten"
-          ]
-        },
-        {
-          "name": "Vietnamese Vegetable Fried Rice",
-          "calories": 239,
-          "tags": [
-            "Eggs"
-          ]
-        }
-      ],
-      "Entr\u00e9e": [
-        {
-          "name": "Salt & Pepper Shrimp",
-          "calories": 80,
-          "tags": [
-            "Crustacean-Shellfish"
-          ]
-        },
-        {
-          "name": "Vietnamese Shaking Beef",
-          "calories": 138,
-          "tags": [
-            "Fish",
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Vietnamese Style Roasted Chicken",
-          "calories": 385,
-          "tags": [
-            "Fish",
-            "Soy",
-            "Crustacean-Shellfish"
-          ]
-        },
-        {
-          "name": "Vegetable Egg Roll (Chunjuan)",
-          "calories": 47,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Salt & Pepper Tofu",
-          "calories": 145,
-          "tags": [
-            "Soy"
-          ]
-        },
-        {
-          "name": "Stir Fried Spinach & Garlic",
-          "calories": 43,
-          "tags": [
-            "Fish"
-          ]
-        },
-        {
-          "name": "Vegetable Stir Fry",
-          "calories": 192,
-          "tags": [
-            "Sesame"
-          ]
-        }
-      ],
-      "ASIAN TOPPING": [
-        {
-          "name": "Vietnamese Pickled Vegetables",
-          "calories": 8,
-          "tags": []
-        },
-        {
-          "name": "Salted Cucumber",
-          "calories": 6,
-          "tags": []
-        },
-        {
-          "name": "Edamame",
-          "calories": 109,
-          "tags": []
-        },
-        {
-          "name": "Marinated Soy Sprouts",
-          "calories": 83,
-          "tags": [
-            "Sesame"
-          ]
-        },
-        {
-          "name": "Seasoned Blanched Spinach",
-          "calories": 19,
-          "tags": [
-            "Sesame"
-          ]
-        },
-        {
-          "name": "Kimchi",
-          "calories": 18,
-          "tags": []
-        },
-        {
-          "name": "Vietnamese Pickled Daikon",
-          "calories": 5,
-          "tags": []
-        },
-        {
-          "name": "Seaweed Salad",
-          "calories": 70,
-          "tags": []
-        },
-        {
-          "name": "Vietnamese Shredded Green Papaya Salad",
-          "calories": 49,
-          "tags": [
-            "Vegan",
-            "Low-Carbon-Footprint"
-          ]
-        }
-      ],
-      "ASIAN SAUCE": [
-        {
-          "name": "Green Sriracha",
-          "calories": 17,
-          "tags": []
-        },
-        {
-          "name": "Dumpling Dipping Sauce",
-          "calories": 6,
-          "tags": []
-        },
-        {
-          "name": "Red Sriracha",
-          "calories": 19,
-          "tags": []
-        },
-        {
-          "name": "Spicy Mayo Sauce",
-          "calories": 200,
-          "tags": [
-            "Soy",
-            "Eggs"
-          ]
-        },
-        {
-          "name": "Thai Chilies w/ Vegan Fish Sauce",
-          "calories": 16,
-          "tags": [
-            "Fish"
-          ]
-        },
-        {
-          "name": "Chojang Korean Dipping Sauce",
-          "calories": 228,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        }
-      ],
-      "CONDIMENT ACI": [
-        {
-          "name": "Nanami Togarashi Spice",
-          "calories": 0,
-          "tags": []
-        },
-        {
-          "name": "Fried Shallots",
-          "calories": 500,
-          "tags": []
-        },
-        {
-          "name": "Fried Garlic",
-          "calories": 800,
-          "tags": []
-        },
-        {
-          "name": "Mae Ploy Sweet Chili Sauce",
-          "calories": 267,
-          "tags": []
-        },
-        {
-          "name": "Sweet Chili Mayo",
-          "calories": 171,
-          "tags": [
-            "Soy",
-            "Eggs"
-          ]
-        },
-        {
-          "name": "Sweet & Sour Sauce",
-          "calories": 154,
-          "tags": []
-        },
-        {
-          "name": "Satay Dipping Sauce",
-          "calories": 75,
-          "tags": [
-            "Tree-Nuts"
-          ]
-        }
-      ]
-    },
-    "Lunch": {
-      "LATIN DAILY SPECIAL": [
-        {
-          "name": "Chicken Enchiladas",
-          "calories": 538,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Potato Enchiladas",
-          "calories": 983,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        }
-      ],
-      "ASIAN DAILY SPECIAL": [
-        {
-          "name": "Vietnamese Freestyle Bowl",
-          "calories": 2859,
-          "tags": [
-            "Fish",
-            "Soy",
-            "Crustacean-Shellfish"
-          ]
-        }
-      ],
-      "LATIN BUILD YOUR OWN": [
-        {
-          "name": "Build-Your-Own Tacos",
-          "calories": 632,
-          "tags": [
-            "Soy",
-            "Crustacean-Shellfish",
-            "Tree-Nuts"
-          ]
-        },
-        {
-          "name": "Build-Your-Own Burrito Bowl",
-          "calories": 703,
-          "tags": [
-            "Soy",
-            "Crustacean-Shellfish",
-            "Tree-Nuts"
-          ]
-        },
-        {
-          "name": "Build-Your-Own Taco Salad",
-          "calories": 279,
-          "tags": [
-            "Soy",
-            "Crustacean-Shellfish",
-            "Tree-Nuts"
-          ]
-        },
-        {
-          "name": "Build-Your-Own Tacos",
-          "calories": 632,
-          "tags": [
-            "Soy",
-            "Crustacean-Shellfish",
-            "Tree-Nuts"
-          ]
-        }
-      ],
-      "LATIN SIDES": [
-        {
-          "name": "Mexican Rice",
-          "calories": 233,
-          "tags": []
-        },
-        {
-          "name": "Brown Rice",
-          "calories": 156,
-          "tags": []
-        },
-        {
-          "name": "Black Beans",
-          "calories": 5794,
-          "tags": [
-            "Vegan"
-          ]
-        },
-        {
-          "name": "Refried Beans",
-          "calories": 9104,
-          "tags": [
-            "Vegan",
-            "Low-Carbon-Footprint"
-          ]
-        }
-      ],
-      "SUSHI BOWLS": [
-        {
-          "name": "California Roll",
-          "calories": 543,
-          "tags": [
-            "Fish",
-            "Soy",
-            "Crustacean-Shellfish"
-          ]
-        },
-        {
-          "name": "Spicy Tuna Sushi Bowl",
-          "calories": 1556,
-          "tags": [
-            "Fish",
-            "Soy",
-            "Gluten"
-          ]
-        },
-        {
-          "name": "Vegan Sushi Bowl",
-          "calories": 1199,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        }
-      ],
-      "BOBA DRINKS": [
-        {
-          "name": "Milk Tea Boba",
-          "calories": 350,
-          "tags": []
-        },
-        {
-          "name": "Thai Tea Boba",
-          "calories": 273,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Taro Boba",
-          "calories": 451,
-          "tags": []
-        },
-        {
-          "name": "Green Milk Tea Boba",
-          "calories": 329,
-          "tags": []
-        },
-        {
-          "name": "Vietnamese Coffee Boba",
-          "calories": 440,
-          "tags": [
-            "Dairy"
-          ]
-        }
-      ],
-      "DRINKS": [
-        {
-          "name": "Brewed Coffee",
-          "calories": 70,
-          "tags": []
-        },
-        {
-          "name": "Fountain Beverage",
-          "calories": 3,
-          "tags": []
-        }
-      ],
-      "SALSA BAR": [
-        {
-          "name": "Salsa Bar",
-          "calories": 77,
-          "tags": []
-        }
-      ],
-      "LATIN TOPPING BAR": [
-        {
-          "name": "Latin Topping Bar",
-          "calories": 315,
-          "tags": [
-            "Soy",
-            "Dairy"
-          ]
-        }
-      ],
-      "Base": [
-        {
-          "name": "Brown Rice",
-          "calories": 156,
-          "tags": []
-        },
-        {
-          "name": "Sticky Rice",
-          "calories": 324,
-          "tags": []
-        },
-        {
-          "name": "Stir Fried Noodles & Bean Sprouts",
-          "calories": 362,
-          "tags": [
-            "Fish",
-            "Soy",
-            "Gluten"
-          ]
-        },
-        {
-          "name": "Vietnamese Vegetable Fried Rice",
-          "calories": 239,
-          "tags": [
-            "Eggs"
-          ]
-        }
-      ],
-      "Entr\u00e9e": [
-        {
-          "name": "Salt & Pepper Shrimp",
-          "calories": 80,
-          "tags": [
-            "Crustacean-Shellfish"
-          ]
-        },
-        {
-          "name": "Vietnamese Shaking Beef",
-          "calories": 138,
-          "tags": [
-            "Fish",
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Vietnamese Style Roasted Chicken",
-          "calories": 385,
-          "tags": [
-            "Fish",
-            "Soy",
-            "Crustacean-Shellfish"
-          ]
-        },
-        {
-          "name": "Vegetable Egg Roll (Chunjuan)",
-          "calories": 47,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Salt & Pepper Tofu",
-          "calories": 145,
-          "tags": [
-            "Soy"
-          ]
-        },
-        {
-          "name": "Stir Fried Spinach & Garlic",
-          "calories": 43,
-          "tags": [
-            "Fish"
-          ]
-        },
-        {
-          "name": "Vegetable Stir Fry",
-          "calories": 192,
-          "tags": [
-            "Sesame"
-          ]
-        }
-      ],
-      "ASIAN TOPPING": [
-        {
-          "name": "Vietnamese Pickled Vegetables",
-          "calories": 8,
-          "tags": []
-        },
-        {
-          "name": "Salted Cucumber",
-          "calories": 6,
-          "tags": []
-        },
-        {
-          "name": "Edamame",
-          "calories": 109,
-          "tags": []
-        },
-        {
-          "name": "Marinated Soy Sprouts",
-          "calories": 83,
-          "tags": [
-            "Sesame"
-          ]
-        },
-        {
-          "name": "Seasoned Blanched Spinach",
-          "calories": 19,
-          "tags": [
-            "Sesame"
-          ]
-        },
-        {
-          "name": "Kimchi",
-          "calories": 18,
-          "tags": []
-        },
-        {
-          "name": "Vietnamese Pickled Daikon",
-          "calories": 5,
-          "tags": []
-        },
-        {
-          "name": "Seaweed Salad",
-          "calories": 70,
-          "tags": []
-        },
-        {
-          "name": "Vietnamese Shredded Green Papaya Salad",
-          "calories": 49,
-          "tags": [
-            "Vegan",
-            "Low-Carbon-Footprint"
-          ]
-        }
-      ],
-      "ASIAN SAUCE": [
-        {
-          "name": "Green Sriracha",
-          "calories": 17,
-          "tags": []
-        },
-        {
-          "name": "Dumpling Dipping Sauce",
-          "calories": 6,
-          "tags": []
-        },
-        {
-          "name": "Red Sriracha",
-          "calories": 19,
-          "tags": []
-        },
-        {
-          "name": "Spicy Mayo Sauce",
-          "calories": 200,
-          "tags": [
-            "Soy",
-            "Eggs"
-          ]
-        },
-        {
-          "name": "Thai Chilies w/ Vegan Fish Sauce",
-          "calories": 16,
-          "tags": [
-            "Fish"
-          ]
-        },
-        {
-          "name": "Chojang Korean Dipping Sauce",
-          "calories": 228,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        }
-      ],
-      "CONDIMENT ACI": [
-        {
-          "name": "Nanami Togarashi Spice",
-          "calories": 0,
-          "tags": []
-        },
-        {
-          "name": "Fried Shallots",
-          "calories": 500,
-          "tags": []
-        },
-        {
-          "name": "Fried Garlic",
-          "calories": 800,
-          "tags": []
-        },
-        {
-          "name": "Mae Ploy Sweet Chili Sauce",
-          "calories": 267,
-          "tags": []
-        },
-        {
-          "name": "Sweet Chili Mayo",
-          "calories": 171,
-          "tags": [
-            "Soy",
-            "Eggs"
-          ]
-        },
-        {
-          "name": "Sweet & Sour Sauce",
-          "calories": 154,
-          "tags": []
-        },
-        {
-          "name": "Satay Dipping Sauce",
-          "calories": 75,
-          "tags": [
-            "Tree-Nuts"
-          ]
-        }
-      ]
-    },
-    "Dinner": {
-      "LATIN DAILY SPECIAL": [
-        {
-          "name": "Chicken Enchiladas",
-          "calories": 538,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Potato Enchiladas",
-          "calories": 983,
-          "tags": [
-            "Gluten",
-            "Wheat",
-            "Dairy"
-          ]
-        }
-      ],
-      "ASIAN DAILY SPECIAL": [
-        {
-          "name": "Vietnamese Freestyle Bowl",
-          "calories": 2859,
-          "tags": [
-            "Fish",
-            "Soy",
-            "Crustacean-Shellfish"
-          ]
-        }
-      ],
-      "LATIN BUILD YOUR OWN": [
-        {
-          "name": "Build-Your-Own Tacos",
-          "calories": 632,
-          "tags": [
-            "Soy",
-            "Crustacean-Shellfish",
-            "Tree-Nuts"
-          ]
-        },
-        {
-          "name": "Build-Your-Own Burrito Bowl",
-          "calories": 703,
-          "tags": [
-            "Soy",
-            "Crustacean-Shellfish",
-            "Tree-Nuts"
-          ]
-        },
-        {
-          "name": "Build-Your-Own Taco Salad",
-          "calories": 279,
-          "tags": [
-            "Soy",
-            "Crustacean-Shellfish",
-            "Tree-Nuts"
-          ]
-        },
-        {
-          "name": "Build-Your-Own Tacos",
-          "calories": 632,
-          "tags": [
-            "Soy",
-            "Crustacean-Shellfish",
-            "Tree-Nuts"
-          ]
-        }
-      ],
-      "LATIN SIDES": [
-        {
-          "name": "Mexican Rice",
-          "calories": 233,
-          "tags": []
-        },
-        {
-          "name": "Brown Rice",
-          "calories": 156,
-          "tags": []
-        },
-        {
-          "name": "Black Beans",
-          "calories": 5794,
-          "tags": [
-            "Vegan"
-          ]
-        },
-        {
-          "name": "Refried Beans",
-          "calories": 9104,
-          "tags": [
-            "Vegan",
-            "Low-Carbon-Footprint"
-          ]
-        }
-      ],
-      "SUSHI BOWLS": [
-        {
-          "name": "California Roll",
-          "calories": 543,
-          "tags": [
-            "Fish",
-            "Soy",
-            "Crustacean-Shellfish"
-          ]
-        },
-        {
-          "name": "Spicy Tuna Sushi Bowl",
-          "calories": 1556,
-          "tags": [
-            "Fish",
-            "Soy",
-            "Gluten"
-          ]
-        },
-        {
-          "name": "Vegan Sushi Bowl",
-          "calories": 1199,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        }
-      ],
-      "BOBA DRINKS": [
-        {
-          "name": "Milk Tea Boba",
-          "calories": 350,
-          "tags": []
-        },
-        {
-          "name": "Thai Tea Boba",
-          "calories": 273,
-          "tags": [
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Taro Boba",
-          "calories": 451,
-          "tags": []
-        },
-        {
-          "name": "Green Milk Tea Boba",
-          "calories": 329,
-          "tags": []
-        },
-        {
-          "name": "Vietnamese Coffee Boba",
-          "calories": 440,
-          "tags": [
-            "Dairy"
-          ]
-        }
-      ],
-      "DRINKS": [
-        {
-          "name": "Brewed Coffee",
-          "calories": 70,
-          "tags": []
-        },
-        {
-          "name": "Fountain Beverage",
-          "calories": 3,
-          "tags": []
-        }
-      ],
-      "SALSA BAR": [
-        {
-          "name": "Salsa Bar",
-          "calories": 77,
-          "tags": []
-        }
-      ],
-      "LATIN TOPPING BAR": [
-        {
-          "name": "Latin Topping Bar",
-          "calories": 315,
-          "tags": [
-            "Soy",
-            "Dairy"
-          ]
-        }
-      ],
-      "Base": [
-        {
-          "name": "Brown Rice",
-          "calories": 156,
-          "tags": []
-        },
-        {
-          "name": "Sticky Rice",
-          "calories": 324,
-          "tags": []
-        },
-        {
-          "name": "Stir Fried Noodles & Bean Sprouts",
-          "calories": 362,
-          "tags": [
-            "Fish",
-            "Soy",
-            "Gluten"
-          ]
-        },
-        {
-          "name": "Vietnamese Vegetable Fried Rice",
-          "calories": 239,
-          "tags": [
-            "Eggs"
-          ]
-        }
-      ],
-      "Entr\u00e9e": [
-        {
-          "name": "Salt & Pepper Shrimp",
-          "calories": 80,
-          "tags": [
-            "Crustacean-Shellfish"
-          ]
-        },
-        {
-          "name": "Vietnamese Shaking Beef",
-          "calories": 138,
-          "tags": [
-            "Fish",
-            "Dairy"
-          ]
-        },
-        {
-          "name": "Vietnamese Style Roasted Chicken",
-          "calories": 385,
-          "tags": [
-            "Fish",
-            "Soy",
-            "Crustacean-Shellfish"
-          ]
-        },
-        {
-          "name": "Vegetable Egg Roll (Chunjuan)",
-          "calories": 47,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        },
-        {
-          "name": "Salt & Pepper Tofu",
-          "calories": 145,
-          "tags": [
-            "Soy"
-          ]
-        },
-        {
-          "name": "Stir Fried Spinach & Garlic",
-          "calories": 43,
-          "tags": [
-            "Fish"
-          ]
-        },
-        {
-          "name": "Vegetable Stir Fry",
-          "calories": 192,
-          "tags": [
-            "Sesame"
-          ]
-        }
-      ],
-      "ASIAN TOPPING": [
-        {
-          "name": "Vietnamese Pickled Vegetables",
-          "calories": 8,
-          "tags": []
-        },
-        {
-          "name": "Salted Cucumber",
-          "calories": 6,
-          "tags": []
-        },
-        {
-          "name": "Edamame",
-          "calories": 109,
-          "tags": []
-        },
-        {
-          "name": "Marinated Soy Sprouts",
-          "calories": 83,
-          "tags": [
-            "Sesame"
-          ]
-        },
-        {
-          "name": "Seasoned Blanched Spinach",
-          "calories": 19,
-          "tags": [
-            "Sesame"
-          ]
-        },
-        {
-          "name": "Kimchi",
-          "calories": 18,
-          "tags": []
-        },
-        {
-          "name": "Vietnamese Pickled Daikon",
-          "calories": 5,
-          "tags": []
-        },
-        {
-          "name": "Seaweed Salad",
-          "calories": 70,
-          "tags": []
-        },
-        {
-          "name": "Vietnamese Shredded Green Papaya Salad",
-          "calories": 49,
-          "tags": [
-            "Vegan",
-            "Low-Carbon-Footprint"
-          ]
-        }
-      ],
-      "ASIAN SAUCE": [
-        {
-          "name": "Green Sriracha",
-          "calories": 17,
-          "tags": []
-        },
-        {
-          "name": "Dumpling Dipping Sauce",
-          "calories": 6,
-          "tags": []
-        },
-        {
-          "name": "Red Sriracha",
-          "calories": 19,
-          "tags": []
-        },
-        {
-          "name": "Spicy Mayo Sauce",
-          "calories": 200,
-          "tags": [
-            "Soy",
-            "Eggs"
-          ]
-        },
-        {
-          "name": "Thai Chilies w/ Vegan Fish Sauce",
-          "calories": 16,
-          "tags": [
-            "Fish"
-          ]
-        },
-        {
-          "name": "Chojang Korean Dipping Sauce",
-          "calories": 228,
-          "tags": [
-            "Soy",
-            "Gluten",
-            "Wheat"
-          ]
-        }
-      ],
-      "CONDIMENT ACI": [
-        {
-          "name": "Nanami Togarashi Spice",
-          "calories": 0,
-          "tags": []
-        },
-        {
-          "name": "Fried Shallots",
-          "calories": 500,
-          "tags": []
-        },
-        {
-          "name": "Fried Garlic",
-          "calories": 800,
-          "tags": []
-        },
-        {
-          "name": "Mae Ploy Sweet Chili Sauce",
-          "calories": 267,
-          "tags": []
-        },
-        {
-          "name": "Sweet Chili Mayo",
-          "calories": 171,
-          "tags": [
-            "Soy",
-            "Eggs"
-          ]
-        },
-        {
-          "name": "Sweet & Sour Sauce",
-          "calories": 154,
-          "tags": []
-        },
-        {
-          "name": "Satay Dipping Sauce",
-          "calories": 75,
-          "tags": [
-            "Tree-Nuts"
-          ]
-        }
-      ]
-    }
-  },
   "2025-04-03": {
     "Breakfast": {
       "LATIN DAILY SPECIAL": [
@@ -1248,7 +22,7 @@
       "ASIAN DAILY SPECIAL": [
         {
           "name": "Chinese Freestyle Bowl",
-          "calories": 1370,
+          "calories": 1369,
           "tags": [
             "Soy",
             "Gluten",
@@ -1333,7 +107,7 @@
         },
         {
           "name": "Spicy Tuna Sushi Bowl",
-          "calories": 1556,
+          "calories": 1563,
           "tags": [
             "Fish",
             "Soy",
@@ -1403,7 +177,7 @@
       "LATIN TOPPING BAR": [
         {
           "name": "Latin Topping Bar",
-          "calories": 315,
+          "calories": 281,
           "tags": [
             "Soy",
             "Dairy"
@@ -1441,7 +215,7 @@
       "Entr\u00e9e": [
         {
           "name": "Fish w/ Black Bean Sauce",
-          "calories": 105,
+          "calories": 104,
           "tags": [
             "Soy",
             "Gluten",
@@ -1484,9 +258,9 @@
           "name": "Chinese Broccoli",
           "calories": 61,
           "tags": [
+            "Soy",
             "Gluten",
-            "Wheat",
-            "Sesame"
+            "Wheat"
           ]
         },
         {
@@ -1562,7 +336,9 @@
         {
           "name": "Dumpling Dipping Sauce",
           "calories": 6,
-          "tags": []
+          "tags": [
+            "Soy"
+          ]
         },
         {
           "name": "Red Sriracha",
@@ -1571,7 +347,7 @@
         },
         {
           "name": "Spicy Mayo Sauce",
-          "calories": 200,
+          "calories": 202,
           "tags": [
             "Soy",
             "Eggs"
@@ -1630,7 +406,7 @@
         },
         {
           "name": "Satay Dipping Sauce",
-          "calories": 75,
+          "calories": 71,
           "tags": [
             "Tree-Nuts"
           ]
@@ -1659,7 +435,7 @@
       "ASIAN DAILY SPECIAL": [
         {
           "name": "Chinese Freestyle Bowl",
-          "calories": 1370,
+          "calories": 1369,
           "tags": [
             "Soy",
             "Gluten",
@@ -1744,7 +520,7 @@
         },
         {
           "name": "Spicy Tuna Sushi Bowl",
-          "calories": 1556,
+          "calories": 1563,
           "tags": [
             "Fish",
             "Soy",
@@ -1814,7 +590,7 @@
       "LATIN TOPPING BAR": [
         {
           "name": "Latin Topping Bar",
-          "calories": 315,
+          "calories": 281,
           "tags": [
             "Soy",
             "Dairy"
@@ -1852,7 +628,7 @@
       "Entr\u00e9e": [
         {
           "name": "Fish w/ Black Bean Sauce",
-          "calories": 105,
+          "calories": 104,
           "tags": [
             "Soy",
             "Gluten",
@@ -1895,9 +671,9 @@
           "name": "Chinese Broccoli",
           "calories": 61,
           "tags": [
+            "Soy",
             "Gluten",
-            "Wheat",
-            "Sesame"
+            "Wheat"
           ]
         },
         {
@@ -1973,7 +749,9 @@
         {
           "name": "Dumpling Dipping Sauce",
           "calories": 6,
-          "tags": []
+          "tags": [
+            "Soy"
+          ]
         },
         {
           "name": "Red Sriracha",
@@ -1982,7 +760,7 @@
         },
         {
           "name": "Spicy Mayo Sauce",
-          "calories": 200,
+          "calories": 202,
           "tags": [
             "Soy",
             "Eggs"
@@ -2041,7 +819,7 @@
         },
         {
           "name": "Satay Dipping Sauce",
-          "calories": 75,
+          "calories": 71,
           "tags": [
             "Tree-Nuts"
           ]
@@ -2070,7 +848,7 @@
       "ASIAN DAILY SPECIAL": [
         {
           "name": "Chinese Freestyle Bowl",
-          "calories": 1370,
+          "calories": 1369,
           "tags": [
             "Soy",
             "Gluten",
@@ -2155,7 +933,7 @@
         },
         {
           "name": "Spicy Tuna Sushi Bowl",
-          "calories": 1556,
+          "calories": 1563,
           "tags": [
             "Fish",
             "Soy",
@@ -2225,7 +1003,7 @@
       "LATIN TOPPING BAR": [
         {
           "name": "Latin Topping Bar",
-          "calories": 315,
+          "calories": 281,
           "tags": [
             "Soy",
             "Dairy"
@@ -2263,7 +1041,7 @@
       "Entr\u00e9e": [
         {
           "name": "Fish w/ Black Bean Sauce",
-          "calories": 105,
+          "calories": 104,
           "tags": [
             "Soy",
             "Gluten",
@@ -2306,9 +1084,9 @@
           "name": "Chinese Broccoli",
           "calories": 61,
           "tags": [
+            "Soy",
             "Gluten",
-            "Wheat",
-            "Sesame"
+            "Wheat"
           ]
         },
         {
@@ -2384,7 +1162,9 @@
         {
           "name": "Dumpling Dipping Sauce",
           "calories": 6,
-          "tags": []
+          "tags": [
+            "Soy"
+          ]
         },
         {
           "name": "Red Sriracha",
@@ -2393,7 +1173,7 @@
         },
         {
           "name": "Spicy Mayo Sauce",
-          "calories": 200,
+          "calories": 202,
           "tags": [
             "Soy",
             "Eggs"
@@ -2452,7 +1232,7 @@
         },
         {
           "name": "Satay Dipping Sauce",
-          "calories": 75,
+          "calories": 71,
           "tags": [
             "Tree-Nuts"
           ]
@@ -2474,7 +1254,7 @@
       "ASIAN DAILY SPECIAL": [
         {
           "name": "Korean Freestyle Bowl",
-          "calories": 3248,
+          "calories": 3246,
           "tags": [
             "Fish",
             "Soy",
@@ -2559,7 +1339,7 @@
         },
         {
           "name": "Spicy Tuna Sushi Bowl",
-          "calories": 1556,
+          "calories": 1563,
           "tags": [
             "Fish",
             "Soy",
@@ -2629,7 +1409,7 @@
       "LATIN TOPPING BAR": [
         {
           "name": "Latin Topping Bar",
-          "calories": 315,
+          "calories": 281,
           "tags": [
             "Soy",
             "Dairy"
@@ -2660,9 +1440,9 @@
           "name": "Vegetarian Japchae",
           "calories": 455,
           "tags": [
+            "Soy",
             "Gluten",
-            "Wheat",
-            "Sesame"
+            "Wheat"
           ]
         }
       ],
@@ -2678,7 +1458,7 @@
         },
         {
           "name": "Pork Riblets",
-          "calories": 115,
+          "calories": 114,
           "tags": [
             "Fish",
             "Soy",
@@ -2713,9 +1493,10 @@
         },
         {
           "name": "Korean Eggplant",
-          "calories": 233,
+          "calories": 232,
           "tags": [
             "Fish",
+            "Soy",
             "Sesame"
           ]
         },
@@ -2790,7 +1571,9 @@
         {
           "name": "Dumpling Dipping Sauce",
           "calories": 6,
-          "tags": []
+          "tags": [
+            "Soy"
+          ]
         },
         {
           "name": "Red Sriracha",
@@ -2799,7 +1582,7 @@
         },
         {
           "name": "Spicy Mayo Sauce",
-          "calories": 200,
+          "calories": 202,
           "tags": [
             "Soy",
             "Eggs"
@@ -2858,7 +1641,7 @@
         },
         {
           "name": "Satay Dipping Sauce",
-          "calories": 75,
+          "calories": 71,
           "tags": [
             "Tree-Nuts"
           ]
@@ -2878,7 +1661,7 @@
       "ASIAN DAILY SPECIAL": [
         {
           "name": "Korean Freestyle Bowl",
-          "calories": 3248,
+          "calories": 3246,
           "tags": [
             "Fish",
             "Soy",
@@ -2963,7 +1746,7 @@
         },
         {
           "name": "Spicy Tuna Sushi Bowl",
-          "calories": 1556,
+          "calories": 1563,
           "tags": [
             "Fish",
             "Soy",
@@ -3033,7 +1816,7 @@
       "LATIN TOPPING BAR": [
         {
           "name": "Latin Topping Bar",
-          "calories": 315,
+          "calories": 281,
           "tags": [
             "Soy",
             "Dairy"
@@ -3064,9 +1847,9 @@
           "name": "Vegetarian Japchae",
           "calories": 455,
           "tags": [
+            "Soy",
             "Gluten",
-            "Wheat",
-            "Sesame"
+            "Wheat"
           ]
         }
       ],
@@ -3082,7 +1865,7 @@
         },
         {
           "name": "Pork Riblets",
-          "calories": 115,
+          "calories": 114,
           "tags": [
             "Fish",
             "Soy",
@@ -3117,9 +1900,10 @@
         },
         {
           "name": "Korean Eggplant",
-          "calories": 233,
+          "calories": 232,
           "tags": [
             "Fish",
+            "Soy",
             "Sesame"
           ]
         },
@@ -3194,7 +1978,9 @@
         {
           "name": "Dumpling Dipping Sauce",
           "calories": 6,
-          "tags": []
+          "tags": [
+            "Soy"
+          ]
         },
         {
           "name": "Red Sriracha",
@@ -3203,7 +1989,7 @@
         },
         {
           "name": "Spicy Mayo Sauce",
-          "calories": 200,
+          "calories": 202,
           "tags": [
             "Soy",
             "Eggs"
@@ -3262,7 +2048,7 @@
         },
         {
           "name": "Satay Dipping Sauce",
-          "calories": 75,
+          "calories": 71,
           "tags": [
             "Tree-Nuts"
           ]
@@ -3282,7 +2068,7 @@
       "ASIAN DAILY SPECIAL": [
         {
           "name": "Korean Freestyle Bowl",
-          "calories": 3248,
+          "calories": 3246,
           "tags": [
             "Fish",
             "Soy",
@@ -3367,7 +2153,7 @@
         },
         {
           "name": "Spicy Tuna Sushi Bowl",
-          "calories": 1556,
+          "calories": 1563,
           "tags": [
             "Fish",
             "Soy",
@@ -3437,7 +2223,7 @@
       "LATIN TOPPING BAR": [
         {
           "name": "Latin Topping Bar",
-          "calories": 315,
+          "calories": 281,
           "tags": [
             "Soy",
             "Dairy"
@@ -3468,9 +2254,9 @@
           "name": "Vegetarian Japchae",
           "calories": 455,
           "tags": [
+            "Soy",
             "Gluten",
-            "Wheat",
-            "Sesame"
+            "Wheat"
           ]
         }
       ],
@@ -3486,7 +2272,7 @@
         },
         {
           "name": "Pork Riblets",
-          "calories": 115,
+          "calories": 114,
           "tags": [
             "Fish",
             "Soy",
@@ -3521,9 +2307,10 @@
         },
         {
           "name": "Korean Eggplant",
-          "calories": 233,
+          "calories": 232,
           "tags": [
             "Fish",
+            "Soy",
             "Sesame"
           ]
         },
@@ -3598,7 +2385,9 @@
         {
           "name": "Dumpling Dipping Sauce",
           "calories": 6,
-          "tags": []
+          "tags": [
+            "Soy"
+          ]
         },
         {
           "name": "Red Sriracha",
@@ -3607,7 +2396,7 @@
         },
         {
           "name": "Spicy Mayo Sauce",
-          "calories": 200,
+          "calories": 202,
           "tags": [
             "Soy",
             "Eggs"
@@ -3666,7 +2455,7 @@
         },
         {
           "name": "Satay Dipping Sauce",
-          "calories": 75,
+          "calories": 71,
           "tags": [
             "Tree-Nuts"
           ]
@@ -3697,7 +2486,7 @@
       "ASIAN DAILY SPECIAL": [
         {
           "name": "Japanese Freestyle Bowl",
-          "calories": 3256,
+          "calories": 3253,
           "tags": [
             "Fish",
             "Soy",
@@ -3782,7 +2571,7 @@
         },
         {
           "name": "Spicy Tuna Sushi Bowl",
-          "calories": 1556,
+          "calories": 1563,
           "tags": [
             "Fish",
             "Soy",
@@ -3852,7 +2641,7 @@
       "LATIN TOPPING BAR": [
         {
           "name": "Latin Topping Bar",
-          "calories": 315,
+          "calories": 281,
           "tags": [
             "Soy",
             "Dairy"
@@ -3899,7 +2688,8 @@
           "name": "Teriyaki Grilled Salmon",
           "calories": 104,
           "tags": [
-            "Fish"
+            "Fish",
+            "Soy"
           ]
         },
         {
@@ -3926,8 +2716,9 @@
         },
         {
           "name": "Beef Gyudon",
-          "calories": 314,
+          "calories": 313,
           "tags": [
+            "Soy",
             "Alcohol"
           ]
         }
@@ -3995,7 +2786,9 @@
         {
           "name": "Dumpling Dipping Sauce",
           "calories": 6,
-          "tags": []
+          "tags": [
+            "Soy"
+          ]
         },
         {
           "name": "Red Sriracha",
@@ -4004,7 +2797,7 @@
         },
         {
           "name": "Spicy Mayo Sauce",
-          "calories": 200,
+          "calories": 202,
           "tags": [
             "Soy",
             "Eggs"
@@ -4063,7 +2856,7 @@
         },
         {
           "name": "Satay Dipping Sauce",
-          "calories": 75,
+          "calories": 71,
           "tags": [
             "Tree-Nuts"
           ]
@@ -4092,7 +2885,7 @@
       "ASIAN DAILY SPECIAL": [
         {
           "name": "Japanese Freestyle Bowl",
-          "calories": 3256,
+          "calories": 3253,
           "tags": [
             "Fish",
             "Soy",
@@ -4177,7 +2970,7 @@
         },
         {
           "name": "Spicy Tuna Sushi Bowl",
-          "calories": 1556,
+          "calories": 1563,
           "tags": [
             "Fish",
             "Soy",
@@ -4247,7 +3040,7 @@
       "LATIN TOPPING BAR": [
         {
           "name": "Latin Topping Bar",
-          "calories": 315,
+          "calories": 281,
           "tags": [
             "Soy",
             "Dairy"
@@ -4294,7 +3087,8 @@
           "name": "Teriyaki Grilled Salmon",
           "calories": 104,
           "tags": [
-            "Fish"
+            "Fish",
+            "Soy"
           ]
         },
         {
@@ -4321,8 +3115,9 @@
         },
         {
           "name": "Beef Gyudon",
-          "calories": 314,
+          "calories": 313,
           "tags": [
+            "Soy",
             "Alcohol"
           ]
         }
@@ -4390,7 +3185,9 @@
         {
           "name": "Dumpling Dipping Sauce",
           "calories": 6,
-          "tags": []
+          "tags": [
+            "Soy"
+          ]
         },
         {
           "name": "Red Sriracha",
@@ -4399,7 +3196,7 @@
         },
         {
           "name": "Spicy Mayo Sauce",
-          "calories": 200,
+          "calories": 202,
           "tags": [
             "Soy",
             "Eggs"
@@ -4458,7 +3255,7 @@
         },
         {
           "name": "Satay Dipping Sauce",
-          "calories": 75,
+          "calories": 71,
           "tags": [
             "Tree-Nuts"
           ]
@@ -4487,7 +3284,7 @@
       "ASIAN DAILY SPECIAL": [
         {
           "name": "Japanese Freestyle Bowl",
-          "calories": 3256,
+          "calories": 3253,
           "tags": [
             "Fish",
             "Soy",
@@ -4572,7 +3369,7 @@
         },
         {
           "name": "Spicy Tuna Sushi Bowl",
-          "calories": 1556,
+          "calories": 1563,
           "tags": [
             "Fish",
             "Soy",
@@ -4642,7 +3439,7 @@
       "LATIN TOPPING BAR": [
         {
           "name": "Latin Topping Bar",
-          "calories": 315,
+          "calories": 281,
           "tags": [
             "Soy",
             "Dairy"
@@ -4689,7 +3486,8 @@
           "name": "Teriyaki Grilled Salmon",
           "calories": 104,
           "tags": [
-            "Fish"
+            "Fish",
+            "Soy"
           ]
         },
         {
@@ -4716,8 +3514,9 @@
         },
         {
           "name": "Beef Gyudon",
-          "calories": 314,
+          "calories": 313,
           "tags": [
+            "Soy",
             "Alcohol"
           ]
         }
@@ -4785,7 +3584,9 @@
         {
           "name": "Dumpling Dipping Sauce",
           "calories": 6,
-          "tags": []
+          "tags": [
+            "Soy"
+          ]
         },
         {
           "name": "Red Sriracha",
@@ -4794,7 +3595,7 @@
         },
         {
           "name": "Spicy Mayo Sauce",
-          "calories": 200,
+          "calories": 202,
           "tags": [
             "Soy",
             "Eggs"
@@ -4853,7 +3654,7 @@
         },
         {
           "name": "Satay Dipping Sauce",
-          "calories": 75,
+          "calories": 71,
           "tags": [
             "Tree-Nuts"
           ]
@@ -4886,7 +3687,7 @@
       "ASIAN DAILY SPECIAL": [
         {
           "name": "California Sushi Bowl",
-          "calories": 1492,
+          "calories": 1499,
           "tags": [
             "Fish",
             "Soy",
@@ -4895,7 +3696,7 @@
         },
         {
           "name": "Spicy Tuna Sushi Bowl",
-          "calories": 1556,
+          "calories": 1563,
           "tags": [
             "Fish",
             "Soy",
@@ -5323,9 +4124,9 @@
           "name": "Chinese Broccoli",
           "calories": 61,
           "tags": [
+            "Soy",
             "Gluten",
-            "Wheat",
-            "Sesame"
+            "Wheat"
           ]
         }
       ],
@@ -5410,6 +4211,7 @@
           "name": "Young Chow Vegetable Fried Rice",
           "calories": 134,
           "tags": [
+            "Soy",
             "Eggs"
           ]
         }
@@ -5479,7 +4281,7 @@
         },
         {
           "name": "Satay Dipping Sauce",
-          "calories": 75,
+          "calories": 71,
           "tags": [
             "Tree-Nuts"
           ]
@@ -5522,7 +4324,7 @@
       "ASIAN DAILY SPECIAL": [
         {
           "name": "California Sushi Bowl",
-          "calories": 1492,
+          "calories": 1499,
           "tags": [
             "Fish",
             "Soy",
@@ -5531,7 +4333,7 @@
         },
         {
           "name": "Spicy Tuna Sushi Bowl",
-          "calories": 1556,
+          "calories": 1563,
           "tags": [
             "Fish",
             "Soy",
@@ -5959,9 +4761,9 @@
           "name": "Chinese Broccoli",
           "calories": 61,
           "tags": [
+            "Soy",
             "Gluten",
-            "Wheat",
-            "Sesame"
+            "Wheat"
           ]
         }
       ],
@@ -6046,6 +4848,7 @@
           "name": "Young Chow Vegetable Fried Rice",
           "calories": 134,
           "tags": [
+            "Soy",
             "Eggs"
           ]
         }
@@ -6115,7 +4918,7 @@
         },
         {
           "name": "Satay Dipping Sauce",
-          "calories": 75,
+          "calories": 71,
           "tags": [
             "Tree-Nuts"
           ]
@@ -6158,7 +4961,7 @@
       "ASIAN DAILY SPECIAL": [
         {
           "name": "California Sushi Bowl",
-          "calories": 1492,
+          "calories": 1499,
           "tags": [
             "Fish",
             "Soy",
@@ -6167,7 +4970,7 @@
         },
         {
           "name": "Spicy Tuna Sushi Bowl",
-          "calories": 1556,
+          "calories": 1563,
           "tags": [
             "Fish",
             "Soy",
@@ -6595,9 +5398,9 @@
           "name": "Chinese Broccoli",
           "calories": 61,
           "tags": [
+            "Soy",
             "Gluten",
-            "Wheat",
-            "Sesame"
+            "Wheat"
           ]
         }
       ],
@@ -6682,6 +5485,7 @@
           "name": "Young Chow Vegetable Fried Rice",
           "calories": 134,
           "tags": [
+            "Soy",
             "Eggs"
           ]
         }
@@ -6751,7 +5555,7 @@
         },
         {
           "name": "Satay Dipping Sauce",
-          "calories": 75,
+          "calories": 71,
           "tags": [
             "Tree-Nuts"
           ]
@@ -6776,11 +5580,11 @@
       "LATIN DAILY SPECIAL": [
         {
           "name": "Beef Taquitos Plate",
-          "calories": 1491,
+          "calories": 1548,
           "tags": [
-            "Fish",
-            "Soy",
-            "Crustacean-Shellfish"
+            "High-Carbon-Footprint",
+            "Halal",
+            "Soy"
           ]
         },
         {
@@ -6796,7 +5600,7 @@
       "ASIAN DAILY SPECIAL": [
         {
           "name": "California Sushi Bowl",
-          "calories": 1492,
+          "calories": 1499,
           "tags": [
             "Fish",
             "Soy",
@@ -6805,7 +5609,7 @@
         },
         {
           "name": "Spicy Tuna Sushi Bowl",
-          "calories": 1556,
+          "calories": 1563,
           "tags": [
             "Fish",
             "Soy",
@@ -7223,9 +6027,10 @@
         },
         {
           "name": "Korean Eggplant",
-          "calories": 233,
+          "calories": 232,
           "tags": [
             "Fish",
+            "Soy",
             "Sesame"
           ]
         },
@@ -7309,9 +6114,9 @@
           "name": "Vegetarian Japchae",
           "calories": 455,
           "tags": [
+            "Soy",
             "Gluten",
-            "Wheat",
-            "Sesame"
+            "Wheat"
           ]
         },
         {
@@ -7389,7 +6194,7 @@
         },
         {
           "name": "Satay Dipping Sauce",
-          "calories": 75,
+          "calories": 71,
           "tags": [
             "Tree-Nuts"
           ]
@@ -7412,11 +6217,11 @@
       "LATIN DAILY SPECIAL": [
         {
           "name": "Beef Taquitos Plate",
-          "calories": 1491,
+          "calories": 1548,
           "tags": [
-            "Fish",
-            "Soy",
-            "Crustacean-Shellfish"
+            "High-Carbon-Footprint",
+            "Halal",
+            "Soy"
           ]
         },
         {
@@ -7432,7 +6237,7 @@
       "ASIAN DAILY SPECIAL": [
         {
           "name": "California Sushi Bowl",
-          "calories": 1492,
+          "calories": 1499,
           "tags": [
             "Fish",
             "Soy",
@@ -7441,7 +6246,7 @@
         },
         {
           "name": "Spicy Tuna Sushi Bowl",
-          "calories": 1556,
+          "calories": 1563,
           "tags": [
             "Fish",
             "Soy",
@@ -7859,9 +6664,10 @@
         },
         {
           "name": "Korean Eggplant",
-          "calories": 233,
+          "calories": 232,
           "tags": [
             "Fish",
+            "Soy",
             "Sesame"
           ]
         },
@@ -7945,9 +6751,9 @@
           "name": "Vegetarian Japchae",
           "calories": 455,
           "tags": [
+            "Soy",
             "Gluten",
-            "Wheat",
-            "Sesame"
+            "Wheat"
           ]
         },
         {
@@ -8025,7 +6831,7 @@
         },
         {
           "name": "Satay Dipping Sauce",
-          "calories": 75,
+          "calories": 71,
           "tags": [
             "Tree-Nuts"
           ]
@@ -8048,11 +6854,11 @@
       "LATIN DAILY SPECIAL": [
         {
           "name": "Beef Taquitos Plate",
-          "calories": 1491,
+          "calories": 1548,
           "tags": [
-            "Fish",
-            "Soy",
-            "Crustacean-Shellfish"
+            "High-Carbon-Footprint",
+            "Halal",
+            "Soy"
           ]
         },
         {
@@ -8068,7 +6874,7 @@
       "ASIAN DAILY SPECIAL": [
         {
           "name": "California Sushi Bowl",
-          "calories": 1492,
+          "calories": 1499,
           "tags": [
             "Fish",
             "Soy",
@@ -8077,7 +6883,7 @@
         },
         {
           "name": "Spicy Tuna Sushi Bowl",
-          "calories": 1556,
+          "calories": 1563,
           "tags": [
             "Fish",
             "Soy",
@@ -8495,9 +7301,10 @@
         },
         {
           "name": "Korean Eggplant",
-          "calories": 233,
+          "calories": 232,
           "tags": [
             "Fish",
+            "Soy",
             "Sesame"
           ]
         },
@@ -8581,9 +7388,9 @@
           "name": "Vegetarian Japchae",
           "calories": 455,
           "tags": [
+            "Soy",
             "Gluten",
-            "Wheat",
-            "Sesame"
+            "Wheat"
           ]
         },
         {
@@ -8661,7 +7468,7 @@
         },
         {
           "name": "Satay Dipping Sauce",
-          "calories": 75,
+          "calories": 71,
           "tags": [
             "Tree-Nuts"
           ]
@@ -8702,7 +7509,7 @@
       "ASIAN DAILY SPECIAL": [
         {
           "name": "California Sushi Bowl",
-          "calories": 1492,
+          "calories": 1499,
           "tags": [
             "Fish",
             "Soy",
@@ -8711,7 +7518,7 @@
         },
         {
           "name": "Spicy Tuna Sushi Bowl",
-          "calories": 1556,
+          "calories": 1563,
           "tags": [
             "Fish",
             "Soy",
@@ -9096,13 +7903,15 @@
           "name": "Teriyaki Grilled Salmon",
           "calories": 104,
           "tags": [
-            "Fish"
+            "Fish",
+            "Soy"
           ]
         },
         {
           "name": "Gyudon Beef",
-          "calories": 940,
+          "calories": 937,
           "tags": [
+            "Soy",
             "Alcohol"
           ]
         },
@@ -9279,7 +8088,7 @@
         },
         {
           "name": "Satay Dipping Sauce",
-          "calories": 75,
+          "calories": 71,
           "tags": [
             "Tree-Nuts"
           ]
@@ -9318,7 +8127,7 @@
       "ASIAN DAILY SPECIAL": [
         {
           "name": "California Sushi Bowl",
-          "calories": 1492,
+          "calories": 1499,
           "tags": [
             "Fish",
             "Soy",
@@ -9327,7 +8136,7 @@
         },
         {
           "name": "Spicy Tuna Sushi Bowl",
-          "calories": 1556,
+          "calories": 1563,
           "tags": [
             "Fish",
             "Soy",
@@ -9712,13 +8521,15 @@
           "name": "Teriyaki Grilled Salmon",
           "calories": 104,
           "tags": [
-            "Fish"
+            "Fish",
+            "Soy"
           ]
         },
         {
           "name": "Gyudon Beef",
-          "calories": 940,
+          "calories": 937,
           "tags": [
+            "Soy",
             "Alcohol"
           ]
         },
@@ -9895,7 +8706,7 @@
         },
         {
           "name": "Satay Dipping Sauce",
-          "calories": 75,
+          "calories": 71,
           "tags": [
             "Tree-Nuts"
           ]
@@ -9934,7 +8745,7 @@
       "ASIAN DAILY SPECIAL": [
         {
           "name": "California Sushi Bowl",
-          "calories": 1492,
+          "calories": 1499,
           "tags": [
             "Fish",
             "Soy",
@@ -9943,7 +8754,7 @@
         },
         {
           "name": "Spicy Tuna Sushi Bowl",
-          "calories": 1556,
+          "calories": 1563,
           "tags": [
             "Fish",
             "Soy",
@@ -10328,13 +9139,15 @@
           "name": "Teriyaki Grilled Salmon",
           "calories": 104,
           "tags": [
-            "Fish"
+            "Fish",
+            "Soy"
           ]
         },
         {
           "name": "Gyudon Beef",
-          "calories": 940,
+          "calories": 937,
           "tags": [
+            "Soy",
             "Alcohol"
           ]
         },
@@ -10511,10 +9324,2037 @@
         },
         {
           "name": "Satay Dipping Sauce",
-          "calories": 75,
+          "calories": 71,
           "tags": [
             "Tree-Nuts"
           ]
+        }
+      ],
+      "Fountain Beverages": [
+        {
+          "name": "Brewed Coffee",
+          "calories": 70,
+          "tags": []
+        },
+        {
+          "name": "Fountain Beverage",
+          "calories": 3,
+          "tags": []
+        }
+      ]
+    }
+  },
+  "2025-04-09": {
+    "Breakfast": {
+      "LATIN DAILY SPECIAL": [
+        {
+          "name": "Chicken Enchiladas",
+          "calories": 538,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Potato Enchiladas",
+          "calories": 983,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        }
+      ],
+      "ASIAN DAILY SPECIAL": [
+        {
+          "name": "California Sushi Bowl",
+          "calories": 1499,
+          "tags": [
+            "Fish",
+            "Soy",
+            "Crustacean-Shellfish"
+          ]
+        },
+        {
+          "name": "Vegan Sushi Bowl",
+          "calories": 1199,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Spicy Tuna Sushi Bowl",
+          "calories": 1563,
+          "tags": [
+            "Fish",
+            "Soy",
+            "Gluten"
+          ]
+        }
+      ],
+      "LATIN BUILD YOUR OWN": [
+        {
+          "name": "Build-Your-Own Tacos",
+          "calories": 632,
+          "tags": [
+            "Soy",
+            "Crustacean-Shellfish",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Steak Burrito",
+          "calories": 458,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Chicken Burrito",
+          "calories": 385,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Pork Al Pastor Burrito",
+          "calories": 277,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Shrimp Burrito",
+          "calories": 396,
+          "tags": [
+            "Soy",
+            "Crustacean-Shellfish"
+          ]
+        },
+        {
+          "name": "Tofu Sofrito Burrito",
+          "calories": 533,
+          "tags": [
+            "Soy"
+          ]
+        },
+        {
+          "name": "Impossible\u2122 Burrito",
+          "calories": 477,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Spiced Red Lentils Burrito",
+          "calories": 689,
+          "tags": []
+        },
+        {
+          "name": "Vegetarian Burrito",
+          "calories": 353,
+          "tags": []
+        },
+        {
+          "name": "Bean & Cheese Burrito",
+          "calories": 594,
+          "tags": [
+            "Dairy"
+          ]
+        }
+      ],
+      "LATIN SIDES": [
+        {
+          "name": "Steak Burrito Bowl",
+          "calories": 213,
+          "tags": []
+        },
+        {
+          "name": "Chicken Burrito Bowl",
+          "calories": 140,
+          "tags": []
+        },
+        {
+          "name": "Pork Al Pastor Burrito Bowl",
+          "calories": 31,
+          "tags": [
+            "Soy"
+          ]
+        },
+        {
+          "name": "Shrimp Burrito Bowl",
+          "calories": 112,
+          "tags": [
+            "Soy",
+            "Crustacean-Shellfish"
+          ]
+        },
+        {
+          "name": "Tofu Sofrito Burrito Bowl",
+          "calories": 141,
+          "tags": [
+            "Soy"
+          ]
+        },
+        {
+          "name": "Impossible\u2122 Burrito Bowl",
+          "calories": 231,
+          "tags": [
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Spiced Red Lentils Burrito Bowl",
+          "calories": 405,
+          "tags": []
+        },
+        {
+          "name": "Vegan Burrito Bowl",
+          "calories": 69,
+          "tags": []
+        }
+      ],
+      "ASIAN FREESTYLE BOWLS": [
+        {
+          "name": "Channa Chaat",
+          "calories": 109,
+          "tags": []
+        },
+        {
+          "name": "Citrus Basmati Rice",
+          "calories": 241,
+          "tags": []
+        },
+        {
+          "name": "Grilled Chicken Tikka Masala",
+          "calories": 513,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Bengali Shrimp & Potato",
+          "calories": 121,
+          "tags": [
+            "Crustacean-Shellfish",
+            "Tree-Nuts",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Potato & Eggplant Masala",
+          "calories": 38,
+          "tags": []
+        },
+        {
+          "name": "Paneer Butter Masala",
+          "calories": 769,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Naan Bread",
+          "calories": 46,
+          "tags": [
+            "Soy",
+            "Wheat",
+            "Sesame"
+          ]
+        },
+        {
+          "name": "Induur Roasted Tri-Color Cauliflower",
+          "calories": 109,
+          "tags": []
+        },
+        {
+          "name": "Potato Samosa",
+          "calories": 210,
+          "tags": []
+        }
+      ],
+      "SUSHI BOWLS": [
+        {
+          "name": "Steak Taco Salad",
+          "calories": 244,
+          "tags": []
+        },
+        {
+          "name": "Chicken Taco Salad",
+          "calories": 171,
+          "tags": []
+        },
+        {
+          "name": "Pork Al Pastor Taco Salad",
+          "calories": 62,
+          "tags": [
+            "Soy"
+          ]
+        },
+        {
+          "name": "Shrimp Tacos",
+          "calories": 255,
+          "tags": [
+            "Soy",
+            "Crustacean-Shellfish"
+          ]
+        },
+        {
+          "name": "Impossible Taco Salad",
+          "calories": 263,
+          "tags": [
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Spiced Red Lentils Taco Salad",
+          "calories": 437,
+          "tags": []
+        },
+        {
+          "name": "Plant-Based Taco Salad",
+          "calories": 101,
+          "tags": []
+        }
+      ],
+      "BOBA DRINKS": [
+        {
+          "name": "Mexican Rice",
+          "calories": 233,
+          "tags": []
+        },
+        {
+          "name": "Brown Calrose Rice",
+          "calories": 105,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Black Beans",
+          "calories": 5794,
+          "tags": [
+            "Vegan"
+          ]
+        },
+        {
+          "name": "Refried Beans",
+          "calories": 9104,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ],
+      "DRINKS": [
+        {
+          "name": "Guacamole",
+          "calories": 34,
+          "tags": []
+        },
+        {
+          "name": "Pico De Gallo",
+          "calories": 7,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Chipotle Crema",
+          "calories": 45,
+          "tags": [
+            "Soy",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Sour Cream Cilantro Lime Salsa",
+          "calories": 23,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Iceberg Lettuce",
+          "calories": 14,
+          "tags": []
+        },
+        {
+          "name": "Cheddar/Jack Cheese Blend",
+          "calories": 393,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Roasted Corn",
+          "calories": 121,
+          "tags": []
+        },
+        {
+          "name": "Sour Cream",
+          "calories": 200,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Potato Fries",
+          "calories": 143,
+          "tags": [
+            "Soy"
+          ]
+        }
+      ],
+      "SALSA BAR": [
+        {
+          "name": "House Salsa",
+          "calories": 10,
+          "tags": []
+        },
+        {
+          "name": "Yellow Tomato & Habanero Salsa",
+          "calories": 5,
+          "tags": []
+        },
+        {
+          "name": "Tomatillo Salsa",
+          "calories": 10,
+          "tags": []
+        },
+        {
+          "name": "Cascabel Pepper & Thyme Salsa",
+          "calories": 9,
+          "tags": []
+        },
+        {
+          "name": "Escabeche",
+          "calories": 241,
+          "tags": []
+        },
+        {
+          "name": "Cilantro & Onion Mix",
+          "calories": 11,
+          "tags": []
+        },
+        {
+          "name": "Radish",
+          "calories": 5,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Avocado Salsa",
+          "calories": 19,
+          "tags": []
+        }
+      ],
+      "LATIN TOPPING BAR": [
+        {
+          "name": "Grilled Chicken Tikka Masala",
+          "calories": 513,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Bengali Shrimp & Potato",
+          "calories": 121,
+          "tags": [
+            "Crustacean-Shellfish",
+            "Tree-Nuts",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Spice Mix for Vegetables",
+          "calories": 88,
+          "tags": []
+        },
+        {
+          "name": "Paneer Butter Masala",
+          "calories": 769,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Naan Bread",
+          "calories": 46,
+          "tags": [
+            "Soy",
+            "Wheat",
+            "Sesame"
+          ]
+        },
+        {
+          "name": "Induur Roasted Tri-Color Cauliflower",
+          "calories": 109,
+          "tags": []
+        },
+        {
+          "name": "Potato Samosa",
+          "calories": 210,
+          "tags": []
+        }
+      ],
+      "ASIAN TOPPING": [
+        {
+          "name": "Vietnamese Pickled Vegetables",
+          "calories": 8,
+          "tags": []
+        },
+        {
+          "name": "Marinated Soy Sprouts",
+          "calories": 83,
+          "tags": [
+            "Sesame"
+          ]
+        },
+        {
+          "name": "Seasoned Blanched Spinach",
+          "calories": 19,
+          "tags": [
+            "Sesame"
+          ]
+        },
+        {
+          "name": "Vietnamese Pickled Daikon",
+          "calories": 5,
+          "tags": []
+        },
+        {
+          "name": "Vietnamese Shredded Green Papaya Salad",
+          "calories": 49,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Salted Cucumber",
+          "calories": 6,
+          "tags": []
+        },
+        {
+          "name": "Edamame",
+          "calories": 109,
+          "tags": []
+        },
+        {
+          "name": "Seaweed Salad",
+          "calories": 70,
+          "tags": []
+        },
+        {
+          "name": "Kimchi",
+          "calories": 18,
+          "tags": []
+        },
+        {
+          "name": "Kachumber Salad",
+          "calories": 16,
+          "tags": []
+        },
+        {
+          "name": "Chickpea Salad",
+          "calories": 105,
+          "tags": [
+            "Alcohol"
+          ]
+        },
+        {
+          "name": "Pickled Red Onion",
+          "calories": 154,
+          "tags": []
+        }
+      ],
+      "ASIAN SAUCE": [
+        {
+          "name": "Sticky Rice",
+          "calories": 324,
+          "tags": []
+        },
+        {
+          "name": "Brown Calrose Rice",
+          "calories": 105,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Channa Chaat",
+          "calories": 109,
+          "tags": []
+        },
+        {
+          "name": "Citrus Basmati Rice",
+          "calories": 241,
+          "tags": []
+        }
+      ],
+      "CONDIMENT ACI": [
+        {
+          "name": "Milk Tea Boba",
+          "calories": 350,
+          "tags": []
+        },
+        {
+          "name": "Horchata Boba",
+          "calories": 370,
+          "tags": []
+        },
+        {
+          "name": "Taro Boba",
+          "calories": 451,
+          "tags": []
+        },
+        {
+          "name": "Green Milk Tea Boba",
+          "calories": 329,
+          "tags": []
+        },
+        {
+          "name": "Vietnamese Coffee Boba",
+          "calories": 440,
+          "tags": [
+            "Dairy"
+          ]
+        }
+      ],
+      "SALADS": [
+        {
+          "name": "Nanami Togarashi Spice",
+          "calories": 0,
+          "tags": []
+        },
+        {
+          "name": "Fried Shallots",
+          "calories": 500,
+          "tags": []
+        },
+        {
+          "name": "Fried Garlic",
+          "calories": 800,
+          "tags": []
+        },
+        {
+          "name": "Mae Ploy Sweet Chili Sauce",
+          "calories": 267,
+          "tags": []
+        },
+        {
+          "name": "Sweet Chili Mayo",
+          "calories": 171,
+          "tags": [
+            "Soy",
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Sweet & Sour Sauce",
+          "calories": 154,
+          "tags": []
+        },
+        {
+          "name": "Satay Dipping Sauce",
+          "calories": 71,
+          "tags": [
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Indian Cucumber Yogurt Dip w/ Herbs",
+          "calories": 56,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Tamarind Chutney",
+          "calories": 63,
+          "tags": []
+        },
+        {
+          "name": "Cilantro Chutney",
+          "calories": 8,
+          "tags": []
+        },
+        {
+          "name": "Cranberry Tamarind Chutney",
+          "calories": 90,
+          "tags": []
+        },
+        {
+          "name": "Mango Chutney",
+          "calories": 250,
+          "tags": []
+        }
+      ],
+      "Fountain Beverages": [
+        {
+          "name": "Brewed Coffee",
+          "calories": 70,
+          "tags": []
+        },
+        {
+          "name": "Fountain Beverage",
+          "calories": 3,
+          "tags": []
+        }
+      ]
+    },
+    "Lunch": {
+      "LATIN DAILY SPECIAL": [
+        {
+          "name": "Chicken Enchiladas",
+          "calories": 538,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Potato Enchiladas",
+          "calories": 983,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        }
+      ],
+      "ASIAN DAILY SPECIAL": [
+        {
+          "name": "California Sushi Bowl",
+          "calories": 1499,
+          "tags": [
+            "Fish",
+            "Soy",
+            "Crustacean-Shellfish"
+          ]
+        },
+        {
+          "name": "Vegan Sushi Bowl",
+          "calories": 1199,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Spicy Tuna Sushi Bowl",
+          "calories": 1563,
+          "tags": [
+            "Fish",
+            "Soy",
+            "Gluten"
+          ]
+        }
+      ],
+      "LATIN BUILD YOUR OWN": [
+        {
+          "name": "Build-Your-Own Tacos",
+          "calories": 632,
+          "tags": [
+            "Soy",
+            "Crustacean-Shellfish",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Steak Burrito",
+          "calories": 458,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Chicken Burrito",
+          "calories": 385,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Pork Al Pastor Burrito",
+          "calories": 277,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Shrimp Burrito",
+          "calories": 396,
+          "tags": [
+            "Soy",
+            "Crustacean-Shellfish"
+          ]
+        },
+        {
+          "name": "Tofu Sofrito Burrito",
+          "calories": 533,
+          "tags": [
+            "Soy"
+          ]
+        },
+        {
+          "name": "Impossible\u2122 Burrito",
+          "calories": 477,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Spiced Red Lentils Burrito",
+          "calories": 689,
+          "tags": []
+        },
+        {
+          "name": "Vegetarian Burrito",
+          "calories": 353,
+          "tags": []
+        },
+        {
+          "name": "Bean & Cheese Burrito",
+          "calories": 594,
+          "tags": [
+            "Dairy"
+          ]
+        }
+      ],
+      "LATIN SIDES": [
+        {
+          "name": "Steak Burrito Bowl",
+          "calories": 213,
+          "tags": []
+        },
+        {
+          "name": "Chicken Burrito Bowl",
+          "calories": 140,
+          "tags": []
+        },
+        {
+          "name": "Pork Al Pastor Burrito Bowl",
+          "calories": 31,
+          "tags": [
+            "Soy"
+          ]
+        },
+        {
+          "name": "Shrimp Burrito Bowl",
+          "calories": 112,
+          "tags": [
+            "Soy",
+            "Crustacean-Shellfish"
+          ]
+        },
+        {
+          "name": "Tofu Sofrito Burrito Bowl",
+          "calories": 141,
+          "tags": [
+            "Soy"
+          ]
+        },
+        {
+          "name": "Impossible\u2122 Burrito Bowl",
+          "calories": 231,
+          "tags": [
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Spiced Red Lentils Burrito Bowl",
+          "calories": 405,
+          "tags": []
+        },
+        {
+          "name": "Vegan Burrito Bowl",
+          "calories": 69,
+          "tags": []
+        }
+      ],
+      "ASIAN FREESTYLE BOWLS": [
+        {
+          "name": "Channa Chaat",
+          "calories": 109,
+          "tags": []
+        },
+        {
+          "name": "Citrus Basmati Rice",
+          "calories": 241,
+          "tags": []
+        },
+        {
+          "name": "Grilled Chicken Tikka Masala",
+          "calories": 513,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Bengali Shrimp & Potato",
+          "calories": 121,
+          "tags": [
+            "Crustacean-Shellfish",
+            "Tree-Nuts",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Potato & Eggplant Masala",
+          "calories": 38,
+          "tags": []
+        },
+        {
+          "name": "Paneer Butter Masala",
+          "calories": 769,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Naan Bread",
+          "calories": 46,
+          "tags": [
+            "Soy",
+            "Wheat",
+            "Sesame"
+          ]
+        },
+        {
+          "name": "Induur Roasted Tri-Color Cauliflower",
+          "calories": 109,
+          "tags": []
+        },
+        {
+          "name": "Potato Samosa",
+          "calories": 210,
+          "tags": []
+        }
+      ],
+      "SUSHI BOWLS": [
+        {
+          "name": "Steak Taco Salad",
+          "calories": 244,
+          "tags": []
+        },
+        {
+          "name": "Chicken Taco Salad",
+          "calories": 171,
+          "tags": []
+        },
+        {
+          "name": "Pork Al Pastor Taco Salad",
+          "calories": 62,
+          "tags": [
+            "Soy"
+          ]
+        },
+        {
+          "name": "Shrimp Tacos",
+          "calories": 255,
+          "tags": [
+            "Soy",
+            "Crustacean-Shellfish"
+          ]
+        },
+        {
+          "name": "Impossible Taco Salad",
+          "calories": 263,
+          "tags": [
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Spiced Red Lentils Taco Salad",
+          "calories": 437,
+          "tags": []
+        },
+        {
+          "name": "Plant-Based Taco Salad",
+          "calories": 101,
+          "tags": []
+        }
+      ],
+      "BOBA DRINKS": [
+        {
+          "name": "Mexican Rice",
+          "calories": 233,
+          "tags": []
+        },
+        {
+          "name": "Brown Calrose Rice",
+          "calories": 105,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Black Beans",
+          "calories": 5794,
+          "tags": [
+            "Vegan"
+          ]
+        },
+        {
+          "name": "Refried Beans",
+          "calories": 9104,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ],
+      "DRINKS": [
+        {
+          "name": "Guacamole",
+          "calories": 34,
+          "tags": []
+        },
+        {
+          "name": "Pico De Gallo",
+          "calories": 7,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Chipotle Crema",
+          "calories": 45,
+          "tags": [
+            "Soy",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Sour Cream Cilantro Lime Salsa",
+          "calories": 23,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Iceberg Lettuce",
+          "calories": 14,
+          "tags": []
+        },
+        {
+          "name": "Cheddar/Jack Cheese Blend",
+          "calories": 393,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Roasted Corn",
+          "calories": 121,
+          "tags": []
+        },
+        {
+          "name": "Sour Cream",
+          "calories": 200,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Potato Fries",
+          "calories": 143,
+          "tags": [
+            "Soy"
+          ]
+        }
+      ],
+      "SALSA BAR": [
+        {
+          "name": "House Salsa",
+          "calories": 10,
+          "tags": []
+        },
+        {
+          "name": "Yellow Tomato & Habanero Salsa",
+          "calories": 5,
+          "tags": []
+        },
+        {
+          "name": "Tomatillo Salsa",
+          "calories": 10,
+          "tags": []
+        },
+        {
+          "name": "Cascabel Pepper & Thyme Salsa",
+          "calories": 9,
+          "tags": []
+        },
+        {
+          "name": "Escabeche",
+          "calories": 241,
+          "tags": []
+        },
+        {
+          "name": "Cilantro & Onion Mix",
+          "calories": 11,
+          "tags": []
+        },
+        {
+          "name": "Radish",
+          "calories": 5,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Avocado Salsa",
+          "calories": 19,
+          "tags": []
+        }
+      ],
+      "LATIN TOPPING BAR": [
+        {
+          "name": "Grilled Chicken Tikka Masala",
+          "calories": 513,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Bengali Shrimp & Potato",
+          "calories": 121,
+          "tags": [
+            "Crustacean-Shellfish",
+            "Tree-Nuts",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Spice Mix for Vegetables",
+          "calories": 88,
+          "tags": []
+        },
+        {
+          "name": "Paneer Butter Masala",
+          "calories": 769,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Naan Bread",
+          "calories": 46,
+          "tags": [
+            "Soy",
+            "Wheat",
+            "Sesame"
+          ]
+        },
+        {
+          "name": "Induur Roasted Tri-Color Cauliflower",
+          "calories": 109,
+          "tags": []
+        },
+        {
+          "name": "Potato Samosa",
+          "calories": 210,
+          "tags": []
+        }
+      ],
+      "ASIAN TOPPING": [
+        {
+          "name": "Vietnamese Pickled Vegetables",
+          "calories": 8,
+          "tags": []
+        },
+        {
+          "name": "Marinated Soy Sprouts",
+          "calories": 83,
+          "tags": [
+            "Sesame"
+          ]
+        },
+        {
+          "name": "Seasoned Blanched Spinach",
+          "calories": 19,
+          "tags": [
+            "Sesame"
+          ]
+        },
+        {
+          "name": "Vietnamese Pickled Daikon",
+          "calories": 5,
+          "tags": []
+        },
+        {
+          "name": "Vietnamese Shredded Green Papaya Salad",
+          "calories": 49,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Salted Cucumber",
+          "calories": 6,
+          "tags": []
+        },
+        {
+          "name": "Edamame",
+          "calories": 109,
+          "tags": []
+        },
+        {
+          "name": "Seaweed Salad",
+          "calories": 70,
+          "tags": []
+        },
+        {
+          "name": "Kimchi",
+          "calories": 18,
+          "tags": []
+        },
+        {
+          "name": "Kachumber Salad",
+          "calories": 16,
+          "tags": []
+        },
+        {
+          "name": "Chickpea Salad",
+          "calories": 105,
+          "tags": [
+            "Alcohol"
+          ]
+        },
+        {
+          "name": "Pickled Red Onion",
+          "calories": 154,
+          "tags": []
+        }
+      ],
+      "ASIAN SAUCE": [
+        {
+          "name": "Sticky Rice",
+          "calories": 324,
+          "tags": []
+        },
+        {
+          "name": "Brown Calrose Rice",
+          "calories": 105,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Channa Chaat",
+          "calories": 109,
+          "tags": []
+        },
+        {
+          "name": "Citrus Basmati Rice",
+          "calories": 241,
+          "tags": []
+        }
+      ],
+      "CONDIMENT ACI": [
+        {
+          "name": "Milk Tea Boba",
+          "calories": 350,
+          "tags": []
+        },
+        {
+          "name": "Horchata Boba",
+          "calories": 370,
+          "tags": []
+        },
+        {
+          "name": "Taro Boba",
+          "calories": 451,
+          "tags": []
+        },
+        {
+          "name": "Green Milk Tea Boba",
+          "calories": 329,
+          "tags": []
+        },
+        {
+          "name": "Vietnamese Coffee Boba",
+          "calories": 440,
+          "tags": [
+            "Dairy"
+          ]
+        }
+      ],
+      "SALADS": [
+        {
+          "name": "Nanami Togarashi Spice",
+          "calories": 0,
+          "tags": []
+        },
+        {
+          "name": "Fried Shallots",
+          "calories": 500,
+          "tags": []
+        },
+        {
+          "name": "Fried Garlic",
+          "calories": 800,
+          "tags": []
+        },
+        {
+          "name": "Mae Ploy Sweet Chili Sauce",
+          "calories": 267,
+          "tags": []
+        },
+        {
+          "name": "Sweet Chili Mayo",
+          "calories": 171,
+          "tags": [
+            "Soy",
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Sweet & Sour Sauce",
+          "calories": 154,
+          "tags": []
+        },
+        {
+          "name": "Satay Dipping Sauce",
+          "calories": 71,
+          "tags": [
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Indian Cucumber Yogurt Dip w/ Herbs",
+          "calories": 56,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Tamarind Chutney",
+          "calories": 63,
+          "tags": []
+        },
+        {
+          "name": "Cilantro Chutney",
+          "calories": 8,
+          "tags": []
+        },
+        {
+          "name": "Cranberry Tamarind Chutney",
+          "calories": 90,
+          "tags": []
+        },
+        {
+          "name": "Mango Chutney",
+          "calories": 250,
+          "tags": []
+        }
+      ],
+      "Fountain Beverages": [
+        {
+          "name": "Brewed Coffee",
+          "calories": 70,
+          "tags": []
+        },
+        {
+          "name": "Fountain Beverage",
+          "calories": 3,
+          "tags": []
+        }
+      ]
+    },
+    "Dinner": {
+      "LATIN DAILY SPECIAL": [
+        {
+          "name": "Chicken Enchiladas",
+          "calories": 538,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Potato Enchiladas",
+          "calories": 983,
+          "tags": [
+            "Gluten",
+            "Wheat",
+            "Dairy"
+          ]
+        }
+      ],
+      "ASIAN DAILY SPECIAL": [
+        {
+          "name": "California Sushi Bowl",
+          "calories": 1499,
+          "tags": [
+            "Fish",
+            "Soy",
+            "Crustacean-Shellfish"
+          ]
+        },
+        {
+          "name": "Vegan Sushi Bowl",
+          "calories": 1199,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Spicy Tuna Sushi Bowl",
+          "calories": 1563,
+          "tags": [
+            "Fish",
+            "Soy",
+            "Gluten"
+          ]
+        }
+      ],
+      "LATIN BUILD YOUR OWN": [
+        {
+          "name": "Build-Your-Own Tacos",
+          "calories": 632,
+          "tags": [
+            "Soy",
+            "Crustacean-Shellfish",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Steak Burrito",
+          "calories": 458,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Chicken Burrito",
+          "calories": 385,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Pork Al Pastor Burrito",
+          "calories": 277,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Wheat"
+          ]
+        },
+        {
+          "name": "Shrimp Burrito",
+          "calories": 396,
+          "tags": [
+            "Soy",
+            "Crustacean-Shellfish"
+          ]
+        },
+        {
+          "name": "Tofu Sofrito Burrito",
+          "calories": 533,
+          "tags": [
+            "Soy"
+          ]
+        },
+        {
+          "name": "Impossible\u2122 Burrito",
+          "calories": 477,
+          "tags": [
+            "Soy",
+            "Gluten",
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Spiced Red Lentils Burrito",
+          "calories": 689,
+          "tags": []
+        },
+        {
+          "name": "Vegetarian Burrito",
+          "calories": 353,
+          "tags": []
+        },
+        {
+          "name": "Bean & Cheese Burrito",
+          "calories": 594,
+          "tags": [
+            "Dairy"
+          ]
+        }
+      ],
+      "LATIN SIDES": [
+        {
+          "name": "Steak Burrito Bowl",
+          "calories": 213,
+          "tags": []
+        },
+        {
+          "name": "Chicken Burrito Bowl",
+          "calories": 140,
+          "tags": []
+        },
+        {
+          "name": "Pork Al Pastor Burrito Bowl",
+          "calories": 31,
+          "tags": [
+            "Soy"
+          ]
+        },
+        {
+          "name": "Shrimp Burrito Bowl",
+          "calories": 112,
+          "tags": [
+            "Soy",
+            "Crustacean-Shellfish"
+          ]
+        },
+        {
+          "name": "Tofu Sofrito Burrito Bowl",
+          "calories": 141,
+          "tags": [
+            "Soy"
+          ]
+        },
+        {
+          "name": "Impossible\u2122 Burrito Bowl",
+          "calories": 231,
+          "tags": [
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Spiced Red Lentils Burrito Bowl",
+          "calories": 405,
+          "tags": []
+        },
+        {
+          "name": "Vegan Burrito Bowl",
+          "calories": 69,
+          "tags": []
+        }
+      ],
+      "ASIAN FREESTYLE BOWLS": [
+        {
+          "name": "Channa Chaat",
+          "calories": 109,
+          "tags": []
+        },
+        {
+          "name": "Citrus Basmati Rice",
+          "calories": 241,
+          "tags": []
+        },
+        {
+          "name": "Grilled Chicken Tikka Masala",
+          "calories": 513,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Bengali Shrimp & Potato",
+          "calories": 121,
+          "tags": [
+            "Crustacean-Shellfish",
+            "Tree-Nuts",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Potato & Eggplant Masala",
+          "calories": 38,
+          "tags": []
+        },
+        {
+          "name": "Paneer Butter Masala",
+          "calories": 769,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Naan Bread",
+          "calories": 46,
+          "tags": [
+            "Soy",
+            "Wheat",
+            "Sesame"
+          ]
+        },
+        {
+          "name": "Induur Roasted Tri-Color Cauliflower",
+          "calories": 109,
+          "tags": []
+        },
+        {
+          "name": "Potato Samosa",
+          "calories": 210,
+          "tags": []
+        }
+      ],
+      "SUSHI BOWLS": [
+        {
+          "name": "Steak Taco Salad",
+          "calories": 244,
+          "tags": []
+        },
+        {
+          "name": "Chicken Taco Salad",
+          "calories": 171,
+          "tags": []
+        },
+        {
+          "name": "Pork Al Pastor Taco Salad",
+          "calories": 62,
+          "tags": [
+            "Soy"
+          ]
+        },
+        {
+          "name": "Shrimp Tacos",
+          "calories": 255,
+          "tags": [
+            "Soy",
+            "Crustacean-Shellfish"
+          ]
+        },
+        {
+          "name": "Impossible Taco Salad",
+          "calories": 263,
+          "tags": [
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Spiced Red Lentils Taco Salad",
+          "calories": 437,
+          "tags": []
+        },
+        {
+          "name": "Plant-Based Taco Salad",
+          "calories": 101,
+          "tags": []
+        }
+      ],
+      "BOBA DRINKS": [
+        {
+          "name": "Mexican Rice",
+          "calories": 233,
+          "tags": []
+        },
+        {
+          "name": "Brown Calrose Rice",
+          "calories": 105,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Black Beans",
+          "calories": 5794,
+          "tags": [
+            "Vegan"
+          ]
+        },
+        {
+          "name": "Refried Beans",
+          "calories": 9104,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        }
+      ],
+      "DRINKS": [
+        {
+          "name": "Guacamole",
+          "calories": 34,
+          "tags": []
+        },
+        {
+          "name": "Pico De Gallo",
+          "calories": 7,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Chipotle Crema",
+          "calories": 45,
+          "tags": [
+            "Soy",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Sour Cream Cilantro Lime Salsa",
+          "calories": 23,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Iceberg Lettuce",
+          "calories": 14,
+          "tags": []
+        },
+        {
+          "name": "Cheddar/Jack Cheese Blend",
+          "calories": 393,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Roasted Corn",
+          "calories": 121,
+          "tags": []
+        },
+        {
+          "name": "Sour Cream",
+          "calories": 200,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Potato Fries",
+          "calories": 143,
+          "tags": [
+            "Soy"
+          ]
+        }
+      ],
+      "SALSA BAR": [
+        {
+          "name": "House Salsa",
+          "calories": 10,
+          "tags": []
+        },
+        {
+          "name": "Yellow Tomato & Habanero Salsa",
+          "calories": 5,
+          "tags": []
+        },
+        {
+          "name": "Tomatillo Salsa",
+          "calories": 10,
+          "tags": []
+        },
+        {
+          "name": "Cascabel Pepper & Thyme Salsa",
+          "calories": 9,
+          "tags": []
+        },
+        {
+          "name": "Escabeche",
+          "calories": 241,
+          "tags": []
+        },
+        {
+          "name": "Cilantro & Onion Mix",
+          "calories": 11,
+          "tags": []
+        },
+        {
+          "name": "Radish",
+          "calories": 5,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Avocado Salsa",
+          "calories": 19,
+          "tags": []
+        }
+      ],
+      "LATIN TOPPING BAR": [
+        {
+          "name": "Grilled Chicken Tikka Masala",
+          "calories": 513,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Bengali Shrimp & Potato",
+          "calories": 121,
+          "tags": [
+            "Crustacean-Shellfish",
+            "Tree-Nuts",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Spice Mix for Vegetables",
+          "calories": 88,
+          "tags": []
+        },
+        {
+          "name": "Paneer Butter Masala",
+          "calories": 769,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Naan Bread",
+          "calories": 46,
+          "tags": [
+            "Soy",
+            "Wheat",
+            "Sesame"
+          ]
+        },
+        {
+          "name": "Induur Roasted Tri-Color Cauliflower",
+          "calories": 109,
+          "tags": []
+        },
+        {
+          "name": "Potato Samosa",
+          "calories": 210,
+          "tags": []
+        }
+      ],
+      "ASIAN TOPPING": [
+        {
+          "name": "Vietnamese Pickled Vegetables",
+          "calories": 8,
+          "tags": []
+        },
+        {
+          "name": "Marinated Soy Sprouts",
+          "calories": 83,
+          "tags": [
+            "Sesame"
+          ]
+        },
+        {
+          "name": "Seasoned Blanched Spinach",
+          "calories": 19,
+          "tags": [
+            "Sesame"
+          ]
+        },
+        {
+          "name": "Vietnamese Pickled Daikon",
+          "calories": 5,
+          "tags": []
+        },
+        {
+          "name": "Vietnamese Shredded Green Papaya Salad",
+          "calories": 49,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Salted Cucumber",
+          "calories": 6,
+          "tags": []
+        },
+        {
+          "name": "Edamame",
+          "calories": 109,
+          "tags": []
+        },
+        {
+          "name": "Seaweed Salad",
+          "calories": 70,
+          "tags": []
+        },
+        {
+          "name": "Kimchi",
+          "calories": 18,
+          "tags": []
+        },
+        {
+          "name": "Kachumber Salad",
+          "calories": 16,
+          "tags": []
+        },
+        {
+          "name": "Chickpea Salad",
+          "calories": 105,
+          "tags": [
+            "Alcohol"
+          ]
+        },
+        {
+          "name": "Pickled Red Onion",
+          "calories": 154,
+          "tags": []
+        }
+      ],
+      "ASIAN SAUCE": [
+        {
+          "name": "Sticky Rice",
+          "calories": 324,
+          "tags": []
+        },
+        {
+          "name": "Brown Calrose Rice",
+          "calories": 105,
+          "tags": [
+            "Vegan",
+            "Low-Carbon-Footprint"
+          ]
+        },
+        {
+          "name": "Channa Chaat",
+          "calories": 109,
+          "tags": []
+        },
+        {
+          "name": "Citrus Basmati Rice",
+          "calories": 241,
+          "tags": []
+        }
+      ],
+      "CONDIMENT ACI": [
+        {
+          "name": "Milk Tea Boba",
+          "calories": 350,
+          "tags": []
+        },
+        {
+          "name": "Horchata Boba",
+          "calories": 370,
+          "tags": []
+        },
+        {
+          "name": "Taro Boba",
+          "calories": 451,
+          "tags": []
+        },
+        {
+          "name": "Green Milk Tea Boba",
+          "calories": 329,
+          "tags": []
+        },
+        {
+          "name": "Vietnamese Coffee Boba",
+          "calories": 440,
+          "tags": [
+            "Dairy"
+          ]
+        }
+      ],
+      "SALADS": [
+        {
+          "name": "Nanami Togarashi Spice",
+          "calories": 0,
+          "tags": []
+        },
+        {
+          "name": "Fried Shallots",
+          "calories": 500,
+          "tags": []
+        },
+        {
+          "name": "Fried Garlic",
+          "calories": 800,
+          "tags": []
+        },
+        {
+          "name": "Mae Ploy Sweet Chili Sauce",
+          "calories": 267,
+          "tags": []
+        },
+        {
+          "name": "Sweet Chili Mayo",
+          "calories": 171,
+          "tags": [
+            "Soy",
+            "Eggs"
+          ]
+        },
+        {
+          "name": "Sweet & Sour Sauce",
+          "calories": 154,
+          "tags": []
+        },
+        {
+          "name": "Satay Dipping Sauce",
+          "calories": 71,
+          "tags": [
+            "Tree-Nuts"
+          ]
+        },
+        {
+          "name": "Indian Cucumber Yogurt Dip w/ Herbs",
+          "calories": 56,
+          "tags": [
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Tamarind Chutney",
+          "calories": 63,
+          "tags": []
+        },
+        {
+          "name": "Cilantro Chutney",
+          "calories": 8,
+          "tags": []
+        },
+        {
+          "name": "Cranberry Tamarind Chutney",
+          "calories": 90,
+          "tags": []
+        },
+        {
+          "name": "Mango Chutney",
+          "calories": 250,
+          "tags": []
         }
       ],
       "Fountain Beverages": [

@@ -266,7 +266,7 @@ function getPortionSize(recipeId, menuRowName, menuRowPortionSize, menuRowPortio
       
       // Create the main item container
       const itemContainer = document.createElement('div');
-      itemContainer.className = 'menu-item-container';
+      itemContainer.className = 'menu-item-container hoverable';
       itemContainer.dataset.recipeId = menuItem.recipeId;
       itemContainer.dataset.menuRowName = menuItem.menuRowName;
       
@@ -341,7 +341,8 @@ function getPortionSize(recipeId, menuRowName, menuRowPortionSize, menuRowPortio
         
         const decreaseBtn = document.createElement('button');
         decreaseBtn.textContent = '-';
-        decreaseBtn.addEventListener('click', () => {
+        decreaseBtn.addEventListener('click', (e) => {
+          e.stopPropagation(); // Prevent triggering the parent click event
           handlePortionCounterClick({
             recipeId,
             menuRowName: menuItem.menuRowName,
@@ -362,7 +363,8 @@ function getPortionSize(recipeId, menuRowName, menuRowPortionSize, menuRowPortio
         
         const increaseBtn = document.createElement('button');
         increaseBtn.textContent = '+';
-        increaseBtn.addEventListener('click', () => {
+        increaseBtn.addEventListener('click', (e) => {
+          e.stopPropagation(); // Prevent triggering the parent click event
           handlePortionCounterClick({
             recipeId,
             menuRowName: menuItem.menuRowName,
@@ -467,8 +469,15 @@ function getPortionSize(recipeId, menuRowName, menuRowPortionSize, menuRowPortio
           nutritionContent += '</div>';
           nutritionDetails.innerHTML = nutritionContent;
           
-          // Add click handler for nutrition button
-          nutritionButton.addEventListener('click', () => {
+          // Add click handler for the entire menu item to toggle nutrition details
+          itemContainer.addEventListener('click', () => {
+            nutritionDetails.classList.toggle('show');
+            nutritionButton.classList.toggle('active');
+          });
+          
+          // Also keep the button click handler for backward compatibility
+          nutritionButton.addEventListener('click', (e) => {
+            e.stopPropagation(); // Prevent triggering the parent click event
             nutritionDetails.classList.toggle('show');
             nutritionButton.classList.toggle('active');
           });
@@ -527,7 +536,7 @@ function updateMenuDisplay(dateKey) {
   // Update the menu content
   const dayData = menuData[dateKey];
   if (!dayData) {
-    ['breakfast', 'lunch', 'dinner'].forEach(meal => {
+    ['breakfast-content', 'lunch-content', 'dinner-content'].forEach(meal => {
       document.getElementById(meal).textContent = 'No data available for this date.';
     });
     return;
@@ -539,7 +548,7 @@ function updateMenuDisplay(dateKey) {
   );
 
   if (!bruinPlateMenus || bruinPlateMenus.length === 0) {
-    ['breakfast', 'lunch', 'dinner'].forEach(meal => {
+    ['breakfast-content', 'lunch-content', 'dinner-content'].forEach(meal => {
       document.getElementById(meal).textContent = 'No Bruin Plate data available for this date.';
     });
     return;
@@ -594,9 +603,9 @@ function updateMenuDisplay(dateKey) {
   });
 
   // Render each meal section
-  renderMealSections(processedData.Breakfast, 'breakfast');
-  renderMealSections(processedData.Lunch, 'lunch');
-  renderMealSections(processedData.Dinner, 'dinner');
+  renderMealSections(processedData.Breakfast, 'breakfast-content');
+  renderMealSections(processedData.Lunch, 'lunch-content');
+  renderMealSections(processedData.Dinner, 'dinner-content');
 }
 
 async function loadMenuData() {

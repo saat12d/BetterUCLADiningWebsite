@@ -341,7 +341,8 @@ function getPortionSize(recipeId, menuRowName, menuRowPortionSize, menuRowPortio
         
         const decreaseBtn = document.createElement('button');
         decreaseBtn.textContent = '-';
-        decreaseBtn.addEventListener('click', () => {
+        decreaseBtn.addEventListener('click', (e) => {
+          e.stopPropagation(); // Prevent triggering the parent click event
           handlePortionCounterClick({
             recipeId,
             menuRowName: menuItem.menuRowName,
@@ -362,7 +363,8 @@ function getPortionSize(recipeId, menuRowName, menuRowPortionSize, menuRowPortio
         
         const increaseBtn = document.createElement('button');
         increaseBtn.textContent = '+';
-        increaseBtn.addEventListener('click', () => {
+        increaseBtn.addEventListener('click', (e) => {
+          e.stopPropagation(); // Prevent triggering the parent click event
           handlePortionCounterClick({
             recipeId,
             menuRowName: menuItem.menuRowName,
@@ -467,8 +469,15 @@ function getPortionSize(recipeId, menuRowName, menuRowPortionSize, menuRowPortio
           nutritionContent += '</div>';
           nutritionDetails.innerHTML = nutritionContent;
           
-          // Add click handler for nutrition button
-          nutritionButton.addEventListener('click', () => {
+          // Add click handler for the entire menu item to toggle nutrition details
+          itemContainer.addEventListener('click', () => {
+            nutritionDetails.classList.toggle('show');
+            nutritionButton.classList.toggle('active');
+          });
+          
+          // Also keep the button click handler for backward compatibility
+          nutritionButton.addEventListener('click', (e) => {
+            e.stopPropagation(); // Prevent triggering the parent click event
             nutritionDetails.classList.toggle('show');
             nutritionButton.classList.toggle('active');
           });

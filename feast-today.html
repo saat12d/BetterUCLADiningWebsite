@@ -10,7 +10,7 @@
   <link 
     href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap" 
     rel="stylesheet">
-  <!-- <script src="frontend-scripts/deneve-today.js" defer></script> -->
+  <script type="module" src="frontend-scripts/feast-today.js" defer></script>
 </head>
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-PXGFCFLNNS"></script>
@@ -32,13 +32,19 @@
     </div> -->
     <!-- ALERT BANNER END -->
   <header>
-    <h1>FEAST at Rieber Menu - Monday, April 7th, 2025</h1>
-
-    <!-- Simple "Go Back" button -->
-    <a href="index.html" class="back-button">Home</a>
+    <div class="header-content">
+      <h1>FEAST at Rieber Menu - <span id="selected-date">Loading...</span></h1>
+    </div>
+    <div class="header-buttons">
+      <a href="index.html" class="back-button">Home</a>
+    </div>
   </header>
-  <div class="info-message">
-    <p>Future menus coming soon!</p>
+
+  <div class="date-selector-container">
+    <label for="date-picker">Select Date:</label>
+    <select id="date-picker" aria-label="Select date">
+      <option value="">Loading dates...</option>
+    </select>
   </div>
 
   <div id="menu-container">

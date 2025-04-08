@@ -33,8 +33,45 @@
     <div class="header-content">
       <h1>Bruin Plate Menu - <span id="selected-date">Loading...</span></h1>
     </div>
-    <a href="index.html" class="back-button">Home</a>
+    <div class="header-buttons">
+      <button id="calorie-counter-toggle" class="calorie-counter-toggle">Enable Calorie Counter</button>
+      <a href="index.html" class="back-button">Home</a>
+    </div>
   </header>
+
+  <!-- Calorie Counter Summary -->
+  <div id="calorie-counter-summary" class="calorie-counter-summary">
+    <h2>Your Meal Summary</h2>
+    <div class="selected-items-container">
+      <table id="selected-items-table">
+        <thead>
+          <tr>
+            <th>Item</th>
+            <th>Portion</th>
+            <th>Calories</th>
+            <th>Protein</th>
+            <th>Carbs</th>
+            <th>Fat</th>
+            <th>Action</th>
+          </tr>
+        </thead>
+        <tbody id="selected-items-body">
+          <!-- Selected items will be added here -->
+        </tbody>
+        <tfoot>
+          <tr>
+            <td colspan="2"><strong>Total</strong></td>
+            <td id="total-calories">0</td>
+            <td id="total-protein">0g</td>
+            <td id="total-carbs">0g</td>
+            <td id="total-fat">0g</td>
+            <td></td>
+          </tr>
+        </tfoot>
+      </table>
+    </div>
+    <button id="clear-selections" class="clear-selections">Clear All</button>
+  </div>
 
   <div class="date-selector-container">
     <label for="date-picker">Select Date:</label>
@@ -43,21 +80,16 @@
     </select>
   </div>
 
+  <div id="meal-toggles" class="meal-toggles">
+    <button class="meal-toggle active" data-meal="breakfast">Breakfast</button>
+    <button class="meal-toggle" data-meal="lunch">Lunch</button>
+    <button class="meal-toggle" data-meal="dinner">Dinner</button>
+  </div>
+
   <main id="menu-container">
-    <div class="column">
-      <h2>Breakfast</h2>
-      <div id="breakfast"></div>
-    </div>
-
-    <div class="column">
-      <h2>Lunch</h2>
-      <div id="lunch"></div>
-    </div>
-
-    <div class="column">
-      <h2>Dinner</h2>
-      <div id="dinner"></div>
-    </div>
+    <div id="breakfast" class="meal-section active"></div>
+    <div id="lunch" class="meal-section"></div>
+    <div id="dinner" class="meal-section"></div>
   </main>
 </body>
 <div id="footer-placeholder"></div>

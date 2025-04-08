@@ -1,0 +1,4 @@
+playwright
+asyncio
+json
+requests==2.31.0

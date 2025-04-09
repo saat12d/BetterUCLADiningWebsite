@@ -1,0 +1,48 @@
+name: Fetch and Commit Menu Data
+
+on:
+  schedule:
+    - cron: '0 */4 * * *'  # every 4 hours
+  workflow_dispatch:       # manual trigger
+
+jobs:
+  update-menu:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: false  # use PAT instead
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python3 -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      - name: Run script
+        working-directory: ./data-scripts
+        run: python3 fetch_menu_data.py
+
+      - name: Configure Git
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+      - name: Commit and push if JSON changed
+        run: |
+          git add '*.json'
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update menu data [auto]"
+            git push
+          fi
+        env:
+          # Use the default GitHub token for push
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

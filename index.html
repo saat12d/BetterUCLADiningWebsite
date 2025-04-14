@@ -52,7 +52,7 @@
       Welcome to the improved UCLA Dining Menus! Choose a dining hall below to 
       see today's menu.
     </p>
-    <p>Date: April 14th</p>
+    <p>Date: <span id="current-date"></span></p>
 
     <ul class="menu-links">
       <li><a href="bplate-today.html">Bruin Plate</a></li>
@@ -196,4 +196,22 @@
 <footer>
   <p>Please email any changes/suggestions to bruinfood@gmail.com. This site is not officially affiliated with UCLA Dining.</p>
 </footer>
+<script>
+  // Function to format the date
+  function formatDate(date) {
+    const options = { month: 'long', day: 'numeric' };
+    return date.toLocaleDateString('en-US', options);
+  }
+
+  // Update the date when the page loads
+  document.addEventListener('DOMContentLoaded', () => {
+    const dateElement = document.getElementById('current-date');
+    
+    // Get current date in Los Angeles time (Pacific Time)
+    const laTime = new Date().toLocaleString('en-US', { timeZone: 'America/Los_Angeles' });
+    const today = new Date(laTime);
+    
+    dateElement.textContent = formatDate(today);
+  });
+</script>
 </html>

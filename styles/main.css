@@ -164,7 +164,8 @@ header h1 {
 
 /* Tables (Food Trucks & Dining Hours) */
 .food-truck-info,
-.dining-hours {
+.dining-hours,
+.other-food-options {
   margin: 2.5rem 0;
   padding: 1.5rem;
   background-color: white;
@@ -173,13 +174,34 @@ header h1 {
 }
 
 .food-truck-info h2,
-.dining-hours h2 {
+.dining-hours h2,
+.other-food-options h2 {
   color: var(--primary-color);
   margin-bottom: 1.5rem;
   text-align: center;
   font-size: 1.5rem;
   padding-bottom: 0.75rem;
   border-bottom: 2px solid var(--accent-color);
+}
+
+.food-options-content {
+  text-align: center;
+  padding: 1rem 0;
+}
+
+.food-options-content p {
+  margin-bottom: 1.5rem;
+  color: var(--text-color);
+  font-size: 1.1rem;
+}
+
+.duffl-link {
+  display: inline-block;
+  transition: transform 0.2s ease;
+}
+
+.duffl-link:hover {
+  transform: translateY(-2px);
 }
 
 .hours-table-container {
@@ -1003,6 +1025,49 @@ footer {
     padding: 0.5rem 1rem;
     font-size: 0.9rem;
     min-width: 90px;
+  }
+}
+
+/* Duffl Banner Styles */
+.duffl-banner {
+  background-color: #f8f9fa;
+  padding: 0.35rem 0;
+  width: 100%;
+  margin: 0.25rem 0;
+  transition: all 0.3s ease;
+}
+
+.duffl-content {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 0 0.5rem;
+}
+
+.duffl-content img {
+  border-radius: 6px;
+  box-shadow: var(--shadow-md);
+  transition: transform 0.3s ease;
+}
+
+.duffl-content img:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Hide banner when calorie counter is enabled */
+.calorie-counter-enabled .duffl-banner {
+  display: none;
+}
+
+/* Responsive styles for the banner */
+@media screen and (max-width: 768px) {
+  .duffl-banner {
+    padding: 0.25rem 0;
+    margin: 0.15rem 0;
+  }
+  
+  .duffl-content {
+    padding: 0 0.25rem;
   }
 }
 

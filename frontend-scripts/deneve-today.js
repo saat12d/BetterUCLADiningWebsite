@@ -820,6 +820,7 @@ function toggleCalorieCounter() {
     toggleButton.textContent = 'Disable Calorie Counter';
     toggleButton.classList.add('active');
     document.getElementById('calorie-counter-summary').classList.add('show');
+    document.body.classList.add('calorie-counter-enabled');
     mealToggles.style.display = 'none';
     dateSelector.style.display = 'none';
     
@@ -834,6 +835,7 @@ function toggleCalorieCounter() {
     toggleButton.textContent = 'Enable Calorie Counter';
     toggleButton.classList.remove('active');
     document.getElementById('calorie-counter-summary').classList.remove('show');
+    document.body.classList.remove('calorie-counter-enabled');
     mealToggles.style.display = 'flex';
     dateSelector.style.display = 'flex';
     

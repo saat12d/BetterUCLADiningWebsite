@@ -27,14 +27,15 @@ function formatDate(dateStr) {
 }
 
 function getTodayDateKey() {
-    const now = new Date();
-  // Ensure we're using local time, not UTC
-  const year = now.getFullYear();
-  const month = String(now.getMonth() + 1).padStart(2, '0');
-  const day = String(now.getDate()).padStart(2, '0');
-  const dateKey = `${year}-${month}-${day}`;
-  console.log('Today\'s date key:', dateKey);
-  return dateKey;
+    // Get current date in Los Angeles time
+    const laTime = new Date().toLocaleString('en-US', { timeZone: 'America/Los_Angeles' });
+    const now = new Date(laTime);
+    const year = now.getFullYear();
+    const month = String(now.getMonth() + 1).padStart(2, '0');
+    const day = String(now.getDate()).padStart(2, '0');
+    const dateKey = `${year}-${month}-${day}`;
+    console.log('Today\'s date key (LA time):', dateKey);
+    return dateKey;
 }
 
 function findClosestDate(dates, targetDate) {
@@ -561,7 +562,7 @@ function updateMenuDisplay(dateKey) {
   
   // Find Epicuria data in the menu - look for separate lunch and dinner services
   const epicuriaLunch = dayData.find(venue => 
-    venue && venue.menuName && venue.menuName === "Epicuria Lunch Service"
+    venue && venue.menuName && venue.menuName === "Epicuria Lunch services"
   );
   
   const epicuriaDinner = dayData.find(venue => 

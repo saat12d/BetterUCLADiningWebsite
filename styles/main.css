@@ -255,17 +255,62 @@ header h1 {
 
 /* Alert Banner */
 .alert-banner {
-  background-color: #fef3c7;
-  border-bottom: 1px solid #fcd34d;
-  padding: 1rem;
-  text-align: center;
+  background-color: #fff3cd;
+  border: 1px solid #ffeeba;
+  border-radius: 8px;
+  margin: 20px auto;
+  max-width: 900px;
+  padding: 16px;
 }
 
-.alert-banner p {
+.alert-content {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.alert-icon {
+  width: 24px;
+  height: 24px;
+  color: #856404;
+  flex-shrink: 0;
+}
+
+.alert-content p {
+  color: #856404;
   margin: 0;
-  font-weight: 500;
-  color: #92400e;
+  font-size: 16px;
   line-height: 1.5;
+}
+
+.alert-content a {
+  color: #856404;
+  text-decoration: underline;
+}
+
+.alert-content a:hover {
+  color: #533f03;
+}
+
+/* Add responsive styles for alert banner */
+@media screen and (max-width: 768px) {
+  .alert-banner {
+    margin: 10px;
+    padding: 12px;
+  }
+  
+  .alert-content {
+    gap: 12px;
+  }
+  
+  .alert-icon {
+    width: 20px;
+    height: 20px;
+  }
+  
+  .alert-content p {
+    font-size: 14px;
+  }
 }
 
 /* Footer */

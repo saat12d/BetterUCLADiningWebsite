@@ -7,7 +7,7 @@
       "menuGroupName": "Breakfast",
       "menuTypeName": "Breakfast",
       "menuPublish": true,
-      "modificationTime": "2025-04-30T00:11:00",
+      "modificationTime": "2025-04-30T13:32:00",
       "menuWeeks": [
         {
           "weekNumber": 5,
@@ -1773,7 +1773,7 @@
       "menuGroupName": "Lunch",
       "menuTypeName": "Lunch",
       "menuPublish": true,
-      "modificationTime": "2025-04-30T10:39:00",
+      "modificationTime": "2025-04-30T14:44:00",
       "menuWeeks": [
         {
           "weekNumber": 6,
@@ -1935,11 +1935,11 @@
                       "rowOrderNumber": 4000
                     },
                     {
-                      "menuRowId": 139200,
-                      "menuRowName": "DN BURGER BRUNCH",
-                      "menuRowPortionSize": 32.26,
+                      "menuRowId": 140595,
+                      "menuRowName": "DN BURGER NACHO",
+                      "menuRowPortionSize": 10.74,
                       "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 1933,
+                      "recipeId": 2574,
                       "menuRowSalesPriceExclVAT": 0,
                       "menuRowSalesVAT": 0,
                       "publish": true,
@@ -1970,20 +1970,6 @@
                   "mealOptionId": 49,
                   "mealOptionName": "Harvest Kitchen",
                   "menuRows": [
-                    {
-                      "menuRowId": 123172,
-                      "menuRowName": "DN CHICKEN THIGH HALAL GRILLED",
-                      "menuRowPortionSize": 1.49,
-                      "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 1899,
-                      "menuRowSalesPriceExclVAT": 0,
-                      "menuRowSalesVAT": 0,
-                      "publish": true,
-                      "menuRowPlannedPortions": 0,
-                      "menuRowTotalWeight": 0,
-                      "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 3000
-                    },
                     {
                       "menuRowId": 139207,
                       "menuRowName": "COMM SOUP CREAM OF TOMATO",
@@ -2039,6 +2025,20 @@
                       "menuRowTotalWeight": 0,
                       "menuRowTotalWeightUnit": "oz",
                       "rowOrderNumber": 5011
+                    },
+                    {
+                      "menuRowId": 140634,
+                      "menuRowName": "SPR CHICKEN THIGH LEMON GINGER MARINATED",
+                      "menuRowPortionSize": 1.67,
+                      "menuRowPortionSizeUnit": "oz",
+                      "recipeId": 2227,
+                      "menuRowSalesPriceExclVAT": 0,
+                      "menuRowSalesVAT": 0,
+                      "publish": true,
+                      "menuRowPlannedPortions": 0,
+                      "menuRowTotalWeight": 0,
+                      "menuRowTotalWeightUnit": "oz",
+                      "rowOrderNumber": 5012
                     }
                   ],
                   "mealOptionSalesPriceExclVAT": 0,
@@ -2203,6 +2203,20 @@
                       "menuRowTotalWeight": 0,
                       "menuRowTotalWeightUnit": "oz",
                       "rowOrderNumber": 3001
+                    },
+                    {
+                      "menuRowId": 140596,
+                      "menuRowName": "DN Mexican Street Corn Salad",
+                      "menuRowPortionSize": 2.26,
+                      "menuRowPortionSizeUnit": "oz",
+                      "recipeId": 812,
+                      "menuRowSalesPriceExclVAT": 0,
+                      "menuRowSalesVAT": 0,
+                      "publish": true,
+                      "menuRowPlannedPortions": 0,
+                      "menuRowTotalWeight": 0,
+                      "menuRowTotalWeightUnit": "oz",
+                      "rowOrderNumber": 3002
                     }
                   ],
                   "mealOptionSalesPriceExclVAT": 0,
@@ -2345,7 +2359,7 @@
       "menuGroupName": "Dinner",
       "menuTypeName": "Dinner",
       "menuPublish": true,
-      "modificationTime": "2025-04-29T18:54:00",
+      "modificationTime": "2025-04-30T13:36:00",
       "menuWeeks": [
         {
           "weekNumber": 5,
@@ -9435,7 +9449,7 @@
       "menuGroupName": "Lunch",
       "menuTypeName": "Lunch",
       "menuPublish": true,
-      "modificationTime": "2025-04-30T10:49:00",
+      "modificationTime": "2025-04-30T14:01:00",
       "menuWeeks": [
         {
           "weekNumber": 5,
@@ -9611,20 +9625,6 @@
                       "rowOrderNumber": 3000
                     },
                     {
-                      "menuRowId": 124886,
-                      "menuRowName": "CV GRILLED KALE W/ ORANGE & RED CHILI",
-                      "menuRowPortionSize": 2.66,
-                      "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 1311,
-                      "menuRowSalesPriceExclVAT": 0,
-                      "menuRowSalesVAT": 0,
-                      "publish": true,
-                      "menuRowPlannedPortions": 400,
-                      "menuRowTotalWeight": 1063,
-                      "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 4000
-                    },
-                    {
                       "menuRowId": 129758,
                       "menuRowName": "SPR CARROT ROAST HARISSA",
                       "menuRowPortionSize": 2.1,
@@ -9665,6 +9665,20 @@
                       "menuRowTotalWeight": 100,
                       "menuRowTotalWeightUnit": "lb",
                       "rowOrderNumber": 5005
+                    },
+                    {
+                      "menuRowId": 140615,
+                      "menuRowName": "GEF CAULIFLOWER ROASTED",
+                      "menuRowPortionSize": 3.01,
+                      "menuRowPortionSizeUnit": "oz",
+                      "recipeId": 5410,
+                      "menuRowSalesPriceExclVAT": 0,
+                      "menuRowSalesVAT": 0,
+                      "publish": true,
+                      "menuRowPlannedPortions": 0,
+                      "menuRowTotalWeight": 0,
+                      "menuRowTotalWeightUnit": "oz",
+                      "rowOrderNumber": 5006
                     }
                   ],
                   "mealOptionSalesPriceExclVAT": 0,
@@ -9687,6 +9701,20 @@
                       "menuRowTotalWeight": 3600,
                       "menuRowTotalWeightUnit": "oz",
                       "rowOrderNumber": 11003
+                    },
+                    {
+                      "menuRowId": 140618,
+                      "menuRowName": "CV MEZZE SPECIAL",
+                      "menuRowPortionSize": 4,
+                      "menuRowPortionSizeUnit": "oz",
+                      "recipeId": 5962,
+                      "menuRowSalesPriceExclVAT": 0,
+                      "menuRowSalesVAT": 0,
+                      "publish": true,
+                      "menuRowPlannedPortions": 0,
+                      "menuRowTotalWeight": 0,
+                      "menuRowTotalWeightUnit": "oz",
+                      "rowOrderNumber": 11004
                     }
                   ],
                   "mealOptionSalesPriceExclVAT": 0,
@@ -9696,34 +9724,6 @@
                   "mealOptionId": 66,
                   "mealOptionName": "Alimenti",
                   "menuRows": [
-                    {
-                      "menuRowId": 135095,
-                      "menuRowName": "COMM SOUP MINESTRONE",
-                      "menuRowPortionSize": 6.92,
-                      "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 200,
-                      "menuRowSalesPriceExclVAT": 0,
-                      "menuRowSalesVAT": 0,
-                      "publish": true,
-                      "menuRowPlannedPortions": 90,
-                      "menuRowTotalWeight": 622.8,
-                      "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 2000
-                    },
-                    {
-                      "menuRowId": 135099,
-                      "menuRowName": "COMM CV SOUP PERSIAN BEEF",
-                      "menuRowPortionSize": 34.61,
-                      "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 5035,
-                      "menuRowSalesPriceExclVAT": 0,
-                      "menuRowSalesVAT": 0,
-                      "publish": true,
-                      "menuRowPlannedPortions": 120,
-                      "menuRowTotalWeight": 4153.10772,
-                      "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 4000
-                    },
                     {
                       "menuRowId": 140234,
                       "menuRowName": "CASS BAKED ROTINI MARINARA",
@@ -9737,6 +9737,48 @@
                       "menuRowTotalWeight": 2511.36,
                       "menuRowTotalWeightUnit": "oz",
                       "rowOrderNumber": 4001
+                    },
+                    {
+                      "menuRowId": 140619,
+                      "menuRowName": "CV ALIMENTI SPECIAL",
+                      "menuRowPortionSize": 4,
+                      "menuRowPortionSizeUnit": "oz",
+                      "recipeId": 5963,
+                      "menuRowSalesPriceExclVAT": 0,
+                      "menuRowSalesVAT": 0,
+                      "publish": true,
+                      "menuRowPlannedPortions": 0,
+                      "menuRowTotalWeight": 0,
+                      "menuRowTotalWeightUnit": "oz",
+                      "rowOrderNumber": 4002
+                    },
+                    {
+                      "menuRowId": 140614,
+                      "menuRowName": "CV ALIMENTI VEGETARIAN SPECIAL",
+                      "menuRowPortionSize": 4,
+                      "menuRowPortionSizeUnit": "oz",
+                      "recipeId": 5965,
+                      "menuRowSalesPriceExclVAT": 0,
+                      "menuRowSalesVAT": 0,
+                      "publish": true,
+                      "menuRowPlannedPortions": 0,
+                      "menuRowTotalWeight": 0,
+                      "menuRowTotalWeightUnit": "oz",
+                      "rowOrderNumber": 4003
+                    },
+                    {
+                      "menuRowId": 140621,
+                      "menuRowName": "CV SOUP CHICKEN NOODLE HALAL",
+                      "menuRowPortionSize": 6.01,
+                      "menuRowPortionSizeUnit": "oz",
+                      "recipeId": 1606,
+                      "menuRowSalesPriceExclVAT": 0,
+                      "menuRowSalesVAT": 0,
+                      "publish": true,
+                      "menuRowPlannedPortions": 0,
+                      "menuRowTotalWeight": 0,
+                      "menuRowTotalWeightUnit": "oz",
+                      "rowOrderNumber": 4004
                     }
                   ],
                   "mealOptionSalesPriceExclVAT": 0,
@@ -9815,6 +9857,20 @@
                       "menuRowTotalWeight": 800.8226,
                       "menuRowTotalWeightUnit": "oz",
                       "rowOrderNumber": 5000
+                    },
+                    {
+                      "menuRowId": 140616,
+                      "menuRowName": "BAK COOKIE SNICKERDOODLE 1.3 OZ",
+                      "menuRowPortionSize": 1.3,
+                      "menuRowPortionSizeUnit": "oz",
+                      "recipeId": 309,
+                      "menuRowSalesPriceExclVAT": 0,
+                      "menuRowSalesVAT": 0,
+                      "publish": true,
+                      "menuRowPlannedPortions": 0,
+                      "menuRowTotalWeight": 0,
+                      "menuRowTotalWeightUnit": "oz",
+                      "rowOrderNumber": 5001
                     }
                   ],
                   "mealOptionSalesPriceExclVAT": 0,
@@ -9837,20 +9893,6 @@
                       "menuRowTotalWeight": 685.5,
                       "menuRowTotalWeightUnit": "oz",
                       "rowOrderNumber": 1000
-                    },
-                    {
-                      "menuRowId": 124763,
-                      "menuRowName": "CV PIZZA PEPPERONI",
-                      "menuRowPortionSize": 3.17,
-                      "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 1714,
-                      "menuRowSalesPriceExclVAT": 0,
-                      "menuRowSalesVAT": 0,
-                      "publish": true,
-                      "menuRowPlannedPortions": 250,
-                      "menuRowTotalWeight": 792.5,
-                      "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 2000
                     },
                     {
                       "menuRowId": 124640,
@@ -9881,20 +9923,6 @@
                       "rowOrderNumber": 4000
                     },
                     {
-                      "menuRowId": 124722,
-                      "menuRowName": "CV PIZZA MOUSSAKA",
-                      "menuRowPortionSize": 4.15,
-                      "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 2270,
-                      "menuRowSalesPriceExclVAT": 0,
-                      "menuRowSalesVAT": 0,
-                      "publish": true,
-                      "menuRowPlannedPortions": 150,
-                      "menuRowTotalWeight": 622.2,
-                      "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 5000
-                    },
-                    {
                       "menuRowId": 140233,
                       "menuRowName": "SALAD WATERMELON & FETA",
                       "menuRowPortionSize": 3.08,
@@ -9907,6 +9935,34 @@
                       "menuRowTotalWeight": 924.2034,
                       "menuRowTotalWeightUnit": "oz",
                       "rowOrderNumber": 5004
+                    },
+                    {
+                      "menuRowId": 140620,
+                      "menuRowName": "CV STROMBOLI ITALIAN",
+                      "menuRowPortionSize": 3.26,
+                      "menuRowPortionSizeUnit": "oz",
+                      "recipeId": 3860,
+                      "menuRowSalesPriceExclVAT": 0,
+                      "menuRowSalesVAT": 0,
+                      "publish": true,
+                      "menuRowPlannedPortions": 0,
+                      "menuRowTotalWeight": 0,
+                      "menuRowTotalWeightUnit": "oz",
+                      "rowOrderNumber": 5005
+                    },
+                    {
+                      "menuRowId": 140617,
+                      "menuRowName": "CV PIZZA WILD MUSHROOM",
+                      "menuRowPortionSize": 3.39,
+                      "menuRowPortionSizeUnit": "oz",
+                      "recipeId": 2024,
+                      "menuRowSalesPriceExclVAT": 0,
+                      "menuRowSalesVAT": 0,
+                      "publish": true,
+                      "menuRowPlannedPortions": 0,
+                      "menuRowTotalWeight": 0,
+                      "menuRowTotalWeightUnit": "oz",
+                      "rowOrderNumber": 5006
                     }
                   ],
                   "mealOptionSalesPriceExclVAT": 0,
@@ -9929,7 +9985,7 @@
       "menuGroupName": "Dinner",
       "menuTypeName": "Dinner",
       "menuPublish": true,
-      "modificationTime": "2025-04-30T01:26:00",
+      "modificationTime": "2025-04-30T14:07:00",
       "menuWeeks": [
         {
           "weekNumber": 5,
@@ -9951,8 +10007,8 @@
                       "menuRowSalesPriceExclVAT": 0,
                       "menuRowSalesVAT": 0,
                       "publish": true,
-                      "menuRowPlannedPortions": 1000,
-                      "menuRowTotalWeight": 8042.667,
+                      "menuRowPlannedPortions": 1500,
+                      "menuRowTotalWeight": 12064.0005,
                       "menuRowTotalWeightUnit": "oz",
                       "rowOrderNumber": 1000
                     },
@@ -9965,8 +10021,8 @@
                       "menuRowSalesPriceExclVAT": 0,
                       "menuRowSalesVAT": 0,
                       "publish": true,
-                      "menuRowPlannedPortions": 0,
-                      "menuRowTotalWeight": 0,
+                      "menuRowPlannedPortions": 560,
+                      "menuRowTotalWeight": 3239.25,
                       "menuRowTotalWeightUnit": "oz",
                       "rowOrderNumber": 2000
                     },
@@ -10015,8 +10071,8 @@
                       "menuRowSalesPriceExclVAT": 0,
                       "menuRowSalesVAT": 0,
                       "publish": true,
-                      "menuRowPlannedPortions": 700,
-                      "menuRowTotalWeight": 11200,
+                      "menuRowPlannedPortions": 400,
+                      "menuRowTotalWeight": 6400,
                       "menuRowTotalWeightUnit": "oz",
                       "rowOrderNumber": 2000
                     },
@@ -10029,8 +10085,8 @@
                       "menuRowSalesPriceExclVAT": 0,
                       "menuRowSalesVAT": 0,
                       "publish": true,
-                      "menuRowPlannedPortions": 700,
-                      "menuRowTotalWeight": 2292.0933,
+                      "menuRowPlannedPortions": 500,
+                      "menuRowTotalWeight": 1637.2095,
                       "menuRowTotalWeightUnit": "oz",
                       "rowOrderNumber": 3000
                     },
@@ -10043,8 +10099,8 @@
                       "menuRowSalesPriceExclVAT": 0,
                       "menuRowSalesVAT": 0,
                       "publish": true,
-                      "menuRowPlannedPortions": 700,
-                      "menuRowTotalWeight": 1854.825,
+                      "menuRowPlannedPortions": 500,
+                      "menuRowTotalWeight": 1324.875,
                       "menuRowTotalWeightUnit": "oz",
                       "rowOrderNumber": 4000
                     },
@@ -10507,7 +10563,7 @@
       "menuGroupName": "Breakfast",
       "menuTypeName": "Breakfast",
       "menuPublish": true,
-      "modificationTime": "2025-04-30T11:21:00",
+      "modificationTime": "2025-04-30T11:27:00",
       "menuWeeks": [
         {
           "weekNumber": 5,
@@ -10699,7 +10755,7 @@
                       "rowOrderNumber": 3001
                     },
                     {
-                      "menuRowId": 140593,
+                      "menuRowId": 140594,
                       "menuRowName": "BRUIN PLATE SIMPLY GRILLED VEG SPECIAL",
                       "menuRowPortionSize": 4,
                       "menuRowPortionSizeUnit": "oz",
@@ -11159,7 +11215,7 @@
       "menuGroupName": "Lunch",
       "menuTypeName": "Lunch",
       "menuPublish": true,
-      "modificationTime": "2025-04-30T10:35:00",
+      "modificationTime": "2025-04-30T14:41:00",
       "menuWeeks": [
         {
           "weekNumber": 5,
@@ -11171,6 +11227,36 @@
                 {
                   "mealOptionId": 32,
                   "mealOptionName": "Soups",
+                  "menuRows": [
+                    {
+                      "menuRowId": 140598,
+                      "menuRowName": "BRUIN PLATE SOUPS SPECIAL",
+                      "menuRowPortionSize": 4,
+                      "menuRowPortionSizeUnit": "oz",
+                      "recipeId": 6189,
+                      "menuRowSalesPriceExclVAT": 0,
+                      "menuRowSalesVAT": 0,
+                      "publish": true,
+                      "menuRowPlannedPortions": 0,
+                      "menuRowTotalWeight": 0,
+                      "menuRowTotalWeightUnit": "oz",
+                      "rowOrderNumber": 2001
+                    },
+                    {
+                      "menuRowId": 140597,
+                      "menuRowName": "BRUIN PLATE SOUPS VEGETARIAN SPECIAL",
+                      "menuRowPortionSize": 4,
+                      "menuRowPortionSizeUnit": "oz",
+                      "recipeId": 6190,
+                      "menuRowSalesPriceExclVAT": 0,
+                      "menuRowSalesVAT": 0,
+                      "publish": true,
+                      "menuRowPlannedPortions": 0,
+                      "menuRowTotalWeight": 0,
+                      "menuRowTotalWeightUnit": "oz",
+                      "rowOrderNumber": 2002
+                    }
+                  ],
                   "mealOptionSalesPriceExclVAT": 0,
                   "mealOptionSalesPriceVAT": 0
                 },
@@ -11349,20 +11435,6 @@
                       "rowOrderNumber": 2000
                     },
                     {
-                      "menuRowId": 45838,
-                      "menuRowName": "SPR FARRO COOKED",
-                      "menuRowPortionSize": 2,
-                      "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 829,
-                      "menuRowSalesPriceExclVAT": 0,
-                      "menuRowSalesVAT": 0,
-                      "publish": true,
-                      "menuRowPlannedPortions": 249,
-                      "menuRowTotalWeight": 498,
-                      "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 3000
-                    },
-                    {
                       "menuRowId": 45837,
                       "menuRowName": "SPR BROCCOLI ROASTED",
                       "menuRowPortionSize": 2,
@@ -11389,6 +11461,34 @@
                       "menuRowTotalWeight": 598,
                       "menuRowTotalWeightUnit": "oz",
                       "rowOrderNumber": 5000
+                    },
+                    {
+                      "menuRowId": 140622,
+                      "menuRowName": "SPR COUSCOUS PEARL COOKED",
+                      "menuRowPortionSize": 1.23,
+                      "menuRowPortionSizeUnit": "oz",
+                      "recipeId": 2458,
+                      "menuRowSalesPriceExclVAT": 0,
+                      "menuRowSalesVAT": 0,
+                      "publish": true,
+                      "menuRowPlannedPortions": 0,
+                      "menuRowTotalWeight": 0,
+                      "menuRowTotalWeightUnit": "oz",
+                      "rowOrderNumber": 5002
+                    },
+                    {
+                      "menuRowId": 140623,
+                      "menuRowName": "SPR EGGPLANT GRILLED",
+                      "menuRowPortionSize": 1.99,
+                      "menuRowPortionSizeUnit": "oz",
+                      "recipeId": 3459,
+                      "menuRowSalesPriceExclVAT": 0,
+                      "menuRowSalesVAT": 0,
+                      "publish": true,
+                      "menuRowPlannedPortions": 0,
+                      "menuRowTotalWeight": 0,
+                      "menuRowTotalWeightUnit": "oz",
+                      "rowOrderNumber": 5003
                     }
                   ],
                   "mealOptionSalesPriceExclVAT": 0,
@@ -11633,20 +11733,6 @@
                       "rowOrderNumber": 4000
                     },
                     {
-                      "menuRowId": 45363,
-                      "menuRowName": "BAK QUICKBREAD VEGAN BANANA NUT (24 CT PER)",
-                      "menuRowPortionSize": 1,
-                      "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 3046,
-                      "menuRowSalesPriceExclVAT": 0,
-                      "menuRowSalesVAT": 0,
-                      "publish": true,
-                      "menuRowPlannedPortions": 201,
-                      "menuRowTotalWeight": 201,
-                      "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 5000
-                    },
-                    {
                       "menuRowId": 105347,
                       "menuRowName": "BAK BAR ZUCCHINI CHOCOLATE 96CT",
                       "menuRowPortionSize": 1,
@@ -11717,18 +11803,116 @@
                       "rowOrderNumber": 10000
                     },
                     {
-                      "menuRowId": 45364,
-                      "menuRowName": "SPR MARMALADE TANGERINE",
-                      "menuRowPortionSize": 1,
+                      "menuRowId": 140631,
+                      "menuRowName": "BAK GEFFEN QUICKBREAD CRANBERRY ORANGE VG",
+                      "menuRowPortionSize": 66.04,
                       "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 2836,
+                      "recipeId": 5484,
                       "menuRowSalesPriceExclVAT": 0,
                       "menuRowSalesVAT": 0,
                       "publish": true,
-                      "menuRowPlannedPortions": 51,
-                      "menuRowTotalWeight": 51,
+                      "menuRowPlannedPortions": 0,
+                      "menuRowTotalWeight": 0,
                       "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 11000
+                      "rowOrderNumber": 11008
+                    },
+                    {
+                      "menuRowId": 140632,
+                      "menuRowName": "BAK BREAD RAISIN (PULLMAN)",
+                      "menuRowPortionSize": 41.76,
+                      "menuRowPortionSizeUnit": "oz",
+                      "recipeId": 4760,
+                      "menuRowSalesPriceExclVAT": 0,
+                      "menuRowSalesVAT": 0,
+                      "publish": true,
+                      "menuRowPlannedPortions": 0,
+                      "menuRowTotalWeight": 0,
+                      "menuRowTotalWeightUnit": "oz",
+                      "rowOrderNumber": 11009
+                    },
+                    {
+                      "menuRowId": 140633,
+                      "menuRowName": "BAK BREAD BOSTON BROWN QUICKBREAD",
+                      "menuRowPortionSize": 2.58,
+                      "menuRowPortionSizeUnit": "oz",
+                      "recipeId": 1405,
+                      "menuRowSalesPriceExclVAT": 0,
+                      "menuRowSalesVAT": 0,
+                      "publish": true,
+                      "menuRowPlannedPortions": 0,
+                      "menuRowTotalWeight": 0,
+                      "menuRowTotalWeightUnit": "oz",
+                      "rowOrderNumber": 11010
+                    },
+                    {
+                      "menuRowId": 140630,
+                      "menuRowName": "BAK LCC BAR DATE CRANBERRY 96CT",
+                      "menuRowPortionSize": 2.61,
+                      "menuRowPortionSizeUnit": "oz",
+                      "recipeId": 6347,
+                      "menuRowSalesPriceExclVAT": 0,
+                      "menuRowSalesVAT": 0,
+                      "publish": true,
+                      "menuRowPlannedPortions": 0,
+                      "menuRowTotalWeight": 0,
+                      "menuRowTotalWeightUnit": "oz",
+                      "rowOrderNumber": 11011
+                    },
+                    {
+                      "menuRowId": 140629,
+                      "menuRowName": "BAK QUICKBREAD LEMON BLUEBERRY (24CT)",
+                      "menuRowPortionSize": 1.98,
+                      "menuRowPortionSizeUnit": "oz",
+                      "recipeId": 1395,
+                      "menuRowSalesPriceExclVAT": 0,
+                      "menuRowSalesVAT": 0,
+                      "publish": true,
+                      "menuRowPlannedPortions": 0,
+                      "menuRowTotalWeight": 0,
+                      "menuRowTotalWeightUnit": "oz",
+                      "rowOrderNumber": 11012
+                    },
+                    {
+                      "menuRowId": 140626,
+                      "menuRowName": "BAK QUICKBREAD PISTACHIO (24CT)",
+                      "menuRowPortionSize": 2.61,
+                      "menuRowPortionSizeUnit": "oz",
+                      "recipeId": 3402,
+                      "menuRowSalesPriceExclVAT": 0,
+                      "menuRowSalesVAT": 0,
+                      "publish": true,
+                      "menuRowPlannedPortions": 0,
+                      "menuRowTotalWeight": 0,
+                      "menuRowTotalWeightUnit": "oz",
+                      "rowOrderNumber": 11013
+                    },
+                    {
+                      "menuRowId": 140628,
+                      "menuRowName": "BAK BAR RASPBERRY GINGER OAT 96ct",
+                      "menuRowPortionSize": 2.48,
+                      "menuRowPortionSizeUnit": "oz",
+                      "recipeId": 1244,
+                      "menuRowSalesPriceExclVAT": 0,
+                      "menuRowSalesVAT": 0,
+                      "publish": true,
+                      "menuRowPlannedPortions": 0,
+                      "menuRowTotalWeight": 0,
+                      "menuRowTotalWeightUnit": "oz",
+                      "rowOrderNumber": 11014
+                    },
+                    {
+                      "menuRowId": 140627,
+                      "menuRowName": "SPR COMPOTE PEAR-DATE",
+                      "menuRowPortionSize": 1.12,
+                      "menuRowPortionSizeUnit": "oz",
+                      "recipeId": 2292,
+                      "menuRowSalesPriceExclVAT": 0,
+                      "menuRowSalesVAT": 0,
+                      "publish": true,
+                      "menuRowPlannedPortions": 0,
+                      "menuRowTotalWeight": 0,
+                      "menuRowTotalWeightUnit": "oz",
+                      "rowOrderNumber": 11015
                     }
                   ],
                   "mealOptionSalesPriceExclVAT": 0,
@@ -11817,32 +12001,32 @@
                       "rowOrderNumber": 1000
                     },
                     {
-                      "menuRowId": 140396,
-                      "menuRowName": "SB FROZEN YOGURT NON-FAT TART",
-                      "menuRowPortionSize": 1,
+                      "menuRowId": 140625,
+                      "menuRowName": "SB FROZEN YOGURT NON-FAT COOKIES & CREAM",
+                      "menuRowPortionSize": 8,
                       "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 6509,
+                      "recipeId": 6504,
                       "menuRowSalesPriceExclVAT": 0,
                       "menuRowSalesVAT": 0,
                       "publish": true,
                       "menuRowPlannedPortions": 0,
                       "menuRowTotalWeight": 0,
                       "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 2000
+                      "rowOrderNumber": 3001
                     },
                     {
-                      "menuRowId": 140400,
-                      "menuRowName": "SB FROZEN YOGURT NON-FAT VANILLA",
-                      "menuRowPortionSize": 1,
+                      "menuRowId": 140624,
+                      "menuRowName": "SB FROZEN YOGURT NON-FAT CHOCOLATE",
+                      "menuRowPortionSize": 8,
                       "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 6511,
+                      "recipeId": 6503,
                       "menuRowSalesPriceExclVAT": 0,
                       "menuRowSalesVAT": 0,
                       "publish": true,
                       "menuRowPlannedPortions": 0,
                       "menuRowTotalWeight": 0,
                       "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 3000
+                      "rowOrderNumber": 3002
                     }
                   ],
                   "mealOptionSalesPriceExclVAT": 0,
@@ -13943,7 +14127,7 @@
       "menuGroupName": "Dinner",
       "menuTypeName": "Dinner",
       "menuPublish": true,
-      "modificationTime": "2025-04-30T10:44:00",
+      "modificationTime": "2025-04-30T15:14:00",
       "menuWeeks": [
         {
           "weekNumber": 6,
@@ -14043,20 +14227,6 @@
                       "rowOrderNumber": 1000
                     },
                     {
-                      "menuRowId": 130702,
-                      "menuRowName": "PLANTAINS FRIED",
-                      "menuRowPortionSize": 1.05,
-                      "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 1435,
-                      "menuRowSalesPriceExclVAT": 0,
-                      "menuRowSalesVAT": 0,
-                      "publish": true,
-                      "menuRowPlannedPortions": 0,
-                      "menuRowTotalWeight": 0,
-                      "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 2000
-                    },
-                    {
                       "menuRowId": 130705,
                       "menuRowName": "DN BBQ Plum & Chipotle Tofu",
                       "menuRowPortionSize": 3.02,
@@ -14069,6 +14239,20 @@
                       "menuRowTotalWeight": 0,
                       "menuRowTotalWeightUnit": "oz",
                       "rowOrderNumber": 3000
+                    },
+                    {
+                      "menuRowId": 140611,
+                      "menuRowName": "DN SALAD SPICY COLESLAW",
+                      "menuRowPortionSize": 3.57,
+                      "menuRowPortionSizeUnit": "oz",
+                      "recipeId": 3438,
+                      "menuRowSalesPriceExclVAT": 0,
+                      "menuRowSalesVAT": 0,
+                      "publish": true,
+                      "menuRowPlannedPortions": 0,
+                      "menuRowTotalWeight": 0,
+                      "menuRowTotalWeightUnit": "oz",
+                      "rowOrderNumber": 3002
                     }
                   ],
                   "mealOptionSalesPriceExclVAT": 0,
@@ -14157,6 +14341,20 @@
                       "rowOrderNumber": 4000
                     },
                     {
+                      "menuRowId": 140637,
+                      "menuRowName": "DN BURGER NACHO",
+                      "menuRowPortionSize": 10.74,
+                      "menuRowPortionSizeUnit": "oz",
+                      "recipeId": 2574,
+                      "menuRowSalesPriceExclVAT": 0,
+                      "menuRowSalesVAT": 0,
+                      "publish": true,
+                      "menuRowPlannedPortions": 0,
+                      "menuRowTotalWeight": 0,
+                      "menuRowTotalWeightUnit": "oz",
+                      "rowOrderNumber": 4003
+                    },
+                    {
                       "menuRowId": 62375,
                       "menuRowName": "LA Hot Chicken Sandwich",
                       "menuRowPortionSize": 10.05,
@@ -14193,32 +14391,74 @@
                   "mealOptionName": "Harvest Kitchen",
                   "menuRows": [
                     {
-                      "menuRowId": 123271,
-                      "menuRowName": "RICE PILAF HERBED",
-                      "menuRowPortionSize": 3,
+                      "menuRowId": 140612,
+                      "menuRowName": "DN FLEX LATIN BEANS & RICE",
+                      "menuRowPortionSize": 3.9,
                       "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 1694,
+                      "recipeId": 3278,
                       "menuRowSalesPriceExclVAT": 0,
                       "menuRowSalesVAT": 0,
                       "publish": true,
                       "menuRowPlannedPortions": 0,
                       "menuRowTotalWeight": 0,
                       "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 3000
+                      "rowOrderNumber": 4007
                     },
                     {
-                      "menuRowId": 123290,
-                      "menuRowName": "CHILI VEG 3 BEAN PORTOBELLO",
-                      "menuRowPortionSize": 5.02,
+                      "menuRowId": 140607,
+                      "menuRowName": "DN CANNELLINI BEANS STEWED W/ TOMATOES",
+                      "menuRowPortionSize": 3.68,
                       "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 806,
+                      "recipeId": 6494,
                       "menuRowSalesPriceExclVAT": 0,
                       "menuRowSalesVAT": 0,
                       "publish": true,
                       "menuRowPlannedPortions": 0,
                       "menuRowTotalWeight": 0,
                       "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 4000
+                      "rowOrderNumber": 4008
+                    },
+                    {
+                      "menuRowId": 140609,
+                      "menuRowName": "DN SOUP BEEF & MUSHROOM",
+                      "menuRowPortionSize": 6.05,
+                      "menuRowPortionSizeUnit": "oz",
+                      "recipeId": 6316,
+                      "menuRowSalesPriceExclVAT": 0,
+                      "menuRowSalesVAT": 0,
+                      "publish": true,
+                      "menuRowPlannedPortions": 0,
+                      "menuRowTotalWeight": 0,
+                      "menuRowTotalWeightUnit": "oz",
+                      "rowOrderNumber": 4009
+                    },
+                    {
+                      "menuRowId": 140610,
+                      "menuRowName": "COMM SOUP CREAM OF TOMATO",
+                      "menuRowPortionSize": 6.05,
+                      "menuRowPortionSizeUnit": "oz",
+                      "recipeId": 152,
+                      "menuRowSalesPriceExclVAT": 0,
+                      "menuRowSalesVAT": 0,
+                      "publish": true,
+                      "menuRowPlannedPortions": 0,
+                      "menuRowTotalWeight": 0,
+                      "menuRowTotalWeightUnit": "oz",
+                      "rowOrderNumber": 4010
+                    },
+                    {
+                      "menuRowId": 140606,
+                      "menuRowName": "SPR CHICKEN THIGH LEMON GINGER MARINATED",
+                      "menuRowPortionSize": 1.67,
+                      "menuRowPortionSizeUnit": "oz",
+                      "recipeId": 2227,
+                      "menuRowSalesPriceExclVAT": 0,
+                      "menuRowSalesVAT": 0,
+                      "publish": true,
+                      "menuRowPlannedPortions": 0,
+                      "menuRowTotalWeight": 0,
+                      "menuRowTotalWeightUnit": "oz",
+                      "rowOrderNumber": 4011
                     }
                   ],
                   "mealOptionSalesPriceExclVAT": 0,
@@ -14229,18 +14469,46 @@
                   "mealOptionName": "Seasonal Sides",
                   "menuRows": [
                     {
-                      "menuRowId": 123270,
-                      "menuRowName": "BEANS GREEN ROASTED",
-                      "menuRowPortionSize": 2.04,
+                      "menuRowId": 140613,
+                      "menuRowName": "POTATO FINGERLING ROASTED",
+                      "menuRowPortionSize": 1.03,
                       "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 809,
+                      "recipeId": 1953,
                       "menuRowSalesPriceExclVAT": 0,
                       "menuRowSalesVAT": 0,
                       "publish": true,
                       "menuRowPlannedPortions": 0,
                       "menuRowTotalWeight": 0,
                       "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 1000
+                      "rowOrderNumber": 1004
+                    },
+                    {
+                      "menuRowId": 140608,
+                      "menuRowName": "SPR BRUSSELS SPROUTS ROASTED",
+                      "menuRowPortionSize": 2.15,
+                      "menuRowPortionSizeUnit": "oz",
+                      "recipeId": 1273,
+                      "menuRowSalesPriceExclVAT": 0,
+                      "menuRowSalesVAT": 0,
+                      "publish": true,
+                      "menuRowPlannedPortions": 0,
+                      "menuRowTotalWeight": 0,
+                      "menuRowTotalWeightUnit": "oz",
+                      "rowOrderNumber": 1005
+                    },
+                    {
+                      "menuRowId": 140605,
+                      "menuRowName": "SPR MUSHROOMS W/ ONIONS PAN ROASTED",
+                      "menuRowPortionSize": 2.81,
+                      "menuRowPortionSizeUnit": "oz",
+                      "recipeId": 2274,
+                      "menuRowSalesPriceExclVAT": 0,
+                      "menuRowSalesVAT": 0,
+                      "publish": true,
+                      "menuRowPlannedPortions": 0,
+                      "menuRowTotalWeight": 0,
+                      "menuRowTotalWeightUnit": "oz",
+                      "rowOrderNumber": 1006
                     }
                   ],
                   "mealOptionSalesPriceExclVAT": 0,
@@ -14341,6 +14609,34 @@
                       "menuRowTotalWeight": 0,
                       "menuRowTotalWeightUnit": "oz",
                       "rowOrderNumber": 3000
+                    },
+                    {
+                      "menuRowId": 140636,
+                      "menuRowName": "DN Mexican Street Corn Salad",
+                      "menuRowPortionSize": 2.26,
+                      "menuRowPortionSizeUnit": "oz",
+                      "recipeId": 812,
+                      "menuRowSalesPriceExclVAT": 0,
+                      "menuRowSalesVAT": 0,
+                      "publish": true,
+                      "menuRowPlannedPortions": 0,
+                      "menuRowTotalWeight": 0,
+                      "menuRowTotalWeightUnit": "oz",
+                      "rowOrderNumber": 3001
+                    },
+                    {
+                      "menuRowId": 140635,
+                      "menuRowName": "COMM SALAD CALIFORNIA PASTA",
+                      "menuRowPortionSize": 18.27,
+                      "menuRowPortionSizeUnit": "oz",
+                      "recipeId": 2123,
+                      "menuRowSalesPriceExclVAT": 0,
+                      "menuRowSalesVAT": 0,
+                      "publish": true,
+                      "menuRowPlannedPortions": 0,
+                      "menuRowTotalWeight": 0,
+                      "menuRowTotalWeightUnit": "oz",
+                      "rowOrderNumber": 3002
                     }
                   ],
                   "mealOptionSalesPriceExclVAT": 0,
@@ -14957,7 +15253,7 @@
       "menuGroupName": "Dinner",
       "menuTypeName": "Dinner",
       "menuPublish": true,
-      "modificationTime": "2025-04-29T00:25:00",
+      "modificationTime": "2025-04-30T15:23:00",
       "menuWeeks": [
         {
           "weekNumber": 5,
@@ -14971,18 +15267,18 @@
                   "mealOptionName": "Today's Pop-up Menu",
                   "menuRows": [
                     {
-                      "menuRowId": 111317,
-                      "menuRowName": "R JPN PORK NABE SPICY HOT POT W/ UDON",
-                      "menuRowPortionSize": 11.35,
+                      "menuRowId": 140638,
+                      "menuRowName": "SPICY BEEF TOFU UDON BOWL",
+                      "menuRowPortionSize": 20.58,
                       "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 1668,
+                      "recipeId": 6490,
                       "menuRowSalesPriceExclVAT": 0,
                       "menuRowSalesVAT": 0,
                       "publish": true,
-                      "menuRowPlannedPortions": 1500,
-                      "menuRowTotalWeight": 17020.8,
+                      "menuRowPlannedPortions": 0,
+                      "menuRowTotalWeight": 0,
                       "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 1000
+                      "rowOrderNumber": 3003
                     }
                   ],
                   "mealOptionSalesPriceExclVAT": 0,
@@ -14991,22 +15287,6 @@
                 {
                   "mealOptionId": 159,
                   "mealOptionName": "Vegetarian Offering",
-                  "menuRows": [
-                    {
-                      "menuRowId": 111648,
-                      "menuRowName": "R JPN UDON TEMPURA",
-                      "menuRowPortionSize": 11.91,
-                      "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 1679,
-                      "menuRowSalesPriceExclVAT": 0,
-                      "menuRowSalesVAT": 0,
-                      "publish": true,
-                      "menuRowPlannedPortions": 200,
-                      "menuRowTotalWeight": 2382.6304,
-                      "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 1000
-                    }
-                  ],
                   "mealOptionSalesPriceExclVAT": 0,
                   "mealOptionSalesPriceVAT": 0
                 },
@@ -15097,76 +15377,6 @@
                       "menuRowTotalWeight": 100,
                       "menuRowTotalWeightUnit": "oz",
                       "rowOrderNumber": 6000
-                    },
-                    {
-                      "menuRowId": 115530,
-                      "menuRowName": "R KOR CHOJANG (KOREAN DIPPING SAUCE)",
-                      "menuRowPortionSize": 1,
-                      "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 4435,
-                      "menuRowSalesPriceExclVAT": 0,
-                      "menuRowSalesVAT": 0,
-                      "publish": true,
-                      "menuRowPlannedPortions": 100,
-                      "menuRowTotalWeight": 100,
-                      "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 7000
-                    },
-                    {
-                      "menuRowId": 115532,
-                      "menuRowName": "R KOR SAUCE DUMPLING DIPPING",
-                      "menuRowPortionSize": 1,
-                      "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 4436,
-                      "menuRowSalesPriceExclVAT": 0,
-                      "menuRowSalesVAT": 0,
-                      "publish": true,
-                      "menuRowPlannedPortions": 100,
-                      "menuRowTotalWeight": 100,
-                      "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 8000
-                    },
-                    {
-                      "menuRowId": 115560,
-                      "menuRowName": "R VIE VEGAN NUOCH CHAM",
-                      "menuRowPortionSize": 1,
-                      "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 2449,
-                      "menuRowSalesPriceExclVAT": 0,
-                      "menuRowSalesVAT": 0,
-                      "publish": true,
-                      "menuRowPlannedPortions": 100,
-                      "menuRowTotalWeight": 100,
-                      "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 9000
-                    },
-                    {
-                      "menuRowId": 134716,
-                      "menuRowName": "ONION RINGS",
-                      "menuRowPortionSize": 3,
-                      "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 1788,
-                      "menuRowSalesPriceExclVAT": 0,
-                      "menuRowSalesVAT": 0,
-                      "publish": true,
-                      "menuRowPlannedPortions": 0,
-                      "menuRowTotalWeight": 0,
-                      "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 10000
-                    },
-                    {
-                      "menuRowId": 136235,
-                      "menuRowName": "RH CHICKEN RAMEN BOWL",
-                      "menuRowPortionSize": 48.85,
-                      "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 6312,
-                      "menuRowSalesPriceExclVAT": 0,
-                      "menuRowSalesVAT": 0,
-                      "publish": true,
-                      "menuRowPlannedPortions": 0,
-                      "menuRowTotalWeight": 0,
-                      "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 11000
                     }
                   ],
                   "mealOptionSalesPriceExclVAT": 0,
@@ -15175,338 +15385,12 @@
                 {
                   "mealOptionId": 162,
                   "mealOptionName": "SALADS",
-                  "menuRows": [
-                    {
-                      "menuRowId": 115618,
-                      "menuRowName": "R HI HAWAIIAN MACARONI SALAD",
-                      "menuRowPortionSize": 4,
-                      "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 1452,
-                      "menuRowSalesPriceExclVAT": 0,
-                      "menuRowSalesVAT": 0,
-                      "publish": true,
-                      "menuRowPlannedPortions": 1600,
-                      "menuRowTotalWeight": 6400,
-                      "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 1000
-                    },
-                    {
-                      "menuRowId": 115614,
-                      "menuRowName": "KOREAN POTATO SALAD",
-                      "menuRowPortionSize": 4,
-                      "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 5027,
-                      "menuRowSalesPriceExclVAT": 0,
-                      "menuRowSalesVAT": 0,
-                      "publish": true,
-                      "menuRowPlannedPortions": 1600,
-                      "menuRowTotalWeight": 6400,
-                      "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 2000
-                    },
-                    {
-                      "menuRowId": 115609,
-                      "menuRowName": "R KOR BANCHAN SOYBEAN SPROUT",
-                      "menuRowPortionSize": 2,
-                      "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 3650,
-                      "menuRowSalesPriceExclVAT": 0,
-                      "menuRowSalesVAT": 0,
-                      "publish": true,
-                      "menuRowPlannedPortions": 200,
-                      "menuRowTotalWeight": 400,
-                      "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 3000
-                    },
-                    {
-                      "menuRowId": 115571,
-                      "menuRowName": "Napa Cabbage Kimchi",
-                      "menuRowPortionSize": 2,
-                      "menuRowPortionSizeUnit": "oz",
-                      "ingredientId": 7331,
-                      "menuRowSalesPriceExclVAT": 0,
-                      "menuRowSalesVAT": 0,
-                      "publish": true,
-                      "menuRowPlannedPortions": 600,
-                      "menuRowTotalWeight": 1200,
-                      "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 4000
-                    },
-                    {
-                      "menuRowId": 115589,
-                      "menuRowName": "R VIE DO CHUA PICKLED VEGETAB",
-                      "menuRowPortionSize": 2,
-                      "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 2440,
-                      "menuRowSalesPriceExclVAT": 0,
-                      "menuRowSalesVAT": 0,
-                      "publish": true,
-                      "menuRowPlannedPortions": 200,
-                      "menuRowTotalWeight": 400,
-                      "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 5000
-                    },
-                    {
-                      "menuRowId": 115616,
-                      "menuRowName": "SALAD CUCUMBER SUNOMONO",
-                      "menuRowPortionSize": 2,
-                      "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 5265,
-                      "menuRowSalesPriceExclVAT": 0,
-                      "menuRowSalesVAT": 0,
-                      "publish": true,
-                      "menuRowPlannedPortions": 200,
-                      "menuRowTotalWeight": 400,
-                      "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 6000
-                    },
-                    {
-                      "menuRowId": 115611,
-                      "menuRowName": "EDAMAME BEANS W/ SHELL",
-                      "menuRowPortionSize": 2,
-                      "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 1176,
-                      "menuRowSalesPriceExclVAT": 0,
-                      "menuRowSalesVAT": 0,
-                      "publish": true,
-                      "menuRowPlannedPortions": 300,
-                      "menuRowTotalWeight": 600,
-                      "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 7000
-                    },
-                    {
-                      "menuRowId": 115600,
-                      "menuRowName": "R KOR BANCHAN CUCUMBER",
-                      "menuRowPortionSize": 2,
-                      "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 5976,
-                      "menuRowSalesPriceExclVAT": 0,
-                      "menuRowSalesVAT": 0,
-                      "publish": true,
-                      "menuRowPlannedPortions": 400,
-                      "menuRowTotalWeight": 800,
-                      "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 8000
-                    },
-                    {
-                      "menuRowId": 115599,
-                      "menuRowName": "R PHI SALAD GREEN PAPAYA",
-                      "menuRowPortionSize": 2,
-                      "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 4430,
-                      "menuRowSalesPriceExclVAT": 0,
-                      "menuRowSalesVAT": 0,
-                      "publish": true,
-                      "menuRowPlannedPortions": 200,
-                      "menuRowTotalWeight": 400,
-                      "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 9000
-                    },
-                    {
-                      "menuRowId": 115612,
-                      "menuRowName": "SB LETTUCE ICEBERG CHOPPED",
-                      "menuRowPortionSize": 2,
-                      "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 1659,
-                      "menuRowSalesPriceExclVAT": 0,
-                      "menuRowSalesVAT": 0,
-                      "publish": true,
-                      "menuRowPlannedPortions": 200,
-                      "menuRowTotalWeight": 400,
-                      "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 10000
-                    },
-                    {
-                      "menuRowId": 115598,
-                      "menuRowName": "Mesclun Lettuce Mix",
-                      "menuRowPortionSize": 2,
-                      "menuRowPortionSizeUnit": "oz",
-                      "ingredientId": 6431,
-                      "menuRowSalesPriceExclVAT": 0,
-                      "menuRowSalesVAT": 0,
-                      "publish": true,
-                      "menuRowPlannedPortions": 200,
-                      "menuRowTotalWeight": 400,
-                      "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 11000
-                    },
-                    {
-                      "menuRowId": 115566,
-                      "menuRowName": "SB CUCUMBER SLICES",
-                      "menuRowPortionSize": 1,
-                      "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 1667,
-                      "menuRowSalesPriceExclVAT": 0,
-                      "menuRowSalesVAT": 0,
-                      "publish": true,
-                      "menuRowPlannedPortions": 200,
-                      "menuRowTotalWeight": 200,
-                      "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 12000
-                    },
-                    {
-                      "menuRowId": 115587,
-                      "menuRowName": "SB CARROTS SHREDDED FROM WHOLE",
-                      "menuRowPortionSize": 1,
-                      "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 1662,
-                      "menuRowSalesPriceExclVAT": 0,
-                      "menuRowSalesVAT": 0,
-                      "publish": true,
-                      "menuRowPlannedPortions": 200,
-                      "menuRowTotalWeight": 200,
-                      "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 13000
-                    },
-                    {
-                      "menuRowId": 115575,
-                      "menuRowName": "SB EGG HARD COOKED",
-                      "menuRowPortionSize": 1,
-                      "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 2018,
-                      "menuRowSalesPriceExclVAT": 0,
-                      "menuRowSalesVAT": 0,
-                      "publish": true,
-                      "menuRowPlannedPortions": 200,
-                      "menuRowTotalWeight": 200,
-                      "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 14000
-                    },
-                    {
-                      "menuRowId": 115580,
-                      "menuRowName": "SB OLIVES BLACK SLICED",
-                      "menuRowPortionSize": 1,
-                      "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 1670,
-                      "menuRowSalesPriceExclVAT": 0,
-                      "menuRowSalesVAT": 0,
-                      "publish": true,
-                      "menuRowPlannedPortions": 200,
-                      "menuRowTotalWeight": 200,
-                      "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 15000
-                    },
-                    {
-                      "menuRowId": 115601,
-                      "menuRowName": "Celery Diced 3/8\"",
-                      "menuRowPortionSize": 1,
-                      "menuRowPortionSizeUnit": "oz",
-                      "ingredientId": 7583,
-                      "menuRowSalesPriceExclVAT": 0,
-                      "menuRowSalesVAT": 0,
-                      "publish": true,
-                      "menuRowPlannedPortions": 200,
-                      "menuRowTotalWeight": 200,
-                      "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 16000
-                    },
-                    {
-                      "menuRowId": 115578,
-                      "menuRowName": "Red Onion Sliced 1/8\"",
-                      "menuRowPortionSize": 1,
-                      "menuRowPortionSizeUnit": "oz",
-                      "ingredientId": 6324,
-                      "menuRowSalesPriceExclVAT": 0,
-                      "menuRowSalesVAT": 0,
-                      "publish": true,
-                      "menuRowPlannedPortions": 200,
-                      "menuRowTotalWeight": 200,
-                      "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 17000
-                    },
-                    {
-                      "menuRowId": 115567,
-                      "menuRowName": "Tomato Cherry",
-                      "menuRowPortionSize": 1,
-                      "menuRowPortionSizeUnit": "oz",
-                      "ingredientId": 4913,
-                      "menuRowSalesPriceExclVAT": 0,
-                      "menuRowSalesVAT": 0,
-                      "publish": true,
-                      "menuRowPlannedPortions": 200,
-                      "menuRowTotalWeight": 200,
-                      "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 18000
-                    },
-                    {
-                      "menuRowId": 115604,
-                      "menuRowName": "Garbanzo Beans Canned",
-                      "menuRowPortionSize": 1,
-                      "menuRowPortionSizeUnit": "oz",
-                      "ingredientId": 6185,
-                      "menuRowSalesPriceExclVAT": 0,
-                      "menuRowSalesVAT": 0,
-                      "publish": true,
-                      "menuRowPlannedPortions": 200,
-                      "menuRowTotalWeight": 200,
-                      "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 19000
-                    },
-                    {
-                      "menuRowId": 134731,
-                      "menuRowName": "ONION RINGS",
-                      "menuRowPortionSize": 3,
-                      "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 1788,
-                      "menuRowSalesPriceExclVAT": 0,
-                      "menuRowSalesVAT": 0,
-                      "publish": true,
-                      "menuRowPlannedPortions": 0,
-                      "menuRowTotalWeight": 0,
-                      "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 20000
-                    },
-                    {
-                      "menuRowId": 136212,
-                      "menuRowName": "RH CHICKEN RAMEN BOWL",
-                      "menuRowPortionSize": 48.85,
-                      "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 6312,
-                      "menuRowSalesPriceExclVAT": 0,
-                      "menuRowSalesVAT": 0,
-                      "publish": true,
-                      "menuRowPlannedPortions": 0,
-                      "menuRowTotalWeight": 0,
-                      "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 21000
-                    }
-                  ],
                   "mealOptionSalesPriceExclVAT": 0,
                   "mealOptionSalesPriceVAT": 0
                 },
                 {
                   "mealOptionId": 165,
                   "mealOptionName": "Feast Late Night",
-                  "menuRows": [
-                    {
-                      "menuRowId": 111294,
-                      "menuRowName": "R KOR KALBI BURGER",
-                      "menuRowPortionSize": 6.32,
-                      "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 4903,
-                      "menuRowSalesPriceExclVAT": 0,
-                      "menuRowSalesVAT": 0,
-                      "publish": true,
-                      "menuRowPlannedPortions": 300,
-                      "menuRowTotalWeight": 1895.04,
-                      "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 1000
-                    },
-                    {
-                      "menuRowId": 111989,
-                      "menuRowName": "R JPN FRIES AONORI & NORI GOMA",
-                      "menuRowPortionSize": 3,
-                      "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 4895,
-                      "menuRowSalesPriceExclVAT": 0,
-                      "menuRowSalesVAT": 0,
-                      "publish": true,
-                      "menuRowPlannedPortions": 300,
-                      "menuRowTotalWeight": 900,
-                      "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 2000
-                    }
-                  ],
                   "mealOptionSalesPriceExclVAT": 0,
                   "mealOptionSalesPriceVAT": 0
                 }
@@ -15591,7 +15475,7 @@
       "menuGroupName": "Breakfast",
       "menuTypeName": "Breakfast",
       "menuPublish": true,
-      "modificationTime": "2025-04-30T00:11:00",
+      "modificationTime": "2025-04-30T13:32:00",
       "menuWeeks": [
         {
           "weekNumber": 5,
@@ -17301,7 +17185,7 @@
       "menuGroupName": "Lunch",
       "menuTypeName": "Lunch",
       "menuPublish": true,
-      "modificationTime": "2025-04-29T17:44:00",
+      "modificationTime": "2025-04-30T14:44:00",
       "menuWeeks": [
         {
           "weekNumber": 6,
@@ -17639,6 +17523,36 @@
                 {
                   "mealOptionId": 53,
                   "mealOptionName": "The Sweet Stop",
+                  "menuRows": [
+                    {
+                      "menuRowId": 140519,
+                      "menuRowName": "SB FROZEN YOGURT NON-FAT VANILLA",
+                      "menuRowPortionSize": 3,
+                      "menuRowPortionSizeUnit": "oz",
+                      "recipeId": 6511,
+                      "menuRowSalesPriceExclVAT": 0,
+                      "menuRowSalesVAT": 0,
+                      "publish": true,
+                      "menuRowPlannedPortions": 0,
+                      "menuRowTotalWeight": 0,
+                      "menuRowTotalWeightUnit": "oz",
+                      "rowOrderNumber": 7000
+                    },
+                    {
+                      "menuRowId": 140529,
+                      "menuRowName": "SB FROZEN YOGURT NON-FAT CHOCOLATE",
+                      "menuRowPortionSize": 3,
+                      "menuRowPortionSizeUnit": "oz",
+                      "recipeId": 6503,
+                      "menuRowSalesPriceExclVAT": 0,
+                      "menuRowSalesVAT": 0,
+                      "publish": true,
+                      "menuRowPlannedPortions": 0,
+                      "menuRowTotalWeight": 0,
+                      "menuRowTotalWeightUnit": "oz",
+                      "rowOrderNumber": 8000
+                    }
+                  ],
                   "mealOptionSalesPriceExclVAT": 0,
                   "mealOptionSalesPriceVAT": 0
                 }
@@ -17659,7 +17573,7 @@
       "menuGroupName": "Dinner",
       "menuTypeName": "Dinner",
       "menuPublish": true,
-      "modificationTime": "2025-04-29T18:54:00",
+      "modificationTime": "2025-04-30T13:36:00",
       "menuWeeks": [
         {
           "weekNumber": 5,
@@ -22355,7 +22269,7 @@
       "menuGroupName": "Breakfast",
       "menuTypeName": "Breakfast",
       "menuPublish": true,
-      "modificationTime": "2025-04-29T20:38:00",
+      "modificationTime": "2025-04-30T10:04:00",
       "menuWeeks": [
         {
           "weekNumber": 5,
@@ -22375,18 +22289,18 @@
                   "mealOptionName": "The Kitchen",
                   "menuRows": [
                     {
-                      "menuRowId": 139438,
-                      "menuRowName": "EGGS SCRAMBLED W/ OIL",
+                      "menuRowId": 140491,
+                      "menuRowName": "DN EGGS SCRAMBLED W/ OIL",
                       "menuRowPortionSize": 3.29,
                       "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 506,
+                      "recipeId": 6542,
                       "menuRowSalesPriceExclVAT": 0,
                       "menuRowSalesVAT": 0,
                       "publish": true,
                       "menuRowPlannedPortions": 0,
                       "menuRowTotalWeight": 0,
                       "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 1000
+                      "rowOrderNumber": 2000
                     },
                     {
                       "menuRowId": 139433,
@@ -22400,7 +22314,7 @@
                       "menuRowPlannedPortions": 0,
                       "menuRowTotalWeight": 0,
                       "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 4000
+                      "rowOrderNumber": 3000
                     },
                     {
                       "menuRowId": 122630,
@@ -22414,7 +22328,7 @@
                       "menuRowPlannedPortions": 0,
                       "menuRowTotalWeight": 0,
                       "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 5000
+                      "rowOrderNumber": 4000
                     },
                     {
                       "menuRowId": 4778,
@@ -22428,7 +22342,7 @@
                       "menuRowPlannedPortions": 0,
                       "menuRowTotalWeight": 0,
                       "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 6000
+                      "rowOrderNumber": 5000
                     },
                     {
                       "menuRowId": 4311,
@@ -22442,7 +22356,7 @@
                       "menuRowPlannedPortions": 0,
                       "menuRowTotalWeight": 0,
                       "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 7000
+                      "rowOrderNumber": 6000
                     }
                   ],
                   "mealOptionSalesPriceExclVAT": 0,
@@ -24665,7 +24579,7 @@
       "menuGroupName": "Lunch",
       "menuTypeName": "Lunch",
       "menuPublish": true,
-      "modificationTime": "2025-04-29T16:32:00",
+      "modificationTime": "2025-04-30T14:01:00",
       "menuWeeks": [
         {
           "weekNumber": 5,
@@ -25271,7 +25185,7 @@
       "menuGroupName": "Dinner",
       "menuTypeName": "Dinner",
       "menuPublish": true,
-      "modificationTime": "2025-04-30T01:26:00",
+      "modificationTime": "2025-04-30T14:07:00",
       "menuWeeks": [
         {
           "weekNumber": 5,
@@ -25849,7 +25763,7 @@
       "menuGroupName": "Breakfast",
       "menuTypeName": "Breakfast",
       "menuPublish": true,
-      "modificationTime": "2025-04-29T19:04:00",
+      "modificationTime": "2025-04-30T11:27:00",
       "menuWeeks": [
         {
           "weekNumber": 5,
@@ -26025,20 +25939,6 @@
                       "menuRowTotalWeight": 0,
                       "menuRowTotalWeightUnit": "oz",
                       "rowOrderNumber": 2001
-                    },
-                    {
-                      "menuRowId": 43348,
-                      "menuRowName": "SPR PANCAKE VEGAN",
-                      "menuRowPortionSize": 3.65,
-                      "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 2995,
-                      "menuRowSalesPriceExclVAT": 0,
-                      "menuRowSalesVAT": 0,
-                      "publish": true,
-                      "menuRowPlannedPortions": 100,
-                      "menuRowTotalWeight": 365.224,
-                      "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 3000
                     }
                   ],
                   "mealOptionSalesPriceExclVAT": 0,
@@ -26385,7 +26285,7 @@
       "menuGroupName": "Lunch",
       "menuTypeName": "Lunch",
       "menuPublish": true,
-      "modificationTime": "2025-04-29T21:32:00",
+      "modificationTime": "2025-04-30T14:41:00",
       "menuWeeks": [
         {
           "weekNumber": 5,
@@ -26399,32 +26299,32 @@
                   "mealOptionName": "Soups",
                   "menuRows": [
                     {
-                      "menuRowId": 133107,
-                      "menuRowName": "COMM SOUP CHICKEN TORTILLA",
-                      "menuRowPortionSize": 6,
+                      "menuRowId": 140600,
+                      "menuRowName": "BRUIN PLATE SOUPS SPECIAL",
+                      "menuRowPortionSize": 4,
                       "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 1976,
+                      "recipeId": 6189,
                       "menuRowSalesPriceExclVAT": 0,
                       "menuRowSalesVAT": 0,
                       "publish": true,
-                      "menuRowPlannedPortions": 199,
-                      "menuRowTotalWeight": 1194,
+                      "menuRowPlannedPortions": 0,
+                      "menuRowTotalWeight": 0,
                       "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 1000
+                      "rowOrderNumber": 2001
                     },
                     {
-                      "menuRowId": 133104,
-                      "menuRowName": "SOUP TOMATO & FRESH BASIL",
-                      "menuRowPortionSize": 6,
+                      "menuRowId": 140601,
+                      "menuRowName": "BRUIN PLATE SOUPS VEGETARIAN SPECIAL",
+                      "menuRowPortionSize": 4,
                       "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 766,
+                      "recipeId": 6190,
                       "menuRowSalesPriceExclVAT": 0,
                       "menuRowSalesVAT": 0,
                       "publish": true,
-                      "menuRowPlannedPortions": 44,
-                      "menuRowTotalWeight": 264,
+                      "menuRowPlannedPortions": 0,
+                      "menuRowTotalWeight": 0,
                       "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 2000
+                      "rowOrderNumber": 2002
                     }
                   ],
                   "mealOptionSalesPriceExclVAT": 0,
@@ -27043,7 +26943,7 @@
       "menuGroupName": "Dinner",
       "menuTypeName": "Dinner",
       "menuPublish": true,
-      "modificationTime": "2025-04-29T22:26:00",
+      "modificationTime": "2025-04-30T10:38:00",
       "menuWeeks": [
         {
           "weekNumber": 5,
@@ -28833,7 +28733,7 @@
       "menuGroupName": "Dinner",
       "menuTypeName": "Dinner",
       "menuPublish": true,
-      "modificationTime": "2025-04-29T21:20:00",
+      "modificationTime": "2025-04-30T15:14:00",
       "menuWeeks": [
         {
           "weekNumber": 6,
@@ -29249,6 +29149,34 @@
                       "menuRowTotalWeight": 0,
                       "menuRowTotalWeightUnit": "oz",
                       "rowOrderNumber": 6000
+                    },
+                    {
+                      "menuRowId": 140577,
+                      "menuRowName": "SB FROZEN YOGURT NON-FAT CHOCOLATE",
+                      "menuRowPortionSize": 3,
+                      "menuRowPortionSizeUnit": "oz",
+                      "recipeId": 6503,
+                      "menuRowSalesPriceExclVAT": 0,
+                      "menuRowSalesVAT": 0,
+                      "publish": true,
+                      "menuRowPlannedPortions": 0,
+                      "menuRowTotalWeight": 0,
+                      "menuRowTotalWeightUnit": "oz",
+                      "rowOrderNumber": 7000
+                    },
+                    {
+                      "menuRowId": 140579,
+                      "menuRowName": "SB FROZEN YOGURT NON-FAT VANILLA",
+                      "menuRowPortionSize": 3,
+                      "menuRowPortionSizeUnit": "oz",
+                      "recipeId": 6511,
+                      "menuRowSalesPriceExclVAT": 0,
+                      "menuRowSalesVAT": 0,
+                      "publish": true,
+                      "menuRowPlannedPortions": 0,
+                      "menuRowTotalWeight": 0,
+                      "menuRowTotalWeightUnit": "oz",
+                      "rowOrderNumber": 8000
                     }
                   ],
                   "mealOptionSalesPriceExclVAT": 0,
@@ -29271,7 +29199,7 @@
       "menuGroupName": "Breakfast",
       "menuTypeName": "Breakfast",
       "menuPublish": true,
-      "modificationTime": "2025-04-29T10:30:00",
+      "modificationTime": "2025-04-30T10:40:00",
       "menuWeeks": [
         {
           "weekNumber": 5,
@@ -29760,7 +29688,7 @@
       "menuGroupName": "Dinner",
       "menuTypeName": "Dinner",
       "menuPublish": true,
-      "modificationTime": "2025-04-29T00:25:00",
+      "modificationTime": "2025-04-30T15:23:00",
       "menuWeeks": [
         {
           "weekNumber": 5,
@@ -29802,278 +29730,6 @@
                 {
                   "mealOptionId": 191,
                   "mealOptionName": "Bruin Wok",
-                  "menuRows": [
-                    {
-                      "menuRowId": 138805,
-                      "menuRowName": "R JPN TUNA POKE BOWL",
-                      "menuRowPortionSize": 49.32,
-                      "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 6130,
-                      "menuRowSalesPriceExclVAT": 0,
-                      "menuRowSalesVAT": 0,
-                      "publish": true,
-                      "menuRowPlannedPortions": 0,
-                      "menuRowTotalWeight": 0,
-                      "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 4001
-                    },
-                    {
-                      "menuRowId": 138803,
-                      "menuRowName": "R JPN SUSHI BOWL VEGETABLE CHIRASHI",
-                      "menuRowPortionSize": 4.2,
-                      "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 5973,
-                      "menuRowSalesPriceExclVAT": 0,
-                      "menuRowSalesVAT": 0,
-                      "publish": true,
-                      "menuRowPlannedPortions": 0,
-                      "menuRowTotalWeight": 0,
-                      "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 4002
-                    },
-                    {
-                      "menuRowId": 138806,
-                      "menuRowName": "RICE STICKY CRC",
-                      "menuRowPortionSize": 3,
-                      "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 507,
-                      "menuRowSalesPriceExclVAT": 0,
-                      "menuRowSalesVAT": 0,
-                      "publish": true,
-                      "menuRowPlannedPortions": 0,
-                      "menuRowTotalWeight": 0,
-                      "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 4003
-                    }
-                  ],
-                  "mealOptionSalesPriceExclVAT": 0,
-                  "mealOptionSalesPriceVAT": 0
-                },
-                {
-                  "mealOptionId": 192,
-                  "mealOptionName": "Stone Oven",
-                  "menuRows": [
-                    {
-                      "menuRowId": 138773,
-                      "menuRowName": "DN Pepperoni Pizza",
-                      "menuRowPortionSize": 3.11,
-                      "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 996,
-                      "menuRowSalesPriceExclVAT": 0,
-                      "menuRowSalesVAT": 0,
-                      "publish": true,
-                      "menuRowPlannedPortions": 0,
-                      "menuRowTotalWeight": 0,
-                      "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 1000
-                    },
-                    {
-                      "menuRowId": 138772,
-                      "menuRowName": "PIZZA MARGHERITA",
-                      "menuRowPortionSize": 4.61,
-                      "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 2769,
-                      "menuRowSalesPriceExclVAT": 0,
-                      "menuRowSalesVAT": 0,
-                      "publish": true,
-                      "menuRowPlannedPortions": 0,
-                      "menuRowTotalWeight": 0,
-                      "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 2000
-                    }
-                  ],
-                  "mealOptionSalesPriceExclVAT": 0,
-                  "mealOptionSalesPriceVAT": 0
-                },
-                {
-                  "mealOptionId": 193,
-                  "mealOptionName": "Spice Kitchen",
-                  "menuRows": [
-                    {
-                      "menuRowId": 138807,
-                      "menuRowName": "PENDING R JPN CRISPY SALMON BELLY BOWL",
-                      "menuRowPortionSize": 23.45,
-                      "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 6016,
-                      "menuRowSalesPriceExclVAT": 0,
-                      "menuRowSalesVAT": 0,
-                      "publish": true,
-                      "menuRowPlannedPortions": 0,
-                      "menuRowTotalWeight": 0,
-                      "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 2001
-                    },
-                    {
-                      "menuRowId": 138801,
-                      "menuRowName": "R THA EGGPLANT STIR FRY",
-                      "menuRowPortionSize": 4.59,
-                      "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 1650,
-                      "menuRowSalesPriceExclVAT": 0,
-                      "menuRowSalesVAT": 0,
-                      "publish": true,
-                      "menuRowPlannedPortions": 0,
-                      "menuRowTotalWeight": 0,
-                      "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 2002
-                    },
-                    {
-                      "menuRowId": 138802,
-                      "menuRowName": "RICE STICKY CRC",
-                      "menuRowPortionSize": 3,
-                      "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 507,
-                      "menuRowSalesPriceExclVAT": 0,
-                      "menuRowSalesVAT": 0,
-                      "publish": true,
-                      "menuRowPlannedPortions": 0,
-                      "menuRowTotalWeight": 0,
-                      "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 2003
-                    }
-                  ],
-                  "mealOptionSalesPriceExclVAT": 0,
-                  "mealOptionSalesPriceVAT": 0
-                },
-                {
-                  "mealOptionId": 194,
-                  "mealOptionName": "Iron Grill",
-                  "menuRows": [
-                    {
-                      "menuRowId": 138804,
-                      "menuRowName": "RLN ASIAN STYLE FISH N' CHIPS",
-                      "menuRowPortionSize": 23.5,
-                      "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 5994,
-                      "menuRowSalesPriceExclVAT": 0,
-                      "menuRowSalesVAT": 0,
-                      "publish": true,
-                      "menuRowPlannedPortions": 0,
-                      "menuRowTotalWeight": 0,
-                      "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 2001
-                    },
-                    {
-                      "menuRowId": 138809,
-                      "menuRowName": "REND EGG ROLL VEGETABLE",
-                      "menuRowPortionSize": 1,
-                      "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 1165,
-                      "menuRowSalesPriceExclVAT": 0,
-                      "menuRowSalesVAT": 0,
-                      "publish": true,
-                      "menuRowPlannedPortions": 0,
-                      "menuRowTotalWeight": 0,
-                      "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 2002
-                    }
-                  ],
-                  "mealOptionSalesPriceExclVAT": 0,
-                  "mealOptionSalesPriceVAT": 0
-                },
-                {
-                  "mealOptionId": 196,
-                  "mealOptionName": "Hot Food Bar",
-                  "menuRows": [
-                    {
-                      "menuRowId": 138775,
-                      "menuRowName": "CAULIFLOWER ROASTED",
-                      "menuRowPortionSize": 3.37,
-                      "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 1200,
-                      "menuRowSalesPriceExclVAT": 0,
-                      "menuRowSalesVAT": 0,
-                      "publish": true,
-                      "menuRowPlannedPortions": 0,
-                      "menuRowTotalWeight": 0,
-                      "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 1000
-                    },
-                    {
-                      "menuRowId": 138770,
-                      "menuRowName": "BROCCOLINI ROASTED",
-                      "menuRowPortionSize": 4.02,
-                      "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 6170,
-                      "menuRowSalesPriceExclVAT": 0,
-                      "menuRowSalesVAT": 0,
-                      "publish": true,
-                      "menuRowPlannedPortions": 0,
-                      "menuRowTotalWeight": 0,
-                      "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 2000
-                    },
-                    {
-                      "menuRowId": 138774,
-                      "menuRowName": "R THA SHRIMP TOM YUM SOUP W/ LEMONGRASS",
-                      "menuRowPortionSize": 8.37,
-                      "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 6136,
-                      "menuRowSalesPriceExclVAT": 0,
-                      "menuRowSalesVAT": 0,
-                      "publish": true,
-                      "menuRowPlannedPortions": 0,
-                      "menuRowTotalWeight": 0,
-                      "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 3000
-                    },
-                    {
-                      "menuRowId": 138776,
-                      "menuRowName": "COMM R BROTH MISO FOR RAMEN",
-                      "menuRowPortionSize": 58.08,
-                      "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 186,
-                      "menuRowSalesPriceExclVAT": 0,
-                      "menuRowSalesVAT": 0,
-                      "publish": true,
-                      "menuRowPlannedPortions": 0,
-                      "menuRowTotalWeight": 0,
-                      "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 4000
-                    },
-                    {
-                      "menuRowId": 138771,
-                      "menuRowName": "MUSHROOM FRESH ROASTED",
-                      "menuRowPortionSize": 1.03,
-                      "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 517,
-                      "menuRowSalesPriceExclVAT": 0,
-                      "menuRowSalesVAT": 0,
-                      "publish": true,
-                      "menuRowPlannedPortions": 0,
-                      "menuRowTotalWeight": 0,
-                      "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 5000
-                    },
-                    {
-                      "menuRowId": 138810,
-                      "menuRowName": "R RICE BROWN STICKY",
-                      "menuRowPortionSize": 3.2,
-                      "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 3214,
-                      "menuRowSalesPriceExclVAT": 0,
-                      "menuRowSalesVAT": 0,
-                      "publish": true,
-                      "menuRowPlannedPortions": 0,
-                      "menuRowTotalWeight": 0,
-                      "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 5001
-                    },
-                    {
-                      "menuRowId": 138808,
-                      "menuRowName": "RICE STICKY CRC",
-                      "menuRowPortionSize": 3,
-                      "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 507,
-                      "menuRowSalesPriceExclVAT": 0,
-                      "menuRowSalesVAT": 0,
-                      "publish": true,
-                      "menuRowPlannedPortions": 0,
-                      "menuRowTotalWeight": 0,
-                      "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 5002
-                    }
-                  ],
                   "mealOptionSalesPriceExclVAT": 0,
                   "mealOptionSalesPriceVAT": 0
                 }
@@ -30502,7 +30158,7 @@
       "menuGroupName": "Breakfast",
       "menuTypeName": "Breakfast",
       "menuPublish": true,
-      "modificationTime": "2025-04-30T00:11:00",
+      "modificationTime": "2025-04-30T13:32:00",
       "menuWeeks": [
         {
           "weekNumber": 5,
@@ -32254,7 +31910,7 @@
       "menuGroupName": "Lunch",
       "menuTypeName": "Lunch",
       "menuPublish": true,
-      "modificationTime": "2025-04-29T17:44:00",
+      "modificationTime": "2025-04-30T14:44:00",
       "menuWeeks": [
         {
           "weekNumber": 6,
@@ -32764,6 +32420,34 @@
                       "menuRowTotalWeight": 0,
                       "menuRowTotalWeightUnit": "oz",
                       "rowOrderNumber": 6000
+                    },
+                    {
+                      "menuRowId": 140520,
+                      "menuRowName": "SB FROZEN YOGURT NON-FAT VANILLA",
+                      "menuRowPortionSize": 3,
+                      "menuRowPortionSizeUnit": "oz",
+                      "recipeId": 6511,
+                      "menuRowSalesPriceExclVAT": 0,
+                      "menuRowSalesVAT": 0,
+                      "publish": true,
+                      "menuRowPlannedPortions": 0,
+                      "menuRowTotalWeight": 0,
+                      "menuRowTotalWeightUnit": "oz",
+                      "rowOrderNumber": 7000
+                    },
+                    {
+                      "menuRowId": 140533,
+                      "menuRowName": "SB FROZEN YOGURT NON-FAT CHOCOLATE",
+                      "menuRowPortionSize": 3,
+                      "menuRowPortionSizeUnit": "oz",
+                      "recipeId": 6503,
+                      "menuRowSalesPriceExclVAT": 0,
+                      "menuRowSalesVAT": 0,
+                      "publish": true,
+                      "menuRowPlannedPortions": 0,
+                      "menuRowTotalWeight": 0,
+                      "menuRowTotalWeightUnit": "oz",
+                      "rowOrderNumber": 8000
                     }
                   ],
                   "mealOptionSalesPriceExclVAT": 0,
@@ -32786,7 +32470,7 @@
       "menuGroupName": "Dinner",
       "menuTypeName": "Dinner",
       "menuPublish": true,
-      "modificationTime": "2025-04-29T18:54:00",
+      "modificationTime": "2025-04-30T13:36:00",
       "menuWeeks": [
         {
           "weekNumber": 5,
@@ -37510,7 +37194,7 @@
       "menuGroupName": "Breakfast",
       "menuTypeName": "Breakfast",
       "menuPublish": true,
-      "modificationTime": "2025-04-29T20:38:00",
+      "modificationTime": "2025-04-30T10:04:00",
       "menuWeeks": [
         {
           "weekNumber": 5,
@@ -37574,18 +37258,18 @@
                   "mealOptionName": "The Kitchen",
                   "menuRows": [
                     {
-                      "menuRowId": 139432,
-                      "menuRowName": "EGGS SCRAMBLED W/ OIL",
+                      "menuRowId": 140485,
+                      "menuRowName": "DN EGGS SCRAMBLED W/ OIL",
                       "menuRowPortionSize": 3.29,
                       "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 506,
+                      "recipeId": 6542,
                       "menuRowSalesPriceExclVAT": 0,
                       "menuRowSalesVAT": 0,
                       "publish": true,
                       "menuRowPlannedPortions": 0,
                       "menuRowTotalWeight": 0,
                       "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 1000
+                      "rowOrderNumber": 2000
                     },
                     {
                       "menuRowId": 139430,
@@ -37599,7 +37283,7 @@
                       "menuRowPlannedPortions": 0,
                       "menuRowTotalWeight": 0,
                       "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 4000
+                      "rowOrderNumber": 3000
                     },
                     {
                       "menuRowId": 122633,
@@ -37613,7 +37297,7 @@
                       "menuRowPlannedPortions": 0,
                       "menuRowTotalWeight": 0,
                       "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 5000
+                      "rowOrderNumber": 4000
                     },
                     {
                       "menuRowId": 4320,
@@ -37627,7 +37311,7 @@
                       "menuRowPlannedPortions": 0,
                       "menuRowTotalWeight": 0,
                       "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 6000
+                      "rowOrderNumber": 5000
                     },
                     {
                       "menuRowId": 4335,
@@ -37641,7 +37325,7 @@
                       "menuRowPlannedPortions": 0,
                       "menuRowTotalWeight": 0,
                       "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 7000
+                      "rowOrderNumber": 6000
                     }
                   ],
                   "mealOptionSalesPriceExclVAT": 0,
@@ -39920,7 +39604,7 @@
       "menuGroupName": "Lunch",
       "menuTypeName": "Lunch",
       "menuPublish": true,
-      "modificationTime": "2025-04-29T16:32:00",
+      "modificationTime": "2025-04-30T14:01:00",
       "menuWeeks": [
         {
           "weekNumber": 5,
@@ -40526,7 +40210,7 @@
       "menuGroupName": "Dinner",
       "menuTypeName": "Dinner",
       "menuPublish": true,
-      "modificationTime": "2025-04-30T01:26:00",
+      "modificationTime": "2025-04-30T14:07:00",
       "menuWeeks": [
         {
           "weekNumber": 5,
@@ -40574,7 +40258,7 @@
       "menuGroupName": "Breakfast",
       "menuTypeName": "Breakfast",
       "menuPublish": true,
-      "modificationTime": "2025-04-29T19:04:00",
+      "modificationTime": "2025-04-30T11:27:00",
       "menuWeeks": [
         {
           "weekNumber": 5,
@@ -40588,18 +40272,18 @@
                   "mealOptionName": "Freshly Bowled",
                   "menuRows": [
                     {
-                      "menuRowId": 110589,
-                      "menuRowName": "SPR BOWL LENTIL RAGU, EGG, CHARD",
-                      "menuRowPortionSize": 5,
+                      "menuRowId": 140483,
+                      "menuRowName": "SPR BOWL TRI-TIP, POTATO, EGG & ARUGULA",
+                      "menuRowPortionSize": 4.51,
                       "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 5439,
+                      "recipeId": 881,
                       "menuRowSalesPriceExclVAT": 0,
                       "menuRowSalesVAT": 0,
                       "publish": true,
-                      "menuRowPlannedPortions": 320,
-                      "menuRowTotalWeight": 1600,
+                      "menuRowPlannedPortions": 0,
+                      "menuRowTotalWeight": 0,
                       "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 1000
+                      "rowOrderNumber": 1001
                     }
                   ],
                   "mealOptionSalesPriceExclVAT": 0,
@@ -41254,7 +40938,7 @@
       "menuGroupName": "Lunch",
       "menuTypeName": "Lunch",
       "menuPublish": true,
-      "modificationTime": "2025-04-29T21:32:00",
+      "modificationTime": "2025-04-30T14:41:00",
       "menuWeeks": [
         {
           "weekNumber": 5,
@@ -41267,6 +40951,34 @@
                   "mealOptionId": 32,
                   "mealOptionName": "Soups",
                   "menuRows": [
+                    {
+                      "menuRowId": 140602,
+                      "menuRowName": "BRUIN PLATE SOUPS SPECIAL",
+                      "menuRowPortionSize": 4,
+                      "menuRowPortionSizeUnit": "oz",
+                      "recipeId": 6189,
+                      "menuRowSalesPriceExclVAT": 0,
+                      "menuRowSalesVAT": 0,
+                      "publish": true,
+                      "menuRowPlannedPortions": 0,
+                      "menuRowTotalWeight": 0,
+                      "menuRowTotalWeightUnit": "oz",
+                      "rowOrderNumber": 2005
+                    },
+                    {
+                      "menuRowId": 140604,
+                      "menuRowName": "BRUIN PLATE SOUPS VEGETARIAN SPECIAL",
+                      "menuRowPortionSize": 4,
+                      "menuRowPortionSizeUnit": "oz",
+                      "recipeId": 6190,
+                      "menuRowSalesPriceExclVAT": 0,
+                      "menuRowSalesVAT": 0,
+                      "publish": true,
+                      "menuRowPlannedPortions": 0,
+                      "menuRowTotalWeight": 0,
+                      "menuRowTotalWeightUnit": "oz",
+                      "rowOrderNumber": 2006
+                    },
                     {
                       "menuRowId": 133091,
                       "menuRowName": "BRUIN PLATE SOUPS SPECIAL",
@@ -42068,7 +41780,7 @@
       "menuGroupName": "Dinner",
       "menuTypeName": "Dinner",
       "menuPublish": true,
-      "modificationTime": "2025-04-29T22:26:00",
+      "modificationTime": "2025-04-30T10:38:00",
       "menuWeeks": [
         {
           "weekNumber": 5,
@@ -43998,7 +43710,7 @@
       "menuGroupName": "Dinner",
       "menuTypeName": "Dinner",
       "menuPublish": true,
-      "modificationTime": "2025-04-29T21:20:00",
+      "modificationTime": "2025-04-30T15:14:00",
       "menuWeeks": [
         {
           "weekNumber": 6,
@@ -44488,6 +44200,34 @@
                       "menuRowTotalWeight": 0,
                       "menuRowTotalWeightUnit": "oz",
                       "rowOrderNumber": 6000
+                    },
+                    {
+                      "menuRowId": 140590,
+                      "menuRowName": "SB FROZEN YOGURT NON-FAT CHOCOLATE",
+                      "menuRowPortionSize": 3,
+                      "menuRowPortionSizeUnit": "oz",
+                      "recipeId": 6503,
+                      "menuRowSalesPriceExclVAT": 0,
+                      "menuRowSalesVAT": 0,
+                      "publish": true,
+                      "menuRowPlannedPortions": 0,
+                      "menuRowTotalWeight": 0,
+                      "menuRowTotalWeightUnit": "oz",
+                      "rowOrderNumber": 7000
+                    },
+                    {
+                      "menuRowId": 140573,
+                      "menuRowName": "SB FROZEN YOGURT NON-FAT VANILLA",
+                      "menuRowPortionSize": 3,
+                      "menuRowPortionSizeUnit": "oz",
+                      "recipeId": 6511,
+                      "menuRowSalesPriceExclVAT": 0,
+                      "menuRowSalesVAT": 0,
+                      "publish": true,
+                      "menuRowPlannedPortions": 0,
+                      "menuRowTotalWeight": 0,
+                      "menuRowTotalWeightUnit": "oz",
+                      "rowOrderNumber": 8000
                     }
                   ],
                   "mealOptionSalesPriceExclVAT": 0,
@@ -44510,7 +44250,7 @@
       "menuGroupName": "Breakfast",
       "menuTypeName": "Breakfast",
       "menuPublish": true,
-      "modificationTime": "2025-04-29T10:30:00",
+      "modificationTime": "2025-04-30T10:40:00",
       "menuWeeks": [
         {
           "weekNumber": 5,
@@ -44984,7 +44724,7 @@
       "menuGroupName": "Dinner",
       "menuTypeName": "Dinner",
       "menuPublish": true,
-      "modificationTime": "2025-04-29T00:25:00",
+      "modificationTime": "2025-04-30T15:23:00",
       "menuWeeks": [
         {
           "weekNumber": 5,
@@ -45702,7 +45442,7 @@
       "menuGroupName": "Breakfast",
       "menuTypeName": "Breakfast",
       "menuPublish": true,
-      "modificationTime": "2025-04-30T00:11:00",
+      "modificationTime": "2025-04-30T13:32:00",
       "menuWeeks": [
         {
           "weekNumber": 5,
@@ -47384,7 +47124,7 @@
       "menuGroupName": "Lunch",
       "menuTypeName": "Lunch",
       "menuPublish": true,
-      "modificationTime": "2025-04-29T17:44:00",
+      "modificationTime": "2025-04-30T14:44:00",
       "menuWeeks": [
         {
           "weekNumber": 6,
@@ -47420,18 +47160,18 @@
                   "mealOptionName": "The Kitchen",
                   "menuRows": [
                     {
-                      "menuRowId": 139566,
-                      "menuRowName": "EGGS SCRAMBLED W/ OIL",
+                      "menuRowId": 140499,
+                      "menuRowName": "DN EGGS SCRAMBLED W/ OIL",
                       "menuRowPortionSize": 3.29,
                       "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 506,
+                      "recipeId": 6542,
                       "menuRowSalesPriceExclVAT": 0,
                       "menuRowSalesVAT": 0,
                       "publish": true,
                       "menuRowPlannedPortions": 0,
                       "menuRowTotalWeight": 0,
                       "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 3000
+                      "rowOrderNumber": 2000
                     },
                     {
                       "menuRowId": 139572,
@@ -47445,7 +47185,7 @@
                       "menuRowPlannedPortions": 0,
                       "menuRowTotalWeight": 0,
                       "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 4000
+                      "rowOrderNumber": 3000
                     },
                     {
                       "menuRowId": 139570,
@@ -47459,7 +47199,7 @@
                       "menuRowPlannedPortions": 0,
                       "menuRowTotalWeight": 0,
                       "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 5000
+                      "rowOrderNumber": 4000
                     },
                     {
                       "menuRowId": 139576,
@@ -47473,7 +47213,7 @@
                       "menuRowPlannedPortions": 0,
                       "menuRowTotalWeight": 0,
                       "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 8000
+                      "rowOrderNumber": 5000
                     }
                   ],
                   "mealOptionSalesPriceExclVAT": 0,
@@ -47908,6 +47648,34 @@
                       "menuRowTotalWeight": 0,
                       "menuRowTotalWeightUnit": "oz",
                       "rowOrderNumber": 6000
+                    },
+                    {
+                      "menuRowId": 140525,
+                      "menuRowName": "SB FROZEN YOGURT NON-FAT VANILLA",
+                      "menuRowPortionSize": 3,
+                      "menuRowPortionSizeUnit": "oz",
+                      "recipeId": 6511,
+                      "menuRowSalesPriceExclVAT": 0,
+                      "menuRowSalesVAT": 0,
+                      "publish": true,
+                      "menuRowPlannedPortions": 0,
+                      "menuRowTotalWeight": 0,
+                      "menuRowTotalWeightUnit": "oz",
+                      "rowOrderNumber": 7000
+                    },
+                    {
+                      "menuRowId": 140530,
+                      "menuRowName": "SB FROZEN YOGURT NON-FAT CHOCOLATE",
+                      "menuRowPortionSize": 3,
+                      "menuRowPortionSizeUnit": "oz",
+                      "recipeId": 6503,
+                      "menuRowSalesPriceExclVAT": 0,
+                      "menuRowSalesVAT": 0,
+                      "publish": true,
+                      "menuRowPlannedPortions": 0,
+                      "menuRowTotalWeight": 0,
+                      "menuRowTotalWeightUnit": "oz",
+                      "rowOrderNumber": 8000
                     }
                   ],
                   "mealOptionSalesPriceExclVAT": 0,
@@ -47930,7 +47698,7 @@
       "menuGroupName": "Dinner",
       "menuTypeName": "Dinner",
       "menuPublish": true,
-      "modificationTime": "2025-04-29T18:54:00",
+      "modificationTime": "2025-04-30T13:36:00",
       "menuWeeks": [
         {
           "weekNumber": 5,
@@ -50855,7 +50623,7 @@
       "menuGroupName": "Breakfast",
       "menuTypeName": "Breakfast",
       "menuPublish": true,
-      "modificationTime": "2025-04-29T20:38:00",
+      "modificationTime": "2025-04-30T10:04:00",
       "menuWeeks": [
         {
           "weekNumber": 5,
@@ -50891,18 +50659,18 @@
                   "mealOptionName": "The Kitchen",
                   "menuRows": [
                     {
-                      "menuRowId": 139431,
-                      "menuRowName": "EGGS SCRAMBLED W/ OIL",
+                      "menuRowId": 140487,
+                      "menuRowName": "DN EGGS SCRAMBLED W/ OIL",
                       "menuRowPortionSize": 3.29,
                       "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 506,
+                      "recipeId": 6542,
                       "menuRowSalesPriceExclVAT": 0,
                       "menuRowSalesVAT": 0,
                       "publish": true,
                       "menuRowPlannedPortions": 0,
                       "menuRowTotalWeight": 0,
                       "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 1000
+                      "rowOrderNumber": 2000
                     },
                     {
                       "menuRowId": 139445,
@@ -50916,7 +50684,7 @@
                       "menuRowPlannedPortions": 0,
                       "menuRowTotalWeight": 0,
                       "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 4000
+                      "rowOrderNumber": 3000
                     },
                     {
                       "menuRowId": 122631,
@@ -50930,7 +50698,7 @@
                       "menuRowPlannedPortions": 0,
                       "menuRowTotalWeight": 0,
                       "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 5000
+                      "rowOrderNumber": 4000
                     },
                     {
                       "menuRowId": 4808,
@@ -50944,7 +50712,7 @@
                       "menuRowPlannedPortions": 0,
                       "menuRowTotalWeight": 0,
                       "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 6000
+                      "rowOrderNumber": 5000
                     },
                     {
                       "menuRowId": 4367,
@@ -50958,7 +50726,7 @@
                       "menuRowPlannedPortions": 0,
                       "menuRowTotalWeight": 0,
                       "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 7000
+                      "rowOrderNumber": 6000
                     }
                   ],
                   "mealOptionSalesPriceExclVAT": 0,
@@ -51244,7 +51012,7 @@
       "menuGroupName": "Lunch",
       "menuTypeName": "Lunch",
       "menuPublish": true,
-      "modificationTime": "2025-04-29T16:32:00",
+      "modificationTime": "2025-04-30T14:01:00",
       "menuWeeks": [
         {
           "weekNumber": 5,
@@ -51263,7 +51031,7 @@
       "menuGroupName": "Dinner",
       "menuTypeName": "Dinner",
       "menuPublish": true,
-      "modificationTime": "2025-04-30T01:26:00",
+      "modificationTime": "2025-04-30T14:07:00",
       "menuWeeks": [
         {
           "weekNumber": 5,
@@ -51311,7 +51079,7 @@
       "menuGroupName": "Breakfast",
       "menuTypeName": "Breakfast",
       "menuPublish": true,
-      "modificationTime": "2025-04-29T19:04:00",
+      "modificationTime": "2025-04-30T11:27:00",
       "menuWeeks": [
         {
           "weekNumber": 5,
@@ -52005,7 +51773,7 @@
       "menuGroupName": "Lunch",
       "menuTypeName": "Lunch",
       "menuPublish": true,
-      "modificationTime": "2025-04-29T21:32:00",
+      "modificationTime": "2025-04-30T14:41:00",
       "menuWeeks": [
         {
           "weekNumber": 5,
@@ -52017,6 +51785,36 @@
                 {
                   "mealOptionId": 32,
                   "mealOptionName": "Soups",
+                  "menuRows": [
+                    {
+                      "menuRowId": 140599,
+                      "menuRowName": "BRUIN PLATE SOUPS SPECIAL",
+                      "menuRowPortionSize": 4,
+                      "menuRowPortionSizeUnit": "oz",
+                      "recipeId": 6189,
+                      "menuRowSalesPriceExclVAT": 0,
+                      "menuRowSalesVAT": 0,
+                      "publish": true,
+                      "menuRowPlannedPortions": 0,
+                      "menuRowTotalWeight": 0,
+                      "menuRowTotalWeightUnit": "oz",
+                      "rowOrderNumber": 2001
+                    },
+                    {
+                      "menuRowId": 140603,
+                      "menuRowName": "BRUIN PLATE SOUPS VEGETARIAN SPECIAL",
+                      "menuRowPortionSize": 4,
+                      "menuRowPortionSizeUnit": "oz",
+                      "recipeId": 6190,
+                      "menuRowSalesPriceExclVAT": 0,
+                      "menuRowSalesVAT": 0,
+                      "publish": true,
+                      "menuRowPlannedPortions": 0,
+                      "menuRowTotalWeight": 0,
+                      "menuRowTotalWeightUnit": "oz",
+                      "rowOrderNumber": 2002
+                    }
+                  ],
                   "mealOptionSalesPriceExclVAT": 0,
                   "mealOptionSalesPriceVAT": 0
                 },
@@ -52789,7 +52587,7 @@
       "menuGroupName": "Dinner",
       "menuTypeName": "Dinner",
       "menuPublish": true,
-      "modificationTime": "2025-04-29T22:26:00",
+      "modificationTime": "2025-04-30T10:38:00",
       "menuWeeks": [
         {
           "weekNumber": 5,
@@ -54747,7 +54545,7 @@
       "menuGroupName": "Dinner",
       "menuTypeName": "Dinner",
       "menuPublish": true,
-      "modificationTime": "2025-04-29T21:20:00",
+      "modificationTime": "2025-04-30T15:14:00",
       "menuWeeks": [
         {
           "weekNumber": 6,
@@ -55251,6 +55049,34 @@
                       "menuRowTotalWeight": 0,
                       "menuRowTotalWeightUnit": "oz",
                       "rowOrderNumber": 6000
+                    },
+                    {
+                      "menuRowId": 140587,
+                      "menuRowName": "SB FROZEN YOGURT NON-FAT CHOCOLATE",
+                      "menuRowPortionSize": 3,
+                      "menuRowPortionSizeUnit": "oz",
+                      "recipeId": 6503,
+                      "menuRowSalesPriceExclVAT": 0,
+                      "menuRowSalesVAT": 0,
+                      "publish": true,
+                      "menuRowPlannedPortions": 0,
+                      "menuRowTotalWeight": 0,
+                      "menuRowTotalWeightUnit": "oz",
+                      "rowOrderNumber": 7000
+                    },
+                    {
+                      "menuRowId": 140574,
+                      "menuRowName": "SB FROZEN YOGURT NON-FAT VANILLA",
+                      "menuRowPortionSize": 3,
+                      "menuRowPortionSizeUnit": "oz",
+                      "recipeId": 6511,
+                      "menuRowSalesPriceExclVAT": 0,
+                      "menuRowSalesVAT": 0,
+                      "publish": true,
+                      "menuRowPlannedPortions": 0,
+                      "menuRowTotalWeight": 0,
+                      "menuRowTotalWeightUnit": "oz",
+                      "rowOrderNumber": 8000
                     }
                   ],
                   "mealOptionSalesPriceExclVAT": 0,
@@ -55273,7 +55099,7 @@
       "menuGroupName": "Dinner",
       "menuTypeName": "Dinner",
       "menuPublish": true,
-      "modificationTime": "2025-04-29T00:25:00",
+      "modificationTime": "2025-04-30T15:23:00",
       "menuWeeks": [
         {
           "weekNumber": 5,
@@ -55356,7 +55182,7 @@
       "menuGroupName": "Breakfast",
       "menuTypeName": "Breakfast",
       "menuPublish": true,
-      "modificationTime": "2025-04-30T00:11:00",
+      "modificationTime": "2025-04-30T13:32:00",
       "menuWeeks": [
         {
           "weekNumber": 6,
@@ -56882,7 +56708,7 @@
       "menuGroupName": "Lunch",
       "menuTypeName": "Lunch",
       "menuPublish": true,
-      "modificationTime": "2025-04-29T17:44:00",
+      "modificationTime": "2025-04-30T14:44:00",
       "menuWeeks": [
         {
           "weekNumber": 7,
@@ -56918,18 +56744,18 @@
                   "mealOptionName": "The Kitchen",
                   "menuRows": [
                     {
-                      "menuRowId": 139564,
-                      "menuRowName": "EGGS SCRAMBLED W/ OIL",
+                      "menuRowId": 140498,
+                      "menuRowName": "DN EGGS SCRAMBLED W/ OIL",
                       "menuRowPortionSize": 3.29,
                       "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 506,
+                      "recipeId": 6542,
                       "menuRowSalesPriceExclVAT": 0,
                       "menuRowSalesVAT": 0,
                       "publish": true,
                       "menuRowPlannedPortions": 0,
                       "menuRowTotalWeight": 0,
                       "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 3000
+                      "rowOrderNumber": 2000
                     },
                     {
                       "menuRowId": 139559,
@@ -56943,7 +56769,7 @@
                       "menuRowPlannedPortions": 0,
                       "menuRowTotalWeight": 0,
                       "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 4000
+                      "rowOrderNumber": 3000
                     },
                     {
                       "menuRowId": 136617,
@@ -56957,7 +56783,7 @@
                       "menuRowPlannedPortions": 0,
                       "menuRowTotalWeight": 0,
                       "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 5000
+                      "rowOrderNumber": 4000
                     },
                     {
                       "menuRowId": 139562,
@@ -56971,7 +56797,7 @@
                       "menuRowPlannedPortions": 0,
                       "menuRowTotalWeight": 0,
                       "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 8000
+                      "rowOrderNumber": 5000
                     }
                   ],
                   "mealOptionSalesPriceExclVAT": 0,
@@ -57406,6 +57232,34 @@
                       "menuRowTotalWeight": 0,
                       "menuRowTotalWeightUnit": "oz",
                       "rowOrderNumber": 6000
+                    },
+                    {
+                      "menuRowId": 140509,
+                      "menuRowName": "SB FROZEN YOGURT NON-FAT VANILLA",
+                      "menuRowPortionSize": 3,
+                      "menuRowPortionSizeUnit": "oz",
+                      "recipeId": 6511,
+                      "menuRowSalesPriceExclVAT": 0,
+                      "menuRowSalesVAT": 0,
+                      "publish": true,
+                      "menuRowPlannedPortions": 0,
+                      "menuRowTotalWeight": 0,
+                      "menuRowTotalWeightUnit": "oz",
+                      "rowOrderNumber": 7000
+                    },
+                    {
+                      "menuRowId": 140524,
+                      "menuRowName": "SB FROZEN YOGURT NON-FAT CHOCOLATE",
+                      "menuRowPortionSize": 3,
+                      "menuRowPortionSizeUnit": "oz",
+                      "recipeId": 6503,
+                      "menuRowSalesPriceExclVAT": 0,
+                      "menuRowSalesVAT": 0,
+                      "publish": true,
+                      "menuRowPlannedPortions": 0,
+                      "menuRowTotalWeight": 0,
+                      "menuRowTotalWeightUnit": "oz",
+                      "rowOrderNumber": 8000
                     }
                   ],
                   "mealOptionSalesPriceExclVAT": 0,
@@ -57428,7 +57282,7 @@
       "menuGroupName": "Dinner",
       "menuTypeName": "Dinner",
       "menuPublish": true,
-      "modificationTime": "2025-04-29T18:54:00",
+      "modificationTime": "2025-04-30T13:36:00",
       "menuWeeks": [
         {
           "weekNumber": 6,
@@ -60367,7 +60221,7 @@
       "menuGroupName": "Breakfast",
       "menuTypeName": "Breakfast",
       "menuPublish": true,
-      "modificationTime": "2025-04-29T20:38:00",
+      "modificationTime": "2025-04-30T10:04:00",
       "menuWeeks": [
         {
           "weekNumber": 6,
@@ -60403,18 +60257,18 @@
                   "mealOptionName": "The Kitchen",
                   "menuRows": [
                     {
-                      "menuRowId": 139444,
-                      "menuRowName": "EGGS SCRAMBLED W/ OIL",
+                      "menuRowId": 140490,
+                      "menuRowName": "DN EGGS SCRAMBLED W/ OIL",
                       "menuRowPortionSize": 3.29,
                       "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 506,
+                      "recipeId": 6542,
                       "menuRowSalesPriceExclVAT": 0,
                       "menuRowSalesVAT": 0,
                       "publish": true,
                       "menuRowPlannedPortions": 0,
                       "menuRowTotalWeight": 0,
                       "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 1000
+                      "rowOrderNumber": 2000
                     },
                     {
                       "menuRowId": 139428,
@@ -60442,7 +60296,7 @@
                       "menuRowPlannedPortions": 0,
                       "menuRowTotalWeight": 0,
                       "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 5000
+                      "rowOrderNumber": 4000
                     },
                     {
                       "menuRowId": 139812,
@@ -60742,7 +60596,7 @@
       "menuGroupName": "Lunch",
       "menuTypeName": "Lunch",
       "menuPublish": true,
-      "modificationTime": "2025-04-29T16:32:00",
+      "modificationTime": "2025-04-30T14:01:00",
       "menuWeeks": [
         {
           "weekNumber": 6,
@@ -60761,7 +60615,7 @@
       "menuGroupName": "Dinner",
       "menuTypeName": "Dinner",
       "menuPublish": true,
-      "modificationTime": "2025-04-30T01:26:00",
+      "modificationTime": "2025-04-30T14:07:00",
       "menuWeeks": [
         {
           "weekNumber": 6,
@@ -61199,7 +61053,7 @@
       "menuGroupName": "Breakfast",
       "menuTypeName": "Breakfast",
       "menuPublish": true,
-      "modificationTime": "2025-04-29T19:04:00",
+      "modificationTime": "2025-04-30T11:27:00",
       "menuWeeks": [
         {
           "weekNumber": 6,
@@ -61893,7 +61747,7 @@
       "menuGroupName": "Lunch",
       "menuTypeName": "Lunch",
       "menuPublish": true,
-      "modificationTime": "2025-04-29T21:32:00",
+      "modificationTime": "2025-04-30T14:41:00",
       "menuWeeks": [
         {
           "weekNumber": 6,
@@ -62727,7 +62581,7 @@
       "menuGroupName": "Dinner",
       "menuTypeName": "Dinner",
       "menuPublish": true,
-      "modificationTime": "2025-04-29T22:26:00",
+      "modificationTime": "2025-04-30T10:38:00",
       "menuWeeks": [
         {
           "weekNumber": 6,
@@ -64517,7 +64371,7 @@
       "menuGroupName": "Dinner",
       "menuTypeName": "Dinner",
       "menuPublish": true,
-      "modificationTime": "2025-04-29T21:20:00",
+      "modificationTime": "2025-04-30T15:14:00",
       "menuWeeks": [
         {
           "weekNumber": 7,
@@ -65049,6 +64903,34 @@
                       "menuRowTotalWeight": 0,
                       "menuRowTotalWeightUnit": "oz",
                       "rowOrderNumber": 6000
+                    },
+                    {
+                      "menuRowId": 140557,
+                      "menuRowName": "SB FROZEN YOGURT NON-FAT CHOCOLATE",
+                      "menuRowPortionSize": 3,
+                      "menuRowPortionSizeUnit": "oz",
+                      "recipeId": 6503,
+                      "menuRowSalesPriceExclVAT": 0,
+                      "menuRowSalesVAT": 0,
+                      "publish": true,
+                      "menuRowPlannedPortions": 0,
+                      "menuRowTotalWeight": 0,
+                      "menuRowTotalWeightUnit": "oz",
+                      "rowOrderNumber": 7000
+                    },
+                    {
+                      "menuRowId": 140575,
+                      "menuRowName": "SB FROZEN YOGURT NON-FAT VANILLA",
+                      "menuRowPortionSize": 3,
+                      "menuRowPortionSizeUnit": "oz",
+                      "recipeId": 6511,
+                      "menuRowSalesPriceExclVAT": 0,
+                      "menuRowSalesVAT": 0,
+                      "publish": true,
+                      "menuRowPlannedPortions": 0,
+                      "menuRowTotalWeight": 0,
+                      "menuRowTotalWeightUnit": "oz",
+                      "rowOrderNumber": 8000
                     }
                   ],
                   "mealOptionSalesPriceExclVAT": 0,
@@ -65071,7 +64953,7 @@
       "menuGroupName": "Dinner",
       "menuTypeName": "Dinner",
       "menuPublish": true,
-      "modificationTime": "2025-04-29T00:25:00",
+      "modificationTime": "2025-04-30T15:23:00",
       "menuWeeks": [
         {
           "weekNumber": 6,
@@ -65154,7 +65036,7 @@
       "menuGroupName": "Breakfast",
       "menuTypeName": "Breakfast",
       "menuPublish": true,
-      "modificationTime": "2025-04-30T00:11:00",
+      "modificationTime": "2025-04-30T13:32:00",
       "menuWeeks": [
         {
           "weekNumber": 6,
@@ -66892,7 +66774,7 @@
       "menuGroupName": "Lunch",
       "menuTypeName": "Lunch",
       "menuPublish": true,
-      "modificationTime": "2025-04-29T17:44:00",
+      "modificationTime": "2025-04-30T14:44:00",
       "menuWeeks": [
         {
           "weekNumber": 7,
@@ -67402,6 +67284,34 @@
                       "menuRowTotalWeight": 0,
                       "menuRowTotalWeightUnit": "oz",
                       "rowOrderNumber": 6000
+                    },
+                    {
+                      "menuRowId": 140537,
+                      "menuRowName": "SB FROZEN YOGURT NON-FAT VANILLA",
+                      "menuRowPortionSize": 3,
+                      "menuRowPortionSizeUnit": "oz",
+                      "recipeId": 6511,
+                      "menuRowSalesPriceExclVAT": 0,
+                      "menuRowSalesVAT": 0,
+                      "publish": true,
+                      "menuRowPlannedPortions": 0,
+                      "menuRowTotalWeight": 0,
+                      "menuRowTotalWeightUnit": "oz",
+                      "rowOrderNumber": 7000
+                    },
+                    {
+                      "menuRowId": 140510,
+                      "menuRowName": "SB FROZEN YOGURT NON-FAT CHOCOLATE",
+                      "menuRowPortionSize": 3,
+                      "menuRowPortionSizeUnit": "oz",
+                      "recipeId": 6503,
+                      "menuRowSalesPriceExclVAT": 0,
+                      "menuRowSalesVAT": 0,
+                      "publish": true,
+                      "menuRowPlannedPortions": 0,
+                      "menuRowTotalWeight": 0,
+                      "menuRowTotalWeightUnit": "oz",
+                      "rowOrderNumber": 8000
                     }
                   ],
                   "mealOptionSalesPriceExclVAT": 0,
@@ -67424,7 +67334,7 @@
       "menuGroupName": "Dinner",
       "menuTypeName": "Dinner",
       "menuPublish": true,
-      "modificationTime": "2025-04-29T18:54:00",
+      "modificationTime": "2025-04-30T13:36:00",
       "menuWeeks": [
         {
           "weekNumber": 6,
@@ -72148,7 +72058,7 @@
       "menuGroupName": "Breakfast",
       "menuTypeName": "Breakfast",
       "menuPublish": true,
-      "modificationTime": "2025-04-29T20:38:00",
+      "modificationTime": "2025-04-30T10:04:00",
       "menuWeeks": [
         {
           "weekNumber": 6,
@@ -72198,18 +72108,18 @@
                   "mealOptionName": "The Kitchen",
                   "menuRows": [
                     {
-                      "menuRowId": 139436,
-                      "menuRowName": "EGGS SCRAMBLED W/ OIL",
+                      "menuRowId": 140489,
+                      "menuRowName": "DN EGGS SCRAMBLED W/ OIL",
                       "menuRowPortionSize": 3.29,
                       "menuRowPortionSizeUnit": "oz",
-                      "recipeId": 506,
+                      "recipeId": 6542,
                       "menuRowSalesPriceExclVAT": 0,
                       "menuRowSalesVAT": 0,
                       "publish": true,
                       "menuRowPlannedPortions": 0,
                       "menuRowTotalWeight": 0,
                       "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 1000
+                      "rowOrderNumber": 2000
                     },
                     {
                       "menuRowId": 139427,
@@ -72223,7 +72133,7 @@
                       "menuRowPlannedPortions": 0,
                       "menuRowTotalWeight": 0,
                       "menuRowTotalWeightUnit": "oz",
-                      "rowOrderNumber": 4000
+                      "rowOrderNumber": 3000
                     },
                     {
                       "menuRowId": 139816,
@@ -74530,7 +74440,7 @@
       "menuGroupName": "Lunch",
       "menuTypeName": "Lunch",
       "menuPublish": true,
-      "modificationTime": "2025-04-29T16:32:00",
+      "modificationTime": "2025-04-30T14:01:00",
       "menuWeeks": [
         {
           "weekNumber": 6,
@@ -75052,7 +74962,7 @@
       "menuGroupName": "Dinner",
       "menuTypeName": "Dinner",
       "menuPublish": true,
-      "modificationTime": "2025-04-30T01:26:00",
+      "modificationTime": "2025-04-30T14:07:00",
       "menuWeeks": [
         {
           "weekNumber": 6,
@@ -75376,7 +75286,7 @@
       "menuGroupName": "Breakfast",
       "menuTypeName": "Breakfast",
       "menuPublish": true,
-      "modificationTime": "2025-04-29T19:04:00",
+      "modificationTime": "2025-04-30T11:27:00",
       "menuWeeks": [
         {
           "weekNumber": 6,
@@ -76056,7 +75966,7 @@
       "menuGroupName": "Lunch",
       "menuTypeName": "Lunch",
       "menuPublish": true,
-      "modificationTime": "2025-04-29T21:32:00",
+      "modificationTime": "2025-04-30T14:41:00",
       "menuWeeks": [
         {
           "weekNumber": 6,
@@ -76932,7 +76842,7 @@
       "menuGroupName": "Dinner",
       "menuTypeName": "Dinner",
       "menuPublish": true,
-      "modificationTime": "2025-04-29T22:26:00",
+      "modificationTime": "2025-04-30T10:38:00",
       "menuWeeks": [
         {
           "weekNumber": 6,
@@ -78722,7 +78632,7 @@
       "menuGroupName": "Dinner",
       "menuTypeName": "Dinner",
       "menuPublish": true,
-      "modificationTime": "2025-04-29T21:20:00",
+      "modificationTime": "2025-04-30T15:14:00",
       "menuWeeks": [
         {
           "weekNumber": 7,
@@ -79268,6 +79178,34 @@
                       "menuRowTotalWeight": 0,
                       "menuRowTotalWeightUnit": "oz",
                       "rowOrderNumber": 6000
+                    },
+                    {
+                      "menuRowId": 140563,
+                      "menuRowName": "SB FROZEN YOGURT NON-FAT CHOCOLATE",
+                      "menuRowPortionSize": 3,
+                      "menuRowPortionSizeUnit": "oz",
+                      "recipeId": 6503,
+                      "menuRowSalesPriceExclVAT": 0,
+                      "menuRowSalesVAT": 0,
+                      "publish": true,
+                      "menuRowPlannedPortions": 0,
+                      "menuRowTotalWeight": 0,
+                      "menuRowTotalWeightUnit": "oz",
+                      "rowOrderNumber": 7000
+                    },
+                    {
+                      "menuRowId": 140583,
+                      "menuRowName": "SB FROZEN YOGURT NON-FAT VANILLA",
+                      "menuRowPortionSize": 3,
+                      "menuRowPortionSizeUnit": "oz",
+                      "recipeId": 6511,
+                      "menuRowSalesPriceExclVAT": 0,
+                      "menuRowSalesVAT": 0,
+                      "publish": true,
+                      "menuRowPlannedPortions": 0,
+                      "menuRowTotalWeight": 0,
+                      "menuRowTotalWeightUnit": "oz",
+                      "rowOrderNumber": 8000
                     }
                   ],
                   "mealOptionSalesPriceExclVAT": 0,
@@ -79290,7 +79228,7 @@
       "menuGroupName": "Breakfast",
       "menuTypeName": "Breakfast",
       "menuPublish": true,
-      "modificationTime": "2025-04-29T10:30:00",
+      "modificationTime": "2025-04-30T10:40:00",
       "menuWeeks": [
         {
           "weekNumber": 6,
@@ -79779,7 +79717,7 @@
       "menuGroupName": "Dinner",
       "menuTypeName": "Dinner",
       "menuPublish": true,
-      "modificationTime": "2025-04-29T00:25:00",
+      "modificationTime": "2025-04-30T15:23:00",
       "menuWeeks": [
         {
           "weekNumber": 6,

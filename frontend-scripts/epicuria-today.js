@@ -554,17 +554,13 @@ function updateMenuDisplay(dateKey) {
 
   if (!dayData) {
     console.warn(`No menu data for date = ${dateKey}`);
-    ['breakfast-content', 'lunch-content', 'dinner-content'].forEach(meal => {
+    ['lunch-content', 'dinner-content'].forEach(meal => {
       document.getElementById(meal).textContent = 'No data available for this date.';
     });
         return;
       }
   
   // Find Epicuria data in the menu - look for separate lunch and dinner services
-  const epicuriaBreakfast = dayData.find(venue => 
-    venue && venue.menuName && venue.menuName === "Epicuria Breakfast Service"
-  );
-
   const epicuriaLunch = dayData.find(venue => 
     venue && venue.menuName && venue.menuName === "Epicuria Lunch services"
   );
@@ -575,44 +571,9 @@ function updateMenuDisplay(dateKey) {
 
   // Process menu data for each meal
   const processedData = {
-    Breakfast: {},
     Lunch: {},
     Dinner: {}
   };
-
-  // Process the Epicuria Breakfast menu
-  if (epicuriaBreakfast && epicuriaBreakfast.menuWeeks && Array.isArray(epicuriaBreakfast.menuWeeks)) {
-    epicuriaBreakfast.menuWeeks.forEach(week => {
-      if (!week || !week.menuDays || !Array.isArray(week.menuDays)) return;
-      
-      week.menuDays.forEach(day => { 
-        if (!day || !day.menuDayMealOptions || !Array.isArray(day.menuDayMealOptions)) return;
-        
-        day.menuDayMealOptions.forEach(mealOption => {
-          if (!mealOption || !mealOption.menuRows || !Array.isArray(mealOption.menuRows)) return;
-          
-          // Use mealOptionName as the category
-          const categoryName = mealOption.mealOptionName || "Breakfast";
-          
-          if (!processedData.Breakfast[categoryName]) {
-            processedData.Breakfast[categoryName] = [];
-          }
-          
-          // Add menu items to the category
-          mealOption.menuRows.forEach(row => {
-            if (!row) return;
-            
-            processedData.Breakfast[categoryName].push({
-              menuRowName: row.menuRowName,
-              recipeId: row.recipeId,
-              menuRowPortionSize: row.menuRowPortionSize,
-              menuRowPortionSizeUnit: row.menuRowPortionSizeUnit
-            });
-          });
-        });
-      });
-    });
-  }
 
   // Process the Epicuria Lunch menu
   if (epicuriaLunch && epicuriaLunch.menuWeeks && Array.isArray(epicuriaLunch.menuWeeks)) {
@@ -688,10 +649,12 @@ function updateMenuDisplay(dateKey) {
     document.getElementById('dinner-content').textContent = 'No dinner data available for this date.';
   }
 
+  // Debug log meal data
+  console.log('Lunch data:', processedData.Lunch);
+  console.log('Dinner data:', processedData.Dinner);
 
   // Render each meal section
   try {
-    renderMealSections(processedData.Breakfast, 'breakfast-content');
     renderMealSections(processedData.Lunch, 'lunch-content');
     renderMealSections(processedData.Dinner, 'dinner-content');
     } catch (err) {
@@ -823,13 +786,11 @@ function getCurrentMeal() {
   const californiaTime = new Date(now.toLocaleString('en-US', { timeZone: 'America/Los_Angeles' }));
   const hour = californiaTime.getHours();
   
-    if (hour >= 7 && hour < 11) {
-      return 'breakfast';
-    } else if (hour >= 11 && hour < 16) {
-      return 'lunch';
-    } else {
-      return 'dinner';
-    }
+  if (hour >= 11 && hour < 16) {
+    return 'lunch';
+  } else {
+    return 'dinner';
+  }
 }
 
 function toggleCalorieCounter() {
